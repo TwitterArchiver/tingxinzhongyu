@@ -1,0 +1,164 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062590142708355072"
+      ]
+    },
+    "author_id": "1992038421318205440",
+    "conversation_id": "2062590165252739300",
+    "created_at": "2026-06-04T17:39:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T18:39:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062590165252739300"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/UMlKehAnqT",
+          "end": 97,
+          "expanded_url": "https://x.com/tingxinzhongyu/status/2062590165252739300/photo/1",
+          "media_key": "3_2062590142708355072",
+          "start": 74,
+          "url": "https://t.co/UMlKehAnqT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062590165252739300",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "想到买的这些发卡还有发圈明早就得全丢了\n带回家只会徒增炸柜风险\n我真会有大大方方戴这些东西的一天吗？\n明天还得奔波一天去拿药然后回家\n想想都好累😭 https://t.co/UMlKehAnqT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3024,
+        "media_key": "3_2062590142708355072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ_KzoVakAAqIUG.jpg",
+        "width": 4032
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062590142708355072"
+          ]
+        },
+        "author_id": "1992038421318205440",
+        "conversation_id": "2062590165252739300",
+        "created_at": "2026-06-04T17:39:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T18:39:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062590165252739300"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UMlKehAnqT",
+              "end": 97,
+              "expanded_url": "https://x.com/tingxinzhongyu/status/2062590165252739300/photo/1",
+              "media_key": "3_2062590142708355072",
+              "start": 74,
+              "url": "https://t.co/UMlKehAnqT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062590165252739300",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想到买的这些发卡还有发圈明早就得全丢了\n带回家只会徒增炸柜风险\n我真会有大大方方戴这些东西的一天吗？\n明天还得奔波一天去拿药然后回家\n想想都好累😭 https://t.co/UMlKehAnqT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "176 65kg｜mtf ｜Best friend @kanonobambi ｜ ｜hrt 2025.11.21-2026.2.13🍥｜我想要很多很多的爱｜永远的可爱姐姐@jikeOjk7623 ｜@HappyHejsDay的兵！｜超温柔妹妹@sophhhsama @axzamyzed！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "kanonobambi"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "jikeOjk7623"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 132,
+                "start": 121,
+                "username": "sophhhsama"
+              },
+              {
+                "end": 143,
+                "start": 133,
+                "username": "axzamyzed"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028106888488026112/tHHVMk_N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 799,
+          "following_count": 477,
+          "like_count": 4768,
+          "listed_count": 3,
+          "media_count": 129,
+          "tweet_count": 2856
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      }
+    ]
+  }
+}

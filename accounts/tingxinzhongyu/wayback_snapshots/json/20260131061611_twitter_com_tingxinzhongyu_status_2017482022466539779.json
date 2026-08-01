@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2017467054388023435",
+    "created_at": "2026-01-31T06:16:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T07:16:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017482022466539779"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1596190117273763842",
+          "start": 0,
+          "username": "Chongchong31029"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017482022466539779",
+    "in_reply_to_user_id": "1596190117273763842",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017481804413079762",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chongchong31029 我太懒了喜欢躺着点玩嘿嘿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2017467054388023435",
+        "created_at": "2026-01-31T06:16:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T07:16:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017482022466539779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1596190117273763842",
+              "start": 0,
+              "username": "Chongchong31029"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017482022466539779",
+        "in_reply_to_user_id": "1596190117273763842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017481804413079762",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chongchong31029 我太懒了喜欢躺着点玩嘿嘿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596190117273763842",
+        "conversation_id": "2017467054388023435",
+        "created_at": "2026-01-31T06:15:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T07:15:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017481804413079762"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992038421318205440",
+              "start": 0,
+              "username": "tingxinzhongyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017481804413079762",
+        "in_reply_to_user_id": "1992038421318205440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017467054388023435",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tingxinzhongyu 手柄！玩不明白🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02 176 65kg/mtf hrt 2025.11🍥/我想要很多很多的爱 欢迎聊天互fo",
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992039552731725825/3Uy_y4UJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 183,
+          "like_count": 792,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 474
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-25T17:12:43.000Z",
+        "description": "03… 160 49kg 无证含糖2025.11 hrt 不建政，同类互fo，在读研究生（坐牢），喜欢同类和男生，虫虫想受大家的喜爱喵！",
+        "id": "1596190117273763842",
+        "location": "北京",
+        "name": "虫虫🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010300107204476928/5aski4NO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 288,
+          "like_count": 210,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 74
+        },
+        "username": "Chongchong31029",
+        "verified": false
+      }
+    ]
+  }
+}

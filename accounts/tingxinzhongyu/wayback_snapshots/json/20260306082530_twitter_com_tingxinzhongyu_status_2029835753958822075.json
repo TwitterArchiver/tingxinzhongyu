@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2029835740268711936"
+      ]
+    },
+    "author_id": "1992038421318205440",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2029835753958822075",
+    "created_at": "2026-03-06T08:25:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T09:25:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029835753958822075"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4i6Elu0SJ2",
+          "end": 61,
+          "expanded_url": "https://x.com/tingxinzhongyu/status/2029835753958822075/photo/1",
+          "media_key": "3_2029835740268711936",
+          "start": 38,
+          "url": "https://t.co/4i6Elu0SJ2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029835753958822075",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我以为反胃恶心已经很恶心了\n没想到还有一波头疼在等我🥹\n舍曲林你坏事做绝😭 https://t.co/4i6Elu0SJ2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1196,
+        "media_key": "3_2029835740268711936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCts2esb0AAFqwt.jpg",
+        "width": 1319
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029835740268711936"
+          ]
+        },
+        "author_id": "1992038421318205440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2029835753958822075",
+        "created_at": "2026-03-06T08:25:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T09:25:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029835753958822075"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4i6Elu0SJ2",
+              "end": 61,
+              "expanded_url": "https://x.com/tingxinzhongyu/status/2029835753958822075/photo/1",
+              "media_key": "3_2029835740268711936",
+              "start": 38,
+              "url": "https://t.co/4i6Elu0SJ2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029835753958822075",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我以为反胃恶心已经很恶心了\n没想到还有一波头疼在等我🥹\n舍曲林你坏事做绝😭 https://t.co/4i6Elu0SJ2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "176 65kg｜mtf ｜Angel lover @kanonobambi ｜ ｜hrt 2025.11.21-2026.2.13🍥｜我想要很多很多的爱｜永远的可爱姐姐@jikeOjk7623 ｜@HappyHejsDay的兵！｜超温柔妹妹@sophhhsama @axzamyzed！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "kanonobambi"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "jikeOjk7623"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 132,
+                "start": 121,
+                "username": "sophhhsama"
+              },
+              {
+                "end": 143,
+                "start": 133,
+                "username": "axzamyzed"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028106888488026112/tHHVMk_N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 610,
+          "following_count": 453,
+          "like_count": 4311,
+          "listed_count": 2,
+          "media_count": 105,
+          "tweet_count": 2436
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      }
+    ]
+  }
+}

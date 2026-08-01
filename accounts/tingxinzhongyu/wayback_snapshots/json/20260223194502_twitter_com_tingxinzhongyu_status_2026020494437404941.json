@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2026018340297413069",
+    "created_at": "2026-02-23T19:45:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T20:45:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026020494437404941"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1754494415152766976",
+          "start": 0,
+          "username": "NagiExpress"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026020494437404941",
+    "in_reply_to_user_id": "1754494415152766976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026018340297413069",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NagiExpress 诶 原来是这个白酒吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1792,
+        "media_key": "3_2026018329563951104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB3c77oW8AAowe5.jpg",
+        "width": 828
+      },
+      {
+        "height": 1792,
+        "media_key": "3_2026018329639485440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB3c776XgAAED11.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2026018340297413069",
+        "created_at": "2026-02-23T19:45:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T20:45:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026020494437404941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1754494415152766976",
+              "start": 0,
+              "username": "NagiExpress"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026020494437404941",
+        "in_reply_to_user_id": "1754494415152766976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026018340297413069",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NagiExpress 诶 原来是这个白酒吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026018329563951104",
+            "3_2026018329639485440"
+          ]
+        },
+        "author_id": "1754494415152766976",
+        "conversation_id": "2026018340297413069",
+        "created_at": "2026-02-23T19:36:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T20:36:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026018340297413069"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/noS7WuBJfe",
+              "end": 96,
+              "expanded_url": "https://x.com/NagiExpress/status/2026018340297413069/photo/1",
+              "media_key": "3_2026018329563951104",
+              "start": 73,
+              "url": "https://t.co/noS7WuBJfe"
+            },
+            {
+              "display_url": "pic.x.com/noS7WuBJfe",
+              "end": 96,
+              "expanded_url": "https://x.com/NagiExpress/status/2026018340297413069/photo/1",
+              "media_key": "3_2026018329639485440",
+              "start": 73,
+              "url": "https://t.co/noS7WuBJfe"
+            },
+            {
+              "display_url": "x.com/nagiexpress/st…",
+              "end": 120,
+              "expanded_url": "https://twitter.com/nagiexpress/status/2026011305908293794",
+              "start": 97,
+              "url": "https://t.co/nS8NuT3XSs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026018340297413069",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026011305908293794",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "喜报\nNagi终于会喝白酒了\n原来白酒跟啤酒的思路不一样\n是拿来重置口腔和为下一口海鲜提鲜的\n吃完章鱼喝两口白葡萄\n下一口章鱼明显更鲜了\n学会了 https://t.co/noS7WuBJfe https://t.co/nS8NuT3XSs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02 176 65kg//mtf hrt 2025.11.21-2026.2.13🍥//我想要很多很多的爱 欢迎聊天互fo 永远的可爱姐姐@jikeOjk7623 // @HappyHejsDay的兵！//超温柔妹妹@sophhhsama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 69,
+                "username": "jikeOjk7623"
+              },
+              {
+                "end": 98,
+                "start": 85,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 119,
+                "start": 108,
+                "username": "sophhhsama"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023721600491925504/NLPFudYi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 505,
+          "following_count": 433,
+          "like_count": 3468,
+          "listed_count": 1,
+          "media_count": 84,
+          "tweet_count": 1902
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-05T13:17:29.000Z",
+        "description": "平等的羡慕每一个重庆人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tfl.gov.uk/tube/route/vic…",
+                "end": 23,
+                "expanded_url": "https://tfl.gov.uk/tube/route/victoria/",
+                "start": 0,
+                "url": "https://t.co/O8fBywpcGi"
+              }
+            ]
+          }
+        },
+        "id": "1754494415152766976",
+        "location": "沙坪坝",
+        "name": "精神Nagi🥥",
+        "pinned_tweet_id": "2024296660231164293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025751628112953344/XNzW1TDY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5166,
+          "following_count": 2235,
+          "like_count": 23164,
+          "listed_count": 7,
+          "media_count": 1988,
+          "tweet_count": 19492
+        },
+        "url": "https://t.co/O8fBywpcGi",
+        "username": "NagiExpress",
+        "verified": false
+      }
+    ]
+  }
+}

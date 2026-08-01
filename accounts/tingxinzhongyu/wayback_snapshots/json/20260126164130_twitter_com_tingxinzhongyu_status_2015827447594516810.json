@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2015699539458674817",
+    "created_at": "2026-01-26T16:41:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T17:41:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015827447594516810"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1724607649",
+          "start": 0,
+          "username": "QuicklimeHikari"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015827447594516810",
+    "in_reply_to_user_id": "1724607649",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015824307637850180",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QuicklimeHikari 好问题诶，我真的太笨了当时就没想到"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2015699539458674817",
+        "created_at": "2026-01-26T16:41:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T17:41:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015827447594516810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1724607649",
+              "start": 0,
+              "username": "QuicklimeHikari"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015827447594516810",
+        "in_reply_to_user_id": "1724607649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015824307637850180",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QuicklimeHikari 好问题诶，我真的太笨了当时就没想到"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1724607649",
+        "conversation_id": "2015699539458674817",
+        "created_at": "2026-01-26T16:29:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T17:29:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015824307637850180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992038421318205440",
+              "start": 0,
+              "username": "tingxinzhongyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015824307637850180",
+        "in_reply_to_user_id": "1992038421318205440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015699539458674817",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tingxinzhongyu 反驳：哪有女生喜欢这种吓人的动物(bushi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02/mtf 我只想要很多很多的爱 hrt 2025.11🍥/欢迎聊天互fo",
+        "id": "1992038421318205440",
+        "name": "听羽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992039552731725825/3Uy_y4UJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 134,
+          "like_count": 582,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 329
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2013-09-03T06:23:43.000Z",
+        "description": "INFP-T 大哭包 深夜emo中 个人的树洞 记录生活 正在努力成为更好的自己 谢绝键政 备用 @hikariquicklime",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 49,
+                "username": "hikariquicklime"
+              }
+            ]
+          }
+        },
+        "id": "1724607649",
+        "location": "100083/214x00",
+        "name": "光ちゃん🥤🤤",
+        "pinned_tweet_id": "1773723988172366282",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945680416523821056/aaXiaSGt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1330,
+          "following_count": 697,
+          "like_count": 23378,
+          "listed_count": 14,
+          "media_count": 1929,
+          "tweet_count": 21930
+        },
+        "username": "QuicklimeHikari",
+        "verified": false
+      }
+    ]
+  }
+}

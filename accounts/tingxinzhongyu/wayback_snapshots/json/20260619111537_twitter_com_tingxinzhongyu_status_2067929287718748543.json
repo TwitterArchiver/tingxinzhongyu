@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2064264870204452927",
+    "created_at": "2026-06-19T11:15:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T12:15:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067929287718748543"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1391308235785740290",
+          "start": 0,
+          "username": "Rukaveda"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067929287718748543",
+    "in_reply_to_user_id": "1391308235785740290",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067653144667156809",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rukaveda 我不敢赌🥺\n要是他超级反跨不让我开咋办"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2064264870204452927",
+        "created_at": "2026-06-19T11:15:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T12:15:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067929287718748543"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1391308235785740290",
+              "start": 0,
+              "username": "Rukaveda"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067929287718748543",
+        "in_reply_to_user_id": "1391308235785740290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067653144667156809",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rukaveda 我不敢赌🥺\n要是他超级反跨不让我开咋办"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1391308235785740290",
+        "conversation_id": "2064264870204452927",
+        "created_at": "2026-06-18T16:58:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T17:58:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067653144667156809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992038421318205440",
+              "start": 0,
+              "username": "tingxinzhongyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067653144667156809",
+        "in_reply_to_user_id": "1992038421318205440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064264870204452927",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tingxinzhongyu 其实你跟他说也没问题的…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "176 65kg｜mtf ｜Best friend @kanonobambi ｜ ｜hrt 2025.11.21-2026.2.13🍥｜我想要很多很多的爱｜永远的可爱姐姐@jikeOjk7623 ｜@HappyHejsDay的兵！｜超温柔妹妹@sophhhsama @axzamyzed！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "kanonobambi"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "jikeOjk7623"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 132,
+                "start": 121,
+                "username": "sophhhsama"
+              },
+              {
+                "end": 143,
+                "start": 133,
+                "username": "axzamyzed"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028106888488026112/tHHVMk_N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 928,
+          "following_count": 484,
+          "like_count": 4839,
+          "listed_count": 3,
+          "media_count": 133,
+          "tweet_count": 2948
+        },
+        "url": "",
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-09T08:25:13.000Z",
+        "description": "现在是唯一指定推了。\n想不起来用@baaeeeeeeeed。\n文科废物，赛马娘/lol/碧蓝航线/明日方舟/东方爱好者。\ncos经历谋勇兼备 kigurumi角色是新宇宙和美妙姿势哦w\n创世驹锐意制作中w\n等待北十字星明年的重新开始。\njz真不熟。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 16,
+                "username": "baaeeeeeeeed"
+              }
+            ]
+          }
+        },
+        "id": "1391308235785740290",
+        "location": "南山南",
+        "name": "Ruka",
+        "pinned_tweet_id": "2039202359101071657",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1570260373009477632/5XIzpm-f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 604,
+          "following_count": 503,
+          "like_count": 10285,
+          "listed_count": 3,
+          "media_count": 40,
+          "tweet_count": 444
+        },
+        "url": "",
+        "username": "Rukaveda",
+        "verified": false
+      }
+    ]
+  }
+}

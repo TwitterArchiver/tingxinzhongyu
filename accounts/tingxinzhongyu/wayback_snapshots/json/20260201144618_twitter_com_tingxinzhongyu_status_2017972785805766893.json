@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2017904204627726838",
+    "created_at": "2026-02-01T14:46:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T15:46:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017972785805766893"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1980236829455511552",
+          "start": 0,
+          "username": "PaulDrizzyvlni"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017972785805766893",
+    "in_reply_to_user_id": "1980236829455511552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017972288491286727",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PaulDrizzyvlni 英语是这样的喵，一会儿神一会儿鬼的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2017904204627726838",
+        "created_at": "2026-02-01T14:46:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T15:46:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017972785805766893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1980236829455511552",
+              "start": 0,
+              "username": "PaulDrizzyvlni"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017972785805766893",
+        "in_reply_to_user_id": "1980236829455511552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017972288491286727",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PaulDrizzyvlni 英语是这样的喵，一会儿神一会儿鬼的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980236829455511552",
+        "conversation_id": "2017904204627726838",
+        "created_at": "2026-02-01T14:44:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T15:44:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017972288491286727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992038421318205440",
+              "start": 0,
+              "username": "tingxinzhongyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017972288491286727",
+        "in_reply_to_user_id": "1992038421318205440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017918154685759873",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tingxinzhongyu 其实英语我也考差来的😭我平常也有个一百二一百三😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02 176 65kg/mtf hrt 2025.11🍥/我想要很多很多的爱 欢迎聊天互fo 永远的可爱姐姐@jikeOjk7623",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 54,
+                "username": "jikeOjk7623"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992039552731725825/3Uy_y4UJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 192,
+          "like_count": 861,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 500
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-20T11:37:56.000Z",
+        "description": "重生日 25.11.18/天空树/爱发高p照仔细甄别😵‍💫/发日常/成分复杂/篮球世家🌚运动跨😹best athlete must be @Yg_Trece @TheTraeYoung !/会给同类互fo/好姐姐 @HappyHejsDay 特别的 @shixveriya 🥰/安卓小号 @PG13LD77",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 69,
+                "username": "Yg_Trece"
+              },
+              {
+                "end": 92,
+                "start": 79,
+                "username": "TheTraeYoung"
+              },
+              {
+                "end": 120,
+                "start": 107,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 136,
+                "start": 125,
+                "username": "shixveriya"
+              },
+              {
+                "end": 153,
+                "start": 144,
+                "username": "PG13LD77"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pauldrizzyvlni",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pauldrizzyvlni",
+                "start": 0,
+                "url": "https://t.co/MqRT8JnI3l"
+              }
+            ]
+          }
+        },
+        "id": "1980236829455511552",
+        "location": "Palmdale, California, USA",
+        "name": "wish happiness 😵‍💫🍥😵‍💫",
+        "pinned_tweet_id": "2017161495646490860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997894762838556672/_NU9ap_W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 987,
+          "following_count": 750,
+          "like_count": 2999,
+          "listed_count": 0,
+          "media_count": 162,
+          "tweet_count": 2595
+        },
+        "url": "https://t.co/MqRT8JnI3l",
+        "username": "PaulDrizzyvlni",
+        "verified": false
+      }
+    ]
+  }
+}

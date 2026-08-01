@@ -1,0 +1,149 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025098042559660033"
+      ]
+    },
+    "author_id": "1992038421318205440",
+    "conversation_id": "2025098064898433465",
+    "created_at": "2026-02-21T06:39:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T07:39:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025098064898433465"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/yp8z8Yn5Tk",
+          "end": 66,
+          "expanded_url": "https://x.com/tingxinzhongyu/status/2025098064898433465/photo/1",
+          "media_key": "3_2025098042559660033",
+          "start": 43,
+          "url": "https://t.co/yp8z8Yn5Tk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025098064898433465",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "关于手串的一种奇妙玩法\n我是撕掰得曼！\n\n不过这手势怎么越看越糟糕\n感觉扣得痛痛的🥵 https://t.co/yp8z8Yn5Tk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2025098042559660033",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBqX8LYbgAEQWAY.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025098042559660033"
+          ]
+        },
+        "author_id": "1992038421318205440",
+        "conversation_id": "2025098064898433465",
+        "created_at": "2026-02-21T06:39:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T07:39:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025098064898433465"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yp8z8Yn5Tk",
+              "end": 66,
+              "expanded_url": "https://x.com/tingxinzhongyu/status/2025098064898433465/photo/1",
+              "media_key": "3_2025098042559660033",
+              "start": 43,
+              "url": "https://t.co/yp8z8Yn5Tk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025098064898433465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "关于手串的一种奇妙玩法\n我是撕掰得曼！\n\n不过这手势怎么越看越糟糕\n感觉扣得痛痛的🥵 https://t.co/yp8z8Yn5Tk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02 176 65kg//mtf hrt 2025.11.21-2026.2.13🍥//我想要很多很多的爱 欢迎聊天互fo 永远的可爱姐姐@jikeOjk7623 // @HappyHejsDay的兵！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 69,
+                "username": "jikeOjk7623"
+              },
+              {
+                "end": 98,
+                "start": 85,
+                "username": "HappyHejsDay"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023721600491925504/NLPFudYi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 437,
+          "following_count": 418,
+          "like_count": 3171,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 1695
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      }
+    ]
+  }
+}

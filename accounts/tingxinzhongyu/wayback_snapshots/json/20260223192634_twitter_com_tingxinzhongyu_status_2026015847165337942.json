@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2026006024638087259",
+    "created_at": "2026-02-23T19:26:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T20:26:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026015847165337942"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1443444056701370371",
+          "start": 0,
+          "username": "tina63991073"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026015847165337942",
+    "in_reply_to_user_id": "1443444056701370371",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026006024638087259",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tina63991073 恭喜哦，感谢那瓶酒）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2026006024638087259",
+        "created_at": "2026-02-23T19:26:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T20:26:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026015847165337942"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1443444056701370371",
+              "start": 0,
+              "username": "tina63991073"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026015847165337942",
+        "in_reply_to_user_id": "1443444056701370371",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026006024638087259",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tina63991073 恭喜哦，感谢那瓶酒）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1443444056701370371",
+        "conversation_id": "2026006024638087259",
+        "created_at": "2026-02-23T18:47:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T19:47:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026006024638087259"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026006024638087259",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 908,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喝醉了脑子不清楚和家里人坦白了，没想到我姐和姐夫都接受了，她说：“你要变的只是性别，又改变不了我们的血缘关系。”\n我姐夫“sister.Happy life。”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02 176 65kg//mtf hrt 2025.11.21-2026.2.13🍥//我想要很多很多的爱 欢迎聊天互fo 永远的可爱姐姐@jikeOjk7623 // @HappyHejsDay的兵！//超温柔妹妹@sophhhsama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 69,
+                "username": "jikeOjk7623"
+              },
+              {
+                "end": 98,
+                "start": 85,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 119,
+                "start": 108,
+                "username": "sophhhsama"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023721600491925504/NLPFudYi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 504,
+          "following_count": 433,
+          "like_count": 3466,
+          "listed_count": 1,
+          "media_count": 84,
+          "tweet_count": 1900
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-30T05:14:23.000Z",
+        "description": "只做自己喜欢的事，祝你天天开心^ ^ 男娘",
+        "id": "1443444056701370371",
+        "location": "188（好友位  接接接",
+        "name": "富江江",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025825850348990464/DWKZlGgQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87328,
+          "following_count": 576,
+          "like_count": 9775,
+          "listed_count": 254,
+          "media_count": 879,
+          "tweet_count": 7846
+        },
+        "username": "tina63991073",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2067065567748764038",
+    "created_at": "2026-06-17T17:00:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T18:00:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067291302564352314"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1468616147339968513",
+          "start": 0,
+          "username": "0xSorrowRain"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067291302564352314",
+    "in_reply_to_user_id": "1468616147339968513",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067065567748764038",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0xSorrowRain 你直接\n感受 我的痛苦😣！\n草！草！草！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 977,
+        "media_key": "3_2067065563172814848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK-xLYxbwAAck9m.jpg",
+        "width": 781
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2067065567748764038",
+        "created_at": "2026-06-17T17:00:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T18:00:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067291302564352314"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1468616147339968513",
+              "start": 0,
+              "username": "0xSorrowRain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067291302564352314",
+        "in_reply_to_user_id": "1468616147339968513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067065567748764038",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xSorrowRain 你直接\n感受 我的痛苦😣！\n草！草！草！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067065563172814848"
+          ]
+        },
+        "author_id": "1468616147339968513",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2067065567748764038",
+        "created_at": "2026-06-17T02:03:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T03:03:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067065567748764038"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2TLjzZuJ4w",
+              "end": 142,
+              "expanded_url": "https://x.com/0xSorrowRain/status/2067065567748764038/photo/1",
+              "media_key": "3_2067065563172814848",
+              "start": 119,
+              "url": "https://t.co/2TLjzZuJ4w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067065567748764038",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 424,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "因为我头发太长不符合客户要求，项目经理代替我去之前那个项目了\n\n还是现场部署联调环境，现在他被我们开发和客户一大堆啥币流程折磨的非常无语\n\n不敢催客户赶快搞流程，于是催自己人，已经在会上说出“咱们效率高点行不行”这样的话了\n\n我就这样： https://t.co/2TLjzZuJ4w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "176 65kg｜mtf ｜Best friend @kanonobambi ｜ ｜hrt 2025.11.21-2026.2.13🍥｜我想要很多很多的爱｜永远的可爱姐姐@jikeOjk7623 ｜@HappyHejsDay的兵！｜超温柔妹妹@sophhhsama @axzamyzed！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "kanonobambi"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "jikeOjk7623"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 132,
+                "start": 121,
+                "username": "sophhhsama"
+              },
+              {
+                "end": 143,
+                "start": 133,
+                "username": "axzamyzed"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028106888488026112/tHHVMk_N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 920,
+          "following_count": 485,
+          "like_count": 4893,
+          "listed_count": 3,
+          "media_count": 133,
+          "tweet_count": 2944
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-08T16:19:28.000Z",
+        "description": "02年社畜 | B端产品画图狗 ，正在努力生活 | 请多指教哦~ | 锚点：@NeneK0SMTwTF5_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 38,
+                "username": "NeneK0SMTwTF5_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "0xsr.dev",
+                "end": 23,
+                "expanded_url": "http://0xsr.dev",
+                "start": 0,
+                "url": "https://t.co/R0nmdIWIg7"
+              }
+            ]
+          }
+        },
+        "id": "1468616147339968513",
+        "name": "SorrowRain",
+        "pinned_tweet_id": "1849456261408194932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002461390054043658/7A6oWi4h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 775,
+          "following_count": 779,
+          "like_count": 882,
+          "listed_count": 3,
+          "media_count": 717,
+          "tweet_count": 7041
+        },
+        "url": "https://t.co/R0nmdIWIg7",
+        "username": "0xSorrowRain",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2021595037868388568",
+    "created_at": "2026-02-11T14:46:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T15:46:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021596621885075801"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1885154179922227200",
+          "start": 0,
+          "username": "Snow_Xue_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021596621885075801",
+    "in_reply_to_user_id": "1885154179922227200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021595037868388568",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Snow_Xue_ 再等等吧，说不定呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2021595037868388568",
+        "created_at": "2026-02-11T14:46:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T15:46:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021596621885075801"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1885154179922227200",
+              "start": 0,
+              "username": "Snow_Xue_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021596621885075801",
+        "in_reply_to_user_id": "1885154179922227200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021595037868388568",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Snow_Xue_ 再等等吧，说不定呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1885154179922227200",
+        "conversation_id": "2021595037868388568",
+        "created_at": "2026-02-11T14:39:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T15:39:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021595037868388568"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Snow_Xue_/stat…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/Snow_Xue_/status/2021594117004742920",
+              "start": 141,
+              "url": "https://t.co/WZ5IOYVuQ9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021595037868388568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021594117004742920",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "都这时候了怎么还是不敢吃。。。我胆子怎么那么小。我胆子怎么那么小。我胆子怎么那么小。我胆子怎么那么小。我胆子怎么那么小。我胆子怎么那么小。我胆子怎么那么小。我胆子怎么那么小。我胆子怎么那么小。我胆子怎么那么小。我胆子怎么那么小。我胆子怎么那么小。我胆子怎么那么小。我胆子怎么那么小 https://t.co/WZ5IOYVuQ9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02 176 65kg//mtf hrt 2025.11.21🍥//我想要很多很多的爱 欢迎聊天互fo 永远的可爱姐姐@jikeOjk7623",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 59,
+                "username": "jikeOjk7623"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992039552731725825/3Uy_y4UJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 313,
+          "like_count": 1916,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 982
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-31T02:32:51.000Z",
+        "description": "| 普通的上海入 | 位于常州 | 过年回上海 | 不见证 | 不割手 | 也不知道会不会o上 | 生产日期2010.3.16 | 无证含糖 | 🍥hrt 2025.11 | 已炸柜 | 家长不管党 | | b站：屑冷雪 / 屑冷雪_ | emoQQ：3387774141",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/snow_xue_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/snow_xue_",
+                "start": 0,
+                "url": "https://t.co/UJzajXA6Cp"
+              }
+            ]
+          }
+        },
+        "id": "1885154179922227200",
+        "location": "上海",
+        "name": "雪🍥",
+        "pinned_tweet_id": "2019404944802300334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014003117520748544/Yng-qPnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1575,
+          "following_count": 1404,
+          "like_count": 41024,
+          "listed_count": 2,
+          "media_count": 548,
+          "tweet_count": 4085
+        },
+        "url": "https://t.co/UJzajXA6Cp",
+        "username": "Snow_Xue_",
+        "verified": false
+      }
+    ]
+  }
+}

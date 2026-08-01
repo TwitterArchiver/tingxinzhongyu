@@ -1,0 +1,164 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066573793678807040"
+      ]
+    },
+    "author_id": "1992038421318205440",
+    "conversation_id": "2066573813178053050",
+    "created_at": "2026-06-15T17:29:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T18:29:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066573813178053050"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/YtxdNdRgqC",
+          "end": 109,
+          "expanded_url": "https://x.com/tingxinzhongyu/status/2066573813178053050/photo/1",
+          "media_key": "3_2066573793678807040",
+          "start": 86,
+          "url": "https://t.co/YtxdNdRgqC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066573813178053050",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "小颗的喹硫平吃多了突然拿到新的大粒的喹硫平给孩子吓着了\n一颗顶原来8颗 \n我一天要吃一半\n然后切药的时候突发奇想\n不知道吃一颗会怎么样（）\n完了我感觉我真的有od潜质了🥺 https://t.co/YtxdNdRgqC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2066573793678807040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK3x6opbUAAFR7q.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066573793678807040"
+          ]
+        },
+        "author_id": "1992038421318205440",
+        "conversation_id": "2066573813178053050",
+        "created_at": "2026-06-15T17:29:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T18:29:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066573813178053050"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YtxdNdRgqC",
+              "end": 109,
+              "expanded_url": "https://x.com/tingxinzhongyu/status/2066573813178053050/photo/1",
+              "media_key": "3_2066573793678807040",
+              "start": 86,
+              "url": "https://t.co/YtxdNdRgqC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066573813178053050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小颗的喹硫平吃多了突然拿到新的大粒的喹硫平给孩子吓着了\n一颗顶原来8颗 \n我一天要吃一半\n然后切药的时候突发奇想\n不知道吃一颗会怎么样（）\n完了我感觉我真的有od潜质了🥺 https://t.co/YtxdNdRgqC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "176 65kg｜mtf ｜Best friend @kanonobambi ｜ ｜hrt 2025.11.21-2026.2.13🍥｜我想要很多很多的爱｜永远的可爱姐姐@jikeOjk7623 ｜@HappyHejsDay的兵！｜超温柔妹妹@sophhhsama @axzamyzed！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "kanonobambi"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "jikeOjk7623"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 132,
+                "start": 121,
+                "username": "sophhhsama"
+              },
+              {
+                "end": 143,
+                "start": 133,
+                "username": "axzamyzed"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028106888488026112/tHHVMk_N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 915,
+          "following_count": 483,
+          "like_count": 4867,
+          "listed_count": 3,
+          "media_count": 133,
+          "tweet_count": 2927
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      }
+    ]
+  }
+}

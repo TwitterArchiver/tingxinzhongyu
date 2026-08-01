@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2064264870204452927",
+    "created_at": "2026-06-10T09:18:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T10:18:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064638218541412802"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "138746893",
+          "start": 0,
+          "username": "nipa1023"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064638218541412802",
+    "in_reply_to_user_id": "138746893",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064500720955801656",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nipa1023 医生好好！\n当时里面还有个跟我差不多大的实习医生 怕吓着他了还是算了）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2064264870204452927",
+        "created_at": "2026-06-10T09:18:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T10:18:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064638218541412802"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "138746893",
+              "start": 0,
+              "username": "nipa1023"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064638218541412802",
+        "in_reply_to_user_id": "138746893",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064500720955801656",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nipa1023 医生好好！\n当时里面还有个跟我差不多大的实习医生 怕吓着他了还是算了）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "138746893",
+        "conversation_id": "2064264870204452927",
+        "created_at": "2026-06-10T00:11:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T01:11:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064500720955801656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992038421318205440",
+              "start": 0,
+              "username": "tingxinzhongyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064500720955801656",
+        "in_reply_to_user_id": "1992038421318205440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 184,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064264870204452927",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tingxinzhongyu 是直接跟醫生說要HRT呢 到是沒很驚訝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "176 65kg｜mtf ｜Best friend @kanonobambi ｜ ｜hrt 2025.11.21-2026.2.13🍥｜我想要很多很多的爱｜永远的可爱姐姐@jikeOjk7623 ｜@HappyHejsDay的兵！｜超温柔妹妹@sophhhsama @axzamyzed！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "kanonobambi"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "jikeOjk7623"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 132,
+                "start": 121,
+                "username": "sophhhsama"
+              },
+              {
+                "end": 143,
+                "start": 133,
+                "username": "axzamyzed"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028106888488026112/tHHVMk_N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 857,
+          "following_count": 482,
+          "like_count": 4814,
+          "listed_count": 3,
+          "media_count": 130,
+          "tweet_count": 2885
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2010-04-30T13:23:53.000Z",
+        "description": "⛩巫女/🎀ロリ/🍎小倉唯@OY_A_Official/🦆カモ 🇹🇼Taiwan🏳️‍⚧️🌸 🔺漲停紅担当 Follow ok /message RT ok ですhttps://t.co/gW50yTYHBA 🪄https://t.co/DsCz7Hzzwc",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "OY_A_Official"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "facebook.com/ItoshiiRika",
+                "end": 103,
+                "expanded_url": "http://facebook.com/ItoshiiRika",
+                "start": 80,
+                "url": "https://t.co/gW50yTYHBA"
+              },
+              {
+                "display_url": "afilia.jp/senpai/029628",
+                "end": 128,
+                "expanded_url": "http://afilia.jp/senpai/029628",
+                "start": 105,
+                "url": "https://t.co/DsCz7Hzzwc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "docs.google.com/document/d/1f-…",
+                "end": 23,
+                "expanded_url": "https://docs.google.com/document/d/1f-hX3AbhE_BW8PpXfRqQmWZfDjPVOdW0LXOMPspMJns",
+                "start": 0,
+                "url": "https://t.co/yWgD2EsHDd"
+              }
+            ]
+          }
+        },
+        "id": "138746893",
+        "location": "千代田区外神田4-4-3　SILビル8F",
+        "name": "可憐梨花",
+        "pinned_tweet_id": "1945706981517664556",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761837007775617024/KB19V3yD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1629,
+          "following_count": 5623,
+          "like_count": 122123,
+          "listed_count": 17,
+          "media_count": 7214,
+          "tweet_count": 51002
+        },
+        "url": "https://t.co/yWgD2EsHDd",
+        "username": "nipa1023",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2022274270739767608",
+    "created_at": "2026-02-13T15:11:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T16:11:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022327816663224321"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1199755609299505153",
+          "start": 0,
+          "username": "SiKongYun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022327816663224321",
+    "in_reply_to_user_id": "1199755609299505153",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022324781648142445",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SiKongYun 摸摸你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2022274270739767608",
+        "created_at": "2026-02-13T15:11:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T16:11:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022327816663224321"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1199755609299505153",
+              "start": 0,
+              "username": "SiKongYun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022327816663224321",
+        "in_reply_to_user_id": "1199755609299505153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022324781648142445",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SiKongYun 摸摸你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1199755609299505153",
+        "conversation_id": "2022274270739767608",
+        "created_at": "2026-02-13T14:59:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T15:59:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022324781648142445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992038421318205440",
+              "start": 0,
+              "username": "tingxinzhongyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022324781648142445",
+        "in_reply_to_user_id": "1992038421318205440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022324616157680083",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tingxinzhongyu 蹭蹭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02 176 65kg//mtf hrt 2025.11.21🍥//我想要很多很多的爱 欢迎聊天互fo 永远的可爱姐姐@jikeOjk7623",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 59,
+                "username": "jikeOjk7623"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992039552731725825/3Uy_y4UJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 337,
+          "like_count": 2204,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 1121
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-27T18:23:38.000Z",
+        "description": "一只武汉死宅药娘，兔子饲养员@yukiusagidaze\n 不定期谜语、玉玉、自恋、色色、自闭、暴躁、发癫。别给我发奇怪的私信，🚪88打钱陪聊ʕ ᵔᴥᵔ ʔ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 14,
+                "username": "yukiusagidaze"
+              }
+            ]
+          }
+        },
+        "id": "1199755609299505153",
+        "location": "三十三天-上大赤天 太清仙境 大赤天宫",
+        "name": "司空云",
+        "pinned_tweet_id": "1592978768964243456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022273069017096193/fZ-ut1hk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17852,
+          "following_count": 1811,
+          "like_count": 80861,
+          "listed_count": 33,
+          "media_count": 8138,
+          "tweet_count": 40491
+        },
+        "username": "SiKongYun",
+        "verified": false
+      }
+    ]
+  }
+}

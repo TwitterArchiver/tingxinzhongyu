@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022163949215789056"
+      ]
+    },
+    "author_id": "1992038421318205440",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2022163985492308359",
+    "created_at": "2026-02-13T04:20:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T05:20:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022163985492308359"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/bYgrqCOlo7",
+          "end": 117,
+          "expanded_url": "https://x.com/tingxinzhongyu/status/2022163985492308359/photo/1",
+          "media_key": "3_2022163949215789056",
+          "start": 94,
+          "url": "https://t.co/bYgrqCOlo7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022163985492308359",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "怀疑我妈给我吃的中药有问题\n这几天吃了早上完全双眼无神，醒了还得再睡一觉到一两点才勉强清醒\n\n今早她莫名其妙说要带我出去吃大餐\n可是我只想睡觉💤\n就这样看着她🫩\n她：“人没事干就是犯困” https://t.co/bYgrqCOlo7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2022163949215789056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBArZd6bsAAPzCc.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022163949215789056"
+          ]
+        },
+        "author_id": "1992038421318205440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2022163985492308359",
+        "created_at": "2026-02-13T04:20:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T05:20:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022163985492308359"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bYgrqCOlo7",
+              "end": 117,
+              "expanded_url": "https://x.com/tingxinzhongyu/status/2022163985492308359/photo/1",
+              "media_key": "3_2022163949215789056",
+              "start": 94,
+              "url": "https://t.co/bYgrqCOlo7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022163985492308359",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怀疑我妈给我吃的中药有问题\n这几天吃了早上完全双眼无神，醒了还得再睡一觉到一两点才勉强清醒\n\n今早她莫名其妙说要带我出去吃大餐\n可是我只想睡觉💤\n就这样看着她🫩\n她：“人没事干就是犯困” https://t.co/bYgrqCOlo7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02 176 65kg//mtf hrt 2025.11.21🍥//我想要很多很多的爱 欢迎聊天互fo 永远的可爱姐姐@jikeOjk7623",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 59,
+                "username": "jikeOjk7623"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992039552731725825/3Uy_y4UJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 329,
+          "like_count": 2136,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 1076
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      }
+    ]
+  }
+}

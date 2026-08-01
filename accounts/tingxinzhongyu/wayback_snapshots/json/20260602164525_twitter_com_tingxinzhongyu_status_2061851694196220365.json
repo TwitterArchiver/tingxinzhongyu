@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061851659257667585"
+      ]
+    },
+    "author_id": "1992038421318205440",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2061851694196220365",
+    "created_at": "2026-06-02T16:45:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T17:45:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061851694196220365"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0Lk2pmlges",
+          "end": 169,
+          "expanded_url": "https://x.com/tingxinzhongyu/status/2061851694196220365/photo/1",
+          "media_key": "3_2061851659257667585",
+          "start": 146,
+          "url": "https://t.co/0Lk2pmlges"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061851694196220365",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "被gd搞得很烦\n跟家里借着要复诊抑郁症的名头提前一个人出来了\n自己开了个电竞酒店单间 突发奇想自己买了发膜和护发素\n靠问ai一轮操作弄完下来感觉gd都好了些\n也可能是终于能闲下来，可以休闲着打理自己，然后一心一意专注眼前的事情\n\n其实我还买了发夹和发圈！\n感觉摆弄摆弄自己头发还挺好玩的（） https://t.co/0Lk2pmlges"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2061851659257667585",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ0rKPGaYAEshvF.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061851659257667585"
+          ]
+        },
+        "author_id": "1992038421318205440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2061851694196220365",
+        "created_at": "2026-06-02T16:45:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T17:45:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061851694196220365"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0Lk2pmlges",
+              "end": 169,
+              "expanded_url": "https://x.com/tingxinzhongyu/status/2061851694196220365/photo/1",
+              "media_key": "3_2061851659257667585",
+              "start": 146,
+              "url": "https://t.co/0Lk2pmlges"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061851694196220365",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被gd搞得很烦\n跟家里借着要复诊抑郁症的名头提前一个人出来了\n自己开了个电竞酒店单间 突发奇想自己买了发膜和护发素\n靠问ai一轮操作弄完下来感觉gd都好了些\n也可能是终于能闲下来，可以休闲着打理自己，然后一心一意专注眼前的事情\n\n其实我还买了发夹和发圈！\n感觉摆弄摆弄自己头发还挺好玩的（） https://t.co/0Lk2pmlges"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "176 65kg｜mtf ｜Best friend @kanonobambi ｜ ｜hrt 2025.11.21-2026.2.13🍥｜我想要很多很多的爱｜永远的可爱姐姐@jikeOjk7623 ｜@HappyHejsDay的兵！｜超温柔妹妹@sophhhsama @axzamyzed！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "kanonobambi"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "jikeOjk7623"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 132,
+                "start": 121,
+                "username": "sophhhsama"
+              },
+              {
+                "end": 143,
+                "start": 133,
+                "username": "axzamyzed"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028106888488026112/tHHVMk_N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 786,
+          "following_count": 470,
+          "like_count": 4744,
+          "listed_count": 3,
+          "media_count": 126,
+          "tweet_count": 2837
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      }
+    ]
+  }
+}

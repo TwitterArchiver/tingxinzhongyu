@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2015667640891756789",
+    "created_at": "2026-01-26T18:22:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T19:22:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015852761179668520"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1932408935102951424",
+          "start": 0,
+          "username": "whoreBoy_knr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015852761179668520",
+    "in_reply_to_user_id": "1932408935102951424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015850263765258454",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whoreBoy_knr 我也觉得！这两天突然get到了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2015667640891756789",
+        "created_at": "2026-01-26T18:22:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T19:22:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015852761179668520"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1932408935102951424",
+              "start": 0,
+              "username": "whoreBoy_knr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015852761179668520",
+        "in_reply_to_user_id": "1932408935102951424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015850263765258454",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whoreBoy_knr 我也觉得！这两天突然get到了！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932408935102951424",
+        "conversation_id": "2015667640891756789",
+        "created_at": "2026-01-26T18:12:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T19:12:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015850263765258454"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992038421318205440",
+              "start": 0,
+              "username": "tingxinzhongyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015850263765258454",
+        "in_reply_to_user_id": "1992038421318205440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015667640891756789",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tingxinzhongyu 宜家鲨鱼很可爱呀，我的舍友也喜欢这个。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02/mtf 我只想要很多很多的爱 hrt 2025.11🍥/欢迎聊天互fo",
+        "id": "1992038421318205440",
+        "name": "听羽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992039552731725825/3Uy_y4UJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 141,
+          "like_count": 596,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 345
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-10T12:06:15.000Z",
+        "description": "04男娘  |  坎通珠工  | 超深柜\n正在戒糖  |  欢迎找我玩 | \n我伪音真可爱🥰 \nTG:https://t.co/cmaoMUn1DJ\nq群：891291302",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/KnrGroup",
+                "end": 74,
+                "expanded_url": "http://t.me/KnrGroup",
+                "start": 51,
+                "url": "https://t.co/cmaoMUn1DJ"
+              }
+            ]
+          }
+        },
+        "id": "1932408935102951424",
+        "name": "可纳_knr💫",
+        "pinned_tweet_id": "1944762553109975453",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932987705631387651/nOKtFjbi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 106,
+          "like_count": 590,
+          "listed_count": 3,
+          "media_count": 122,
+          "tweet_count": 909
+        },
+        "username": "whoreBoy_knr",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2023442703997169684",
+    "created_at": "2026-02-16T17:01:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T18:01:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023442703997169684"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ecstasy_myslee…",
+          "end": 154,
+          "expanded_url": "https://twitter.com/ecstasy_myslee/status/2023329281439609227",
+          "start": 131,
+          "url": "https://t.co/BzBMU7X5St"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023442703997169684",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023329281439609227",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "跨年有什么的？看我跨性别！跨年有什么的？看我跨性别！跨年有什么的？看我跨性别！跨年有什么的？看我跨性别！跨年有什么的？看我跨性别！跨年有什么的？看我跨性别！跨年有什么的？看我跨性别！跨年有什么的？看我跨性别！跨年有什么的？看我跨性别！跨年有什么的？看我跨性别！ https://t.co/BzBMU7X5St"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2023442703997169684",
+        "created_at": "2026-02-16T17:01:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T18:01:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023442703997169684"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ecstasy_myslee…",
+              "end": 154,
+              "expanded_url": "https://twitter.com/ecstasy_myslee/status/2023329281439609227",
+              "start": 131,
+              "url": "https://t.co/BzBMU7X5St"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023442703997169684",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023329281439609227",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "跨年有什么的？看我跨性别！跨年有什么的？看我跨性别！跨年有什么的？看我跨性别！跨年有什么的？看我跨性别！跨年有什么的？看我跨性别！跨年有什么的？看我跨性别！跨年有什么的？看我跨性别！跨年有什么的？看我跨性别！跨年有什么的？看我跨性别！跨年有什么的？看我跨性别！ https://t.co/BzBMU7X5St"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000386018953101312",
+        "conversation_id": "2023329281439609227",
+        "created_at": "2026-02-16T09:31:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T10:31:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023329281439609227"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023329281439609227",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2488,
+          "like_count": 59,
+          "quote_count": 3,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跨年有什么的？看我跨性别！跨年有什么的？看我跨性别！跨年有什么的？看我跨性别！跨年有什么的？看我跨性别！跨年有什么的？看我跨性别！跨年有什么的？看我跨性别！跨年有什么的？看我跨性别！跨年有什么的？看我跨性别！跨年有什么的？看我跨性别！跨年有什么的？看我跨性别！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02 176 65kg//mtf hrt 2025.11.21🍥//我想要很多很多的爱 欢迎聊天互fo 永远的可爱姐姐@jikeOjk7623",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 59,
+                "username": "jikeOjk7623"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992039552731725825/3Uy_y4UJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 374,
+          "like_count": 2657,
+          "listed_count": 1,
+          "media_count": 63,
+          "tweet_count": 1367
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-15T02:03:07.000Z",
+        "description": "🟨⬜️🟪⬛️",
+        "id": "2000386018953101312",
+        "location": "beijing",
+        "name": "Ꮇіnаtо #蒭藁增二",
+        "pinned_tweet_id": "2015747709479641278",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014376425793421314/Sg5GgOG9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 142,
+          "like_count": 4092,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 243
+        },
+        "username": "ecstasy_myslee",
+        "verified": false
+      }
+    ]
+  }
+}

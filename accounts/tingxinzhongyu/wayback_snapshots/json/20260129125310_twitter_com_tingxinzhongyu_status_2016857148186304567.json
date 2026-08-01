@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2016548997121651172",
+    "created_at": "2026-01-29T12:53:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T13:53:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016857148186304567"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1981693695578791936",
+          "start": 0,
+          "username": "Jskyeye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016857148186304567",
+    "in_reply_to_user_id": "1981693695578791936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016852392042692879",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jskyeye 我一开始没明白什么状况就答应了，可是看到以前的玩具还是忍不住哭了，她看我哭那么厉害可能也被吓到了，就过来抱着我，然后我就哭着说我不想丢了，后来就一直安慰我没接着丢了😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2016548997121651172",
+        "created_at": "2026-01-29T12:53:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T13:53:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016857148186304567"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1981693695578791936",
+              "start": 0,
+              "username": "Jskyeye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016857148186304567",
+        "in_reply_to_user_id": "1981693695578791936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016852392042692879",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jskyeye 我一开始没明白什么状况就答应了，可是看到以前的玩具还是忍不住哭了，她看我哭那么厉害可能也被吓到了，就过来抱着我，然后我就哭着说我不想丢了，后来就一直安慰我没接着丢了😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1981693695578791936",
+        "conversation_id": "2016548997121651172",
+        "created_at": "2026-01-29T12:34:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T13:34:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016852392042692879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992038421318205440",
+              "start": 0,
+              "username": "tingxinzhongyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016852392042692879",
+        "in_reply_to_user_id": "1992038421318205440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016548997121651172",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tingxinzhongyu 你可以直接跟她说你很喜欢这些玩具，他们都很有纪念意义，不希望被扔掉，你妈妈说不定会理解你的呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02/mtf 我只想要很多很多的爱 hrt 2025.11🍥/欢迎聊天互fo",
+        "id": "1992038421318205440",
+        "name": "听羽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992039552731725825/3Uy_y4UJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 169,
+          "like_count": 705,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 427
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-24T12:06:41.000Z",
+        "description": "原来是@JuiceskyYeye｜美食区博主?😜｜MtF｜超级深深深柜｜不支持涩涩🙅｜努力保持阳光☀️健康｜同类会回fo🥰",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "JuiceskyYeye"
+              }
+            ]
+          }
+        },
+        "id": "1981693695578791936",
+        "name": "𝐒𝐤𝐲𝐞𝐲𝐞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986750507059384320/QFwa72W5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 617,
+          "like_count": 6238,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 486
+        },
+        "username": "Jskyeye",
+        "verified": false
+      }
+    ]
+  }
+}

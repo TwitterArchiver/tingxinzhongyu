@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2029073847606280266",
+    "created_at": "2026-03-05T01:10:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T02:10:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029363865272893656"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1877743555961294848",
+          "start": 0,
+          "username": "Nino_Sniar"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029363865272893656",
+    "in_reply_to_user_id": "1877743555961294848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029250427272004070",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nino_Sniar 好的哦 \n目前决定还是一直藏着藏着藏着"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2029073847606280266",
+        "created_at": "2026-03-05T01:10:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T02:10:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029363865272893656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1877743555961294848",
+              "start": 0,
+              "username": "Nino_Sniar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029363865272893656",
+        "in_reply_to_user_id": "1877743555961294848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029250427272004070",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nino_Sniar 好的哦 \n目前决定还是一直藏着藏着藏着"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877743555961294848",
+        "conversation_id": "2029073847606280266",
+        "created_at": "2026-03-04T17:39:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T18:39:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029250427272004070"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992038421318205440",
+              "start": 0,
+              "username": "tingxinzhongyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029250427272004070",
+        "in_reply_to_user_id": "1992038421318205440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029073847606280266",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tingxinzhongyu 我是太信任学校说给老班听了 老班二话不说转告给我妈 只能说我也是个蠢蛋吧 哈哈 后来就对我失去希望了 自杀倾向特别重的时候她就直接说我一死她就跟着死了 没招了 呃呃 但是我相信我的家长是个例 怎么做怎么决定还得看自己的哦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "176 65kg｜mtf ｜Angel lover @kanonobambi ｜ ｜hrt 2025.11.21-2026.2.13🍥｜我想要很多很多的爱｜永远的可爱姐姐@jikeOjk7623 ｜@HappyHejsDay的兵！｜超温柔妹妹@sophhhsama @axzamyzed！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "kanonobambi"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "jikeOjk7623"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 132,
+                "start": 121,
+                "username": "sophhhsama"
+              },
+              {
+                "end": 143,
+                "start": 133,
+                "username": "axzamyzed"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028106888488026112/tHHVMk_N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 604,
+          "following_count": 453,
+          "like_count": 4246,
+          "listed_count": 2,
+          "media_count": 103,
+          "tweet_count": 2404
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-10T15:45:32.000Z",
+        "description": "民间草根队伍Team Ni2O3Xe队长与指挥狙 ACGN系列赛事主办方\n实际10' Spet.8出厂 也许有着另一层身份",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtu.be/@nino_sniar",
+                "end": 23,
+                "expanded_url": "https://youtu.be/@nino_sniar",
+                "start": 0,
+                "url": "https://t.co/5KW9me9p1h"
+              }
+            ]
+          }
+        },
+        "id": "1877743555961294848",
+        "name": "妮诺雪子Ni₂O₃Xe",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028186774208651264/VL8ovLnf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 16,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 11
+        },
+        "url": "https://t.co/5KW9me9p1h",
+        "username": "Nino_Sniar",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2025769178599501872",
+    "created_at": "2026-02-23T08:50:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T09:50:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025855816570655062"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1993821037860147200",
+          "start": 0,
+          "username": "JikeOjk7623"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025855816570655062",
+    "in_reply_to_user_id": "1993821037860147200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025849765649657891",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JikeOjk7623 补药哇😭"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2025849765649657891].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2025849765649657891",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2025849765649657891"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2025769178599501872",
+        "created_at": "2026-02-23T08:50:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T09:50:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025855816570655062"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1993821037860147200",
+              "start": 0,
+              "username": "JikeOjk7623"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025855816570655062",
+        "in_reply_to_user_id": "1993821037860147200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025849765649657891",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JikeOjk7623 补药哇😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02 176 65kg//mtf hrt 2025.11.21-2026.2.13🍥//我想要很多很多的爱 欢迎聊天互fo 永远的可爱姐姐@jikeOjk7623 // @HappyHejsDay的兵！//超温柔妹妹@sophhhsama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 69,
+                "username": "jikeOjk7623"
+              },
+              {
+                "end": 98,
+                "start": 85,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 119,
+                "start": 108,
+                "username": "sophhhsama"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023721600491925504/NLPFudYi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 426,
+          "like_count": 3389,
+          "listed_count": 1,
+          "media_count": 83,
+          "tweet_count": 1857
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-26T23:16:04.000Z",
+        "description": "身高184的大只药娘🏳️‍⚧️| HRT25.12.4| 不键政不od不割手 丨情绪稳定但是社恐 |同类欢迎来互fo| 爱打和平精英 ｜不约炮，不下海，非正常男生别来私信 ｜永远的可爱妹妹 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 95,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "1993821037860147200",
+        "name": "冉冉 🍥（求互fo，",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007220756481224704/of9viFdE_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 532,
+          "like_count": 438,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 213
+        },
+        "username": "JikeOjk7623",
+        "verified": false
+      }
+    ]
+  }
+}

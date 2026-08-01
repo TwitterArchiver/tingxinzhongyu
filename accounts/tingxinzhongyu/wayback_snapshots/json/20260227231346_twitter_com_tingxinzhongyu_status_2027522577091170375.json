@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2027502514577277202",
+    "created_at": "2026-02-27T23:13:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T00:13:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027522577091170375"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1223415775278428160",
+          "start": 0,
+          "username": "sophhhsama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027522577091170375",
+    "in_reply_to_user_id": "1223415775278428160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027502514577277202",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sophhhsama 抱抱你\n慢慢或许都会好的哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2027502514577277202",
+        "created_at": "2026-02-27T23:13:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T00:13:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027522577091170375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1223415775278428160",
+              "start": 0,
+              "username": "sophhhsama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027522577091170375",
+        "in_reply_to_user_id": "1223415775278428160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027502514577277202",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sophhhsama 抱抱你\n慢慢或许都会好的哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2027502514577277202",
+        "created_at": "2026-02-27T21:54:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T22:54:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027502514577277202"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027502514577277202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "rant 27/02/2026\n\n被用一种半质问的语气要我跟她说我“现在的情况” 她说我现在“什么都躲着她”呢\n每次和我父母“谈话”都有应激心理\n估计是被他们的情绪不稳定性吓破胆了\n我害怕跟现实中任何人表露自己\n不过这也间接导致我强烈的情感解离和不敏感，因为过去袒露真实想法时都会导致来自父母和家人误解和谩骂\n是我情感表达有问题吧，可能也是、不过我也没有其他情绪出口了，学业和抑郁夺走了我的兴趣爱好，任何其他事物都会让我做完感到愧疚/不再在乎/不再感兴趣\n真是个恶性循环 我的应激源就是我的经济来源 我什么都做不到呢喵\n先努力过完今天叭\n现在我做什么我父母都高度紧张 好窒息…\n说什么“我这么做都是因为我担心妳”\n不过单单和你相处就已经让我喘不过气了\n我真的很不会表演一个乐天的人格，只有在我非常放松的时候才会表现的\n我一直发掘到自己的不完美 不过你们怎么就这么想在我伤口里往下挖呢，连我自己都不想面对任何事情了，厌恶面对情绪/思想的反射条件让我变得非常健忘 \n看来身体都知道移除了粉红滤镜和外人的吹捧外，我这个人真的一事无成啊，本能的想逃避一切让我面对这个事实的事物\n\n只是发泄一下喵 大家都辛苦了 一起努力叭"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "rant 27/02/2026\n\n被用一种半质问的语气要我跟她说我“现在的情况” 她说我现在“什么都躲着她”呢\n每次和我父母“谈话”都有应激心理\n估计是被他们的情绪不稳定性吓破胆了\n我害怕跟现实中任何人表露自己\n不过这也间接导致我强烈的情感解离和不敏感，因为过去袒露真实想法时都会导致来自父母和家人误解和谩骂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02 176 65kg//mtf hrt 2025.11.21-2026.2.13🍥//我想要很多很多的爱 欢迎聊天互fo 永远的可爱姐姐@jikeOjk7623 // @HappyHejsDay的兵！//超温柔妹妹@sophhhsama @axzamyzed！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 69,
+                "username": "jikeOjk7623"
+              },
+              {
+                "end": 98,
+                "start": 85,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 119,
+                "start": 108,
+                "username": "sophhhsama"
+              },
+              {
+                "end": 130,
+                "start": 120,
+                "username": "axzamyzed"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023721600491925504/NLPFudYi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 558,
+          "following_count": 447,
+          "like_count": 3952,
+          "listed_count": 2,
+          "media_count": 93,
+          "tweet_count": 2234
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "🏳️‍⚧️ mtf | hrt: 21/01/2026 | Aspiring med student. spam account. 07, CMN, YUE, ENG 英區 ✩₊˚.⋆☾⋆⁺₊✧ 超级温柔的姐姐 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 106,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "name": "sophhhie🍥",
+        "pinned_tweet_id": "2025243948566892831",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016882765195567104/rWf4JxcT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 94,
+          "like_count": 2058,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 397
+        },
+        "username": "sophhhsama",
+        "verified": true
+      }
+    ]
+  }
+}

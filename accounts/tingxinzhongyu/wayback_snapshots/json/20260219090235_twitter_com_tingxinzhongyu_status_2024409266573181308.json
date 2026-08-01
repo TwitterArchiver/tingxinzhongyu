@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2024409266573181308",
+    "created_at": "2026-02-19T09:02:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T10:02:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024409266573181308"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bakatoyu/statu…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/bakatoyu/status/2024304224302153987",
+          "start": 8,
+          "url": "https://t.co/4n6WRQ1S06"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024409266573181308",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024304224302153987",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "為啥我是藥娘？ https://t.co/4n6WRQ1S06"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2024409266573181308",
+        "created_at": "2026-02-19T09:02:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T10:02:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024409266573181308"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bakatoyu/statu…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/bakatoyu/status/2024304224302153987",
+              "start": 8,
+              "url": "https://t.co/4n6WRQ1S06"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024409266573181308",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024304224302153987",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "為啥我是藥娘？ https://t.co/4n6WRQ1S06"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979427567309590529",
+        "conversation_id": "2024304224302153987",
+        "created_at": "2026-02-19T02:05:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T03:05:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024304224302153987"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_sennya0717/st…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/_sennya0717/status/2023649273896988758",
+              "start": 8,
+              "url": "https://t.co/H7jkOYXzCG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024304224302153987",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023649273896988758",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "為啥我是藥娘？ https://t.co/H7jkOYXzCG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02 176 65kg//mtf hrt 2025.11.21-2026.2.13🍥//我想要很多很多的爱 欢迎聊天互fo 永远的可爱姐姐@jikeOjk7623",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 69,
+                "username": "jikeOjk7623"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023721600491925504/NLPFudYi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 387,
+          "following_count": 398,
+          "like_count": 2960,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 1549
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-18T06:01:47.000Z",
+        "description": "",
+        "id": "1979427567309590529",
+        "name": "TOYU🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024303833988616192/8WN2pZ1n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 104,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 8
+        },
+        "username": "bakatoyu",
+        "verified": false
+      }
+    ]
+  }
+}

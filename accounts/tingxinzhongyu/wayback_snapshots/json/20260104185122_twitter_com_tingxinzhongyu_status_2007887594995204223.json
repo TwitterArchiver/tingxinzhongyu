@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2007887585587453952"
+      ]
+    },
+    "author_id": "1992038421318205440",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2007877749755814029",
+    "created_at": "2026-01-04T18:51:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T19:51:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007887594995204223"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JYHn4xJV8q",
+          "end": 37,
+          "expanded_url": "https://x.com/tingxinzhongyu/status/2007887594995204223/photo/1",
+          "media_key": "3_2007887585587453952",
+          "start": 14,
+          "url": "https://t.co/JYHn4xJV8q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007887594995204223",
+    "in_reply_to_user_id": "1992038421318205440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007877749755814029",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "NOooooooo让我睡😭 https://t.co/JYHn4xJV8q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2007887585587453952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G91zHu_bYAAf3eY.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007887585587453952"
+          ]
+        },
+        "author_id": "1992038421318205440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2007877749755814029",
+        "created_at": "2026-01-04T18:51:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T19:51:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007887594995204223"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JYHn4xJV8q",
+              "end": 37,
+              "expanded_url": "https://x.com/tingxinzhongyu/status/2007887594995204223/photo/1",
+              "media_key": "3_2007887585587453952",
+              "start": 14,
+              "url": "https://t.co/JYHn4xJV8q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007887594995204223",
+        "in_reply_to_user_id": "1992038421318205440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007877749755814029",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "NOooooooo让我睡😭 https://t.co/JYHn4xJV8q"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2007877749755814029",
+        "created_at": "2026-01-04T18:12:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T19:12:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007877749755814029"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2007877749755814029",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我这一有事就睡不着的毛病又来了，\n明天有一堆pre要做，但是偏偏今天晚上睡不着，被迫吃个断了好久的药，希望明天早上不要昏睡起不来🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02年老屁股/mtf 我只想要很多很多的爱 hrt 2025.11🍥",
+        "id": "1992038421318205440",
+        "name": "听羽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992039552731725825/3Uy_y4UJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 33,
+          "like_count": 108,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 40
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      }
+    ]
+  }
+}

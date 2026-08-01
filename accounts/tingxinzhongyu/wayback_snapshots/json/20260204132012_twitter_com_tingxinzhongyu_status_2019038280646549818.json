@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2019038280646549818",
+    "created_at": "2026-02-04T13:20:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T14:20:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2019038280646549818"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tingxinzhongyu…",
+          "end": 167,
+          "expanded_url": "https://twitter.com/tingxinzhongyu/status/2015699539458674817",
+          "start": 144,
+          "url": "https://t.co/OB6tyXBrLf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019038280646549818",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015699539458674817",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "今日头条 （时隔一二三不知道多少天）\n伟大的母亲大人饭后莅临宜家小程序指导工作，明确了“买鲨鲨就要买大只”的思想路线，并计划于今晚提上购买日程。\n\n人话：我要成为拥有鲨鲨之人了😭\n可是宜家起送费怎么要300多，我劝你不要搞得大家都没有鲨鲨抱😭\n难道说雌二醇真的给我点上了超级撒娇天赋？！ https://t.co/OB6tyXBrLf"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2019038280646549818",
+        "created_at": "2026-02-04T13:20:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T14:20:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019038280646549818"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tingxinzhongyu…",
+              "end": 167,
+              "expanded_url": "https://twitter.com/tingxinzhongyu/status/2015699539458674817",
+              "start": 144,
+              "url": "https://t.co/OB6tyXBrLf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019038280646549818",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015699539458674817",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今日头条 （时隔一二三不知道多少天）\n伟大的母亲大人饭后莅临宜家小程序指导工作，明确了“买鲨鲨就要买大只”的思想路线，并计划于今晚提上购买日程。\n\n人话：我要成为拥有鲨鲨之人了😭\n可是宜家起送费怎么要300多，我劝你不要搞得大家都没有鲨鲨抱😭\n难道说雌二醇真的给我点上了超级撒娇天赋？！ https://t.co/OB6tyXBrLf"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2015699539458674817",
+        "created_at": "2026-01-26T08:13:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T09:13:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015699539458674817"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tingxinzhongyu…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/tingxinzhongyu/status/2015667640891756789",
+              "start": 47,
+              "url": "https://t.co/AHoAJJFW0B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015699539458674817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 12986,
+          "like_count": 87,
+          "quote_count": 0,
+          "reply_count": 27,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015667640891756789",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "最新消息，鲨鲨胎死腹中了，我妈说这是送女生的，有没有可能你儿子就想当女生呢？我真的一直在哭😭 https://t.co/AHoAJJFW0B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02 176 65kg//mtf hrt 2025.11.21🍥//我想要很多很多的爱 欢迎聊天互fo 永远的可爱姐姐@jikeOjk7623",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 59,
+                "username": "jikeOjk7623"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992039552731725825/3Uy_y4UJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 236,
+          "like_count": 1073,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 591
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      }
+    ]
+  }
+}

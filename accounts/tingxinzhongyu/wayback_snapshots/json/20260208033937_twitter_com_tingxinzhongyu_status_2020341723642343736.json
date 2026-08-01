@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2020286607384096835",
+    "created_at": "2026-02-08T03:39:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T04:39:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020341723642343736"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1980236829455511552",
+          "start": 0,
+          "username": "PaulDrizzyvlni"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020341723642343736",
+    "in_reply_to_user_id": "1980236829455511552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020286607384096835",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PaulDrizzyvlni 这样是不是会有点痒痒的哇"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2020286595254087682",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAl_9FaacAIp9Jz.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2020286595254087681",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAl_9FaacAE7nzH.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2020286607384096835",
+        "created_at": "2026-02-08T03:39:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T04:39:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020341723642343736"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1980236829455511552",
+              "start": 0,
+              "username": "PaulDrizzyvlni"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020341723642343736",
+        "in_reply_to_user_id": "1980236829455511552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020286607384096835",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PaulDrizzyvlni 这样是不是会有点痒痒的哇"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020286595254087682",
+            "3_2020286595254087681"
+          ]
+        },
+        "author_id": "1980236829455511552",
+        "conversation_id": "2020286607384096835",
+        "created_at": "2026-02-08T00:00:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T01:00:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020286607384096835"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7klqBHbpiM",
+              "end": 73,
+              "expanded_url": "https://x.com/PaulDrizzyvlni/status/2020286607384096835/photo/1",
+              "media_key": "3_2020286595254087682",
+              "start": 50,
+              "url": "https://t.co/7klqBHbpiM"
+            },
+            {
+              "display_url": "pic.x.com/7klqBHbpiM",
+              "end": 73,
+              "expanded_url": "https://x.com/PaulDrizzyvlni/status/2020286607384096835/photo/1",
+              "media_key": "3_2020286595254087681",
+              "start": 50,
+              "url": "https://t.co/7klqBHbpiM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020286607384096835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 223,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "依旧毛衣，依旧没有穿内衣....\n今天不冷也不热所以我只想穿一件...\n毛衣我洗过了！不是天天穿的 https://t.co/7klqBHbpiM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02 176 65kg//mtf hrt 2025.11.21🍥//我想要很多很多的爱 欢迎聊天互fo 永远的可爱姐姐@jikeOjk7623",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 59,
+                "username": "jikeOjk7623"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992039552731725825/3Uy_y4UJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 266,
+          "like_count": 1437,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 737
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-20T11:37:56.000Z",
+        "description": "重生日 25.11.18｜天空树｜爱发高p照仔细甄别😵‍💫|发日常|成分复杂|😹best athlete must be @Yg_Trece @TheTraeYoung !|会给同类互fo|好姐姐 @HappyHejsDay 特别的 @shixveriya 🥰|安卓小号 @PG13LD77",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 61,
+                "username": "Yg_Trece"
+              },
+              {
+                "end": 84,
+                "start": 71,
+                "username": "TheTraeYoung"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 128,
+                "start": 117,
+                "username": "shixveriya"
+              },
+              {
+                "end": 145,
+                "start": 136,
+                "username": "PG13LD77"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pauldrizzyvlni",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pauldrizzyvlni",
+                "start": 0,
+                "url": "https://t.co/MqRT8JnI3l"
+              }
+            ]
+          }
+        },
+        "id": "1980236829455511552",
+        "location": "Palmdale, California, USA",
+        "name": "happiness😣",
+        "pinned_tweet_id": "2017161495646490860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997894762838556672/_NU9ap_W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1339,
+          "following_count": 831,
+          "like_count": 3605,
+          "listed_count": 1,
+          "media_count": 193,
+          "tweet_count": 3002
+        },
+        "url": "https://t.co/MqRT8JnI3l",
+        "username": "PaulDrizzyvlni",
+        "verified": false
+      }
+    ]
+  }
+}

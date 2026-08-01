@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2028676219697569860",
+    "created_at": "2026-03-03T03:59:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T04:59:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028681604806431005"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1758324617838788608",
+          "start": 0,
+          "username": "axzamyzed"
+        },
+        {
+          "end": 24,
+          "id": "2012914101987762177",
+          "start": 11,
+          "username": "TeamTransmtf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028681604806431005",
+    "in_reply_to_user_id": "1758324617838788608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028676219697569860",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@axzamyzed @TeamTransmtf 太有实力了）😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 715,
+        "media_key": "3_2028676210826637312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCdOQ-6bcAAMp8i.jpg",
+        "width": 750
+      },
+      {
+        "height": 327,
+        "media_key": "3_2028676210881163264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCdOQ_HbcAA3Gov.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2028676219697569860",
+        "created_at": "2026-03-03T03:59:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T04:59:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028681604806431005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            },
+            {
+              "end": 24,
+              "id": "2012914101987762177",
+              "start": 11,
+              "username": "TeamTransmtf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028681604806431005",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028676219697569860",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed @TeamTransmtf 太有实力了）😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028676210826637312",
+            "3_2028676210881163264"
+          ]
+        },
+        "author_id": "1758324617838788608",
+        "conversation_id": "2028676219697569860",
+        "created_at": "2026-03-03T03:37:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T04:37:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028676219697569860"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E9NH0kCrrr",
+              "end": 111,
+              "expanded_url": "https://x.com/axzamyzed/status/2028676219697569860/photo/1",
+              "media_key": "3_2028676210826637312",
+              "start": 88,
+              "url": "https://t.co/E9NH0kCrrr"
+            },
+            {
+              "display_url": "pic.x.com/E9NH0kCrrr",
+              "end": 111,
+              "expanded_url": "https://x.com/axzamyzed/status/2028676219697569860/photo/1",
+              "media_key": "3_2028676210881163264",
+              "start": 88,
+              "url": "https://t.co/E9NH0kCrrr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028676219697569860",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 774,
+                "id": "1965393379224944645",
+                "start": 762,
+                "username": "hagishigure"
+              }
+            ]
+          },
+          "text": "Transmtf HRT-Tracker本次更新为 E2 预测曲线引入了两种个体化校准模型，并新增了一项 CPA 药物交互修正。\n关于两种 E2 校准模型：\n第一种叫 EKF 参数学习，全称扩展卡尔曼滤波。它会在每次输入化验值后，逐渐学习你个人的吸收速率和代谢速率，学到的参数会永久保留，化验次数越多越准。适合大多数长期使用用药和化验频率相对固定的用户。\n第二种是 OU-Kalman 动态校准，它把你每个时段的 E2 整体偏高或偏低视为一种随时间漂移的随机过程，对前后所有化验点做全局平滑，历史曲线也会随新化验值一起更新。适合短期内频繁采 血、关注近期波动的用户。但由于该模型的\"记忆\"约为一周，如果两次化验相隔超过三周，校准效果会接近消失，不太适合长期随访节奏。\n两种模型都引入了 Jensen 均值修正。这是一项基于对数正态分布数学性质的修正——当参数存在不确定性时，直接取均值会系统性偏低，修正后的预测曲线中心更接近统计意义上的期望值。与之前相比，修正前曲线在校准初期会明显偏低，修正后这一偏差得到了纠正。\n关于 CPA 抑制 E2 清除，有研究表明醋酸环丙孕酮在较高浓度时可能通过竞争 CYP3A4 酶，一定程度上抑制 E2 的代谢清除，使 E2 水平略微偏高。我们据此加入了一个 Hill 抑制模型，最大抑制幅度设为20%，在典型药物用量下效果较温和。这一功能默认关闭，标注为实验性，这是因为个体差异较大，且目前临床数据仍有限。\n关于如何选择：如果你是长期用药、化验间隔以月计，建议使用 EKF 并保持关闭 OU-Kalman。如果你近期在密集调药、每隔一两周就采血，可以切换到 OU-Kalman。\nCPA抑制修正建议在对自身用药情况较为了解后再开启，日常使用保持默认关闭即可。\n\n本次更新绝大多数模型思路由 @hagishigure 提供，并在此由衷感谢大佬的悉心指导"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "Transmtf HRT-Tracker本次更新为 E2 预测曲线引入了两种个体化校准模型，并新增了一项 CPA 药物交互修正。\n关于两种 E2 校准模型：\n第一种叫 EKF https://t.co/E9NH0kCrrr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "176 65kg｜mtf ｜Angel lover @kanonobambi ｜ ｜hrt 2025.11.21-2026.2.13🍥｜我想要很多很多的爱｜永远的可爱姐姐@jikeOjk7623 ｜@HappyHejsDay的兵！｜超温柔妹妹@sophhhsama @axzamyzed！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "kanonobambi"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "jikeOjk7623"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 132,
+                "start": 121,
+                "username": "sophhhsama"
+              },
+              {
+                "end": 143,
+                "start": 133,
+                "username": "axzamyzed"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028106888488026112/tHHVMk_N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 577,
+          "following_count": 454,
+          "like_count": 4182,
+          "listed_count": 2,
+          "media_count": 100,
+          "tweet_count": 2368
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜前信息竞赛之AI大手子｜mtf/mtx?｜随时找我聊天哦～｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 64,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 94,
+                "start": 79,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2025588649887510571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1006,
+          "following_count": 883,
+          "like_count": 5660,
+          "listed_count": 0,
+          "media_count": 231,
+          "tweet_count": 3165
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-18T15:45:10.000Z",
+        "description": "transmtf官方团队账号，不做蓝v互关",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "transmtf.com",
+                "end": 23,
+                "expanded_url": "https://www.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/MDakkR2ygV"
+              }
+            ]
+          }
+        },
+        "id": "2012914101987762177",
+        "name": "Team Transmtf",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025586370111287296/QzZE8mTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 9,
+          "like_count": 123,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 20
+        },
+        "url": "https://t.co/MDakkR2ygV",
+        "username": "TeamTransmtf",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2024337700342714497",
+    "created_at": "2026-02-19T05:20:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T06:20:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024353471852585452"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1422567543940677634",
+          "start": 0,
+          "username": "UraOlt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024353471852585452",
+    "in_reply_to_user_id": "1422567543940677634",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024337700342714497",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@UraOlt 吓人😟"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2024337700342714497",
+        "created_at": "2026-02-19T05:20:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T06:20:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024353471852585452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1422567543940677634",
+              "start": 0,
+              "username": "UraOlt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024353471852585452",
+        "in_reply_to_user_id": "1422567543940677634",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024337700342714497",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UraOlt 吓人😟"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1422567543940677634",
+        "conversation_id": "2024337700342714497",
+        "created_at": "2026-02-19T04:18:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T05:18:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024337700342714497"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tingxinzhongyu…",
+              "end": 123,
+              "expanded_url": "https://twitter.com/tingxinzhongyu/status/2024312562519875598",
+              "start": 100,
+              "url": "https://t.co/fwAja8np8X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024337700342714497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 162,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024312562519875598",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "之前我家里人让我去理发，带我到了一个理发店。那个理发师一撩我后面头发的时候，我就感觉不对劲。站起来就走。从他拿起我头发比划的动作，我就感觉到，这理发师是那种看到是男的，就会条件发射推平成寸头的那种人 https://t.co/fwAja8np8X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02 176 65kg//mtf hrt 2025.11.21-2026.2.13🍥//我想要很多很多的爱 欢迎聊天互fo 永远的可爱姐姐@jikeOjk7623",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 69,
+                "username": "jikeOjk7623"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023721600491925504/NLPFudYi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 374,
+          "following_count": 393,
+          "like_count": 2917,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 1517
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-03T14:38:43.000Z",
+        "description": "前方路坎坷、突然光和热、幽而复明、他骑着格拉尼，他的骏马，穿过烟雾与地狱的业火。",
+        "id": "1422567543940677634",
+        "location": "Chiba-shi Wakaba-ku, Chiba",
+        "name": "❄️天素🏳️‍⚧️",
+        "pinned_tweet_id": "1740103715061899409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992072709862469632/KpZ4mmgH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1495,
+          "following_count": 447,
+          "like_count": 192116,
+          "listed_count": 3,
+          "media_count": 118,
+          "tweet_count": 12792
+        },
+        "username": "UraOlt",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2015667640891756789",
+    "created_at": "2026-01-27T05:30:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T06:30:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016020972881772801"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1971850577106948097",
+          "start": 0,
+          "username": "Sino_nime"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016020972881772801",
+    "in_reply_to_user_id": "1971850577106948097",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016020149560860990",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sino_nime 羡慕能买😭我现在已经不敢提这个事了，也不敢直接买回来😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2015667640891756789",
+        "created_at": "2026-01-27T05:30:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T06:30:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016020972881772801"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1971850577106948097",
+              "start": 0,
+              "username": "Sino_nime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016020972881772801",
+        "in_reply_to_user_id": "1971850577106948097",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016020149560860990",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sino_nime 羡慕能买😭我现在已经不敢提这个事了，也不敢直接买回来😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971850577106948097",
+        "conversation_id": "2015667640891756789",
+        "created_at": "2026-01-27T05:27:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T06:27:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016020149560860990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992038421318205440",
+              "start": 0,
+              "username": "tingxinzhongyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016020149560860990",
+        "in_reply_to_user_id": "1992038421318205440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015989567468511679",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tingxinzhongyu 我妈说我每学期都买一堆没用的东西回来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02/mtf 我只想要很多很多的爱 hrt 2025.11🍥/欢迎聊天互fo",
+        "id": "1992038421318205440",
+        "name": "听羽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992039552731725825/3Uy_y4UJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 152,
+          "like_count": 613,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 364
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-27T08:13:16.000Z",
+        "description": "收藏日常和碎碎念 To collect daily items and jabber.                                                         medical student",
+        "id": "1971850577106948097",
+        "location": "Hong Kong",
+        "name": "Sinonime Sora",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979907907404570624/XqtDX02C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 63,
+          "like_count": 821,
+          "listed_count": 1,
+          "media_count": 102,
+          "tweet_count": 482
+        },
+        "username": "Sino_nime",
+        "verified": false
+      }
+    ]
+  }
+}

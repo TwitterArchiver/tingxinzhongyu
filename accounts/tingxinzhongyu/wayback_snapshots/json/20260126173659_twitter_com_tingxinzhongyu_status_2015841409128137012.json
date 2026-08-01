@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2015699539458674817",
+    "created_at": "2026-01-26T17:36:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T18:36:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015841409128137012"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1243558241377718274",
+          "start": 0,
+          "username": "thisis_an_apple"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015841409128137012",
+    "in_reply_to_user_id": "1243558241377718274",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015840697874841711",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@thisis_an_apple 我耽误了几年，大学还没毕业呢，平时存剩下来的生活费其实是够的，不知道为啥今天就觉得要先问一下hhhh感觉不如直接买"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2015699539458674817",
+        "created_at": "2026-01-26T17:36:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T18:36:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015841409128137012"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1243558241377718274",
+              "start": 0,
+              "username": "thisis_an_apple"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015841409128137012",
+        "in_reply_to_user_id": "1243558241377718274",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015840697874841711",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@thisis_an_apple 我耽误了几年，大学还没毕业呢，平时存剩下来的生活费其实是够的，不知道为啥今天就觉得要先问一下hhhh感觉不如直接买"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243558241377718274",
+        "conversation_id": "2015699539458674817",
+        "created_at": "2026-01-26T17:34:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T18:34:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015840697874841711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992038421318205440",
+              "start": 0,
+              "username": "tingxinzhongyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015840697874841711",
+        "in_reply_to_user_id": "1992038421318205440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015699539458674817",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tingxinzhongyu 02年还没有经济独立吗？不至于一个玩偶都需要找父母出资吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02/mtf 我只想要很多很多的爱 hrt 2025.11🍥/欢迎聊天互fo",
+        "id": "1992038421318205440",
+        "name": "听羽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992039552731725825/3Uy_y4UJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 139,
+          "like_count": 594,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 341
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-27T15:19:43.000Z",
+        "description": "MtF，HRT 2024/09/25。\n我已经不知道要做什么了。\n脾气很好，请不要惹我生气或者和我辩论，我会哭。 要互粉可以私信。",
+        "id": "1243558241377718274",
+        "name": "风油精灵🏳️‍⚧️",
+        "pinned_tweet_id": "2003413981206344169",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011439245832212480/TCSPknLu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 669,
+          "following_count": 43,
+          "like_count": 67,
+          "listed_count": 5,
+          "media_count": 528,
+          "tweet_count": 11560
+        },
+        "username": "thisis_an_apple",
+        "verified": false
+      }
+    ]
+  }
+}

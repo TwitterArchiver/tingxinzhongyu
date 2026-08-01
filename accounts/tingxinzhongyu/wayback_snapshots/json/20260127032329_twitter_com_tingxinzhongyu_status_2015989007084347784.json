@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2015667640891756789",
+    "created_at": "2026-01-27T03:23:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T04:23:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015989007084347784"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "895865440404033538",
+          "start": 0,
+          "username": "IAmBleeding_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015989007084347784",
+    "in_reply_to_user_id": "895865440404033538",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015969287517962295",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IAmBleeding_ 主要是不想被看到了念念叨叨的，真的头很大很大"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2015667640891756789",
+        "created_at": "2026-01-27T03:23:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T04:23:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015989007084347784"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "895865440404033538",
+              "start": 0,
+              "username": "IAmBleeding_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015989007084347784",
+        "in_reply_to_user_id": "895865440404033538",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015969287517962295",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IAmBleeding_ 主要是不想被看到了念念叨叨的，真的头很大很大"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "895865440404033538",
+        "conversation_id": "2015667640891756789",
+        "created_at": "2026-01-27T02:05:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T03:05:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015969287517962295"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992038421318205440",
+              "start": 0,
+              "username": "tingxinzhongyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015969287517962295",
+        "in_reply_to_user_id": "1992038421318205440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015667640891756789",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tingxinzhongyu 直接买回家不就好了 这和买瓶冰红茶回家有什么区别"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02/mtf 我只想要很多很多的爱 hrt 2025.11🍥/欢迎聊天互fo",
+        "id": "1992038421318205440",
+        "name": "听羽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992039552731725825/3Uy_y4UJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 149,
+          "like_count": 603,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 352
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-11T04:32:20.000Z",
+        "description": "Witness me",
+        "id": "895865440404033538",
+        "name": "歌舞伎町第一女王陛下",
+        "pinned_tweet_id": "1973673906180591784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978343228689788928/OGgTEeA5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 456,
+          "like_count": 3511,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 1006
+        },
+        "username": "IAmBleeding_",
+        "verified": false
+      }
+    ]
+  }
+}

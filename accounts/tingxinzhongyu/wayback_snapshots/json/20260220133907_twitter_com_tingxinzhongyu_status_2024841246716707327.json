@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2024839338467749987",
+    "created_at": "2026-02-20T13:39:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T14:39:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024841246716707327"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1519382545200291840",
+          "start": 0,
+          "username": "hzattach"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024841246716707327",
+    "in_reply_to_user_id": "1519382545200291840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024839338467749987",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hzattach 喜欢infp（根据答案给题目）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2024839336282529792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBmspfZboAA2oCB.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2024839338467749987",
+        "created_at": "2026-02-20T13:39:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T14:39:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024841246716707327"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1519382545200291840",
+              "start": 0,
+              "username": "hzattach"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024841246716707327",
+        "in_reply_to_user_id": "1519382545200291840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024839338467749987",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hzattach 喜欢infp（根据答案给题目）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024839336282529792"
+          ]
+        },
+        "author_id": "1519382545200291840",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2024839338467749987",
+        "created_at": "2026-02-20T13:31:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T14:31:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024839338467749987"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BmkfhhqIxe",
+              "end": 36,
+              "expanded_url": "https://x.com/hzattach/status/2024839338467749987/photo/1",
+              "media_key": "3_2024839336282529792",
+              "start": 13,
+              "url": "https://t.co/BmkfhhqIxe"
+            },
+            {
+              "display_url": "x.com/tingxinzhongyu…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/tingxinzhongyu/status/2024834669200753148",
+              "start": 37,
+              "url": "https://t.co/OiunZlc9rT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024839338467749987",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024834669200753148",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "果然我又重回INFP-T https://t.co/BmkfhhqIxe https://t.co/OiunZlc9rT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02 176 65kg//mtf hrt 2025.11.21-2026.2.13🍥//我想要很多很多的爱 欢迎聊天互fo 永远的可爱姐姐@jikeOjk7623 // @HappyHejsDay的兵！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 69,
+                "username": "jikeOjk7623"
+              },
+              {
+                "end": 98,
+                "start": 85,
+                "username": "HappyHejsDay"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023721600491925504/NLPFudYi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 419,
+          "following_count": 408,
+          "like_count": 3082,
+          "listed_count": 1,
+          "media_count": 74,
+          "tweet_count": 1636
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-27T18:26:53.000Z",
+        "description": "🏳️‍⚧️\n/希望变得有意义\n/04年生算老登吗？\n/终于又开始hrt了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/attachment1145…",
+                "end": 23,
+                "expanded_url": "http://t.me/attachment114514",
+                "start": 0,
+                "url": "https://t.co/zkOERGI5Qx"
+              }
+            ]
+          }
+        },
+        "id": "1519382545200291840",
+        "location": "武汉",
+        "name": "Attachment",
+        "pinned_tweet_id": "1705049579677433899",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1728663819445284864/XvW_taEe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 945,
+          "following_count": 1025,
+          "like_count": 18200,
+          "listed_count": 3,
+          "media_count": 241,
+          "tweet_count": 3589
+        },
+        "url": "https://t.co/zkOERGI5Qx",
+        "username": "hzattach",
+        "verified": false
+      }
+    ]
+  }
+}

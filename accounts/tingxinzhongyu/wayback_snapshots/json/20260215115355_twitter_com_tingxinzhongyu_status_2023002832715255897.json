@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2022991548636614962",
+    "created_at": "2026-02-15T11:53:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T12:53:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023002832715255897"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2003874583343210496",
+          "start": 0,
+          "username": "changdaobi85143"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023002832715255897",
+    "in_reply_to_user_id": "2003874583343210496",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022991548636614962",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@changdaobi85143 抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2022991548636614962",
+        "created_at": "2026-02-15T11:53:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T12:53:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023002832715255897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2003874583343210496",
+              "start": 0,
+              "username": "changdaobi85143"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023002832715255897",
+        "in_reply_to_user_id": "2003874583343210496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022991548636614962",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@changdaobi85143 抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2003874583343210496",
+        "conversation_id": "2022991548636614962",
+        "created_at": "2026-02-15T11:09:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T12:09:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022991548636614962"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 18,
+              "tag": "ftm"
+            },
+            {
+              "end": 28,
+              "start": 23,
+              "tag": "跨性别男"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022991548636614962",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "出柜失败了，我妈不接受我爸更别说了\n#ftm #跨性别男"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02 176 65kg//mtf hrt 2025.11.21🍥//我想要很多很多的爱 欢迎聊天互fo 永远的可爱姐姐@jikeOjk7623",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 59,
+                "username": "jikeOjk7623"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992039552731725825/3Uy_y4UJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 357,
+          "like_count": 2470,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 1253
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-24T17:05:15.000Z",
+        "description": "可以叫我长岛冰茶/可爱 ftm小男娘 （请文明私信 不要搞黄色血腥暴力）不发色情鉴政/ 未hrt",
+        "id": "2003874583343210496",
+        "location": "Hong Kong",
+        "name": "来一杯长岛冰茶🏳️‍⚧️",
+        "pinned_tweet_id": "2020837803492548879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003875241773465600/4aLJ-_j1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 51,
+          "like_count": 731,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 56
+        },
+        "username": "changdaobi85143",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2017221254416420925",
+    "created_at": "2026-01-30T13:05:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T14:05:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017222584832766193"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1993821037860147200",
+          "start": 0,
+          "username": "JikeOjk7623"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017222584832766193",
+    "in_reply_to_user_id": "1993821037860147200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017221254416420925",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JikeOjk7623 已经严肃学习"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2017221254416420925",
+        "created_at": "2026-01-30T13:05:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T14:05:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017222584832766193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1993821037860147200",
+              "start": 0,
+              "username": "JikeOjk7623"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017222584832766193",
+        "in_reply_to_user_id": "1993821037860147200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017221254416420925",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JikeOjk7623 已经严肃学习"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993821037860147200",
+        "conversation_id": "2017221254416420925",
+        "created_at": "2026-01-30T12:59:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T13:59:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017221254416420925"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "-, 视频播放量 126274、弹幕量 507、点赞数 3413、投硬币枚数 1496、收藏人数 5885、转发人数 320, 视频作者 闫帅奇-专业答疑版, 作者简介 健身是为了更好的吃，相关视频：【你以为的腕线过裆】V.S【实际上的腕线过裆】，【Yuna】很瘦但没腰？腰围55cm的秘诀竟然是……，震惊！这个腰是真实存在的吗？！，腰臀比0.6效果，哪些身材你就算瘦死，练死也不可能拥有？，长腿短腰 VS. 短腿长腰，还好还好 肋骨还在，网红真实身材曝光，身材焦虑还要荼毒女性多久？，你愿意付吗？“马甲线的价值”，小时候特别自卑 因为梨形身材长大后 梨形身材真香",
+              "display_url": "b23.tv/VfDk6cE",
+              "end": 59,
+              "expanded_url": "https://b23.tv/VfDk6cE",
+              "images": [
+                {
+                  "height": 100,
+                  "url": "https://pbs.twimg.com/news_img/2017221265766178816/LO7HJwyI?format=png&name=orig",
+                  "width": 100
+                },
+                {
+                  "height": 100,
+                  "url": "https://pbs.twimg.com/news_img/2017221265766178816/LO7HJwyI?format=png&name=150x150",
+                  "width": 100
+                }
+              ],
+              "start": 36,
+              "status": 200,
+              "title": "腰臀比是天生的吗？_哔哩哔哩_bilibili",
+              "unwound_url": "https://www.bilibili.com/video/BV1Kb41137tC/?buvid=Y54B985B063ED1CD4192B09BB4BBD1F837CC&is_story_h5=false&mid=E3bgkhdKELDIyBVb5VARjX8FTQ%2FSZMtL1rElX6M3iMo%3D&p=1&plat_id=116&share_from=ugc&share_medium=ipad&share_plat=ios&share_source=COPY&share_tag=s_i&timestamp=1769777937&unique_k=VfDk6cE&up_id=397168972",
+              "url": "https://t.co/nOLBCYdo0v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017221254416420925",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "可以提高腰臀比，我要变的更pass\n\n【腰臀比是天生的吗？-哔哩哔哩】 https://t.co/nOLBCYdo0v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02 176 130/mtf hrt 2025.11🍥/我想要很多很多的爱 欢迎聊天互fo",
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992039552731725825/3Uy_y4UJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 177,
+          "like_count": 750,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 451
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-26T23:16:04.000Z",
+        "description": "25年的小药娘🏳️‍⚧️| HRT25.12.4| 不键政不od不割手不瑟瑟I 喜欢温柔男生短时间不要男朋友了想要静一静丨情绪稳定但是社恐 |同类欢迎来互fo| 爱打和平精英 （ 发情中，想要被爱）｜ 谈过男朋友，好喜欢但是分开好难受",
+        "id": "1993821037860147200",
+        "name": "冉冉 🍥（求互fo，",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007220756481224704/of9viFdE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 230,
+          "like_count": 130,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 96
+        },
+        "username": "JikeOjk7623",
+        "verified": false
+      }
+    ]
+  }
+}

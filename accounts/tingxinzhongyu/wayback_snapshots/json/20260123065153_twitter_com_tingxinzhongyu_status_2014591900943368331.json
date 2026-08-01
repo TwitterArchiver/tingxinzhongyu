@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2014591888184229888",
+        "3_2014591888217800714"
+      ]
+    },
+    "author_id": "1992038421318205440",
+    "conversation_id": "2014591900943368331",
+    "created_at": "2026-01-23T06:51:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T07:51:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2014591900943368331"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/I4nlfSX4Rz",
+          "end": 54,
+          "expanded_url": "https://x.com/tingxinzhongyu/status/2014591900943368331/photo/1",
+          "media_key": "3_2014591888184229888",
+          "start": 31,
+          "url": "https://t.co/I4nlfSX4Rz"
+        },
+        {
+          "display_url": "pic.x.com/I4nlfSX4Rz",
+          "end": 54,
+          "expanded_url": "https://x.com/tingxinzhongyu/status/2014591900943368331/photo/1",
+          "media_key": "3_2014591888217800714",
+          "start": 31,
+          "url": "https://t.co/I4nlfSX4Rz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014591900943368331",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "拼尽全力涂五格\n真的好难哇，不过似乎我还没见到bingo的😭 https://t.co/I4nlfSX4Rz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1285,
+        "media_key": "3_2014591888184229888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_VEpgaawAAUF27.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1285,
+        "media_key": "3_2014591888217800714",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_VEpgibAAoblG3.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014591888184229888",
+            "3_2014591888217800714"
+          ]
+        },
+        "author_id": "1992038421318205440",
+        "conversation_id": "2014591900943368331",
+        "created_at": "2026-01-23T06:51:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T07:51:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014591900943368331"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I4nlfSX4Rz",
+              "end": 54,
+              "expanded_url": "https://x.com/tingxinzhongyu/status/2014591900943368331/photo/1",
+              "media_key": "3_2014591888184229888",
+              "start": 31,
+              "url": "https://t.co/I4nlfSX4Rz"
+            },
+            {
+              "display_url": "pic.x.com/I4nlfSX4Rz",
+              "end": 54,
+              "expanded_url": "https://x.com/tingxinzhongyu/status/2014591900943368331/photo/1",
+              "media_key": "3_2014591888217800714",
+              "start": 31,
+              "url": "https://t.co/I4nlfSX4Rz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014591900943368331",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "拼尽全力涂五格\n真的好难哇，不过似乎我还没见到bingo的😭 https://t.co/I4nlfSX4Rz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02/mtf 我只想要很多很多的爱 hrt 2025.11🍥/欢迎聊天互fo",
+        "id": "1992038421318205440",
+        "name": "听羽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992039552731725825/3Uy_y4UJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 100,
+          "like_count": 420,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 221
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "听羽 🏳️‍⚧️",
+  "username": "@tingxinzhongyu",
+  "bio": "176 65kg｜mtf ｜Best friend @kanonobambi ｜ ｜hrt 2025.11.21-2026.2.13🍥｜我想要很多很多的爱｜永远的可爱姐姐@jikeOjk7623 ｜@HappyHejsDay的兵！｜超温柔妹妹@sophhhsama @axzamyzed！",
+  "location": "",
+  "link": "",
+  "avatar": "avatar/avatar.jpg",
+  "banner": "avatar/1500x500.jpg",
+  "pinned": "",
+  "bio_entities": {
+    "mentions": [
+      {
+        "end": 38,
+        "start": 26,
+        "username": "kanonobambi"
+      },
+      {
+        "end": 97,
+        "start": 85,
+        "username": "jikeOjk7623"
+      },
+      {
+        "end": 112,
+        "start": 99,
+        "username": "HappyHejsDay"
+      },
+      {
+        "end": 132,
+        "start": 121,
+        "username": "sophhhsama"
+      },
+      {
+        "end": 143,
+        "start": 133,
+        "username": "axzamyzed"
+      }
+    ]
+  },
+  "_avatar_source": "https://pbs.twimg.com/profile_images/2028106888488026112/tHHVMk_N_normal.jpg"
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2019454371252019564",
+    "created_at": "2026-02-05T18:50:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T19:50:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019483674031600101"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1473159080143376385",
+          "start": 0,
+          "username": "Jacque1ineWong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019483674031600101",
+    "in_reply_to_user_id": "1473159080143376385",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019454371252019564",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jacque1ineWong 先蹲一手，说不定真要投"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2019454371252019564",
+        "created_at": "2026-02-05T18:50:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T19:50:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019483674031600101"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1473159080143376385",
+              "start": 0,
+              "username": "Jacque1ineWong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019483674031600101",
+        "in_reply_to_user_id": "1473159080143376385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019454371252019564",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jacque1ineWong 先蹲一手，说不定真要投"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473159080143376385",
+        "conversation_id": "2019454371252019564",
+        "created_at": "2026-02-05T16:53:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T17:53:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019454371252019564"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/haorikotoha/st…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/haorikotoha/status/2019441216828633270",
+              "start": 33,
+              "url": "https://t.co/yuZPGCZPln"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019454371252019564",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 376,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019441216828633270",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以我需要大陆/日本的跨妹宝宝的简历 请私信投给我 有多少来多少 https://t.co/yuZPGCZPln"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02 176 65kg//mtf hrt 2025.11.21🍥//我想要很多很多的爱 欢迎聊天互fo 永远的可爱姐姐@jikeOjk7623",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 59,
+                "username": "jikeOjk7623"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992039552731725825/3Uy_y4UJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 247,
+          "like_count": 1237,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 651
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-21T05:11:17.000Z",
+        "description": "👩‍❤️‍💋‍👨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jacquelinewong",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jacquelinewong",
+                "start": 0,
+                "url": "https://t.co/XuAntiwRCB"
+              }
+            ]
+          }
+        },
+        "id": "1473159080143376385",
+        "location": "Macau",
+        "name": "茉莉奶绿黄奕缘（实习版）",
+        "pinned_tweet_id": "1981532932574761001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867107601047228416/4VAHWxes_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3819,
+          "following_count": 458,
+          "like_count": 29172,
+          "listed_count": 9,
+          "media_count": 643,
+          "tweet_count": 11134
+        },
+        "url": "https://t.co/XuAntiwRCB",
+        "username": "Jacque1ineWong",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2022683876402024533",
+    "created_at": "2026-02-17T12:55:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T13:55:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023743165711233352"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1983420652981010432",
+          "start": 0,
+          "username": "dissolvingspace"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023743165711233352",
+    "in_reply_to_user_id": "1983420652981010432",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022683876402024533",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dissolvingspace 哇哦，恭喜🎉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2022683876402024533",
+        "created_at": "2026-02-17T12:55:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T13:55:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023743165711233352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1983420652981010432",
+              "start": 0,
+              "username": "dissolvingspace"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023743165711233352",
+        "in_reply_to_user_id": "1983420652981010432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022683876402024533",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dissolvingspace 哇哦，恭喜🎉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983420652981010432",
+        "conversation_id": "2022683876402024533",
+        "created_at": "2026-02-14T14:46:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T15:46:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022683876402024533"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022683876402024533",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 6289,
+          "like_count": 100,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "经过这几天与父母的数轮博弈与沟通，父母终于开始理解我了，目前他们的态度是：心理上还是难以把我当成女儿，但可以接受我以后不结婚不生子；我可以含糖、女装，但不要当着他们的面进行；手术议题暂时搁置，等我毕业后找到稳定工作再说。\n这种结果可以说是一种阶段性胜利了，来之不易啊😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02 176 65kg//mtf hrt 2025.11.21🍥//我想要很多很多的爱 欢迎聊天互fo 永远的可爱姐姐@jikeOjk7623",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 59,
+                "username": "jikeOjk7623"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023721600491925504/NLPFudYi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 343,
+          "following_count": 379,
+          "like_count": 2757,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 1417
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-29T06:29:01.000Z",
+        "description": "🏳️‍⚧️🍥00年大龄MTF（HRT 始于2025.10）丨🟣INTP  丨📍原籍山东，现常居武汉 丨抗郁治疗中〡爱人@Square527",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 59,
+                "username": "Square527"
+              }
+            ]
+          }
+        },
+        "id": "1983420652981010432",
+        "location": "武汉市",
+        "name": "小溶🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2003335516155252774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001162086848847873/PbkAI_vQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 928,
+          "following_count": 344,
+          "like_count": 641,
+          "listed_count": 1,
+          "media_count": 133,
+          "tweet_count": 845
+        },
+        "username": "dissolvingspace",
+        "verified": false
+      }
+    ]
+  }
+}

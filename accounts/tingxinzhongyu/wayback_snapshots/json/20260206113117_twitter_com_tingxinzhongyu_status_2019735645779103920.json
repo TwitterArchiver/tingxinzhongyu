@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2019735631128309760"
+      ]
+    },
+    "author_id": "1992038421318205440",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2019735645779103920",
+    "created_at": "2026-02-06T11:31:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T12:31:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2019735645779103920"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zXqQPnyQW5",
+          "end": 171,
+          "expanded_url": "https://x.com/tingxinzhongyu/status/2019735645779103920/photo/1",
+          "media_key": "3_2019735631128309760",
+          "start": 148,
+          "url": "https://t.co/zXqQPnyQW5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019735645779103920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天压力又大又难过的\n以为鲨鲨今天会到，还有我新的椅子（从小学用到现在），结果现在他俩背着我在苏州开party，只能期待明天能到了吗\n\n按你胃，妈妈今天吃饭准备了十几个生蚝给我吃，她坚定得像感觉到要失去什么hhhh\n\n可是妈妈😦，当男生真的好累，成家立业儿孙满堂什么的根本做不到啊😭放过我好吗… https://t.co/zXqQPnyQW5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2019735631128309760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAeK2wGaMAAs-h0.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019735631128309760"
+          ]
+        },
+        "author_id": "1992038421318205440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2019735645779103920",
+        "created_at": "2026-02-06T11:31:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T12:31:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019735645779103920"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zXqQPnyQW5",
+              "end": 171,
+              "expanded_url": "https://x.com/tingxinzhongyu/status/2019735645779103920/photo/1",
+              "media_key": "3_2019735631128309760",
+              "start": 148,
+              "url": "https://t.co/zXqQPnyQW5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019735645779103920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天压力又大又难过的\n以为鲨鲨今天会到，还有我新的椅子（从小学用到现在），结果现在他俩背着我在苏州开party，只能期待明天能到了吗\n\n按你胃，妈妈今天吃饭准备了十几个生蚝给我吃，她坚定得像感觉到要失去什么hhhh\n\n可是妈妈😦，当男生真的好累，成家立业儿孙满堂什么的根本做不到啊😭放过我好吗… https://t.co/zXqQPnyQW5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02 176 65kg//mtf hrt 2025.11.21🍥//我想要很多很多的爱 欢迎聊天互fo 永远的可爱姐姐@jikeOjk7623",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 59,
+                "username": "jikeOjk7623"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992039552731725825/3Uy_y4UJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 256,
+          "like_count": 1279,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 664
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      }
+    ]
+  }
+}

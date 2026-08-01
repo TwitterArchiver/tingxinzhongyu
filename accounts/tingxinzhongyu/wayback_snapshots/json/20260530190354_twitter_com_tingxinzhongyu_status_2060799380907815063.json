@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060799350201331712",
+        "3_2060799350201344000"
+      ]
+    },
+    "author_id": "1992038421318205440",
+    "conversation_id": "2060799380907815063",
+    "created_at": "2026-05-30T19:03:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T20:03:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060799380907815063"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/bhuFKdt1f3",
+          "end": 40,
+          "expanded_url": "https://x.com/tingxinzhongyu/status/2060799380907815063/photo/1",
+          "media_key": "3_2060799350201331712",
+          "start": 17,
+          "url": "https://t.co/bhuFKdt1f3"
+        },
+        {
+          "display_url": "pic.x.com/bhuFKdt1f3",
+          "end": 40,
+          "expanded_url": "https://x.com/tingxinzhongyu/status/2060799380907815063/photo/1",
+          "media_key": "3_2060799350201344000",
+          "start": 17,
+          "url": "https://t.co/bhuFKdt1f3"
+        },
+        {
+          "display_url": "x.com/tingxinzhongyu…",
+          "end": 64,
+          "expanded_url": "https://twitter.com/tingxinzhongyu/status/2060790999811846292",
+          "start": 41,
+          "url": "https://t.co/ImmcuJCvA0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060799380907815063",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060790999811846292",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "恭喜大巴黎卫冕\n巴佩你还睡得着吗 https://t.co/bhuFKdt1f3 https://t.co/ImmcuJCvA0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3024,
+        "media_key": "3_2060799350201331712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJluFyYbMAAt2c4.jpg",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "media_key": "3_2060799350201344000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJluFyYbYAA8aBh.jpg",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "media_key": "3_2060790968182534144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJlmd47acAAkvjg.jpg",
+        "width": 3938
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060799350201331712",
+            "3_2060799350201344000"
+          ]
+        },
+        "author_id": "1992038421318205440",
+        "conversation_id": "2060799380907815063",
+        "created_at": "2026-05-30T19:03:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T20:03:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060799380907815063"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bhuFKdt1f3",
+              "end": 40,
+              "expanded_url": "https://x.com/tingxinzhongyu/status/2060799380907815063/photo/1",
+              "media_key": "3_2060799350201331712",
+              "start": 17,
+              "url": "https://t.co/bhuFKdt1f3"
+            },
+            {
+              "display_url": "pic.x.com/bhuFKdt1f3",
+              "end": 40,
+              "expanded_url": "https://x.com/tingxinzhongyu/status/2060799380907815063/photo/1",
+              "media_key": "3_2060799350201344000",
+              "start": 17,
+              "url": "https://t.co/bhuFKdt1f3"
+            },
+            {
+              "display_url": "x.com/tingxinzhongyu…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/tingxinzhongyu/status/2060790999811846292",
+              "start": 41,
+              "url": "https://t.co/ImmcuJCvA0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060799380907815063",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060790999811846292",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "恭喜大巴黎卫冕\n巴佩你还睡得着吗 https://t.co/bhuFKdt1f3 https://t.co/ImmcuJCvA0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060790968182534144"
+          ]
+        },
+        "author_id": "1992038421318205440",
+        "conversation_id": "2060790999811846292",
+        "created_at": "2026-05-30T18:30:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T19:30:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060790999811846292"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5s4Li84UiD",
+              "end": 126,
+              "expanded_url": "https://x.com/tingxinzhongyu/status/2060790999811846292/photo/1",
+              "media_key": "3_2060790968182534144",
+              "start": 103,
+              "url": "https://t.co/5s4Li84UiD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060790999811846292",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近多半是听哈基米音乐听多了\n得了一种听到哈基米就想笑的🧊\n看欧冠也不知道哪个国家的解说\n哈基米一拿球他就正儿八经哈基米一声\n于是说一次哈基米我笑一次\n于是一股脑看了下去\n无心看球 纯为了这个醋包的这饺子 https://t.co/5s4Li84UiD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "176 65kg｜mtf ｜Best friend @kanonobambi ｜ ｜hrt 2025.11.21-2026.2.13🍥｜我想要很多很多的爱｜永远的可爱姐姐@jikeOjk7623 ｜@HappyHejsDay的兵！｜超温柔妹妹@sophhhsama @axzamyzed！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "kanonobambi"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "jikeOjk7623"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 132,
+                "start": 121,
+                "username": "sophhhsama"
+              },
+              {
+                "end": 143,
+                "start": 133,
+                "username": "axzamyzed"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028106888488026112/tHHVMk_N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 778,
+          "following_count": 472,
+          "like_count": 4724,
+          "listed_count": 3,
+          "media_count": 125,
+          "tweet_count": 2828
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      }
+    ]
+  }
+}

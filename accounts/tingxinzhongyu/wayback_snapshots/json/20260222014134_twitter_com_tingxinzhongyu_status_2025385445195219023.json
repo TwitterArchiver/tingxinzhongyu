@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2025384304491332076",
+    "created_at": "2026-02-22T01:41:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T02:41:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025385445195219023"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1519382545200291840",
+          "start": 0,
+          "username": "hzattach"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025385445195219023",
+    "in_reply_to_user_id": "1519382545200291840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025384304491332076",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hzattach hrt好像真的能让人开心久一点"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2025384304491332076",
+        "created_at": "2026-02-22T01:41:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T02:41:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025385445195219023"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1519382545200291840",
+              "start": 0,
+              "username": "hzattach"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025385445195219023",
+        "in_reply_to_user_id": "1519382545200291840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025384304491332076",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hzattach hrt好像真的能让人开心久一点"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1519382545200291840",
+        "conversation_id": "2025384304491332076",
+        "created_at": "2026-02-22T01:37:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T02:37:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025384304491332076"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025384304491332076",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一些很想说出来的话：\n第二次hrt和第一次间隔了两年，可以说超级久。。？\n虽然hrt后又开始吃抗抑郁的药，但是我觉得没有hrt呢时候可能精神状态更差呢，遇到痛苦是麻木的，但快乐是易逝的，每天都浑浑噩噩。\nhrt之后就觉得自己的情感变细腻了，虽然难过的时候更难过了，但是也更能体验到快乐的感觉。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02 176 65kg//mtf hrt 2025.11.21-2026.2.13🍥//我想要很多很多的爱 欢迎聊天互fo 永远的可爱姐姐@jikeOjk7623 // @HappyHejsDay的兵！//超温柔妹妹@sophhhsama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 69,
+                "username": "jikeOjk7623"
+              },
+              {
+                "end": 98,
+                "start": 85,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 119,
+                "start": 108,
+                "username": "sophhhsama"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023721600491925504/NLPFudYi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 461,
+          "following_count": 423,
+          "like_count": 3237,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 1745
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-27T18:26:53.000Z",
+        "description": "🏳️‍⚧️\n/希望变得有意义\n/04年生算老登吗？\n/终于又开始hrt了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/attachment1145…",
+                "end": 23,
+                "expanded_url": "http://t.me/attachment114514",
+                "start": 0,
+                "url": "https://t.co/zkOERGI5Qx"
+              }
+            ]
+          }
+        },
+        "id": "1519382545200291840",
+        "location": "武汉",
+        "name": "Attachment",
+        "pinned_tweet_id": "1705049579677433899",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1728663819445284864/XvW_taEe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 951,
+          "following_count": 1028,
+          "like_count": 18295,
+          "listed_count": 3,
+          "media_count": 242,
+          "tweet_count": 3619
+        },
+        "url": "https://t.co/zkOERGI5Qx",
+        "username": "hzattach",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2024315785699873146",
+    "created_at": "2026-02-19T02:51:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T03:51:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024315785699873146"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tingxinzhongyu…",
+          "end": 177,
+          "expanded_url": "https://twitter.com/tingxinzhongyu/status/2024313758169125161",
+          "start": 154,
+          "url": "https://t.co/cNydL6c2qS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024315785699873146",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024313758169125161",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "超级mtf噩梦预警3\n悲伤之下，你好像又能发出声音了，只不过说出来的话带着哭腔断断续续\n“我明明已经在妥协停糖，为什么我想留个长发都不可以！”\n可四周一大家子十几号人没人回答，只留下\n“诶，这种头发才精神嘛”\n“又是小帅哥了哦”\n“终于跟楼下聊天不用担心人问起来了”\n“我们还是喜欢你这样子”\n惊醒 end https://t.co/cNydL6c2qS"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2024315785699873146",
+        "created_at": "2026-02-19T02:51:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T03:51:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024315785699873146"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tingxinzhongyu…",
+              "end": 177,
+              "expanded_url": "https://twitter.com/tingxinzhongyu/status/2024313758169125161",
+              "start": 154,
+              "url": "https://t.co/cNydL6c2qS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024315785699873146",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024313758169125161",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "超级mtf噩梦预警3\n悲伤之下，你好像又能发出声音了，只不过说出来的话带着哭腔断断续续\n“我明明已经在妥协停糖，为什么我想留个长发都不可以！”\n可四周一大家子十几号人没人回答，只留下\n“诶，这种头发才精神嘛”\n“又是小帅哥了哦”\n“终于跟楼下聊天不用担心人问起来了”\n“我们还是喜欢你这样子”\n惊醒 end https://t.co/cNydL6c2qS"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2024313758169125161",
+        "created_at": "2026-02-19T02:43:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T03:43:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024313758169125161"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tingxinzhongyu…",
+              "end": 131,
+              "expanded_url": "https://twitter.com/tingxinzhongyu/status/2024312562519875598",
+              "start": 108,
+              "url": "https://t.co/W0k7I8Bz5S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024313758169125161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024312562519875598",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "超级mtf噩梦预警2\n你发现自己根本转不动脖子，也发不出声音，拼尽全力也只是微微颤抖。此时第二铲到来，余光看到地面漂落的长发，你终于死心了，同时一个镜子摆到了面前，你看到里面初具规模的寸头，心里最后的防线也崩溃了… https://t.co/W0k7I8Bz5S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02 176 65kg//mtf hrt 2025.11.21-2026.2.13🍥//我想要很多很多的爱 欢迎聊天互fo 永远的可爱姐姐@jikeOjk7623",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 69,
+                "username": "jikeOjk7623"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023721600491925504/NLPFudYi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 390,
+          "like_count": 2890,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 1496
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      }
+    ]
+  }
+}

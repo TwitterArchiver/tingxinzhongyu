@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2020529207449972920",
+    "created_at": "2026-02-09T06:55:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T07:55:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020753318247825745"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1981693695578791936",
+          "start": 0,
+          "username": "Jskyeye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020753318247825745",
+    "in_reply_to_user_id": "1981693695578791936",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020529207449972920",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jskyeye 抱抱你"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2020529196951588864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HApcmXKa0AAymGD.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2020529207449972920",
+        "created_at": "2026-02-09T06:55:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T07:55:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020753318247825745"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1981693695578791936",
+              "start": 0,
+              "username": "Jskyeye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020753318247825745",
+        "in_reply_to_user_id": "1981693695578791936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020529207449972920",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jskyeye 抱抱你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020529196951588864"
+          ]
+        },
+        "author_id": "1981693695578791936",
+        "conversation_id": "2020529207449972920",
+        "created_at": "2026-02-08T16:04:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T17:04:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020529207449972920"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vaM0e5iv5g",
+              "end": 38,
+              "expanded_url": "https://x.com/Jskyeye/status/2020529207449972920/photo/1",
+              "media_key": "3_2020529196951588864",
+              "start": 15,
+              "url": "https://t.co/vaM0e5iv5g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020529207449972920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 143,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呜呜呜呜呜，又生病了🥺😵‍💫 https://t.co/vaM0e5iv5g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02 176 65kg//mtf hrt 2025.11.21🍥//我想要很多很多的爱 欢迎聊天互fo 永远的可爱姐姐@jikeOjk7623",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 59,
+                "username": "jikeOjk7623"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992039552731725825/3Uy_y4UJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 277,
+          "like_count": 1573,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 808
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-24T12:06:41.000Z",
+        "description": "原来是@JuiceskyYeye｜美食区博主?😜｜MtF｜超级深深深柜｜不支持涩涩🙅｜努力保持阳光☀️健康｜同类会回fo🥰",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "JuiceskyYeye"
+              }
+            ]
+          }
+        },
+        "id": "1981693695578791936",
+        "name": "𝐒𝐤𝐲𝐞𝐲𝐞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986750507059384320/QFwa72W5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 640,
+          "like_count": 7152,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 574
+        },
+        "username": "Jskyeye",
+        "verified": false
+      }
+    ]
+  }
+}

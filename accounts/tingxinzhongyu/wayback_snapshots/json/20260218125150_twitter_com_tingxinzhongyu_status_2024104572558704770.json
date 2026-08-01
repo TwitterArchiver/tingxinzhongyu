@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024104504657137664",
+        "3_2024104504569032704",
+        "3_2024104504564785152",
+        "3_2024104504568983553"
+      ]
+    },
+    "author_id": "1992038421318205440",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2024104572558704770",
+    "created_at": "2026-02-18T12:51:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T13:51:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024104572558704770"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/UOWO7NPo3g",
+          "end": 74,
+          "expanded_url": "https://x.com/tingxinzhongyu/status/2024104572558704770/photo/1",
+          "media_key": "3_2024104504657137664",
+          "start": 51,
+          "url": "https://t.co/UOWO7NPo3g"
+        },
+        {
+          "display_url": "pic.x.com/UOWO7NPo3g",
+          "end": 74,
+          "expanded_url": "https://x.com/tingxinzhongyu/status/2024104572558704770/photo/1",
+          "media_key": "3_2024104504569032704",
+          "start": 51,
+          "url": "https://t.co/UOWO7NPo3g"
+        },
+        {
+          "display_url": "pic.x.com/UOWO7NPo3g",
+          "end": 74,
+          "expanded_url": "https://x.com/tingxinzhongyu/status/2024104572558704770/photo/1",
+          "media_key": "3_2024104504564785152",
+          "start": 51,
+          "url": "https://t.co/UOWO7NPo3g"
+        },
+        {
+          "display_url": "pic.x.com/UOWO7NPo3g",
+          "end": 74,
+          "expanded_url": "https://x.com/tingxinzhongyu/status/2024104572558704770/photo/1",
+          "media_key": "3_2024104504568983553",
+          "start": 51,
+          "url": "https://t.co/UOWO7NPo3g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024104572558704770",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "从山东闪击成都了\n回锅肉还是那么好吃🥹\n去年离开的时候还是个小伙子 现在可就不好说了\n会被当萝莉吗？ https://t.co/UOWO7NPo3g"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2024104504657137664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBcQUqRbUAALJzL.jpg",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "media_key": "3_2024104504569032704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBcQUp8a8AA4FQ3.jpg",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "media_key": "3_2024104504564785152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBcQUp7aIAA04l3.jpg",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "media_key": "3_2024104504568983553",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBcQUp8aMAE4mbC.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024104504657137664",
+            "3_2024104504569032704",
+            "3_2024104504564785152",
+            "3_2024104504568983553"
+          ]
+        },
+        "author_id": "1992038421318205440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2024104572558704770",
+        "created_at": "2026-02-18T12:51:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T13:51:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024104572558704770"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UOWO7NPo3g",
+              "end": 74,
+              "expanded_url": "https://x.com/tingxinzhongyu/status/2024104572558704770/photo/1",
+              "media_key": "3_2024104504657137664",
+              "start": 51,
+              "url": "https://t.co/UOWO7NPo3g"
+            },
+            {
+              "display_url": "pic.x.com/UOWO7NPo3g",
+              "end": 74,
+              "expanded_url": "https://x.com/tingxinzhongyu/status/2024104572558704770/photo/1",
+              "media_key": "3_2024104504569032704",
+              "start": 51,
+              "url": "https://t.co/UOWO7NPo3g"
+            },
+            {
+              "display_url": "pic.x.com/UOWO7NPo3g",
+              "end": 74,
+              "expanded_url": "https://x.com/tingxinzhongyu/status/2024104572558704770/photo/1",
+              "media_key": "3_2024104504564785152",
+              "start": 51,
+              "url": "https://t.co/UOWO7NPo3g"
+            },
+            {
+              "display_url": "pic.x.com/UOWO7NPo3g",
+              "end": 74,
+              "expanded_url": "https://x.com/tingxinzhongyu/status/2024104572558704770/photo/1",
+              "media_key": "3_2024104504568983553",
+              "start": 51,
+              "url": "https://t.co/UOWO7NPo3g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024104572558704770",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "从山东闪击成都了\n回锅肉还是那么好吃🥹\n去年离开的时候还是个小伙子 现在可就不好说了\n会被当萝莉吗？ https://t.co/UOWO7NPo3g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02 176 65kg//mtf hrt 2025.11.21-2026.2.13🍥//我想要很多很多的爱 欢迎聊天互fo 永远的可爱姐姐@jikeOjk7623",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 69,
+                "username": "jikeOjk7623"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023721600491925504/NLPFudYi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 361,
+          "following_count": 389,
+          "like_count": 2857,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 1476
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      }
+    ]
+  }
+}

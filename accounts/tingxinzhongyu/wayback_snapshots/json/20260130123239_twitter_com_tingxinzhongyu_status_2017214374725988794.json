@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2017213233455878347",
+    "created_at": "2026-01-30T12:32:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T13:32:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017214374725988794"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1980236829455511552",
+          "start": 0,
+          "username": "PaulDrizzyvlni"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017214374725988794",
+    "in_reply_to_user_id": "1980236829455511552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017213233455878347",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PaulDrizzyvlni 傻丫头你就是女孩子"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1506,
+        "media_key": "3_2017213225461559296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_6UvavbMAAV0Md.jpg",
+        "width": 1264
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2017213233455878347",
+        "created_at": "2026-01-30T12:32:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T13:32:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017214374725988794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1980236829455511552",
+              "start": 0,
+              "username": "PaulDrizzyvlni"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017214374725988794",
+        "in_reply_to_user_id": "1980236829455511552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017213233455878347",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PaulDrizzyvlni 傻丫头你就是女孩子"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017213225461559296"
+          ]
+        },
+        "author_id": "1980236829455511552",
+        "conversation_id": "2017213233455878347",
+        "created_at": "2026-01-30T12:28:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T13:28:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017213233455878347"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1CNbN9qjEF",
+              "end": 38,
+              "expanded_url": "https://x.com/PaulDrizzyvlni/status/2017213233455878347/photo/1",
+              "media_key": "3_2017213225461559296",
+              "start": 15,
+              "url": "https://t.co/1CNbN9qjEF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017213233455878347",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🫣🫣🫣女的捧杀男的诋毁😭😭😭 https://t.co/1CNbN9qjEF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02 176 130/mtf hrt 2025.11🍥/我想要很多很多的爱 欢迎聊天互fo",
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992039552731725825/3Uy_y4UJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 176,
+          "like_count": 746,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 449
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-20T11:37:56.000Z",
+        "description": "重生日 25.11.18/天空树/爱发高p照仔细甄别😵‍💫/发日常/成分复杂/篮球世家🌚运动跨😹best athlete must be @Yg_Trece @TheTraeYoung !/会给同类互fo/好姐姐 @HappyHejsDay 特别的 @shixveriya 🥰/安卓小号 @PG13LD77",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 69,
+                "username": "Yg_Trece"
+              },
+              {
+                "end": 92,
+                "start": 79,
+                "username": "TheTraeYoung"
+              },
+              {
+                "end": 120,
+                "start": 107,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 136,
+                "start": 125,
+                "username": "shixveriya"
+              },
+              {
+                "end": 153,
+                "start": 144,
+                "username": "PG13LD77"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pauldrizzyvlni",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pauldrizzyvlni",
+                "start": 0,
+                "url": "https://t.co/MqRT8JnI3l"
+              }
+            ]
+          }
+        },
+        "id": "1980236829455511552",
+        "location": "Palmdale, California, USA",
+        "name": "wish happiness 😵‍💫🍥😵‍💫",
+        "pinned_tweet_id": "2012493096089690351",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997894762838556672/_NU9ap_W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 974,
+          "following_count": 742,
+          "like_count": 2818,
+          "listed_count": 0,
+          "media_count": 154,
+          "tweet_count": 2506
+        },
+        "url": "https://t.co/MqRT8JnI3l",
+        "username": "PaulDrizzyvlni",
+        "verified": false
+      }
+    ]
+  }
+}

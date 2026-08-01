@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2005301357058863231",
+    "created_at": "2026-01-31T16:14:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T17:14:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017632505747411417"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1868318380970987520",
+          "start": 0,
+          "username": "shidailiang247"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017632505747411417",
+    "in_reply_to_user_id": "1868318380970987520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005301357058863231",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shidailiang247 抽烟好像是对的，就是太贵了还有味"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2005301357058863231",
+        "created_at": "2026-01-31T16:14:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T17:14:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017632505747411417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1868318380970987520",
+              "start": 0,
+              "username": "shidailiang247"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017632505747411417",
+        "in_reply_to_user_id": "1868318380970987520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005301357058863231",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shidailiang247 抽烟好像是对的，就是太贵了还有味"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868318380970987520",
+        "conversation_id": "2005301357058863231",
+        "created_at": "2025-12-28T15:34:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T16:34:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005301357058863231"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2005301357058863231",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 304,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在想要不要试试抽烟，不o不割的话，也不知道该干什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02 176 65kg/mtf hrt 2025.11🍥/我想要很多很多的爱 欢迎聊天互fo",
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992039552731725825/3Uy_y4UJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 187,
+          "like_count": 814,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 485
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-15T15:33:15.000Z",
+        "description": "10年小资历mtf🏳️‍⚧️/2025.10.15服用色/11.7服用补/174cm 56kg/半家长党半妥协党/已炸柜/小证含糖/在校初三生/vrchat：代凉shjllll/抑郁精分/老婆:@qiyue_ruo_MTvv7/老公:@Neekonya7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 97,
+                "username": "qiyue_ruo_MTvv7"
+              },
+              {
+                "end": 127,
+                "start": 117,
+                "username": "Neekonya7"
+              }
+            ]
+          }
+        },
+        "id": "1868318380970987520",
+        "location": "小城市",
+        "name": "代凉shjllll🏳️‍⚧️",
+        "pinned_tweet_id": "2017480982627291554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006370725578592256/KpCdQG5R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 53,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 122
+        },
+        "username": "shidailiang247",
+        "verified": false
+      }
+    ]
+  }
+}

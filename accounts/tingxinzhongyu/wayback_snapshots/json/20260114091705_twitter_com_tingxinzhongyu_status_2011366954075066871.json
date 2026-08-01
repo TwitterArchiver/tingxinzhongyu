@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2011366954075066871",
+    "created_at": "2026-01-14T09:17:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-14T10:17:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2011366954075066871"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 187,
+          "start": 172,
+          "tag": "GenderRoleTest"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Curious about how you fit into traditional gender roles? Take this test to learn about your masculine and feminine traits. Based on Dr. Sandra Bem’s research.",
+          "display_url": "arealme.com/gender-role-te…",
+          "end": 171,
+          "expanded_url": "https://www.arealme.com/gender-role-test/en/20712165",
+          "images": [
+            {
+              "height": 628,
+              "url": "https://pbs.twimg.com/news_img/2011366955702468608/WrJVJtBT?format=png&name=orig",
+              "width": 1199
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2011366955702468608/WrJVJtBT?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 148,
+          "status": 200,
+          "title": "My Gender Role Test details are: ♀ Female: 89.06%, ♂ Male: 10.94%. Curious about your own gender role distribution? Take this quiz now to find out!",
+          "unwound_url": "https://www.arealme.com/gender-role-test/en/20712165",
+          "url": "https://t.co/btU1v0y0DM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011366954075066871",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "My Gender Role Test details are: ♀ Female: 89.06%, ♂ Male: 10.94%. Curious about your own gender role distribution? Take this quiz now to find out! https://t.co/btU1v0y0DM #GenderRoleTest"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2011366954075066871",
+        "created_at": "2026-01-14T09:17:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T10:17:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011366954075066871"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 187,
+              "start": 172,
+              "tag": "GenderRoleTest"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Curious about how you fit into traditional gender roles? Take this test to learn about your masculine and feminine traits. Based on Dr. Sandra Bem’s research.",
+              "display_url": "arealme.com/gender-role-te…",
+              "end": 171,
+              "expanded_url": "https://www.arealme.com/gender-role-test/en/20712165",
+              "images": [
+                {
+                  "height": 628,
+                  "url": "https://pbs.twimg.com/news_img/2011366955702468608/WrJVJtBT?format=png&name=orig",
+                  "width": 1199
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2011366955702468608/WrJVJtBT?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 148,
+              "status": 200,
+              "title": "My Gender Role Test details are: ♀ Female: 89.06%, ♂ Male: 10.94%. Curious about your own gender role distribution? Take this quiz now to find out!",
+              "unwound_url": "https://www.arealme.com/gender-role-test/en/20712165",
+              "url": "https://t.co/btU1v0y0DM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011366954075066871",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "My Gender Role Test details are: ♀ Female: 89.06%, ♂ Male: 10.94%. Curious about your own gender role distribution? Take this quiz now to find out! https://t.co/btU1v0y0DM #GenderRoleTest"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02年老屁股/mtf 我只想要很多很多的爱 hrt 2025.11🍥",
+        "id": "1992038421318205440",
+        "name": "听羽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992039552731725825/3Uy_y4UJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 67,
+          "like_count": 224,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 112
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      }
+    ]
+  }
+}

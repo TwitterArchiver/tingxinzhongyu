@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2016372741285494952",
+    "created_at": "2026-01-28T10:52:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T11:52:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016464293685022851"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1546431985086009344",
+          "start": 0,
+          "username": "NL8526"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016464293685022851",
+    "in_reply_to_user_id": "1546431985086009344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016372741285494952",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NL8526 加油，有没有藏药心得分享一下，慌得不行"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2016372725586288640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_uYT4tbYAAV5gX.jpg",
+        "width": 922
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2016372725762129920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_uYT5XWgAAiPfB.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2016372725925683200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_uYT5-WIAAPmCW.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2016372741285494952",
+        "created_at": "2026-01-28T10:52:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T11:52:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016464293685022851"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1546431985086009344",
+              "start": 0,
+              "username": "NL8526"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016464293685022851",
+        "in_reply_to_user_id": "1546431985086009344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016372741285494952",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NL8526 加油，有没有藏药心得分享一下，慌得不行"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016372725586288640",
+            "3_2016372725762129920",
+            "3_2016372725925683200"
+          ]
+        },
+        "author_id": "1546431985086009344",
+        "conversation_id": "2016372741285494952",
+        "created_at": "2026-01-28T04:48:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T05:48:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016372741285494952"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tpWcbrRgbE",
+              "end": 43,
+              "expanded_url": "https://x.com/NL8526/status/2016372741285494952/photo/1",
+              "media_key": "3_2016372725586288640",
+              "start": 20,
+              "url": "https://t.co/tpWcbrRgbE"
+            },
+            {
+              "display_url": "pic.x.com/tpWcbrRgbE",
+              "end": 43,
+              "expanded_url": "https://x.com/NL8526/status/2016372741285494952/photo/1",
+              "media_key": "3_2016372725762129920",
+              "start": 20,
+              "url": "https://t.co/tpWcbrRgbE"
+            },
+            {
+              "display_url": "pic.x.com/tpWcbrRgbE",
+              "end": 43,
+              "expanded_url": "https://x.com/NL8526/status/2016372741285494952/photo/1",
+              "media_key": "3_2016372725925683200",
+              "start": 20,
+              "url": "https://t.co/tpWcbrRgbE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016372741285494952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 991,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "再见了成都 回家之后要小心不能炸柜了… https://t.co/tpWcbrRgbE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02/mtf 我只想要很多很多的爱 hrt 2025.11🍥/欢迎聊天互fo",
+        "id": "1992038421318205440",
+        "name": "听羽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992039552731725825/3Uy_y4UJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 160,
+          "like_count": 650,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 391
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🇨🇳🏳️‍⚧️07MTF 🍥无证含糖 🎹音游\n🍀ISFP-T 📚本科在读 贷款上学 深柜 低气压ing 负面内容致歉…",
+        "id": "1546431985086009344",
+        "location": "参宿四",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982315591961616384/XOHEeGGT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 559,
+          "following_count": 241,
+          "like_count": 2717,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 134
+        },
+        "username": "NL8526",
+        "verified": false
+      }
+    ]
+  }
+}

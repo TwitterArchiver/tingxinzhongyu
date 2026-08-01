@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2026490912172572780",
+    "created_at": "2026-02-25T10:13:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T11:13:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026601433605546108"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1743964186064060416",
+          "start": 0,
+          "username": "DDr4_2133"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026601433605546108",
+    "in_reply_to_user_id": "1743964186064060416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026600189319111002",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DDr4_2133 这样吗\n我查查去"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2026490912172572780",
+        "created_at": "2026-02-25T10:13:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T11:13:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026601433605546108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1743964186064060416",
+              "start": 0,
+              "username": "DDr4_2133"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026601433605546108",
+        "in_reply_to_user_id": "1743964186064060416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026600189319111002",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DDr4_2133 这样吗\n我查查去"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1743964186064060416",
+        "conversation_id": "2026490912172572780",
+        "created_at": "2026-02-25T10:08:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T11:08:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026600189319111002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992038421318205440",
+              "start": 0,
+              "username": "tingxinzhongyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026600189319111002",
+        "in_reply_to_user_id": "1992038421318205440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026490912172572780",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tingxinzhongyu 建议试试伏硫西汀（专利过期了现在很便宜）或者安非他酮右美沙芬缓释片（拼多多有卖）\n舍曲林这种东西纯纯垃圾"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02 176 65kg//mtf hrt 2025.11.21-2026.2.13🍥//我想要很多很多的爱 欢迎聊天互fo 永远的可爱姐姐@jikeOjk7623 // @HappyHejsDay的兵！//超温柔妹妹@sophhhsama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 69,
+                "username": "jikeOjk7623"
+              },
+              {
+                "end": 98,
+                "start": 85,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 119,
+                "start": 108,
+                "username": "sophhhsama"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023721600491925504/NLPFudYi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 549,
+          "following_count": 442,
+          "like_count": 3719,
+          "listed_count": 2,
+          "media_count": 90,
+          "tweet_count": 2075
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-07T11:54:07.000Z",
+        "description": "男娘猫猫mtx  垃圾佬e5神教  acgn爱好者（acg接触的稍少，主要喜欢看n）玩钢丝、PUBG、wows、粥 喜看书（历史、纪实文学、轻小说轻文学、社科） 欢迎找我聊天",
+        "id": "1743964186064060416",
+        "location": "上海",
+        "name": "U.N.Owen Was her？",
+        "pinned_tweet_id": "2022372793833394194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981351634736156672/Vqbw3wHd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 1430,
+          "like_count": 8157,
+          "listed_count": 1,
+          "media_count": 61,
+          "tweet_count": 584
+        },
+        "username": "DDr4_2133",
+        "verified": false
+      }
+    ]
+  }
+}

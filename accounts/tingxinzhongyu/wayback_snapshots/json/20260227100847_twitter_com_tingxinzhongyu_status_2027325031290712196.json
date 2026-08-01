@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2026596908370911430",
+    "created_at": "2026-02-27T10:08:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T11:08:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027325031290712196"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1739915785441861632",
+          "start": 0,
+          "username": "Lem_PackageMain"
+        },
+        {
+          "end": 31,
+          "id": "81070376",
+          "start": 17,
+          "username": "CityUHongKong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027325031290712196",
+    "in_reply_to_user_id": "1739915785441861632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026596908370911430",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lem_PackageMain @CityUHongKong 恭喜！太厉害啦！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2026596905858510849",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB_rJgSaMAEc9LZ.jpg",
+        "width": 865
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2026596908370911430",
+        "created_at": "2026-02-27T10:08:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T11:08:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027325031290712196"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1739915785441861632",
+              "start": 0,
+              "username": "Lem_PackageMain"
+            },
+            {
+              "end": 31,
+              "id": "81070376",
+              "start": 17,
+              "username": "CityUHongKong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027325031290712196",
+        "in_reply_to_user_id": "1739915785441861632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026596908370911430",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lem_PackageMain @CityUHongKong 恭喜！太厉害啦！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026596905858510849"
+          ]
+        },
+        "author_id": "1739915785441861632",
+        "conversation_id": "2026596908370911430",
+        "created_at": "2026-02-25T09:55:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T10:55:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026596908370911430"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 31,
+              "id": "81070376",
+              "start": 17,
+              "username": "CityUHongKong"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AzagPxMSyB",
+              "end": 60,
+              "expanded_url": "https://x.com/Lem_PackageMain/status/2026596908370911430/photo/1",
+              "media_key": "3_2026596905858510849",
+              "start": 37,
+              "url": "https://t.co/AzagPxMSyB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026596908370911430",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2465,
+          "like_count": 22,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我测，收到港城莞的offer了😭\n@CityUHongKong 我爱你😘 https://t.co/AzagPxMSyB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02 176 65kg//mtf hrt 2025.11.21-2026.2.13🍥//我想要很多很多的爱 欢迎聊天互fo 永远的可爱姐姐@jikeOjk7623 // @HappyHejsDay的兵！//超温柔妹妹@sophhhsama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 69,
+                "username": "jikeOjk7623"
+              },
+              {
+                "end": 98,
+                "start": 85,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 119,
+                "start": 108,
+                "username": "sophhhsama"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023721600491925504/NLPFudYi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 556,
+          "following_count": 446,
+          "like_count": 3908,
+          "listed_count": 2,
+          "media_count": 92,
+          "tweet_count": 2206
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-27T07:47:12.000Z",
+        "description": "MtX/F│183cm天空树🫥│泛性恋，H/0.5│过期JK│天残家暴党（炸柜后又重新深柜ing）🙃│照骗多为高P，线下查无此人Or2│拉力B照持有者│有大证但是好像并没有什么卵用……│缺爱b一个🤕│b我的我都会回b除非我想视奸👁│本质是一个大面包所以容易膨胀、任人拿捏、一点不抗压（",
+        "id": "1739915785441861632",
+        "location": "Sonderland",
+        "name": "柠檬味的Main包🍥",
+        "pinned_tweet_id": "1983147113874895083",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787256133910155264/kksrVeC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1085,
+          "following_count": 286,
+          "like_count": 28887,
+          "listed_count": 1,
+          "media_count": 420,
+          "tweet_count": 8797
+        },
+        "username": "Lem_PackageMain",
+        "verified": false
+      },
+      {
+        "created_at": "2009-10-09T09:32:12.000Z",
+        "description": "This is the official X page of CityUHK. CityUHK is currently among the top 20 in Asia and the top 70 in the world.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "cityu.edu.hk",
+                "end": 23,
+                "expanded_url": "http://www.cityu.edu.hk",
+                "start": 0,
+                "url": "https://t.co/vy74CXGFXd"
+              }
+            ]
+          }
+        },
+        "id": "81070376",
+        "location": "Hong Kong",
+        "name": "CityU Hong Kong",
+        "pinned_tweet_id": "1991370926814879879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997138903367835648/AZM4jbwF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9035,
+          "following_count": 49,
+          "like_count": 245,
+          "listed_count": 73,
+          "media_count": 1424,
+          "tweet_count": 2423
+        },
+        "url": "https://t.co/vy74CXGFXd",
+        "username": "CityUHongKong",
+        "verified": true
+      }
+    ]
+  }
+}

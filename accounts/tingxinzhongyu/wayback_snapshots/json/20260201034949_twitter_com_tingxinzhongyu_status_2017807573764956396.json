@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2017656556112785647",
+    "created_at": "2026-02-01T03:49:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T04:49:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017807573764956396"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2005261732751802368",
+          "start": 0,
+          "username": "HappyHejsDay"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017807573764956396",
+    "in_reply_to_user_id": "2005261732751802368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017656556112785647",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HappyHejsDay 神秘男声姐姐吗？声音好听诶"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2017656479013093376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAAn4K5XQAAJgNv.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2017656478966931456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAAn4KuW4AAl-NC.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2017656478979469312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAAn4KxWMAAv6uh.jpg",
+        "width": 1536
+      },
+      {
+        "duration_ms": 40635,
+        "height": 1280,
+        "media_key": "13_2017656478996328448",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2017656478996328448/img/6oZ2-6H_Z53ce6OZ.jpg",
+        "public_metrics": {
+          "view_count": 201
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2017656478996328448/vid/avc1/320x568/SZ0vx1AlEy7CXF21.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2017656478996328448/vid/avc1/480x852/ZXzaah3Hs1k26MKB.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2017656478996328448/vid/avc1/720x1280/j3-dT3k4kfSTnjdR.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2017656478996328448/pl/i-We33ifyhNMocha.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2017656556112785647",
+        "created_at": "2026-02-01T03:49:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T04:49:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017807573764956396"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2005261732751802368",
+              "start": 0,
+              "username": "HappyHejsDay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017807573764956396",
+        "in_reply_to_user_id": "2005261732751802368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017656556112785647",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HappyHejsDay 神秘男声姐姐吗？声音好听诶"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017656479013093376",
+            "3_2017656478966931456",
+            "3_2017656478979469312",
+            "13_2017656478996328448"
+          ]
+        },
+        "author_id": "2005261732751802368",
+        "conversation_id": "2017656556112785647",
+        "created_at": "2026-01-31T17:49:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T18:49:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017656556112785647"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/f8zZiQ2RSQ",
+              "end": 81,
+              "expanded_url": "https://x.com/HappyHejsDay/status/2017656556112785647/video/1",
+              "media_key": "3_2017656479013093376",
+              "start": 58,
+              "url": "https://t.co/f8zZiQ2RSQ"
+            },
+            {
+              "display_url": "pic.x.com/f8zZiQ2RSQ",
+              "end": 81,
+              "expanded_url": "https://x.com/HappyHejsDay/status/2017656556112785647/video/1",
+              "media_key": "3_2017656478966931456",
+              "start": 58,
+              "url": "https://t.co/f8zZiQ2RSQ"
+            },
+            {
+              "display_url": "pic.x.com/f8zZiQ2RSQ",
+              "end": 81,
+              "expanded_url": "https://x.com/HappyHejsDay/status/2017656556112785647/video/1",
+              "media_key": "3_2017656478979469312",
+              "start": 58,
+              "url": "https://t.co/f8zZiQ2RSQ"
+            },
+            {
+              "display_url": "pic.x.com/f8zZiQ2RSQ",
+              "end": 81,
+              "expanded_url": "https://x.com/HappyHejsDay/status/2017656556112785647/video/1",
+              "media_key": "13_2017656478996328448",
+              "start": 58,
+              "url": "https://t.co/f8zZiQ2RSQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017656556112785647",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 510,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Hej打枪🔫初体验🤭\n这个是美国的靶场，全部真枪实弹\n不是国内的.22弹药，全部都是无铅纯铜9mm弹药，非常刺激😎 https://t.co/f8zZiQ2RSQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02 176 65kg/mtf hrt 2025.11🍥/我想要很多很多的爱 欢迎聊天互fo 永远的可爱姐姐@jikeOjk7623",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 54,
+                "username": "jikeOjk7623"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992039552731725825/3Uy_y4UJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 190,
+          "like_count": 839,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 492
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-28T12:57:17.000Z",
+        "description": "低脂國奻｜衰老阿姨｜中獎滿天星｜Queer｜amab｜🇭🇰🇹🇼🇨🇳🇲🇴｜弱智香港大學生｜大灣區爬蟲｜失敗交易員｜見習碼農｜某司神秘研發人員｜健全逼｜好人｜同类互fo｜前世@franciswwwww｜寵物@Fe_ions｜寶寶們@MoriSaSaaa @SuzukiHnnn @PaulDrizzyvlni",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 85,
+                "username": "franciswwwww"
+              },
+              {
+                "end": 109,
+                "start": 101,
+                "username": "Fe_ions"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "MoriSaSaaa"
+              },
+              {
+                "end": 136,
+                "start": 125,
+                "username": "SuzukiHnnn"
+              },
+              {
+                "end": 152,
+                "start": 137,
+                "username": "PaulDrizzyvlni"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/franciswwwww",
+                "end": 23,
+                "expanded_url": "https://ngl.link/franciswwwww",
+                "start": 0,
+                "url": "https://t.co/XuuvUtwymh"
+              }
+            ]
+          }
+        },
+        "id": "2005261732751802368",
+        "location": "In your heart",
+        "name": "𝕙𝕖𝕛😉二號機（假期版",
+        "pinned_tweet_id": "2015422685984248135",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012708787048652800/hgC2ksJ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 447,
+          "following_count": 755,
+          "like_count": 3185,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 1831
+        },
+        "url": "https://t.co/XuuvUtwymh",
+        "username": "HappyHejsDay",
+        "verified": false
+      }
+    ]
+  }
+}

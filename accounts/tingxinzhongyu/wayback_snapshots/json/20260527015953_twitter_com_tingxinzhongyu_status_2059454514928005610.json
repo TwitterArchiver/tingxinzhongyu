@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2059279700779004348",
+    "created_at": "2026-05-27T01:59:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T02:59:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059454514928005610"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1633696677759684608",
+          "start": 0,
+          "username": "aKIPPUz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059454514928005610",
+    "in_reply_to_user_id": "1633696677759684608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059279700779004348",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aKIPPUz 感觉好漂亮 会上苹果商店吗（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_2059279691840921600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJQH-B1aoAAIJ0m.jpg",
+        "width": 1200
+      },
+      {
+        "height": 900,
+        "media_key": "3_2059279691920609280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJQH-CIakAAuXy5.jpg",
+        "width": 1200
+      },
+      {
+        "height": 900,
+        "media_key": "3_2059279692243644416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJQH-DVbsAAYpXR.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2059279700779004348",
+        "created_at": "2026-05-27T01:59:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T02:59:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059454514928005610"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1633696677759684608",
+              "start": 0,
+              "username": "aKIPPUz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059454514928005610",
+        "in_reply_to_user_id": "1633696677759684608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059279700779004348",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aKIPPUz 感觉好漂亮 会上苹果商店吗（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059279691840921600",
+            "3_2059279691920609280",
+            "3_2059279692243644416"
+          ]
+        },
+        "author_id": "1633696677759684608",
+        "conversation_id": "2059279700779004348",
+        "created_at": "2026-05-26T14:25:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T15:25:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059279700779004348"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "本次更新主要内容是跨页交互体验与系统兼容性的深度优化 新增功能 交互：全面重构主导航，实现“时间轴-详情-我的”这三个页面的左右手势滑动切换（从卡片点击进入保留了详情页的淡出） UI 迭代： 主题颜色的话，弹窗、选中态及容器色系统一为中性灰与云璃白 然后还有底部导航栏换成了胶囊悬浮样式，去掉了文字的引导 各个地方的色调都更加统一 **国际化 **：正式上线中英文多语言支持，支持在设...",
+              "display_url": "github.com/KIPPUDESU/KIPP…",
+              "end": 103,
+              "expanded_url": "https://github.com/KIPPUDESU/KIPPU_Trace/releases/tag/v2.0.0-Stable",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2059276766355873792/vnPeIAjJ?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2059276766355873792/vnPeIAjJ?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 80,
+              "status": 200,
+              "title": "Release TimeTrace v2.0.0-Stable · KIPPUDESU/KIPPU_Trace",
+              "unwound_url": "https://github.com/KIPPUDESU/KIPPU_Trace/releases/tag/v2.0.0-Stable",
+              "url": "https://t.co/IMjpF9Npq6"
+            },
+            {
+              "display_url": "pic.x.com/phHUM2AUfm",
+              "end": 127,
+              "expanded_url": "https://x.com/aKIPPUz/status/2059279700779004348/photo/1",
+              "media_key": "3_2059279691840921600",
+              "start": 104,
+              "url": "https://t.co/phHUM2AUfm"
+            },
+            {
+              "display_url": "pic.x.com/phHUM2AUfm",
+              "end": 127,
+              "expanded_url": "https://x.com/aKIPPUz/status/2059279700779004348/photo/1",
+              "media_key": "3_2059279691920609280",
+              "start": 104,
+              "url": "https://t.co/phHUM2AUfm"
+            },
+            {
+              "display_url": "pic.x.com/phHUM2AUfm",
+              "end": 127,
+              "expanded_url": "https://x.com/aKIPPUz/status/2059279700779004348/photo/1",
+              "media_key": "3_2059279692243644416",
+              "start": 104,
+              "url": "https://t.co/phHUM2AUfm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059279700779004348",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 62,
+          "impression_count": 6308,
+          "like_count": 114,
+          "quote_count": 3,
+          "reply_count": 8,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "你应该不再忍受那个复古的倒数日\n可以看看这个小巧无广的 TimeTrace\n\n主要基于极简的 Material 3 框架设计\n还有切符的个人审美和小巧思 w\n\nhttps://t.co/IMjpF9Npq6 https://t.co/phHUM2AUfm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "176 65kg｜mtf ｜Best friend @kanonobambi ｜ ｜hrt 2025.11.21-2026.2.13🍥｜我想要很多很多的爱｜永远的可爱姐姐@jikeOjk7623 ｜@HappyHejsDay的兵！｜超温柔妹妹@sophhhsama @axzamyzed！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "kanonobambi"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "jikeOjk7623"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 132,
+                "start": 121,
+                "username": "sophhhsama"
+              },
+              {
+                "end": 143,
+                "start": 133,
+                "username": "axzamyzed"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028106888488026112/tHHVMk_N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 766,
+          "following_count": 468,
+          "like_count": 4680,
+          "listed_count": 3,
+          "media_count": 122,
+          "tweet_count": 2794
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-09T05:10:23.000Z",
+        "description": "Front-End｜Just hug me in the paradise.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/aKIPPUz",
+                "end": 23,
+                "expanded_url": "https://lit.link/aKIPPUz",
+                "start": 0,
+                "url": "https://t.co/3EiK0sdqxN"
+              }
+            ]
+          }
+        },
+        "id": "1633696677759684608",
+        "name": "切符",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024540141927399424/QDoZIYCA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317,
+          "following_count": 87,
+          "like_count": 62850,
+          "listed_count": 4,
+          "media_count": 72,
+          "tweet_count": 4028
+        },
+        "url": "https://t.co/3EiK0sdqxN",
+        "username": "aKIPPUz",
+        "verified": false
+      }
+    ]
+  }
+}

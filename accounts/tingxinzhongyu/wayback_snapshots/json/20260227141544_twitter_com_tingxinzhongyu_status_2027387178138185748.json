@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2027373915207848363",
+    "created_at": "2026-02-27T14:15:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T15:15:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027387178138185748"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1926444025478778880",
+          "start": 0,
+          "username": "seiran3210"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027387178138185748",
+    "in_reply_to_user_id": "1926444025478778880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027373915207848363",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@seiran3210 啊😦真的吗\n好像一直吃错了……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2027373915207848363",
+        "created_at": "2026-02-27T14:15:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T15:15:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027387178138185748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1926444025478778880",
+              "start": 0,
+              "username": "seiran3210"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027387178138185748",
+        "in_reply_to_user_id": "1926444025478778880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027373915207848363",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seiran3210 啊😦真的吗\n好像一直吃错了……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926444025478778880",
+        "conversation_id": "2027373915207848363",
+        "created_at": "2026-02-27T13:23:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T14:23:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027373915207848363"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027373915207848363",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "含补子的时候要用牙先咬碎再放到舌头下才吸收得快，不然糖衣在舌头下化成一包糖水想咽又不敢咽。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02 176 65kg//mtf hrt 2025.11.21-2026.2.13🍥//我想要很多很多的爱 欢迎聊天互fo 永远的可爱姐姐@jikeOjk7623 // @HappyHejsDay的兵！//超温柔妹妹@sophhhsama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 69,
+                "username": "jikeOjk7623"
+              },
+              {
+                "end": 98,
+                "start": 85,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 119,
+                "start": 108,
+                "username": "sophhhsama"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023721600491925504/NLPFudYi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 558,
+          "following_count": 446,
+          "like_count": 3926,
+          "listed_count": 2,
+          "media_count": 93,
+          "tweet_count": 2216
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-25T01:03:54.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️🍥🦊🐾 ASD | ADHD | BPD | MtF/MtX? | she/they | Transles/T4T | GAHT/HRT: 20250813 | 持证含糖 | Furry | 不od不割手不鉴证",
+        "id": "1926444025478778880",
+        "name": "青嵐Seiran🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1971946838522843288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998943525082378244/r2zQ0gge_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 683,
+          "like_count": 4312,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 862
+        },
+        "username": "seiran3210",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070482476368334848"
+      ],
+      "media_source_tweet_id": [
+        "2070482478855561400"
+      ]
+    },
+    "author_id": "1992038421318205440",
+    "conversation_id": "2070865656103526555",
+    "created_at": "2026-06-27T13:43:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T14:43:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070865656103526555"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1673364955171782657",
+          "start": 3,
+          "username": "kxk1388574"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ycfZGs9L2D",
+          "end": 62,
+          "expanded_url": "https://x.com/kxk1388574/status/2070482478855561400/photo/1",
+          "media_key": "3_2070482476368334848",
+          "start": 39,
+          "url": "https://t.co/ycfZGs9L2D"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070865656103526555",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070482478855561400",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kxk1388574: 之前这个号是专门用来看男娘的\n怎么我成男娘了 https://t.co/ycfZGs9L2D"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2070482476368334848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLvU16WbEAA0ZS4.jpg",
+        "width": 904
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070482476368334848"
+          ],
+          "media_source_tweet_id": [
+            "2070482478855561400"
+          ]
+        },
+        "author_id": "1992038421318205440",
+        "conversation_id": "2070865656103526555",
+        "created_at": "2026-06-27T13:43:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T14:43:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070865656103526555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1673364955171782657",
+              "start": 3,
+              "username": "kxk1388574"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ycfZGs9L2D",
+              "end": 62,
+              "expanded_url": "https://x.com/kxk1388574/status/2070482478855561400/photo/1",
+              "media_key": "3_2070482476368334848",
+              "start": 39,
+              "url": "https://t.co/ycfZGs9L2D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070865656103526555",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070482478855561400",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kxk1388574: 之前这个号是专门用来看男娘的\n怎么我成男娘了 https://t.co/ycfZGs9L2D"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070482476368334848"
+          ]
+        },
+        "author_id": "1673364955171782657",
+        "conversation_id": "2070482478855561400",
+        "created_at": "2026-06-26T12:21:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T13:21:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070482478855561400"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ycfZGs9L2D",
+              "end": 46,
+              "expanded_url": "https://x.com/kxk1388574/status/2070482478855561400/photo/1",
+              "media_key": "3_2070482476368334848",
+              "start": 23,
+              "url": "https://t.co/ycfZGs9L2D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070482478855561400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 13084,
+          "like_count": 336,
+          "quote_count": 3,
+          "reply_count": 29,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "之前这个号是专门用来看男娘的\n怎么我成男娘了 https://t.co/ycfZGs9L2D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "176 65kg｜mtf ｜Best friend @kanonobambi ｜ ｜hrt 2025.11.21-2026.2.13🍥｜我想要很多很多的爱｜永远的可爱姐姐@jikeOjk7623 ｜@HappyHejsDay的兵！｜超温柔妹妹@sophhhsama @axzamyzed！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "kanonobambi"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "jikeOjk7623"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 132,
+                "start": 121,
+                "username": "sophhhsama"
+              },
+              {
+                "end": 143,
+                "start": 133,
+                "username": "axzamyzed"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028106888488026112/tHHVMk_N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 944,
+          "following_count": 481,
+          "like_count": 4892,
+          "listed_count": 3,
+          "media_count": 134,
+          "tweet_count": 2978
+        },
+        "url": "",
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-26T16:18:03.000Z",
+        "description": "*是一只路过的🍋～\n*想聊天欢迎随时聊就好，说错话也没关系的\n*妹@lumuyuanMadoka2\n*最好的大哥哥@liychn30019070",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "lumuyuanMadoka2"
+              },
+              {
+                "end": 72,
+                "start": 57,
+                "username": "liychn30019070"
+              }
+            ]
+          }
+        },
+        "id": "1673364955171782657",
+        "location": "柠檬树上",
+        "name": "kxk🍋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785720438095745026/UTk37fi9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9987,
+          "following_count": 5873,
+          "like_count": 53773,
+          "listed_count": 15,
+          "media_count": 1004,
+          "tweet_count": 7862
+        },
+        "url": "",
+        "username": "kxk1388574",
+        "verified": true
+      }
+    ]
+  }
+}

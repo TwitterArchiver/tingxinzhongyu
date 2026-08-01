@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2022672611873034531",
+    "created_at": "2026-02-14T14:05:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T15:05:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022673633852956842"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2005261732751802368",
+          "start": 0,
+          "username": "HappyHejsDay"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022673633852956842",
+    "in_reply_to_user_id": "2005261732751802368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022672611873034531",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HappyHejsDay 感觉hej已经爽得不行了🥹"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7233,
+        "height": 1920,
+        "media_key": "13_2022672549495312384",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2022672549495312384/img/3X7QsVlgM8kHMT1N.jpg",
+        "public_metrics": {
+          "view_count": 1
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022672549495312384/vid/avc1/1080x1920/ZuO0d414Qcu93Ifm.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022672549495312384/vid/avc1/480x852/y4cT1fQFOKL2hJQW.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022672549495312384/vid/avc1/320x568/COmXEJ1SeLFKmlbn.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022672549495312384/vid/avc1/720x1280/LoiW52uGCjw0jH63.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2022672549495312384/pl/7OelD-hhbRn44sjG.m3u8"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2022672611873034531",
+        "created_at": "2026-02-14T14:05:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T15:05:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022673633852956842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2005261732751802368",
+              "start": 0,
+              "username": "HappyHejsDay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022673633852956842",
+        "in_reply_to_user_id": "2005261732751802368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022672611873034531",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HappyHejsDay 感觉hej已经爽得不行了🥹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2022672549495312384"
+          ]
+        },
+        "author_id": "2005261732751802368",
+        "conversation_id": "2022672611873034531",
+        "created_at": "2026-02-14T14:01:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T15:01:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022672611873034531"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/H4AVBIGJrg",
+              "end": 98,
+              "expanded_url": "https://x.com/HappyHejsDay/status/2022672611873034531/video/1",
+              "media_key": "13_2022672549495312384",
+              "start": 75,
+              "url": "https://t.co/H4AVBIGJrg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022672611873034531",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "店员：你孩子好秀气哦长得😚\n （向我妈提问：“到底是男的女的”）\n我妈：女孩🤓🤓🤓（🥹其实是玩笑）\n店员：我就讲嘛！！！！！\n （Hej：全程暗爽） https://t.co/H4AVBIGJrg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02 176 65kg//mtf hrt 2025.11.21🍥//我想要很多很多的爱 欢迎聊天互fo 永远的可爱姐姐@jikeOjk7623",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 59,
+                "username": "jikeOjk7623"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992039552731725825/3Uy_y4UJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 349,
+          "like_count": 2380,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 1210
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-28T12:57:17.000Z",
+        "description": "低脂國奻｜衰老阿姨｜滿天星｜Queer｜amab｜🇹🇼🇭🇰🇨🇳｜同类互fo｜前世@franciswwwww｜寵物@Fe_ions｜寶寶窩@MoriSaSaaa @SuzukiHnnn @PaulDrizzyvlni @Suimikax @YuningTepes03 @Jskyeye @zwh20081",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 40,
+                "username": "franciswwwww"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "username": "Fe_ions"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "MoriSaSaaa"
+              },
+              {
+                "end": 91,
+                "start": 80,
+                "username": "SuzukiHnnn"
+              },
+              {
+                "end": 107,
+                "start": 92,
+                "username": "PaulDrizzyvlni"
+              },
+              {
+                "end": 117,
+                "start": 108,
+                "username": "Suimikax"
+              },
+              {
+                "end": 132,
+                "start": 118,
+                "username": "YuningTepes03"
+              },
+              {
+                "end": 141,
+                "start": 133,
+                "username": "Jskyeye"
+              },
+              {
+                "end": 151,
+                "start": 142,
+                "username": "zwh20081"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/franciswwwww",
+                "end": 23,
+                "expanded_url": "https://ngl.link/franciswwwww",
+                "start": 0,
+                "url": "https://t.co/XuuvUtx6bP"
+              }
+            ]
+          }
+        },
+        "id": "2005261732751802368",
+        "location": "In your heart",
+        "name": "𝕙𝕖𝕛😉二號機（悲傷版",
+        "pinned_tweet_id": "2021900695356813783",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021381883918155776/nRmYht_H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 576,
+          "following_count": 895,
+          "like_count": 4576,
+          "listed_count": 0,
+          "media_count": 172,
+          "tweet_count": 2759
+        },
+        "url": "https://t.co/XuuvUtx6bP",
+        "username": "HappyHejsDay",
+        "verified": true
+      }
+    ]
+  }
+}

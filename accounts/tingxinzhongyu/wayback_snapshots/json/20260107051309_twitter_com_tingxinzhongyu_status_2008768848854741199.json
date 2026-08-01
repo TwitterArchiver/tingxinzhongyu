@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2008730099122925576",
+    "created_at": "2026-01-07T05:13:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T06:13:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008768848854741199"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1980236829455511552",
+          "start": 0,
+          "username": "PaulDrizzyvlni"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008768848854741199",
+    "in_reply_to_user_id": "1980236829455511552",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008766564875845667",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PaulDrizzyvlni 可爱捏(ˉ▽￣～)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2008730099122925576",
+        "created_at": "2026-01-07T05:13:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T06:13:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008768848854741199"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1980236829455511552",
+              "start": 0,
+              "username": "PaulDrizzyvlni"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008768848854741199",
+        "in_reply_to_user_id": "1980236829455511552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008766564875845667",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PaulDrizzyvlni 可爱捏(ˉ▽￣～)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980236829455511552",
+        "conversation_id": "2008730099122925576",
+        "created_at": "2026-01-07T05:04:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T06:04:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008766564875845667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992038421318205440",
+              "start": 0,
+              "username": "tingxinzhongyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008766564875845667",
+        "in_reply_to_user_id": "1992038421318205440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008736038496465212",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tingxinzhongyu 心情软软的是这样呢🥲🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02年老屁股/mtf 我只想要很多很多的爱 hrt 2025.11🍥",
+        "id": "1992038421318205440",
+        "name": "听羽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992039552731725825/3Uy_y4UJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 41,
+          "like_count": 154,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 63
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-20T11:37:56.000Z",
+        "description": "高三已成年 182 大号 mtf... 半个天赋党 属顺圈 HRT25.11.18 ，070925，物化政。强烈寻找药品中 安卓号@PG13LD77 同类🉑互 fo PaulGeorge is my goat！有空来给我发消息叭https://t.co/MqRT8JnadN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 65,
+                "username": "PG13LD77"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/pauldrizzyvlni",
+                "end": 137,
+                "expanded_url": "https://ngl.link/pauldrizzyvlni",
+                "start": 114,
+                "url": "https://t.co/MqRT8JnadN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "apple.com",
+                "end": 23,
+                "expanded_url": "http://apple.com",
+                "start": 0,
+                "url": "https://t.co/dVsAsD24f0"
+              }
+            ]
+          }
+        },
+        "id": "1980236829455511552",
+        "location": "Palmdale, California, USA",
+        "name": "wish happiness 😵‍💫",
+        "pinned_tweet_id": "2002025908065149029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997894762838556672/_NU9ap_W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 424,
+          "following_count": 442,
+          "like_count": 1089,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 1021
+        },
+        "url": "https://t.co/dVsAsD24f0",
+        "username": "PaulDrizzyvlni",
+        "verified": false
+      }
+    ]
+  }
+}

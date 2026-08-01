@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2011394212760264752",
+    "created_at": "2026-01-14T18:09:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-14T19:09:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011500908400820585"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1640312069948932096",
+          "start": 0,
+          "username": "waveking1314"
+        },
+        {
+          "end": 19,
+          "id": "1720665183188922368",
+          "start": 14,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011500908400820585",
+    "in_reply_to_user_id": "1640312069948932096",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011394212760264752",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@waveking1314 @grok 牛牛"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1251,
+        "media_key": "3_2011393910141300737",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-noGr1bMAEhGe6.jpg",
+        "width": 1266
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2011394212760264752",
+        "created_at": "2026-01-14T18:09:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T19:09:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011500908400820585"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1640312069948932096",
+              "start": 0,
+              "username": "waveking1314"
+            },
+            {
+              "end": 19,
+              "id": "1720665183188922368",
+              "start": 14,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011500908400820585",
+        "in_reply_to_user_id": "1640312069948932096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011394212760264752",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@waveking1314 @grok 牛牛"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2011393910141300737"
+          ]
+        },
+        "author_id": "1640312069948932096",
+        "conversation_id": "2011394212760264752",
+        "created_at": "2026-01-14T11:05:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T12:05:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011394212760264752"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1720665183188922368",
+              "start": 2,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ceM30kkAKB",
+              "end": 80,
+              "expanded_url": "https://x.com/waveking1314/status/2011394212760264752/photo/1",
+              "media_key": "3_2011393910141300737",
+              "start": 57,
+              "url": "https://t.co/ceM30kkAKB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011394212760264752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 197758,
+          "like_count": 583,
+          "quote_count": 2,
+          "reply_count": 2997,
+          "retweet_count": 164
+        },
+        "reply_settings": "everyone",
+        "text": "嘿 @grok , 18 小时后从我的评论中随机抽取一位幸运儿，赢取 2500 美元\n\n 我会像平常一样直接开奖 https://t.co/ceM30kkAKB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02年老屁股/mtf 我只想要很多很多的爱 hrt 2025.11🍥",
+        "id": "1992038421318205440",
+        "name": "听羽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992039552731725825/3Uy_y4UJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 70,
+          "like_count": 240,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 122
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-27T11:17:38.000Z",
+        "description": "Meme币A9玩家 ｜@UniteFNF member\n自研首个由AI集成的meme币金狗信号 @Golddogcall\n\nSol信号群：https://t.co/DjxjXNydRX\n\n我会让你买在车头之前",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 11,
+                "username": "UniteFNF"
+              },
+              {
+                "end": 60,
+                "start": 48,
+                "username": "Golddogcall"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/duanlang1000x",
+                "end": 92,
+                "expanded_url": "https://t.me/duanlang1000x",
+                "start": 69,
+                "url": "https://t.co/DjxjXNydRX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/waveking1314",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/waveking1314",
+                "start": 0,
+                "url": "https://t.co/JhpiU1K6Dn"
+              }
+            ]
+          }
+        },
+        "id": "1640312069948932096",
+        "location": "联系我👉🏻",
+        "name": "断浪",
+        "pinned_tweet_id": "1996873964292018205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993879414208385024/3zH9Dcvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35132,
+          "following_count": 1040,
+          "like_count": 1002,
+          "listed_count": 67,
+          "media_count": 339,
+          "tweet_count": 1992
+        },
+        "url": "https://t.co/JhpiU1K6Dn",
+        "username": "waveking1314",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "pinned_tweet_id": "1955006865332638036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7518064,
+          "following_count": 3,
+          "like_count": 82,
+          "listed_count": 5799,
+          "media_count": 7739063,
+          "tweet_count": 90414791
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

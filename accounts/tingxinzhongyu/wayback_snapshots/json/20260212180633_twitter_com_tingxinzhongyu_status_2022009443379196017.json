@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2021975984657117585",
+    "created_at": "2026-02-12T18:06:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T19:06:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022009443379196017"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1911055843715682304",
+          "start": 0,
+          "username": "Huang_Yut1ng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022009443379196017",
+    "in_reply_to_user_id": "1911055843715682304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021975984657117585",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Huang_Yut1ng 还有两根天线哦吼吼"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2021975980592771072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA-AcQOasAAUPvY.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2021975984657117585",
+        "created_at": "2026-02-12T18:06:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T19:06:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022009443379196017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1911055843715682304",
+              "start": 0,
+              "username": "Huang_Yut1ng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022009443379196017",
+        "in_reply_to_user_id": "1911055843715682304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021975984657117585",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Huang_Yut1ng 还有两根天线哦吼吼"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021975980592771072"
+          ]
+        },
+        "author_id": "1911055843715682304",
+        "conversation_id": "2021975984657117585",
+        "created_at": "2026-02-12T15:53:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T16:53:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021975984657117585"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YDACjDc9hA",
+              "end": 38,
+              "expanded_url": "https://x.com/Huang_Yut1ng/status/2021975984657117585/photo/1",
+              "media_key": "3_2021975980592771072",
+              "start": 15,
+              "url": "https://t.co/YDACjDc9hA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021975984657117585",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 160,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "可以看出我的发梢管理很差👉👈 https://t.co/YDACjDc9hA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02 176 65kg//mtf hrt 2025.11.21🍥//我想要很多很多的爱 欢迎聊天互fo 永远的可爱姐姐@jikeOjk7623",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 59,
+                "username": "jikeOjk7623"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992039552731725825/3Uy_y4UJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 324,
+          "like_count": 2090,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 1066
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-12T13:56:54.000Z",
+        "description": "🏳️‍⚧️MTF/好朋友：@smiroyama/好姐姐：@Kisaragi_Momoe @RainLemon0715 如果给我发私信…你的私信可能会进入request list…导致我很少看到…麻烦在我帖子下面说一下我会主动去翻喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 13,
+                "username": "smiroyama"
+              },
+              {
+                "end": 43,
+                "start": 28,
+                "username": "Kisaragi_Momoe"
+              },
+              {
+                "end": 58,
+                "start": 44,
+                "username": "RainLemon0715"
+              }
+            ]
+          }
+        },
+        "id": "1911055843715682304",
+        "location": "在你心中",
+        "name": "Huang_Yut1ng🍥",
+        "pinned_tweet_id": "1995501596621582588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015426776747700225/hXDRuwnr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1001,
+          "following_count": 908,
+          "like_count": 2450,
+          "listed_count": 0,
+          "media_count": 169,
+          "tweet_count": 652
+        },
+        "username": "Huang_Yut1ng",
+        "verified": true
+      }
+    ]
+  }
+}

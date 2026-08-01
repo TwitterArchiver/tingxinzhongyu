@@ -1,0 +1,103 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2017975358738571318",
+    "created_at": "2026-02-01T14:56:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T15:56:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2017975358738571318"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2017975358738571318",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "糟糕，今晚睡前不小心透露给家里说我感觉我抑郁变严重的事，我妈好像马上好紧张好难过……\n然后她说要带我去看中医（我差点没绷住），可是我突然想到我现在开始涂凝胶和抗雄了，之前看有个视频里的中医好像能摸出来激素不同，那我就直接炸柜了诶😭\n\n所以到底能不能摸出来这些激素哇？\n有没有朋友试过嘞"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2017975358738571318",
+        "created_at": "2026-02-01T14:56:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T15:56:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017975358738571318"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2017975358738571318",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "糟糕，今晚睡前不小心透露给家里说我感觉我抑郁变严重的事，我妈好像马上好紧张好难过……\n然后她说要带我去看中医（我差点没绷住），可是我突然想到我现在开始涂凝胶和抗雄了，之前看有个视频里的中医好像能摸出来激素不同，那我就直接炸柜了诶😭\n\n所以到底能不能摸出来这些激素哇？\n有没有朋友试过嘞"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02 176 65kg/mtf hrt 2025.11🍥/我想要很多很多的爱 欢迎聊天互fo 永远的可爱姐姐@jikeOjk7623",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 54,
+                "username": "jikeOjk7623"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992039552731725825/3Uy_y4UJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 193,
+          "like_count": 865,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 502
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      }
+    ]
+  }
+}

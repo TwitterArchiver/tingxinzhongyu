@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2008371501037482140",
+    "created_at": "2026-01-06T03:47:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T04:47:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008384805940195667"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1980236829455511552",
+          "start": 0,
+          "username": "PaulDrizzyvlni"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008384805940195667",
+    "in_reply_to_user_id": "1980236829455511552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008371501037482140",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PaulDrizzyvlni 不要担心啦，真去也不一定过，好像检测项目挺多的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2008371501037482140",
+        "created_at": "2026-01-06T03:47:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T04:47:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008384805940195667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1980236829455511552",
+              "start": 0,
+              "username": "PaulDrizzyvlni"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008384805940195667",
+        "in_reply_to_user_id": "1980236829455511552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008371501037482140",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PaulDrizzyvlni 不要担心啦，真去也不一定过，好像检测项目挺多的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980236829455511552",
+        "conversation_id": "2008371501037482140",
+        "created_at": "2026-01-06T02:54:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T03:54:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008371501037482140"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008371501037482140",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我问我妈黄皮肤怎么解决我还想再白一点\n妈妈说男孩子不用这么白，第一句我就开始晕了，还让我好好休息准备征兵的那个体检😵‍💫😵‍💫😭😭\n我说不要，我不会去考军校警校，凭什么我一定要去....."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02年老屁股/mtf 我只想要很多很多的爱 hrt 2025.11🍥",
+        "id": "1992038421318205440",
+        "name": "听羽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992039552731725825/3Uy_y4UJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 35,
+          "like_count": 132,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 47
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-20T11:37:56.000Z",
+        "description": "高三已成年 182 大号 mtf... 半个天赋党 属顺圈 HRT25.11.18 ，070925，物化政。强烈寻找药品中 安卓号@PG13LD77 同类🉑互 fo PaulGeorge is my goat！有空来给我发消息叭https://t.co/MqRT8JnadN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 65,
+                "username": "PG13LD77"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/pauldrizzyvlni",
+                "end": 137,
+                "expanded_url": "https://ngl.link/pauldrizzyvlni",
+                "start": 114,
+                "url": "https://t.co/MqRT8JnadN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "apple.com",
+                "end": 23,
+                "expanded_url": "http://apple.com",
+                "start": 0,
+                "url": "https://t.co/dVsAsD24f0"
+              }
+            ]
+          }
+        },
+        "id": "1980236829455511552",
+        "location": "Palmdale, California, USA",
+        "name": "wish happiness 😵‍💫",
+        "pinned_tweet_id": "2002025908065149029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997894762838556672/_NU9ap_W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 404,
+          "following_count": 432,
+          "like_count": 1010,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 924
+        },
+        "url": "https://t.co/dVsAsD24f0",
+        "username": "PaulDrizzyvlni",
+        "verified": false
+      }
+    ]
+  }
+}

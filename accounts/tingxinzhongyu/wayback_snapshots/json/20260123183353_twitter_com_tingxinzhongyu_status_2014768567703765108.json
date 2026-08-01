@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2014695495541915774",
+    "created_at": "2026-01-23T18:33:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T19:33:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014768567703765108"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2009636788118433792",
+          "start": 0,
+          "username": "Josiezhoun0201"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014768567703765108",
+    "in_reply_to_user_id": "2009636788118433792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014695495541915774",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Josiezhoun0201 男娘不行吗呜呜🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1585,
+        "media_key": "3_2014695488759689216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_Wi32oacAAkx5G.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2014695495541915774",
+        "created_at": "2026-01-23T18:33:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T19:33:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014768567703765108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2009636788118433792",
+              "start": 0,
+              "username": "Josiezhoun0201"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014768567703765108",
+        "in_reply_to_user_id": "2009636788118433792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014695495541915774",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Josiezhoun0201 男娘不行吗呜呜🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014695488759689216"
+          ]
+        },
+        "author_id": "2009636788118433792",
+        "conversation_id": "2014695495541915774",
+        "created_at": "2026-01-23T13:43:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T14:43:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014695495541915774"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pDjXcRt5KT",
+              "end": 60,
+              "expanded_url": "https://x.com/Josiezhoun0201/status/2014695495541915774/photo/1",
+              "media_key": "3_2014695488759689216",
+              "start": 37,
+              "url": "https://t.co/pDjXcRt5KT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014695495541915774",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4707,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "0\n女孩子的话可以！\n初中同学（？\n161\n这种事无所谓的吧？\n不可以❌ https://t.co/pDjXcRt5KT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02/mtf 我只想要很多很多的爱 hrt 2025.11🍥/欢迎聊天互fo",
+        "id": "1992038421318205440",
+        "name": "听羽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992039552731725825/3Uy_y4UJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 106,
+          "like_count": 448,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 236
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-09T14:42:15.000Z",
+        "description": "可以叫我舟舟/Josie酱｜双性恋偏女孩子｜我只是想发点乱七八糟的｜高中生｜学业繁忙 不能及时回复请见谅｜欢迎女孩子来互fo/闲聊 不回没礼貌的私信｜提问箱➡️https://t.co/0i4f0P0ndT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zhou34337",
+                "end": 103,
+                "expanded_url": "https://ngl.link/zhou34337",
+                "start": 80,
+                "url": "https://t.co/0i4f0P0ndT"
+              }
+            ]
+          }
+        },
+        "id": "2009636788118433792",
+        "name": "Josie zhou",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010257622536957952/6l1MhC_O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 580,
+          "following_count": 47,
+          "like_count": 290,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 181
+        },
+        "username": "Josiezhoun0201",
+        "verified": false
+      }
+    ]
+  }
+}

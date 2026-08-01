@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2046187234785907127",
+    "created_at": "2026-04-21T02:43:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T03:43:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046419442176061451"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1247341459260366849",
+          "start": 0,
+          "username": "Elaina_kanade"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046419442176061451",
+    "in_reply_to_user_id": "1247341459260366849",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046380682159829136",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Elaina_kanade 去！应该会是不错的选择（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2046187234785907127",
+        "created_at": "2026-04-21T02:43:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T03:43:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046419442176061451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1247341459260366849",
+              "start": 0,
+              "username": "Elaina_kanade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046419442176061451",
+        "in_reply_to_user_id": "1247341459260366849",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046380682159829136",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Elaina_kanade 去！应该会是不错的选择（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1247341459260366849",
+        "conversation_id": "2046187234785907127",
+        "created_at": "2026-04-21T00:09:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T01:09:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046380682159829136"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992038421318205440",
+              "start": 0,
+              "username": "tingxinzhongyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046380682159829136",
+        "in_reply_to_user_id": "1992038421318205440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046187234785907127",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tingxinzhongyu 好厉害诶，我也想去nus的说"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "176 65kg｜mtf ｜Angel lover @kanonobambi ｜ ｜hrt 2025.11.21-2026.2.13🍥｜我想要很多很多的爱｜永远的可爱姐姐@jikeOjk7623 ｜@HappyHejsDay的兵！｜超温柔妹妹@sophhhsama @axzamyzed！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "kanonobambi"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "jikeOjk7623"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 132,
+                "start": 121,
+                "username": "sophhhsama"
+              },
+              {
+                "end": 143,
+                "start": 133,
+                "username": "axzamyzed"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028106888488026112/tHHVMk_N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 695,
+          "following_count": 465,
+          "like_count": 4640,
+          "listed_count": 2,
+          "media_count": 116,
+          "tweet_count": 2665
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-07T01:52:42.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "shiyunyao.top",
+                "end": 23,
+                "expanded_url": "http://www.shiyunyao.top",
+                "start": 0,
+                "url": "https://t.co/nm3iDqVW2u"
+              }
+            ]
+          }
+        },
+        "id": "1247341459260366849",
+        "name": "星萤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025614403039891456/ojIDbGC9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 63,
+          "like_count": 148,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 52
+        },
+        "url": "https://t.co/nm3iDqVW2u",
+        "username": "Elaina_kanade",
+        "verified": false
+      }
+    ]
+  }
+}

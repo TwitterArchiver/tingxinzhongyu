@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022635511609962496",
+        "3_2022635511618375682",
+        "3_2022635511635165184",
+        "3_2022635512549527552"
+      ]
+    },
+    "author_id": "1992038421318205440",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2022635655436865965",
+    "created_at": "2026-02-14T11:34:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T12:34:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022635655436865965"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/IBmn4JjKWI",
+          "end": 77,
+          "expanded_url": "https://x.com/tingxinzhongyu/status/2022635655436865965/photo/1",
+          "media_key": "3_2022635511609962496",
+          "start": 54,
+          "url": "https://t.co/IBmn4JjKWI"
+        },
+        {
+          "display_url": "pic.x.com/IBmn4JjKWI",
+          "end": 77,
+          "expanded_url": "https://x.com/tingxinzhongyu/status/2022635655436865965/photo/1",
+          "media_key": "3_2022635511618375682",
+          "start": 54,
+          "url": "https://t.co/IBmn4JjKWI"
+        },
+        {
+          "display_url": "pic.x.com/IBmn4JjKWI",
+          "end": 77,
+          "expanded_url": "https://x.com/tingxinzhongyu/status/2022635655436865965/photo/1",
+          "media_key": "3_2022635511635165184",
+          "start": 54,
+          "url": "https://t.co/IBmn4JjKWI"
+        },
+        {
+          "display_url": "pic.x.com/IBmn4JjKWI",
+          "end": 77,
+          "expanded_url": "https://x.com/tingxinzhongyu/status/2022635655436865965/photo/1",
+          "media_key": "3_2022635512549527552",
+          "start": 54,
+          "url": "https://t.co/IBmn4JjKWI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022635655436865965",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "景色其实还不错\n我应该是孔庙最不欢迎的人了叭\n明明是“顶天立地”的男孩偏想要当女孩\n可是我乐意 我还想继续 https://t.co/IBmn4JjKWI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2022635511609962496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBHYSAuaMAA47Mm.jpg",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "media_key": "3_2022635511618375682",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBHYSAwakAIjn59.jpg",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "media_key": "3_2022635511635165184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBHYSA0awAAaV0K.jpg",
+        "width": 3024
+      },
+      {
+        "height": 3024,
+        "media_key": "3_2022635512549527552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBHYSEOa0AAAtbJ.jpg",
+        "width": 4032
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022635511609962496",
+            "3_2022635511618375682",
+            "3_2022635511635165184",
+            "3_2022635512549527552"
+          ]
+        },
+        "author_id": "1992038421318205440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2022635655436865965",
+        "created_at": "2026-02-14T11:34:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T12:34:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022635655436865965"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IBmn4JjKWI",
+              "end": 77,
+              "expanded_url": "https://x.com/tingxinzhongyu/status/2022635655436865965/photo/1",
+              "media_key": "3_2022635511609962496",
+              "start": 54,
+              "url": "https://t.co/IBmn4JjKWI"
+            },
+            {
+              "display_url": "pic.x.com/IBmn4JjKWI",
+              "end": 77,
+              "expanded_url": "https://x.com/tingxinzhongyu/status/2022635655436865965/photo/1",
+              "media_key": "3_2022635511618375682",
+              "start": 54,
+              "url": "https://t.co/IBmn4JjKWI"
+            },
+            {
+              "display_url": "pic.x.com/IBmn4JjKWI",
+              "end": 77,
+              "expanded_url": "https://x.com/tingxinzhongyu/status/2022635655436865965/photo/1",
+              "media_key": "3_2022635511635165184",
+              "start": 54,
+              "url": "https://t.co/IBmn4JjKWI"
+            },
+            {
+              "display_url": "pic.x.com/IBmn4JjKWI",
+              "end": 77,
+              "expanded_url": "https://x.com/tingxinzhongyu/status/2022635655436865965/photo/1",
+              "media_key": "3_2022635512549527552",
+              "start": 54,
+              "url": "https://t.co/IBmn4JjKWI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022635655436865965",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "景色其实还不错\n我应该是孔庙最不欢迎的人了叭\n明明是“顶天立地”的男孩偏想要当女孩\n可是我乐意 我还想继续 https://t.co/IBmn4JjKWI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02 176 65kg//mtf hrt 2025.11.21🍥//我想要很多很多的爱 欢迎聊天互fo 永远的可爱姐姐@jikeOjk7623",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 59,
+                "username": "jikeOjk7623"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992039552731725825/3Uy_y4UJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 347,
+          "like_count": 2351,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 1198
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2015040776053662044",
+    "created_at": "2026-01-24T12:35:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T13:35:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015040776053662044"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2015040776053662044",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在好兄弟家吃饭，他爸拉我吃饭喝酒，还叫我大侄hhhhhh，这次还没人看出来我hrt的成果，看着还像男生，还能上桌，下次呢？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2015040776053662044",
+        "created_at": "2026-01-24T12:35:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T13:35:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015040776053662044"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015040776053662044",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在好兄弟家吃饭，他爸拉我吃饭喝酒，还叫我大侄hhhhhh，这次还没人看出来我hrt的成果，看着还像男生，还能上桌，下次呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02/mtf 我只想要很多很多的爱 hrt 2025.11🍥/欢迎聊天互fo",
+        "id": "1992038421318205440",
+        "name": "听羽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992039552731725825/3Uy_y4UJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 108,
+          "like_count": 468,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 249
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      }
+    ]
+  }
+}

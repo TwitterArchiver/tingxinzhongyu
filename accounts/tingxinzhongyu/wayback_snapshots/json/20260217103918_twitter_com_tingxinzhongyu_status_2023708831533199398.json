@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2023708831533199398",
+    "created_at": "2026-02-17T10:39:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T11:39:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023708831533199398"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1898849785559580672",
+          "start": 3,
+          "username": "Sakura_RinSaki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023708831533199398",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023665898666549566",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sakura_RinSaki: 孩子們不要害怕，你那個留長髮吃激素藥 全身黑 走中性打扮 有憂鬱症 ADHD 有亞斯傾向 曾經想GD的哥哥要回家了、咱會幫你們擋下所有親戚的攻擊的喵 /⁠ᐠ⁠｡⁠ꞈ⁠｡⁠ᐟ⁠\\"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2023708831533199398",
+        "created_at": "2026-02-17T10:39:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T11:39:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023708831533199398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1898849785559580672",
+              "start": 3,
+              "username": "Sakura_RinSaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023708831533199398",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023665898666549566",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sakura_RinSaki: 孩子們不要害怕，你那個留長髮吃激素藥 全身黑 走中性打扮 有憂鬱症 ADHD 有亞斯傾向 曾經想GD的哥哥要回家了、咱會幫你們擋下所有親戚的攻擊的喵 /⁠ᐠ⁠｡⁠ꞈ⁠｡⁠ᐟ⁠\\"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2023665898666549566",
+        "created_at": "2026-02-17T07:48:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T08:48:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023665898666549566"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023665898666549566",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 585,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "孩子們不要害怕，你那個留長髮吃激素藥 全身黑 走中性打扮 有憂鬱症 ADHD 有亞斯傾向 曾經想GD的哥哥要回家了、咱會幫你們擋下所有親戚的攻擊的喵 /⁠ᐠ⁠｡⁠ꞈ⁠｡⁠ᐟ⁠\\"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02 176 65kg//mtf hrt 2025.11.21🍥//我想要很多很多的爱 欢迎聊天互fo 永远的可爱姐姐@jikeOjk7623",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 59,
+                "username": "jikeOjk7623"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992039552731725825/3Uy_y4UJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 342,
+          "following_count": 376,
+          "like_count": 2726,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 1399
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "凜咲咲丨hrt 26.02.10丨2006丨47kg丨不可愛丨要互fo私訊過來~\n\ntg:SukuMurong\n\nざぁこ人類，キモ，しね",
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "絨絨丨🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014007184447741952/sA3Nvl9e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1258,
+          "following_count": 71,
+          "like_count": 1011,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 928
+        },
+        "username": "Sakura_RinSaki",
+        "verified": false
+      }
+    ]
+  }
+}

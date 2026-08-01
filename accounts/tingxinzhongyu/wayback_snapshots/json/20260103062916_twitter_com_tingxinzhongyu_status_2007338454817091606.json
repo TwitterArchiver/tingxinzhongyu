@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2007338454817091606",
+    "created_at": "2026-01-03T06:29:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T07:29:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007338454817091606"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1565981667746914304",
+          "start": 3,
+          "username": "Kagura_Yukikaze"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007338454817091606",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007083048526078137",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kagura_Yukikaze: 2025年度总结：从小孩子变药娘了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2007338454817091606",
+        "created_at": "2026-01-03T06:29:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T07:29:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007338454817091606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1565981667746914304",
+              "start": 3,
+              "username": "Kagura_Yukikaze"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007338454817091606",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007083048526078137",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kagura_Yukikaze: 2025年度总结：从小孩子变药娘了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "conversation_id": "2007083048526078137",
+        "created_at": "2026-01-02T13:34:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T14:34:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007083048526078137"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/omgnowihavefis…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/omgnowihavefish/status/2006769428260860288",
+              "start": 18,
+              "url": "https://t.co/znRDLvMOh7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007083048526078137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 382,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006769428260860288",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "2025年度总结：从小孩子变药娘了 https://t.co/znRDLvMOh7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02年老屁股/hrt 我只想要很多很多的爱 2025.11🍥",
+        "id": "1992038421318205440",
+        "name": "听羽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992039552731725825/3Uy_y4UJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 30,
+          "like_count": 67,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 29
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|A student |want to be friends with everyone  |en/cn/日本語初心者|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006719443901280256/XF8yHWep_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2066,
+          "following_count": 2153,
+          "like_count": 79397,
+          "listed_count": 2,
+          "media_count": 582,
+          "tweet_count": 9079
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      }
+    ]
+  }
+}

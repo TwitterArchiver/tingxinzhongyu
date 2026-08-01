@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2028581109492293996",
+    "created_at": "2026-03-03T02:52:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T03:52:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028664824750874751"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1811011225058430982",
+          "start": 0,
+          "username": "AnranbuSleep"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028664824750874751",
+    "in_reply_to_user_id": "1811011225058430982",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028581109492293996",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AnranbuSleep 姐姐 凝胶没有了快回来😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2028581109492293996",
+        "created_at": "2026-03-03T02:52:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T03:52:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028664824750874751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1811011225058430982",
+              "start": 0,
+              "username": "AnranbuSleep"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028664824750874751",
+        "in_reply_to_user_id": "1811011225058430982",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028581109492293996",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnranbuSleep 姐姐 凝胶没有了快回来😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811011225058430982",
+        "conversation_id": "2028581109492293996",
+        "created_at": "2026-03-02T21:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T22:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028581109492293996"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028581109492293996",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2442,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "米莎…我没办法陪你去看海豹了…晚安…（拍拍肚皮）哦哦哦哦哦哦哦哦哦哦哦哦哦。我爱你…小海豹会碰到更爱你的海豹，下辈子我变成一只海豹来陪你好不好…对不起这几天我一直都很难受很难受但是我不敢让你看出来。看来我还藏的不错（？）总之晚安了这个世界。曙光之后还有黎明，我们更好的世界再见"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "176 65kg｜mtf ｜Angel lover @kanonobambi ｜ ｜hrt 2025.11.21-2026.2.13🍥｜我想要很多很多的爱｜永远的可爱姐姐@jikeOjk7623 ｜@HappyHejsDay的兵！｜超温柔妹妹@sophhhsama @axzamyzed！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "kanonobambi"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "jikeOjk7623"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 132,
+                "start": 121,
+                "username": "sophhhsama"
+              },
+              {
+                "end": 143,
+                "start": 133,
+                "username": "axzamyzed"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028106888488026112/tHHVMk_N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 577,
+          "following_count": 453,
+          "like_count": 4172,
+          "listed_count": 2,
+          "media_count": 99,
+          "tweet_count": 2363
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-10T12:15:13.000Z",
+        "description": "My Sunshine @mishamimihemumu My Luna @datadelete_4444",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 12,
+                "username": "mishamimihemumu"
+              },
+              {
+                "end": 53,
+                "start": 37,
+                "username": "datadelete_4444"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+i6DdJbpVkcw1N…",
+                "end": 23,
+                "expanded_url": "https://t.me/+i6DdJbpVkcw1NmJl",
+                "start": 0,
+                "url": "https://t.co/A4ANhCJyWJ"
+              }
+            ]
+          }
+        },
+        "id": "1811011225058430982",
+        "location": "远去的天堂，再也不见",
+        "name": "Luna_安然🏳️‍⚧️",
+        "pinned_tweet_id": "1986019257440964920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021846465417818112/79NWA4eF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2704,
+          "following_count": 80,
+          "like_count": 5396,
+          "listed_count": 7,
+          "media_count": 550,
+          "tweet_count": 2752
+        },
+        "url": "https://t.co/A4ANhCJyWJ",
+        "username": "AnranbuSleep",
+        "verified": false
+      }
+    ]
+  }
+}

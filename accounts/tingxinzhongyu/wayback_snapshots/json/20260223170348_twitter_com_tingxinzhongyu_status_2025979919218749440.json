@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2025979919218749440",
+    "created_at": "2026-02-23T17:03:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T18:03:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025979919218749440"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hzattach/statu…",
+          "end": 72,
+          "expanded_url": "https://twitter.com/hzattach/status/2025972406863684054",
+          "start": 49,
+          "url": "https://t.co/HqAVCwFL9C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025979919218749440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025972406863684054",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "想起来以前一直以为这是xp……🤯\n然后有一天突然意识到顺直男的xp应该不会是把自己代入女性角色🥹 https://t.co/HqAVCwFL9C"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2025979919218749440",
+        "created_at": "2026-02-23T17:03:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T18:03:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025979919218749440"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hzattach/statu…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/hzattach/status/2025972406863684054",
+              "start": 49,
+              "url": "https://t.co/HqAVCwFL9C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025979919218749440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025972406863684054",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想起来以前一直以为这是xp……🤯\n然后有一天突然意识到顺直男的xp应该不会是把自己代入女性角色🥹 https://t.co/HqAVCwFL9C"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1519382545200291840",
+        "conversation_id": "2025972406863684054",
+        "created_at": "2026-02-23T16:33:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T17:33:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025972406863684054"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025972406863684054",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大概会想如果我大二的时候没有接触跨性别然后一直发现不了自己是跨会怎样，会不会一直压抑自己？有的时候真的很累特别是尝试改变自己然后失败的时候。算了不想了，困意上来了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02 176 65kg//mtf hrt 2025.11.21-2026.2.13🍥//我想要很多很多的爱 欢迎聊天互fo 永远的可爱姐姐@jikeOjk7623 // @HappyHejsDay的兵！//超温柔妹妹@sophhhsama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 69,
+                "username": "jikeOjk7623"
+              },
+              {
+                "end": 98,
+                "start": 85,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 119,
+                "start": 108,
+                "username": "sophhhsama"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023721600491925504/NLPFudYi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 500,
+          "following_count": 430,
+          "like_count": 3450,
+          "listed_count": 1,
+          "media_count": 84,
+          "tweet_count": 1891
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-27T18:26:53.000Z",
+        "description": "🏳️‍⚧️\n/希望变得有意义\n/04年生算老登吗？\n/hrt：2023.6-2023.8   2025.10-至今",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/attachment1145…",
+                "end": 23,
+                "expanded_url": "http://t.me/attachment114514",
+                "start": 0,
+                "url": "https://t.co/zkOERGI5Qx"
+              }
+            ]
+          }
+        },
+        "id": "1519382545200291840",
+        "location": "武汉",
+        "name": "Attachment",
+        "pinned_tweet_id": "1705049579677433899",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1728663819445284864/XvW_taEe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 960,
+          "following_count": 1036,
+          "like_count": 18460,
+          "listed_count": 3,
+          "media_count": 242,
+          "tweet_count": 3651
+        },
+        "url": "https://t.co/zkOERGI5Qx",
+        "username": "hzattach",
+        "verified": false
+      }
+    ]
+  }
+}

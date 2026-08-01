@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2014743240898175477",
+    "created_at": "2026-01-23T17:25:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T18:25:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014751360739348497"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1790087021035401216",
+          "start": 0,
+          "username": "ray466230742915"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014751360739348497",
+    "in_reply_to_user_id": "1790087021035401216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014743240898175477",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ray466230742915 夸张哦还会读加缪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2014743240898175477",
+        "created_at": "2026-01-23T17:25:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T18:25:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014751360739348497"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1790087021035401216",
+              "start": 0,
+              "username": "ray466230742915"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014751360739348497",
+        "in_reply_to_user_id": "1790087021035401216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014743240898175477",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ray466230742915 夸张哦还会读加缪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790087021035401216",
+        "conversation_id": "2014743240898175477",
+        "created_at": "2026-01-23T16:53:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T17:53:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014743240898175477"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2014743240898175477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我让西西弗留在山下，世人将永远看见他的重负！然而他以否认诸神、推举岩石的忠诚诲人警世。他也判定一切皆善。这没有救世主的世界于他既非荒漠，亦非微不足道。岩石的每一颗粒，幽暗山体每道矿物的微光，皆深深融入他世界的肌理。攀登山顶的这场拼搏本身即足以充盈一颗人心。应当想象西西弗是幸福的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02/mtf 我只想要很多很多的爱 hrt 2025.11🍥/欢迎聊天互fo",
+        "id": "1992038421318205440",
+        "name": "听羽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992039552731725825/3Uy_y4UJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 105,
+          "like_count": 441,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 234
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-13T18:29:52.000Z",
+        "description": "大変に気分がいい \n想要互fo！ | 09 | 🏳️‍⚧ | INFJ | 强迫 | 焦虑 | 近月 | 东方 | 型月 | iyau | 狐尾草 | 数学",
+        "id": "1790087021035401216",
+        "location": " ",
+        "name": "Ookura resona",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014642524640706561/QP-h7stL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 412,
+          "like_count": 330,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 4
+        },
+        "username": "ray466230742915",
+        "verified": false
+      }
+    ]
+  }
+}

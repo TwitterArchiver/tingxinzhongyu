@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2018582990809714753",
+    "created_at": "2026-02-03T07:51:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T08:51:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018593135396577683"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1993821037860147200",
+          "start": 0,
+          "username": "JikeOjk7623"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018593135396577683",
+    "in_reply_to_user_id": "1993821037860147200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018592720475058479",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JikeOjk7623 呜呜好的姐姐，今晚估计能早点睡了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2018582990809714753",
+        "created_at": "2026-02-03T07:51:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T08:51:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018593135396577683"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1993821037860147200",
+              "start": 0,
+              "username": "JikeOjk7623"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018593135396577683",
+        "in_reply_to_user_id": "1993821037860147200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018592720475058479",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JikeOjk7623 呜呜好的姐姐，今晚估计能早点睡了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993821037860147200",
+        "conversation_id": "2018582990809714753",
+        "created_at": "2026-02-03T07:49:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T08:49:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018592720475058479"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992038421318205440",
+              "start": 0,
+              "username": "tingxinzhongyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018592720475058479",
+        "in_reply_to_user_id": "1992038421318205440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018582990809714753",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tingxinzhongyu 好好休息不要透支身体"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02 176 65kg/mtf hrt 2025.11🍥/我想要很多很多的爱 欢迎聊天互fo 永远的可爱姐姐@jikeOjk7623",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 54,
+                "username": "jikeOjk7623"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992039552731725825/3Uy_y4UJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 225,
+          "like_count": 954,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 541
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-26T23:16:04.000Z",
+        "description": "身高184的大只药娘🏳️‍⚧️| HRT25.12.4| 不键政不od不割手不瑟瑟丨情绪稳定但是社恐 |同类欢迎来互fo| 爱打和平精英 ｜ 约炮请走开 ｜ 纯情不接受doi为前提的交往 ｜永远的可爱妹妹 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 103,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "1993821037860147200",
+        "name": "冉冉 🍥（求互fo，",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007220756481224704/of9viFdE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 264,
+          "like_count": 173,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 115
+        },
+        "username": "JikeOjk7623",
+        "verified": false
+      }
+    ]
+  }
+}

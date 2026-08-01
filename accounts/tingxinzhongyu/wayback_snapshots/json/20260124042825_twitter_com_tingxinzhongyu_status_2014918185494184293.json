@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2014918169954287616",
+        "3_2014918168737939457",
+        "3_2014918168809263104",
+        "3_2014918168075194368"
+      ]
+    },
+    "author_id": "1992038421318205440",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2014918185494184293",
+    "created_at": "2026-01-24T04:28:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T05:28:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2014918185494184293"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/asJSoJKOc8",
+          "end": 161,
+          "expanded_url": "https://x.com/tingxinzhongyu/status/2014918185494184293/photo/1",
+          "media_key": "3_2014918169954287616",
+          "start": 138,
+          "url": "https://t.co/asJSoJKOc8"
+        },
+        {
+          "display_url": "pic.x.com/asJSoJKOc8",
+          "end": 161,
+          "expanded_url": "https://x.com/tingxinzhongyu/status/2014918185494184293/photo/1",
+          "media_key": "3_2014918168737939457",
+          "start": 138,
+          "url": "https://t.co/asJSoJKOc8"
+        },
+        {
+          "display_url": "pic.x.com/asJSoJKOc8",
+          "end": 161,
+          "expanded_url": "https://x.com/tingxinzhongyu/status/2014918185494184293/photo/1",
+          "media_key": "3_2014918168809263104",
+          "start": 138,
+          "url": "https://t.co/asJSoJKOc8"
+        },
+        {
+          "display_url": "pic.x.com/asJSoJKOc8",
+          "end": 161,
+          "expanded_url": "https://x.com/tingxinzhongyu/status/2014918185494184293/photo/1",
+          "media_key": "3_2014918168075194368",
+          "start": 138,
+          "url": "https://t.co/asJSoJKOc8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014918185494184293",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在青岛是带着留恋和不舍在玩的，先是在啤酒博物馆爽喝，然后又在小麦岛散步看日落。想起来这好像是我第一次跟家人以外的人出来旅游，被他一路当宝宝带。只是没想到吃糖的秘密会被他无意撞破，从一开始的不能接受到勉强理解我，也是太为难他了\n这次是真要分开了\n\n骗你的他说要带我回他那住一天 https://t.co/asJSoJKOc8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2014918169954287616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_ZtZmubAAAQ6Xa.jpg",
+        "width": 769
+      },
+      {
+        "height": 768,
+        "media_key": "3_2014918168737939457",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_ZtZiMbAAENIHd.jpg",
+        "width": 1024
+      },
+      {
+        "height": 768,
+        "media_key": "3_2014918168809263104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_ZtZidbUAARbvW.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2014918168075194368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_ZtZfuaUAAVNEk.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014918169954287616",
+            "3_2014918168737939457",
+            "3_2014918168809263104",
+            "3_2014918168075194368"
+          ]
+        },
+        "author_id": "1992038421318205440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2014918185494184293",
+        "created_at": "2026-01-24T04:28:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T05:28:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014918185494184293"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/asJSoJKOc8",
+              "end": 161,
+              "expanded_url": "https://x.com/tingxinzhongyu/status/2014918185494184293/photo/1",
+              "media_key": "3_2014918169954287616",
+              "start": 138,
+              "url": "https://t.co/asJSoJKOc8"
+            },
+            {
+              "display_url": "pic.x.com/asJSoJKOc8",
+              "end": 161,
+              "expanded_url": "https://x.com/tingxinzhongyu/status/2014918185494184293/photo/1",
+              "media_key": "3_2014918168737939457",
+              "start": 138,
+              "url": "https://t.co/asJSoJKOc8"
+            },
+            {
+              "display_url": "pic.x.com/asJSoJKOc8",
+              "end": 161,
+              "expanded_url": "https://x.com/tingxinzhongyu/status/2014918185494184293/photo/1",
+              "media_key": "3_2014918168809263104",
+              "start": 138,
+              "url": "https://t.co/asJSoJKOc8"
+            },
+            {
+              "display_url": "pic.x.com/asJSoJKOc8",
+              "end": 161,
+              "expanded_url": "https://x.com/tingxinzhongyu/status/2014918185494184293/photo/1",
+              "media_key": "3_2014918168075194368",
+              "start": 138,
+              "url": "https://t.co/asJSoJKOc8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014918185494184293",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在青岛是带着留恋和不舍在玩的，先是在啤酒博物馆爽喝，然后又在小麦岛散步看日落。想起来这好像是我第一次跟家人以外的人出来旅游，被他一路当宝宝带。只是没想到吃糖的秘密会被他无意撞破，从一开始的不能接受到勉强理解我，也是太为难他了\n这次是真要分开了\n\n骗你的他说要带我回他那住一天 https://t.co/asJSoJKOc8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02/mtf 我只想要很多很多的爱 hrt 2025.11🍥/欢迎聊天互fo",
+        "id": "1992038421318205440",
+        "name": "听羽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992039552731725825/3Uy_y4UJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 106,
+          "like_count": 449,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 237
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2013239400365178880"
+      ]
+    },
+    "author_id": "1992038421318205440",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2013239443210018872",
+    "created_at": "2026-01-19T13:17:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T14:17:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2013239443210018872"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/e89aTdTATT",
+          "end": 98,
+          "expanded_url": "https://x.com/tingxinzhongyu/status/2013239443210018872/photo/1",
+          "media_key": "3_2013239400365178880",
+          "start": 75,
+          "url": "https://t.co/e89aTdTATT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013239443210018872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "跟好兄弟一起买了一包好像好贵好贵的烟，真的要变臭臭软软小男娘了😭\nhhhhhh其实只是怕自己哪天真的想不开了不要留太多人生本可以体验却没体验到的遗憾 https://t.co/e89aTdTATT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2013239400365178880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_B2kWqWQAAZSB2.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013239400365178880"
+          ]
+        },
+        "author_id": "1992038421318205440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2013239443210018872",
+        "created_at": "2026-01-19T13:17:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T14:17:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013239443210018872"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/e89aTdTATT",
+              "end": 98,
+              "expanded_url": "https://x.com/tingxinzhongyu/status/2013239443210018872/photo/1",
+              "media_key": "3_2013239400365178880",
+              "start": 75,
+              "url": "https://t.co/e89aTdTATT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013239443210018872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跟好兄弟一起买了一包好像好贵好贵的烟，真的要变臭臭软软小男娘了😭\nhhhhhh其实只是怕自己哪天真的想不开了不要留太多人生本可以体验却没体验到的遗憾 https://t.co/e89aTdTATT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02年老屁股/mtf 我只想要很多很多的爱 hrt 2025.11🍥",
+        "id": "1992038421318205440",
+        "name": "听羽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992039552731725825/3Uy_y4UJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 72,
+          "like_count": 309,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 157
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      }
+    ]
+  }
+}

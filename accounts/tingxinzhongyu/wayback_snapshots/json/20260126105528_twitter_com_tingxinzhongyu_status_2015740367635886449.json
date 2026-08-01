@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2015639371748352400",
+    "created_at": "2026-01-26T10:55:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T11:55:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015740367635886449"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1718203142737928192",
+          "start": 0,
+          "username": "MerryGo_Round__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015740367635886449",
+    "in_reply_to_user_id": "1718203142737928192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015639371748352400",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MerryGo_Round__ 蹲一手，我也想办"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2015639371748352400",
+        "created_at": "2026-01-26T10:55:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T11:55:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015740367635886449"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1718203142737928192",
+              "start": 0,
+              "username": "MerryGo_Round__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015740367635886449",
+        "in_reply_to_user_id": "1718203142737928192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015639371748352400",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MerryGo_Round__ 蹲一手，我也想办"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1718203142737928192",
+        "conversation_id": "2015639371748352400",
+        "created_at": "2026-01-26T04:14:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T05:14:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015639371748352400"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015639371748352400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 284,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "年轻人的第一张visa\n哪家银行的比较好办？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02/mtf 我只想要很多很多的爱 hrt 2025.11🍥/欢迎聊天互fo",
+        "id": "1992038421318205440",
+        "name": "听羽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992039552731725825/3Uy_y4UJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 124,
+          "like_count": 558,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 305
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-28T09:48:58.000Z",
+        "description": "临床药学/绘画/摄影/摩托车/跑步\n     QQ扩列空间互赞随便加",
+        "id": "1718203142737928192",
+        "location": "Hong Kong",
+        "name": "Tuotuo6uem",
+        "pinned_tweet_id": "1927641932924358805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928121676333731841/sKH9x7ft_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 465,
+          "following_count": 336,
+          "like_count": 89625,
+          "listed_count": 0,
+          "media_count": 2857,
+          "tweet_count": 10799
+        },
+        "username": "MerryGo_Round__",
+        "verified": false
+      }
+    ]
+  }
+}

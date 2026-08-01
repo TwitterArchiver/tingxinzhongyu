@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2071351936901849182",
+    "created_at": "2026-06-29T04:35:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T05:35:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071452433256190348"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1160620734311489536",
+          "start": 0,
+          "username": "nogirl_cn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071452433256190348",
+    "in_reply_to_user_id": "1160620734311489536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071380478305947776",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nogirl_cn 好像他想用一群男的刺激我的睾酮（）\n完全理解不了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2071351936901849182",
+        "created_at": "2026-06-29T04:35:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T05:35:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071452433256190348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1160620734311489536",
+              "start": 0,
+              "username": "nogirl_cn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071452433256190348",
+        "in_reply_to_user_id": "1160620734311489536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071380478305947776",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nogirl_cn 好像他想用一群男的刺激我的睾酮（）\n完全理解不了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1160620734311489536",
+        "conversation_id": "2071351936901849182",
+        "created_at": "2026-06-28T23:49:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T00:49:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071380478305947776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992038421318205440",
+              "start": 0,
+              "username": "tingxinzhongyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071380478305947776",
+        "in_reply_to_user_id": "1992038421318205440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071351936901849182",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tingxinzhongyu 他似乎搞混了性别认同和性取向"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "176 65kg｜mtf ｜Best friend @kanonobambi ｜ ｜hrt 2025.11.21-2026.2.13🍥｜我想要很多很多的爱｜永远的可爱姐姐@jikeOjk7623 ｜@HappyHejsDay的兵！｜超温柔妹妹@sophhhsama @axzamyzed！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "kanonobambi"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "jikeOjk7623"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 132,
+                "start": 121,
+                "username": "sophhhsama"
+              },
+              {
+                "end": 143,
+                "start": 133,
+                "username": "axzamyzed"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028106888488026112/tHHVMk_N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 979,
+          "following_count": 484,
+          "like_count": 4906,
+          "listed_count": 3,
+          "media_count": 134,
+          "tweet_count": 2991
+        },
+        "url": "",
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-11T18:35:21.000Z",
+        "description": "176 55kg isfj 大龄 现居佛山 动漫漫画电视剧电影综艺啥都看点，米游原铁绝和农都玩，欢迎扩列。非常讨厌自己的男性特征，容貌自卑ing。孤独星球人，可以找我聊聊天，无🚪无瑟瑟 tg: https://t.co/2iTQCN3Xez",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/monana14",
+                "end": 120,
+                "expanded_url": "http://t.me/monana14",
+                "start": 97,
+                "url": "https://t.co/2iTQCN3Xez"
+              }
+            ]
+          }
+        },
+        "id": "1160620734311489536",
+        "location": "中华人民共和国",
+        "name": "☆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052019204686323713/TEGdNn2e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 39,
+          "like_count": 81,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 99
+        },
+        "url": "",
+        "username": "nogirl_cn",
+        "verified": false
+      }
+    ]
+  }
+}

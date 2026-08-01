@@ -1,0 +1,556 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1139229372198469633",
+          "name": "Dogecoin cryptocurrency"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cryptocurrency",
+          "id": "913142676819648512",
+          "name": "Cryptocurrencies"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1139229372198469633",
+          "name": "Dogecoin cryptocurrency"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1484181943616884743",
+          "name": "Cryptocoins"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cryptocurrency",
+          "id": "1492162686204854274",
+          "name": "Digital assets & cryptocurrency"
+        }
+      },
+      {
+        "domain": {
+          "description": "For cryptocurrency entities",
+          "id": "174",
+          "name": "Digital Assets & Crypto"
+        },
+        "entity": {
+          "id": "1139229372198469633",
+          "name": "Dogecoin cryptocurrency"
+        }
+      }
+    ],
+    "conversation_id": "2017066639221805416",
+    "created_at": "2026-01-30T05:30:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T06:30:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017108080371368133"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1981693695578791936",
+          "start": 0,
+          "username": "Jskyeye"
+        },
+        {
+          "end": 19,
+          "id": "1941907536032186368",
+          "start": 9,
+          "username": "Liunian_a"
+        },
+        {
+          "end": 32,
+          "id": "1993821037860147200",
+          "start": 20,
+          "username": "JikeOjk7623"
+        },
+        {
+          "end": 48,
+          "id": "1980236829455511552",
+          "start": 33,
+          "username": "PaulDrizzyvlni"
+        },
+        {
+          "end": 65,
+          "id": "1002930388770025472",
+          "start": 49,
+          "username": "KirishimaYuning"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017108080371368133",
+    "in_reply_to_user_id": "1981693695578791936",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017088758680867135",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jskyeye @Liunian_a @JikeOjk7623 @PaulDrizzyvlni @KirishimaYuning 喂你喝奈奈doge"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1139229372198469633",
+              "name": "Dogecoin cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1139229372198469633",
+              "name": "Dogecoin cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1484181943616884743",
+              "name": "Cryptocoins"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "For cryptocurrency entities",
+              "id": "174",
+              "name": "Digital Assets & Crypto"
+            },
+            "entity": {
+              "id": "1139229372198469633",
+              "name": "Dogecoin cryptocurrency"
+            }
+          }
+        ],
+        "conversation_id": "2017066639221805416",
+        "created_at": "2026-01-30T05:30:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T06:30:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017108080371368133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1981693695578791936",
+              "start": 0,
+              "username": "Jskyeye"
+            },
+            {
+              "end": 19,
+              "id": "1941907536032186368",
+              "start": 9,
+              "username": "Liunian_a"
+            },
+            {
+              "end": 32,
+              "id": "1993821037860147200",
+              "start": 20,
+              "username": "JikeOjk7623"
+            },
+            {
+              "end": 48,
+              "id": "1980236829455511552",
+              "start": 33,
+              "username": "PaulDrizzyvlni"
+            },
+            {
+              "end": 65,
+              "id": "1002930388770025472",
+              "start": 49,
+              "username": "KirishimaYuning"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017108080371368133",
+        "in_reply_to_user_id": "1981693695578791936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017088758680867135",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jskyeye @Liunian_a @JikeOjk7623 @PaulDrizzyvlni @KirishimaYuning 喂你喝奈奈doge"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1981693695578791936",
+        "conversation_id": "2017066639221805416",
+        "created_at": "2026-01-30T04:13:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T05:13:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017088758680867135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992038421318205440",
+              "start": 0,
+              "username": "tingxinzhongyu"
+            },
+            {
+              "end": 26,
+              "id": "1941907536032186368",
+              "start": 16,
+              "username": "Liunian_a"
+            },
+            {
+              "end": 39,
+              "id": "1993821037860147200",
+              "start": 27,
+              "username": "JikeOjk7623"
+            },
+            {
+              "end": 55,
+              "id": "1980236829455511552",
+              "start": 40,
+              "username": "PaulDrizzyvlni"
+            },
+            {
+              "end": 72,
+              "id": "1002930388770025472",
+              "start": 56,
+              "username": "KirishimaYuning"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017088758680867135",
+        "in_reply_to_user_id": "1992038421318205440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017066639221805416",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tingxinzhongyu @Liunian_a @JikeOjk7623 @PaulDrizzyvlni @KirishimaYuning 又变成孩子了呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02 176 130/mtf hrt 2025.11🍥/我想要很多很多的爱 欢迎聊天互fo",
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992039552731725825/3Uy_y4UJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 176,
+          "like_count": 735,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 442
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-24T12:06:41.000Z",
+        "description": "原来是@JuiceskyYeye｜美食区博主?😜｜MtF｜超级深深深柜｜不支持涩涩🙅｜努力保持阳光☀️健康｜同类会回fo🥰",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "JuiceskyYeye"
+              }
+            ]
+          }
+        },
+        "id": "1981693695578791936",
+        "name": "𝐒𝐤𝐲𝐞𝐲𝐞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986750507059384320/QFwa72W5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 618,
+          "like_count": 6295,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 494
+        },
+        "username": "Jskyeye",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-06T17:10:23.000Z",
+        "description": "Mtf/2009.9.29/hrt2025.11.12 无证含糖 身高162体重50 生错性别的小女孩 抑郁 已出柜 高中牲 休学中 超级社恐 谢谢大家关注和喜欢喔 对所有人友善 随便发发 有点负能量 偶尔瑟瑟 不od不割手手不见证 同类欢迎互fo喵",
+        "id": "1941907536032186368",
+        "name": "流年🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009834603859849224/MT-ABKz0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 352,
+          "like_count": 1127,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 321
+        },
+        "username": "Liunian_a",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-26T23:16:04.000Z",
+        "description": "25年的小药娘🏳️‍⚧️| HRT25.12.4| 不键政不od不割手不瑟瑟I 喜欢温柔男生短时间不要男朋友了想要静一静丨情绪稳定但是社恐 |同类欢迎来互fo| 爱打和平精英 （ 发情中，想要被爱）｜ 谈过男朋友，好喜欢但是分开好难受",
+        "id": "1993821037860147200",
+        "name": "冉冉 🍥（求互fo，",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007220756481224704/of9viFdE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 230,
+          "like_count": 128,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 94
+        },
+        "username": "JikeOjk7623",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-20T11:37:56.000Z",
+        "description": "重生日 25.11.18/天空树/爱发高p照仔细甄别😵‍💫/发日常/成分复杂/篮球世家🌚运动跨😹best athlete must be @Yg_Trece @TheTraeYoung !/会给同类互fo/好姐姐 @HappyHejsDay 特别的 @shixveriya 🥰/安卓小号 @PG13LD77",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 69,
+                "username": "Yg_Trece"
+              },
+              {
+                "end": 92,
+                "start": 79,
+                "username": "TheTraeYoung"
+              },
+              {
+                "end": 120,
+                "start": 107,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 136,
+                "start": 125,
+                "username": "shixveriya"
+              },
+              {
+                "end": 153,
+                "start": 144,
+                "username": "PG13LD77"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pauldrizzyvlni",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pauldrizzyvlni",
+                "start": 0,
+                "url": "https://t.co/MqRT8JnI3l"
+              }
+            ]
+          }
+        },
+        "id": "1980236829455511552",
+        "location": "Palmdale, California, USA",
+        "name": "wish happiness 😵‍💫🍥😵‍💫",
+        "pinned_tweet_id": "2012493096089690351",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997894762838556672/_NU9ap_W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 970,
+          "following_count": 741,
+          "like_count": 2777,
+          "listed_count": 0,
+          "media_count": 151,
+          "tweet_count": 2478
+        },
+        "url": "https://t.co/MqRT8JnI3l",
+        "username": "PaulDrizzyvlni",
+        "verified": false
+      },
+      {
+        "created_at": "2018-06-02T15:10:13.000Z",
+        "description": "",
+        "id": "1002930388770025472",
+        "name": "江宁",
+        "pinned_tweet_id": "2006508093090517447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014665507652435969/r6D0C8Xu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 436,
+          "like_count": 3906,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 733
+        },
+        "username": "KirishimaYuning",
+        "verified": false
+      }
+    ]
+  }
+}

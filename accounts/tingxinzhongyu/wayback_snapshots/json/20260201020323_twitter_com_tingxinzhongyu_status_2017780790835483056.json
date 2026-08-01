@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2017730055955484803",
+    "created_at": "2026-02-01T02:03:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T03:03:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017780790835483056"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1993821037860147200",
+          "start": 0,
+          "username": "JikeOjk7623"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017780790835483056",
+    "in_reply_to_user_id": "1993821037860147200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017730055955484803",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JikeOjk7623 我的鲨鲨！我的！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9666,
+        "height": 720,
+        "media_key": "13_2017729987017900032",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2017729987017900032/img/U2zeIy7VKfeck9G6.jpg",
+        "public_metrics": {
+          "view_count": 28
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2017729987017900032/vid/avc1/480x270/6YsLPPJwna9e91el.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2017729987017900032/vid/avc1/640x360/IUPmCVC4HIVMwdT5.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2017729987017900032/vid/avc1/1280x720/indERTGwtJY9tooC.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2017729987017900032/pl/_8mQ1n-oT39ShUNX.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2017730055955484803",
+        "created_at": "2026-02-01T02:03:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T03:03:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017780790835483056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1993821037860147200",
+              "start": 0,
+              "username": "JikeOjk7623"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017780790835483056",
+        "in_reply_to_user_id": "1993821037860147200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017730055955484803",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JikeOjk7623 我的鲨鲨！我的！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2017729987017900032"
+          ]
+        },
+        "author_id": "1993821037860147200",
+        "conversation_id": "2017730055955484803",
+        "created_at": "2026-01-31T22:41:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T23:41:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017730055955484803"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/50aDh7IInY",
+              "end": 31,
+              "expanded_url": "https://x.com/JikeOjk7623/status/2017730055955484803/video/1",
+              "media_key": "13_2017729987017900032",
+              "start": 8,
+              "url": "https://t.co/50aDh7IInY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017730055955484803",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "猜猜这是什么？ https://t.co/50aDh7IInY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02 176 65kg/mtf hrt 2025.11🍥/我想要很多很多的爱 欢迎聊天互fo 永远的可爱姐姐@jikeOjk7623",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 54,
+                "username": "jikeOjk7623"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992039552731725825/3Uy_y4UJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 189,
+          "like_count": 830,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 488
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-26T23:16:04.000Z",
+        "description": "25年的小药娘🏳️‍⚧️| HRT25.12.4| 不键政不od不割手不瑟瑟丨情绪稳定但是社恐 |同类欢迎来互fo| 爱打和平精英 ｜ 约炮请走开 ｜ 纯情不接受doi为前提的交往 永远的可爱妹妹 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 99,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "1993821037860147200",
+        "name": "冉冉 🍥（求互fo，",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007220756481224704/of9viFdE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 239,
+          "like_count": 146,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 107
+        },
+        "username": "JikeOjk7623",
+        "verified": false
+      }
+    ]
+  }
+}

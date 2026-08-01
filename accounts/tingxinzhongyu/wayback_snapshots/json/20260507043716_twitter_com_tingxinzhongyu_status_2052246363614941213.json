@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052246323039244288"
+      ]
+    },
+    "author_id": "1992038421318205440",
+    "conversation_id": "2052246363614941213",
+    "created_at": "2026-05-07T04:37:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T05:37:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052246363614941213"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6VuHLkHhHA",
+          "end": 60,
+          "expanded_url": "https://x.com/tingxinzhongyu/status/2052246363614941213/photo/1",
+          "media_key": "3_2052246323039244288",
+          "start": 37,
+          "url": "https://t.co/6VuHLkHhHA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052246363614941213",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "以为早已把药丢完了今天收拾宿舍belike：\n能全忘掉记忆力还是太好了🥺 https://t.co/6VuHLkHhHA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2052246323039244288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHsLKFRbEAA6nnY.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052246323039244288"
+          ]
+        },
+        "author_id": "1992038421318205440",
+        "conversation_id": "2052246363614941213",
+        "created_at": "2026-05-07T04:37:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T05:37:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052246363614941213"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6VuHLkHhHA",
+              "end": 60,
+              "expanded_url": "https://x.com/tingxinzhongyu/status/2052246363614941213/photo/1",
+              "media_key": "3_2052246323039244288",
+              "start": 37,
+              "url": "https://t.co/6VuHLkHhHA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052246363614941213",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "以为早已把药丢完了今天收拾宿舍belike：\n能全忘掉记忆力还是太好了🥺 https://t.co/6VuHLkHhHA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "176 65kg｜mtf ｜Best friend @kanonobambi ｜ ｜hrt 2025.11.21-2026.2.13🍥｜我想要很多很多的爱｜永远的可爱姐姐@jikeOjk7623 ｜@HappyHejsDay的兵！｜超温柔妹妹@sophhhsama @axzamyzed！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "kanonobambi"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "jikeOjk7623"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 132,
+                "start": 121,
+                "username": "sophhhsama"
+              },
+              {
+                "end": 143,
+                "start": 133,
+                "username": "axzamyzed"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028106888488026112/tHHVMk_N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 715,
+          "following_count": 467,
+          "like_count": 4626,
+          "listed_count": 2,
+          "media_count": 120,
+          "tweet_count": 2715
+        },
+        "url": "",
+        "username": "tingxinzhongyu",
+        "verified": false
+      }
+    ]
+  }
+}

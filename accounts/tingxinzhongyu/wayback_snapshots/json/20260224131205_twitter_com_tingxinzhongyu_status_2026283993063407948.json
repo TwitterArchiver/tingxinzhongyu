@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2026283993063407948",
+    "created_at": "2026-02-24T13:12:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T14:12:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026283993063407948"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tingxinzhongyu…",
+          "end": 161,
+          "expanded_url": "https://twitter.com/tingxinzhongyu/status/2025951241600413926",
+          "start": 138,
+          "url": "https://t.co/k0TfsJpBPp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026283993063407948",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025951241600413926",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我收回这句话 她可能只开了一半\n今天拿完药回来，她看着一路上不太高兴，然后出租车上说要去针灸，然后听羽就经历了一天中最长的30分钟\n先是一根针扎我的脸上，然后是手和腿，于是我完全动不了，手不小心动了一下差点没疼死😭\n\n很不容易就这样挺过来了，然后想起医生说让她带我天天来…… https://t.co/k0TfsJpBPp"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2026283993063407948",
+        "created_at": "2026-02-24T13:12:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T14:12:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026283993063407948"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tingxinzhongyu…",
+              "end": 161,
+              "expanded_url": "https://twitter.com/tingxinzhongyu/status/2025951241600413926",
+              "start": 138,
+              "url": "https://t.co/k0TfsJpBPp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026283993063407948",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025951241600413926",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我收回这句话 她可能只开了一半\n今天拿完药回来，她看着一路上不太高兴，然后出租车上说要去针灸，然后听羽就经历了一天中最长的30分钟\n先是一根针扎我的脸上，然后是手和腿，于是我完全动不了，手不小心动了一下差点没疼死😭\n\n很不容易就这样挺过来了，然后想起医生说让她带我天天来…… https://t.co/k0TfsJpBPp"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2025951241600413926",
+        "created_at": "2026-02-23T15:09:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T16:09:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025951241600413926"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025951241600413926",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1322,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天下午我妈好像终于开智了\n可能这几天她自己查了很多抑郁症的资料\n下午跟我说了很多一直听不到的话\n“抑郁症最坏的结果我也看到了，我能承受住你的”\n“我一直以为小时候教你这些（各种替他人着想的思想）会对你以后好，现在看来可能人还是要自私一点”\n\n听得略感动吧\n只是我还会好吗？可能永远不可能了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02 176 65kg//mtf hrt 2025.11.21-2026.2.13🍥//我想要很多很多的爱 欢迎聊天互fo 永远的可爱姐姐@jikeOjk7623 // @HappyHejsDay的兵！//超温柔妹妹@sophhhsama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 69,
+                "username": "jikeOjk7623"
+              },
+              {
+                "end": 98,
+                "start": 85,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 119,
+                "start": 108,
+                "username": "sophhhsama"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023721600491925504/NLPFudYi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 530,
+          "following_count": 435,
+          "like_count": 3561,
+          "listed_count": 2,
+          "media_count": 87,
+          "tweet_count": 1978
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      }
+    ]
+  }
+}

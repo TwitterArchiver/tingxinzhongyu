@@ -1,0 +1,124 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2060786272256610784",
+    "created_at": "2026-05-30T18:11:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T19:11:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060786272256610784"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2060786272256610784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的gd越来越严重了🥺\n也许是安非他酮真的有用了叭\n我终于有一点多的能量条\n于是全拿来思考如何解决gd\n这两天被gd逼着下决心挂了个号\n准备看看冻精到底怎么个事\n\n这两天狠狠飞了一下\n似乎质量看着挺不错 ）\n但是每次弄完都好gd\n希望到时候能一次搞定叭\n我想吃糖了🥺\n\n有没有成都冻过精的朋友🥺来点攻略"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2060786272256610784",
+        "created_at": "2026-05-30T18:11:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T19:11:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060786272256610784"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060786272256610784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的gd越来越严重了🥺\n也许是安非他酮真的有用了叭\n我终于有一点多的能量条\n于是全拿来思考如何解决gd\n这两天被gd逼着下决心挂了个号\n准备看看冻精到底怎么个事\n\n这两天狠狠飞了一下\n似乎质量看着挺不错 ）\n但是每次弄完都好gd\n希望到时候能一次搞定叭\n我想吃糖了🥺\n\n有没有成都冻过精的朋友🥺来点攻略"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "176 65kg｜mtf ｜Best friend @kanonobambi ｜ ｜hrt 2025.11.21-2026.2.13🍥｜我想要很多很多的爱｜永远的可爱姐姐@jikeOjk7623 ｜@HappyHejsDay的兵！｜超温柔妹妹@sophhhsama @axzamyzed！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "kanonobambi"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "jikeOjk7623"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 132,
+                "start": 121,
+                "username": "sophhhsama"
+              },
+              {
+                "end": 143,
+                "start": 133,
+                "username": "axzamyzed"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028106888488026112/tHHVMk_N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 778,
+          "following_count": 470,
+          "like_count": 4712,
+          "listed_count": 3,
+          "media_count": 123,
+          "tweet_count": 2823
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      }
+    ]
+  }
+}

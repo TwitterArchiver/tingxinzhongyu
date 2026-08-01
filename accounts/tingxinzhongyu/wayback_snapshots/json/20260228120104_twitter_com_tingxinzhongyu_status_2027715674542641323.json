@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2027376510487966063",
+    "created_at": "2026-02-28T12:01:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T13:01:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027715674542641323"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1973648435854319616",
+          "start": 0,
+          "username": "QwQljx02"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027715674542641323",
+    "in_reply_to_user_id": "1973648435854319616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027376510487966063",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QwQljx02 没事的，也可能是题出得太难了……\n试试真题吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2027376507241508864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCKwMRwaMAA1TVO.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2027376510487966063",
+        "created_at": "2026-02-28T12:01:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T13:01:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027715674542641323"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1973648435854319616",
+              "start": 0,
+              "username": "QwQljx02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027715674542641323",
+        "in_reply_to_user_id": "1973648435854319616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027376510487966063",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QwQljx02 没事的，也可能是题出得太难了……\n试试真题吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027376507241508864"
+          ]
+        },
+        "author_id": "1973648435854319616",
+        "conversation_id": "2027376510487966063",
+        "created_at": "2026-02-27T13:33:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T14:33:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027376510487966063"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 8,
+              "tag": "崩溃"
+            },
+            {
+              "end": 15,
+              "start": 12,
+              "tag": "无助"
+            },
+            {
+              "end": 19,
+              "start": 16,
+              "tag": "可悲"
+            },
+            {
+              "end": 23,
+              "start": 20,
+              "tag": "绝望"
+            },
+            {
+              "end": 27,
+              "start": 24,
+              "tag": "被虐"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LDvpuN4Y99",
+              "end": 51,
+              "expanded_url": "https://x.com/QwQljx02/status/2027376510487966063/photo/1",
+              "media_key": "3_2027376507241508864",
+              "start": 28,
+              "url": "https://t.co/LDvpuN4Y99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027376510487966063",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6857,
+          "like_count": 153,
+          "quote_count": 0,
+          "reply_count": 51,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我完形就这样。\n#崩溃 #无助 #可悲 #绝望 #被虐 https://t.co/LDvpuN4Y99"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02 176 65kg//mtf hrt 2025.11.21-2026.2.13🍥//我想要很多很多的爱 欢迎聊天互fo 永远的可爱姐姐@jikeOjk7623 // @HappyHejsDay的兵！//超温柔妹妹@sophhhsama @axzamyzed！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 69,
+                "username": "jikeOjk7623"
+              },
+              {
+                "end": 98,
+                "start": 85,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 119,
+                "start": 108,
+                "username": "sophhhsama"
+              },
+              {
+                "end": 130,
+                "start": 120,
+                "username": "axzamyzed"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023721600491925504/NLPFudYi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 560,
+          "following_count": 449,
+          "like_count": 4018,
+          "listed_count": 2,
+          "media_count": 95,
+          "tweet_count": 2266
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-02T07:18:08.000Z",
+        "description": "这个绿色外星人受了伤…请善待她！｜\n喜欢我的地球人可以找我聊天吖^^｜匿名信箱📪：\nhttps://t.co/pyBI0lOB7O",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qwqljx02",
+                "end": 65,
+                "expanded_url": "https://ngl.link/qwqljx02",
+                "start": 42,
+                "url": "https://t.co/pyBI0lOB7O"
+              }
+            ]
+          }
+        },
+        "id": "1973648435854319616",
+        "location": "₍ᐢ..ᐢ₎♡",
+        "name": "我的内裤很能装逼",
+        "pinned_tweet_id": "1986672861604700598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003724495551606784/OOH7I8xx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 47,
+          "like_count": 1211,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 465
+        },
+        "username": "QwQljx02",
+        "verified": false
+      }
+    ]
+  }
+}

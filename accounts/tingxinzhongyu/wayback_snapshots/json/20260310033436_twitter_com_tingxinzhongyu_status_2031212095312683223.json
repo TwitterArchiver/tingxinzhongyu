@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2031185500304978109",
+    "created_at": "2026-03-10T03:34:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T04:34:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031212095312683223"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1430445611640262660",
+          "start": 0,
+          "username": "MMinuzero"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031212095312683223",
+    "in_reply_to_user_id": "1430445611640262660",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031185500304978109",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MMinuzero 羡慕有一堆论文😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2339,
+        "media_key": "3_2031185480159780864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDA4brna4AAT9IA.jpg",
+        "width": 1654
+      },
+      {
+        "height": 2339,
+        "media_key": "3_2031185479165698048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDA4bn6aYAAONgd.jpg",
+        "width": 1654
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2031185500304978109",
+        "created_at": "2026-03-10T03:34:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T04:34:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031212095312683223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1430445611640262660",
+              "start": 0,
+              "username": "MMinuzero"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031212095312683223",
+        "in_reply_to_user_id": "1430445611640262660",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031185500304978109",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MMinuzero 羡慕有一堆论文😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031185480159780864",
+            "3_2031185479165698048"
+          ]
+        },
+        "author_id": "1430445611640262660",
+        "conversation_id": "2031185500304978109",
+        "created_at": "2026-03-10T01:48:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T02:48:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031185500304978109"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9i5iWLRcPK",
+              "end": 62,
+              "expanded_url": "https://x.com/MMinuzero/status/2031185500304978109/photo/1",
+              "media_key": "3_2031185480159780864",
+              "start": 39,
+              "url": "https://t.co/9i5iWLRcPK"
+            },
+            {
+              "display_url": "pic.x.com/9i5iWLRcPK",
+              "end": 62,
+              "expanded_url": "https://x.com/MMinuzero/status/2031185500304978109/photo/1",
+              "media_key": "3_2031185479165698048",
+              "start": 39,
+              "url": "https://t.co/9i5iWLRcPK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031185500304978109",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 4330,
+          "like_count": 52,
+          "quote_count": 2,
+          "reply_count": 10,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "Twi上大佬多！\n\n大佬们路过看看一眼嘛~求求了，给我个工作机会和内推码吧！ https://t.co/9i5iWLRcPK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "176 65kg｜mtf ｜Angel lover @kanonobambi ｜ ｜hrt 2025.11.21-2026.2.13🍥｜我想要很多很多的爱｜永远的可爱姐姐@jikeOjk7623 ｜@HappyHejsDay的兵！｜超温柔妹妹@sophhhsama @axzamyzed！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "kanonobambi"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "jikeOjk7623"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 132,
+                "start": 121,
+                "username": "sophhhsama"
+              },
+              {
+                "end": 143,
+                "start": 133,
+                "username": "axzamyzed"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028106888488026112/tHHVMk_N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 637,
+          "following_count": 454,
+          "like_count": 4405,
+          "listed_count": 2,
+          "media_count": 108,
+          "tweet_count": 2498
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-25T08:23:21.000Z",
+        "description": "我是个debu喵/学数学的/基础数学考研大失败/脑子里全是水。老二刺猿/是老死宅/搞cosplay（但没钱买cos服）/玩Asia区原神。我是男孩子！！天天玩不干正事。不搞涩涩/不涉政治。想要好多对象（疯狂暗示呜呜），也想要小钱钱买好多好多好吃的。我恨数学。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mminuzero.com:100",
+                "end": 23,
+                "expanded_url": "http://mminuzero.com:100",
+                "start": 0,
+                "url": "https://t.co/ImJ4LBfuOD"
+              }
+            ]
+          }
+        },
+        "id": "1430445611640262660",
+        "location": "Los Angeles, CA, USA ",
+        "name": "୧⍤⃝☂️Micro Plusone",
+        "pinned_tweet_id": "1992249813258445042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1723970233504071680/BPSUSauZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3838,
+          "following_count": 1358,
+          "like_count": 26082,
+          "listed_count": 12,
+          "media_count": 1306,
+          "tweet_count": 5361
+        },
+        "url": "https://t.co/ImJ4LBfuOD",
+        "username": "MMinuzero",
+        "verified": false
+      }
+    ]
+  }
+}

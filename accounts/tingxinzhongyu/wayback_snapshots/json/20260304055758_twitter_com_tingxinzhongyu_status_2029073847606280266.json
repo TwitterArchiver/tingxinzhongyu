@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2029073821727375363"
+      ]
+    },
+    "author_id": "1992038421318205440",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2029073847606280266",
+    "created_at": "2026-03-04T05:57:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T06:57:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029073847606280266"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OGBqIO8NAW",
+          "end": 175,
+          "expanded_url": "https://x.com/tingxinzhongyu/status/2029073847606280266/photo/1",
+          "media_key": "3_2029073821727375363",
+          "start": 152,
+          "url": "https://t.co/OGBqIO8NAW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029073847606280266",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "回家这大半月说了很多不敢说的话\n先是承认了自己的抑郁\n然后去看了心理医生确诊\n也下定决心要断糖冻精再继续吃\nby the way\n说了好久终于允许我留一些长头发了\n\n还有父母这几天都很爱我 让我有什么不开心的就说出来 他们改\n\n可是 我不确定 如果我真的说出性别焦虑是我抑郁的原因 他们还会这样爱我吗？ https://t.co/OGBqIO8NAW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2029073821727375363",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCi34-8awAMyiCU.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029073821727375363"
+          ]
+        },
+        "author_id": "1992038421318205440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2029073847606280266",
+        "created_at": "2026-03-04T05:57:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T06:57:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029073847606280266"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OGBqIO8NAW",
+              "end": 175,
+              "expanded_url": "https://x.com/tingxinzhongyu/status/2029073847606280266/photo/1",
+              "media_key": "3_2029073821727375363",
+              "start": 152,
+              "url": "https://t.co/OGBqIO8NAW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029073847606280266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "回家这大半月说了很多不敢说的话\n先是承认了自己的抑郁\n然后去看了心理医生确诊\n也下定决心要断糖冻精再继续吃\nby the way\n说了好久终于允许我留一些长头发了\n\n还有父母这几天都很爱我 让我有什么不开心的就说出来 他们改\n\n可是 我不确定 如果我真的说出性别焦虑是我抑郁的原因 他们还会这样爱我吗？ https://t.co/OGBqIO8NAW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "176 65kg｜mtf ｜Angel lover @kanonobambi ｜ ｜hrt 2025.11.21-2026.2.13🍥｜我想要很多很多的爱｜永远的可爱姐姐@jikeOjk7623 ｜@HappyHejsDay的兵！｜超温柔妹妹@sophhhsama @axzamyzed！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "kanonobambi"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "jikeOjk7623"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 132,
+                "start": 121,
+                "username": "sophhhsama"
+              },
+              {
+                "end": 143,
+                "start": 133,
+                "username": "axzamyzed"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028106888488026112/tHHVMk_N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 593,
+          "following_count": 454,
+          "like_count": 4229,
+          "listed_count": 2,
+          "media_count": 102,
+          "tweet_count": 2390
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      }
+    ]
+  }
+}

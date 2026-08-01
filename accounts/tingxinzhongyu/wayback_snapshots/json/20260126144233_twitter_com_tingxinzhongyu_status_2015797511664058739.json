@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2015699539458674817",
+    "created_at": "2026-01-26T14:42:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T15:42:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015797511664058739"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1201171026207358976",
+          "start": 0,
+          "username": "Choising2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015797511664058739",
+    "in_reply_to_user_id": "1201171026207358976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015796343743418879",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Choising2 牛诶"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2015796340660350976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_mMF3iXsAA-XU7.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2015699539458674817",
+        "created_at": "2026-01-26T14:42:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T15:42:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015797511664058739"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1201171026207358976",
+              "start": 0,
+              "username": "Choising2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015797511664058739",
+        "in_reply_to_user_id": "1201171026207358976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015796343743418879",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Choising2 牛诶"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015796340660350976"
+          ]
+        },
+        "author_id": "1201171026207358976",
+        "conversation_id": "2015699539458674817",
+        "created_at": "2026-01-26T14:37:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T15:37:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015796343743418879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992038421318205440",
+              "start": 0,
+              "username": "tingxinzhongyu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UaEGKB7APp",
+              "end": 73,
+              "expanded_url": "https://x.com/Choising2/status/2015796343743418879/photo/1",
+              "media_key": "3_2015796340660350976",
+              "start": 50,
+              "url": "https://t.co/UaEGKB7APp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015796343743418879",
+        "in_reply_to_user_id": "1992038421318205440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015792355161583669",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tingxinzhongyu 我有一隻，的4公司裡老闆也養了一隻大，二隻小。\n我公司是工程公司。 https://t.co/UaEGKB7APp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02/mtf 我只想要很多很多的爱 hrt 2025.11🍥/欢迎聊天互fo",
+        "id": "1992038421318205440",
+        "name": "听羽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992039552731725825/3Uy_y4UJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 129,
+          "like_count": 576,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 323
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-01T16:07:52.000Z",
+        "description": "重申我是香港人，學習日文中，用日文寫日記是為了學習。\n一個10多年的工程狗。\n現在努力工作，學習。\n希望45歲前有個學士學位。",
+        "id": "1201171026207358976",
+        "location": "Hong Kong",
+        "name": "古拉大好",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997010641056681985/9zWwKoNg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 729,
+          "like_count": 21258,
+          "listed_count": 3,
+          "media_count": 1046,
+          "tweet_count": 3781
+        },
+        "username": "Choising2",
+        "verified": true
+      }
+    ]
+  }
+}

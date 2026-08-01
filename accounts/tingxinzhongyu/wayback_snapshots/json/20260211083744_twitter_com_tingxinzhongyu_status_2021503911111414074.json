@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2021409591704289652",
+    "created_at": "2026-02-11T08:37:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T09:37:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021503911111414074"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 18,
+          "normalized_text": "恭喜",
+          "probability": 0.5125,
+          "start": 17,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1443389276654223363",
+          "start": 0,
+          "username": "C6QYBVSScQNBeI2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021503911111414074",
+    "in_reply_to_user_id": "1443389276654223363",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021409591704289652",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@C6QYBVSScQNBeI2 恭喜！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2021409571991060487",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA19S7waAAcyMOL.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2021409572053975042",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA19S7_aAAImOaF.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2021409573228388352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA19TAXaIAAGWBf.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2021409573333237762",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA19TAwaAAINguv.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2021409591704289652",
+        "created_at": "2026-02-11T08:37:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T09:37:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021503911111414074"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "恭喜",
+              "probability": 0.5125,
+              "start": 17,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1443389276654223363",
+              "start": 0,
+              "username": "C6QYBVSScQNBeI2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021503911111414074",
+        "in_reply_to_user_id": "1443389276654223363",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021409591704289652",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@C6QYBVSScQNBeI2 恭喜！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021409571991060487",
+            "3_2021409572053975042",
+            "3_2021409573228388352",
+            "3_2021409573333237762"
+          ]
+        },
+        "author_id": "1443389276654223363",
+        "conversation_id": "2021409591704289652",
+        "created_at": "2026-02-11T02:22:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T03:22:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021409591704289652"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 43,
+              "start": 39,
+              "tag": "mtf"
+            },
+            {
+              "end": 48,
+              "start": 45,
+              "tag": "药娘"
+            },
+            {
+              "end": 53,
+              "start": 50,
+              "tag": "鲨鲨"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TMnHVkhOxh",
+              "end": 77,
+              "expanded_url": "https://x.com/C6QYBVSScQNBeI2/status/2021409591704289652/photo/1",
+              "media_key": "3_2021409571991060487",
+              "start": 54,
+              "url": "https://t.co/TMnHVkhOxh"
+            },
+            {
+              "display_url": "pic.x.com/TMnHVkhOxh",
+              "end": 77,
+              "expanded_url": "https://x.com/C6QYBVSScQNBeI2/status/2021409591704289652/photo/1",
+              "media_key": "3_2021409572053975042",
+              "start": 54,
+              "url": "https://t.co/TMnHVkhOxh"
+            },
+            {
+              "display_url": "pic.x.com/TMnHVkhOxh",
+              "end": 77,
+              "expanded_url": "https://x.com/C6QYBVSScQNBeI2/status/2021409591704289652/photo/1",
+              "media_key": "3_2021409573228388352",
+              "start": 54,
+              "url": "https://t.co/TMnHVkhOxh"
+            },
+            {
+              "display_url": "pic.x.com/TMnHVkhOxh",
+              "end": 77,
+              "expanded_url": "https://x.com/C6QYBVSScQNBeI2/status/2021409591704289652/photo/1",
+              "media_key": "3_2021409573333237762",
+              "start": 54,
+              "url": "https://t.co/TMnHVkhOxh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021409591704289652",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 328,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唔，咱也有自己的鲨鲨了喵！！！~~~嘿嘿~~~感觉自己要母爱泛滥了喵！！！~\n#mtf  #药娘  #鲨鲨 https://t.co/TMnHVkhOxh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02 176 65kg//mtf hrt 2025.11.21🍥//我想要很多很多的爱 欢迎聊天互fo 永远的可爱姐姐@jikeOjk7623",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 59,
+                "username": "jikeOjk7623"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992039552731725825/3Uy_y4UJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 306,
+          "like_count": 1869,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 965
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-30T01:36:48.000Z",
+        "description": "生产日期2005.11.7。山东潍坊，苦逼大一学生党，穷苦💊💊一只，社恐二次元一枚喵，欢迎姐妹贴贴喵！喜欢大肉棒和小钱钱喵，正在努力学习cos中喵，没建模没经济的哥布林一枚喵，呜呜呜",
+        "id": "1443389276654223363",
+        "name": "折翼的笼中鸟 🏳‍⚧🍥～",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870164687511490560/gnjHxcgJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 632,
+          "following_count": 767,
+          "like_count": 10,
+          "listed_count": 1,
+          "media_count": 125,
+          "tweet_count": 767
+        },
+        "username": "C6QYBVSScQNBeI2",
+        "verified": false
+      }
+    ]
+  }
+}

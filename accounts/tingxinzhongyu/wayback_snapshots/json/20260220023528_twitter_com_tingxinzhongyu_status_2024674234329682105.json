@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2024312562519875598",
+    "created_at": "2026-02-20T02:35:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T03:35:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024674234329682105"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1220723474462924803",
+          "start": 0,
+          "username": "Xier0405"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024674234329682105",
+    "in_reply_to_user_id": "1220723474462924803",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024642018073563483",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xier0405 🥺是的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2024312562519875598",
+        "created_at": "2026-02-20T02:35:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T03:35:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024674234329682105"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1220723474462924803",
+              "start": 0,
+              "username": "Xier0405"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024674234329682105",
+        "in_reply_to_user_id": "1220723474462924803",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024642018073563483",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xier0405 🥺是的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1220723474462924803",
+        "conversation_id": "2024312562519875598",
+        "created_at": "2026-02-20T00:27:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T01:27:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024642018073563483"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992038421318205440",
+              "start": 0,
+              "username": "tingxinzhongyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024642018073563483",
+        "in_reply_to_user_id": "1992038421318205440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024312562519875598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tingxinzhongyu 好可怕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02 176 65kg//mtf hrt 2025.11.21-2026.2.13🍥//我想要很多很多的爱 欢迎聊天互fo 永远的可爱姐姐@jikeOjk7623",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 69,
+                "username": "jikeOjk7623"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023721600491925504/NLPFudYi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 405,
+          "following_count": 402,
+          "like_count": 2991,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 1573
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-24T15:02:23.000Z",
+        "description": "我是希爾，是一只可愛妹子  ｡:.ﾟヽ(*´∀`)ﾉﾟ.:｡ 最近比較喜歡研究mcu的東西~~\n音遊ᴿʰʸᵗʰᵐ🎵🕹️|科技愛好者ᵀᵉᶜʰ💻|裙裝ᴰʳᵉˢˢ 👗|跨女ᵀʳᵃⁿˢʷᵒᵐᵃⁿ 🏳️‍⚧️",
+        "id": "1220723474462924803",
+        "name": "希爾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019389684980592641/WS9nNM3Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 315,
+          "like_count": 5353,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 246
+        },
+        "username": "Xier0405",
+        "verified": false
+      }
+    ]
+  }
+}

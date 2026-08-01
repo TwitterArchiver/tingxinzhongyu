@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2008689308421574787",
+    "created_at": "2026-01-07T01:37:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T02:37:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008714479866179873"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1912573016380436483",
+          "start": 0,
+          "username": "ymeatuna"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008714479866179873",
+    "in_reply_to_user_id": "1912573016380436483",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008689308421574787",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ymeatuna 可好玩了，特别是有朋友一起"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2008689308421574787",
+        "created_at": "2026-01-07T01:37:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T02:37:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008714479866179873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1912573016380436483",
+              "start": 0,
+              "username": "ymeatuna"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008714479866179873",
+        "in_reply_to_user_id": "1912573016380436483",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008689308421574787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ymeatuna 可好玩了，特别是有朋友一起"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912573016380436483",
+        "conversation_id": "2008689308421574787",
+        "created_at": "2026-01-06T23:57:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T00:57:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008689308421574787"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008689308421574787",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我对apex一直有不好的印象，因为之前短暂接触了一下这个游戏被压力哥贬损的一无是处\n今天诡秘带我玩了一下，诡秘不压力人，虽然没玩明白但是感觉很轻松^ω^"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02年老屁股/mtf 我只想要很多很多的爱 hrt 2025.11🍥",
+        "id": "1992038421318205440",
+        "name": "听羽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992039552731725825/3Uy_y4UJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 40,
+          "like_count": 149,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 58
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-16T18:25:25.000Z",
+        "description": "这里是sxw的剪贴板",
+        "id": "1912573016380436483",
+        "location": "6.8km",
+        "name": "水腥味",
+        "pinned_tweet_id": "1988450581145395353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005721234378477569/qISFnkQ-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 83,
+          "like_count": 658,
+          "listed_count": 1,
+          "media_count": 243,
+          "tweet_count": 1786
+        },
+        "username": "ymeatuna",
+        "verified": false
+      }
+    ]
+  }
+}

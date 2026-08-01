@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027983766829088768"
+      ]
+    },
+    "author_id": "1992038421318205440",
+    "conversation_id": "2027983773309276512",
+    "created_at": "2026-03-01T05:46:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T06:46:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027983773309276512"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Nksn6ztcMW",
+          "end": 169,
+          "expanded_url": "https://x.com/tingxinzhongyu/status/2027983773309276512/photo/1",
+          "media_key": "3_2027983766829088768",
+          "start": 146,
+          "url": "https://t.co/Nksn6ztcMW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027983773309276512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我恨微信内提醒\n昨天跟我妈机票选座呢\n突然小姐妹的信息跳出来了\n我直接给手机抢走关了\n然后留下我妈在那奇思妙想\n“有女朋友啦？”“注意安全哦~”\n“可不要是男朋友哦”\n\n对不起哦 你儿子可能要成别人女朋友了🥺\n\n话说如果两个跨妹分别在对方家扮演女朋友 等到两边家长见面的时候会不会很魔幻呢？ https://t.co/Nksn6ztcMW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 819,
+        "media_key": "3_2027983766829088768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCTYfcAbQAA3HSa.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027983766829088768"
+          ]
+        },
+        "author_id": "1992038421318205440",
+        "conversation_id": "2027983773309276512",
+        "created_at": "2026-03-01T05:46:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T06:46:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027983773309276512"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Nksn6ztcMW",
+              "end": 169,
+              "expanded_url": "https://x.com/tingxinzhongyu/status/2027983773309276512/photo/1",
+              "media_key": "3_2027983766829088768",
+              "start": 146,
+              "url": "https://t.co/Nksn6ztcMW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027983773309276512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我恨微信内提醒\n昨天跟我妈机票选座呢\n突然小姐妹的信息跳出来了\n我直接给手机抢走关了\n然后留下我妈在那奇思妙想\n“有女朋友啦？”“注意安全哦~”\n“可不要是男朋友哦”\n\n对不起哦 你儿子可能要成别人女朋友了🥺\n\n话说如果两个跨妹分别在对方家扮演女朋友 等到两边家长见面的时候会不会很魔幻呢？ https://t.co/Nksn6ztcMW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02 176 65kg//mtf hrt 2025.11.21-2026.2.13🍥//我想要很多很多的爱 欢迎聊天互fo 永远的可爱姐姐@jikeOjk7623 // @HappyHejsDay的兵！//超温柔妹妹@sophhhsama @axzamyzed！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 69,
+                "username": "jikeOjk7623"
+              },
+              {
+                "end": 98,
+                "start": 85,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 119,
+                "start": 108,
+                "username": "sophhhsama"
+              },
+              {
+                "end": 130,
+                "start": 120,
+                "username": "axzamyzed"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023721600491925504/NLPFudYi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 558,
+          "following_count": 450,
+          "like_count": 4039,
+          "listed_count": 2,
+          "media_count": 97,
+          "tweet_count": 2279
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      }
+    ]
+  }
+}

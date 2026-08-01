@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2070194183198134726",
+    "created_at": "2026-06-26T04:39:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T05:39:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070366305719591229"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1554696046021730305",
+          "start": 0,
+          "username": "Pyuyi233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070366305719591229",
+    "in_reply_to_user_id": "1554696046021730305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070194183198134726",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Pyuyi233 竟然川大跟成电一个时间毕业典礼 好磕）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2070192918644822017",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLrNfbxakAE92Pj.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2070192897593683968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLrNeNWbsAASAyr.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2070194183198134726",
+        "created_at": "2026-06-26T04:39:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T05:39:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070366305719591229"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1554696046021730305",
+              "start": 0,
+              "username": "Pyuyi233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070366305719591229",
+        "in_reply_to_user_id": "1554696046021730305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070194183198134726",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pyuyi233 竟然川大跟成电一个时间毕业典礼 好磕）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070192918644822017",
+            "3_2070192897593683968"
+          ]
+        },
+        "author_id": "1554696046021730305",
+        "conversation_id": "2070194183198134726",
+        "created_at": "2026-06-25T17:15:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T18:00:48.000Z",
+          "edits_remaining": 2,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070190483259981975",
+          "2070192929071828997",
+          "2070193100878917763",
+          "2070194183198134726"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xegtIXFQDB",
+              "end": 35,
+              "expanded_url": "https://x.com/Pyuyi233/status/2070194183198134726/photo/1",
+              "media_key": "3_2070192918644822017",
+              "start": 12,
+              "url": "https://t.co/xegtIXFQDB"
+            },
+            {
+              "display_url": "pic.x.com/xegtIXFQDB",
+              "end": 35,
+              "expanded_url": "https://x.com/Pyuyi233/status/2070194183198134726/photo/1",
+              "media_key": "3_2070192897593683968",
+              "start": 12,
+              "url": "https://t.co/xegtIXFQDB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070194183198134726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 11376,
+          "like_count": 145,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "悄悄比（毕）个耶（业） https://t.co/xegtIXFQDB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "176 65kg｜mtf ｜Best friend @kanonobambi ｜ ｜hrt 2025.11.21-2026.2.13🍥｜我想要很多很多的爱｜永远的可爱姐姐@jikeOjk7623 ｜@HappyHejsDay的兵！｜超温柔妹妹@sophhhsama @axzamyzed！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "kanonobambi"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "jikeOjk7623"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 132,
+                "start": 121,
+                "username": "sophhhsama"
+              },
+              {
+                "end": 143,
+                "start": 133,
+                "username": "axzamyzed"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028106888488026112/tHHVMk_N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 940,
+          "following_count": 480,
+          "like_count": 4871,
+          "listed_count": 3,
+          "media_count": 134,
+          "tweet_count": 2967
+        },
+        "url": "",
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-03T05:10:13.000Z",
+        "description": "可以叫我mmm(Pyuyi)，INFJ\n\nmath\nAI Interpretability\nCybersecurity\n\n红薯：https://t.co/Bsz7QlXkD8",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "xiaohongshu.com/user/profile/6…",
+                "end": 87,
+                "expanded_url": "https://www.xiaohongshu.com/user/profile/60aa2bc40000000001002d6e?xsec_token=YBzOnWib22kxz9OHHhQ",
+                "start": 64,
+                "url": "https://t.co/Bsz7QlXkD8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/VeraPyuyi",
+                "end": 23,
+                "expanded_url": "https://github.com/VeraPyuyi",
+                "start": 0,
+                "url": "https://t.co/vZgYQSg5hB"
+              }
+            ]
+          }
+        },
+        "id": "1554696046021730305",
+        "location": "卡冈图雅",
+        "name": "Pyuyi",
+        "pinned_tweet_id": "2065675267646108047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060548602880221185/XP4emOUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1100,
+          "following_count": 58,
+          "like_count": 377,
+          "listed_count": 2,
+          "media_count": 71,
+          "tweet_count": 285
+        },
+        "url": "https://t.co/vZgYQSg5hB",
+        "username": "Pyuyi233",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2015699539458674817",
+    "created_at": "2026-01-26T11:11:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T12:11:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015744452183433262"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1828232004019638272",
+          "start": 0,
+          "username": "cnsm0523"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015744452183433262",
+    "in_reply_to_user_id": "1828232004019638272",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015743196148748767",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cnsm0523 都怪商家😭我恨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2015699539458674817",
+        "created_at": "2026-01-26T11:11:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T12:11:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015744452183433262"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1828232004019638272",
+              "start": 0,
+              "username": "cnsm0523"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015744452183433262",
+        "in_reply_to_user_id": "1828232004019638272",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015743196148748767",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cnsm0523 都怪商家😭我恨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1828232004019638272",
+        "conversation_id": "2015699539458674817",
+        "created_at": "2026-01-26T11:06:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T12:06:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015743196148748767"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992038421318205440",
+              "start": 0,
+              "username": "tingxinzhongyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015743196148748767",
+        "in_reply_to_user_id": "1992038421318205440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015699539458674817",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tingxinzhongyu 这个可不是送女生的，这是送小孩子当抱枕睡觉的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02/mtf 我只想要很多很多的爱 hrt 2025.11🍥/欢迎聊天互fo",
+        "id": "1992038421318205440",
+        "name": "听羽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992039552731725825/3Uy_y4UJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 124,
+          "like_count": 559,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 307
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-27T00:44:37.000Z",
+        "description": "叫我月月就好/喜欢玩游戏/话废/山地车",
+        "id": "1828232004019638272",
+        "location": "在你心里",
+        "name": "是波奇酱呀",
+        "pinned_tweet_id": "1876961517456826457",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936193124184784896/lozg36mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1595,
+          "following_count": 2943,
+          "like_count": 67285,
+          "listed_count": 2,
+          "media_count": 64,
+          "tweet_count": 3579
+        },
+        "username": "cnsm0523",
+        "verified": false
+      }
+    ]
+  }
+}

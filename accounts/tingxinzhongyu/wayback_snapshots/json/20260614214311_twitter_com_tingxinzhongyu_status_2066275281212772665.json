@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2066207491659293178",
+    "created_at": "2026-06-14T21:43:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T22:43:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066275281212772665"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1552918719440924672",
+          "start": 0,
+          "username": "itsCatRoll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066275281212772665",
+    "in_reply_to_user_id": "1552918719440924672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066207491659293178",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@itsCatRoll 笑晕 吃完sns30分钟不睡觉指定发疯（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 50038,
+        "height": 1920,
+        "media_key": "13_2066207264785178625",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2066207264785178625/img/4G2PUenBFgFz6UFq.jpg",
+        "public_metrics": {
+          "view_count": 133
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066207264785178625/vid/avc1/720x1280/A3RPlQIrCnnI1PkR.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066207264785178625/vid/avc1/1080x1920/QW33RAV9BHTaIMHf.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066207264785178625/vid/avc1/480x852/SULo5gM8AOgAls6F.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2066207264785178625/pl/PMjOGNpc3HsLloYs.m3u8"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066207264785178625/vid/avc1/320x568/ahTvqkqSf0OHcfGj.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2066207491659293178",
+        "created_at": "2026-06-14T21:43:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T22:43:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066275281212772665"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1552918719440924672",
+              "start": 0,
+              "username": "itsCatRoll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066275281212772665",
+        "in_reply_to_user_id": "1552918719440924672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066207491659293178",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@itsCatRoll 笑晕 吃完sns30分钟不睡觉指定发疯（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2066207264785178625"
+          ]
+        },
+        "author_id": "1552918719440924672",
+        "conversation_id": "2066207491659293178",
+        "created_at": "2026-06-14T17:13:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T18:13:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066207491659293178"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UTVUBljlV0",
+              "end": 64,
+              "expanded_url": "https://x.com/itsCatRoll/status/2066207491659293178/video/1",
+              "media_key": "13_2066207264785178625",
+              "start": 41,
+              "url": "https://t.co/UTVUBljlV0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066207491659293178",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 294,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "草昨天吃完sns发疯刚才看手机发现一段无意义视频也不知道什么时候拍的\n\n警钟长鸣 https://t.co/UTVUBljlV0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "176 65kg｜mtf ｜Best friend @kanonobambi ｜ ｜hrt 2025.11.21-2026.2.13🍥｜我想要很多很多的爱｜永远的可爱姐姐@jikeOjk7623 ｜@HappyHejsDay的兵！｜超温柔妹妹@sophhhsama @axzamyzed！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "kanonobambi"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "jikeOjk7623"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 132,
+                "start": 121,
+                "username": "sophhhsama"
+              },
+              {
+                "end": 143,
+                "start": 133,
+                "username": "axzamyzed"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028106888488026112/tHHVMk_N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 912,
+          "following_count": 482,
+          "like_count": 4856,
+          "listed_count": 3,
+          "media_count": 131,
+          "tweet_count": 2916
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "里账号@LTSxn0z",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 3,
+                "username": "LTSxn0z"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/linker2k",
+                "end": 23,
+                "expanded_url": "http://t.me/linker2k",
+                "start": 0,
+                "url": "https://t.co/9ukBrb4ybC"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "location": "猫卷杂货铺 ➡️",
+        "name": "衍星猫卷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060910085187219456/yA1wVEhH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4081,
+          "following_count": 843,
+          "like_count": 4181,
+          "listed_count": 9,
+          "media_count": 85,
+          "tweet_count": 598
+        },
+        "url": "https://t.co/9ukBrb4ybC",
+        "username": "itsCatRoll",
+        "verified": true
+      }
+    ]
+  }
+}

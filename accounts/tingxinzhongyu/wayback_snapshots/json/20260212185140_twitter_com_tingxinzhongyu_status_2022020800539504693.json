@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2021673338016608342",
+    "created_at": "2026-02-12T18:51:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T19:51:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022020800539504693"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2019819454520295424",
+          "start": 0,
+          "username": "jiechengyuan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022020800539504693",
+    "in_reply_to_user_id": "2019819454520295424",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021673338016608342",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiechengyuan 想被扣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2021673338016608342",
+        "created_at": "2026-02-12T18:51:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T19:51:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022020800539504693"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2019819454520295424",
+              "start": 0,
+              "username": "jiechengyuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022020800539504693",
+        "in_reply_to_user_id": "2019819454520295424",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021673338016608342",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiechengyuan 想被扣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2019819454520295424",
+        "conversation_id": "2021673338016608342",
+        "created_at": "2026-02-11T19:50:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T20:50:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021673338016608342"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jiechengyuan/s…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/jiechengyuan/status/2021326626236268944",
+              "start": 26,
+              "url": "https://t.co/UqWQuGhRed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021673338016608342",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3903,
+          "like_count": 47,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021326626236268944",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "都扣进去了才哭唧唧和我说不想做……真的很尴尬好吧🥹 https://t.co/UqWQuGhRed"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02 176 65kg//mtf hrt 2025.11.21🍥//我想要很多很多的爱 欢迎聊天互fo 永远的可爱姐姐@jikeOjk7623",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 59,
+                "username": "jikeOjk7623"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992039552731725825/3Uy_y4UJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 328,
+          "like_count": 2106,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 1069
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-06T17:04:34.000Z",
+        "description": "糖和糖商，粉白蓝与梦想\n大家好我是小圆环/2009.09.26/小证日期25.9.16/一年xyn兼紫砂干预志愿者/n55唐毓文冰棍爱爱酱推荐的糖商(下略)，清蒸协会荣誉获奖者/心理疏导需求的可以私我的说/tg:yuukihanashiya, qq3518541175加不上时:2398521880",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/StarrySky_Snow…",
+                "end": 23,
+                "expanded_url": "https://t.me/StarrySky_Snowfield",
+                "start": 0,
+                "url": "https://t.co/kiqyYtWEQ4"
+              }
+            ]
+          }
+        },
+        "id": "2019819454520295424",
+        "location": "药娘之城",
+        "name": "鹿目圆环（糖商/全球可发）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019820263253409792/qwljaMPJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 377,
+          "following_count": 86,
+          "like_count": 88,
+          "listed_count": 3,
+          "media_count": 18,
+          "tweet_count": 114
+        },
+        "url": "https://t.co/kiqyYtWEQ4",
+        "username": "jiechengyuan",
+        "verified": false
+      }
+    ]
+  }
+}

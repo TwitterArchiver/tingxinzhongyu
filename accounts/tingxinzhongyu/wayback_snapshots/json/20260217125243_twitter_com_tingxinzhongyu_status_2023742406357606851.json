@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2023742386481098756"
+      ]
+    },
+    "author_id": "1992038421318205440",
+    "conversation_id": "2023742406357606851",
+    "created_at": "2026-02-17T12:52:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T13:52:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023742406357606851"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/NKikZV3wes",
+          "end": 131,
+          "expanded_url": "https://x.com/tingxinzhongyu/status/2023742406357606851/photo/1",
+          "media_key": "3_2023742386481098756",
+          "start": 108,
+          "url": "https://t.co/NKikZV3wes"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023742406357606851",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这几天停糖还要陪家里\n过得太难受😣，就一直天天晚上就趁着吃饭猛喝酒 好像家里人也习惯了\n今天就要了两瓶啤酒专门给了我一瓶喝，剩三四个人喝一瓶\n但是妈妈 一瓶好像有点还不够啊 \n而且为什么喝点之后就想配粒神秘补佳乐😭 https://t.co/NKikZV3wes"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2023742386481098756",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBXG-m8bcAQzCQO.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023742386481098756"
+          ]
+        },
+        "author_id": "1992038421318205440",
+        "conversation_id": "2023742406357606851",
+        "created_at": "2026-02-17T12:52:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T13:52:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023742406357606851"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NKikZV3wes",
+              "end": 131,
+              "expanded_url": "https://x.com/tingxinzhongyu/status/2023742406357606851/photo/1",
+              "media_key": "3_2023742386481098756",
+              "start": 108,
+              "url": "https://t.co/NKikZV3wes"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023742406357606851",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这几天停糖还要陪家里\n过得太难受😣，就一直天天晚上就趁着吃饭猛喝酒 好像家里人也习惯了\n今天就要了两瓶啤酒专门给了我一瓶喝，剩三四个人喝一瓶\n但是妈妈 一瓶好像有点还不够啊 \n而且为什么喝点之后就想配粒神秘补佳乐😭 https://t.co/NKikZV3wes"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02 176 65kg//mtf hrt 2025.11.21🍥//我想要很多很多的爱 欢迎聊天互fo 永远的可爱姐姐@jikeOjk7623",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 59,
+                "username": "jikeOjk7623"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023721600491925504/NLPFudYi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 343,
+          "following_count": 378,
+          "like_count": 2753,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 1416
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      }
+    ]
+  }
+}

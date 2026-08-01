@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2071994303652806871",
+    "created_at": "2026-06-30T16:28:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T17:28:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071994303652806871"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/evenin_eko/sta…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/evenin_eko/status/2071889168058490965",
+          "start": 15,
+          "url": "https://t.co/OcdpEidZO9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071994303652806871",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071889168058490965",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "nb 我就说这是学习软件吧） https://t.co/OcdpEidZO9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1711,
+        "media_key": "3_2071889155450195968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMDUNaSX0AA0C5M.jpg",
+        "width": 847
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2071889155617959936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMDUNa6XsAAZWbc.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2071994303652806871",
+        "created_at": "2026-06-30T16:28:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T17:28:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071994303652806871"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/evenin_eko/sta…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/evenin_eko/status/2071889168058490965",
+              "start": 15,
+              "url": "https://t.co/OcdpEidZO9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071994303652806871",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071889168058490965",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "nb 我就说这是学习软件吧） https://t.co/OcdpEidZO9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071889155450195968",
+            "3_2071889155617959936"
+          ]
+        },
+        "author_id": "1017604796042211330",
+        "conversation_id": "2071889168058490965",
+        "created_at": "2026-06-30T09:30:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T10:30:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071889168058490965"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OraLohRrjV",
+              "end": 247,
+              "expanded_url": "https://x.com/Evenin_eko/status/2071889168058490965/photo/1",
+              "media_key": "3_2071889155450195968",
+              "start": 224,
+              "url": "https://t.co/OraLohRrjV"
+            },
+            {
+              "display_url": "pic.x.com/OraLohRrjV",
+              "end": 247,
+              "expanded_url": "https://x.com/Evenin_eko/status/2071889168058490965/photo/1",
+              "media_key": "3_2071889155617959936",
+              "start": 224,
+              "url": "https://t.co/OraLohRrjV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071889168058490965",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 750,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "JM287189 傅里叶解析\nJM287213 线性代数\nJM287347 微积分\nJM287348 微分方程\nJM287501 统计学 I\nJM287502 统计学 II\nJM287503 统计学 III\nJM287646 复数\nJM287647 密码学\nJM287648 测量学\nJM287786 经典力学\nJM287836 热力学\nJM287837 流体力学\nJM288302 半导体\nJM288303 材料力学\nJM288304 量子力学 https://t.co/OraLohRrjV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "176 65kg｜mtf ｜Best friend @kanonobambi ｜ ｜hrt 2025.11.21-2026.2.13🍥｜我想要很多很多的爱｜永远的可爱姐姐@jikeOjk7623 ｜@HappyHejsDay的兵！｜超温柔妹妹@sophhhsama @axzamyzed！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "kanonobambi"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "jikeOjk7623"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 132,
+                "start": 121,
+                "username": "sophhhsama"
+              },
+              {
+                "end": 143,
+                "start": 133,
+                "username": "axzamyzed"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028106888488026112/tHHVMk_N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 987,
+          "following_count": 486,
+          "like_count": 4918,
+          "listed_count": 3,
+          "media_count": 134,
+          "tweet_count": 2998
+        },
+        "url": "",
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2018-07-13T03:01:04.000Z",
+        "description": "DTMer&Coder｜东大情理备考中｜Member of PASAU SOUND｜欢迎DM｜纸飞机 https://t.co/EWTwAHXHsN｜里账号 @RikaNeko9｜可爱橙宝 @ST_Bed0721｜可爱棉花糖 @Misncandy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 79,
+                "username": "RikaNeko9"
+              },
+              {
+                "end": 106,
+                "start": 95,
+                "username": "ST_Bed0721"
+              },
+              {
+                "end": 123,
+                "start": 113,
+                "username": "Misncandy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/asakawashio",
+                "end": 74,
+                "expanded_url": "http://t.me/asakawashio",
+                "start": 51,
+                "url": "https://t.co/EWTwAHXHsN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "shiori-net.work",
+                "end": 23,
+                "expanded_url": "https://shiori-net.work/",
+                "start": 0,
+                "url": "https://t.co/wKiADpYai2"
+              }
+            ]
+          }
+        },
+        "id": "1017604796042211330",
+        "location": "Hokkaidō, Japan",
+        "name": "淺川 曦✨ 詩織網路 Shiori Networks",
+        "pinned_tweet_id": "2041398514509635588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950168958138740736/cICoLDtw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3218,
+          "following_count": 1251,
+          "like_count": 177162,
+          "listed_count": 13,
+          "media_count": 2987,
+          "tweet_count": 31389
+        },
+        "url": "https://t.co/wKiADpYai2",
+        "username": "Evenin_eko",
+        "verified": false
+      }
+    ]
+  }
+}

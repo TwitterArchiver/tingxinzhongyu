@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2012959566997200897"
+      ]
+    },
+    "author_id": "1992038421318205440",
+    "conversation_id": "2012959590653284806",
+    "created_at": "2026-01-18T18:45:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T19:45:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2012959590653284806"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/bLpDHK5Zyl",
+          "end": 77,
+          "expanded_url": "https://x.com/tingxinzhongyu/status/2012959590653284806/photo/1",
+          "media_key": "3_2012959566997200897",
+          "start": 54,
+          "url": "https://t.co/bLpDHK5Zyl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012959590653284806",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一天没吃糖，痘痘马上都冒出来了，枪也马得不行，好在看了一直很想看的雪，心情还没那么糟，可之后我要怎么办呢？ https://t.co/bLpDHK5Zyl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1334,
+        "media_key": "3_2012959566997200897",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-94D6IXoAES6oM.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012959566997200897"
+          ]
+        },
+        "author_id": "1992038421318205440",
+        "conversation_id": "2012959590653284806",
+        "created_at": "2026-01-18T18:45:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T19:45:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012959590653284806"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bLpDHK5Zyl",
+              "end": 77,
+              "expanded_url": "https://x.com/tingxinzhongyu/status/2012959590653284806/photo/1",
+              "media_key": "3_2012959566997200897",
+              "start": 54,
+              "url": "https://t.co/bLpDHK5Zyl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012959590653284806",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一天没吃糖，痘痘马上都冒出来了，枪也马得不行，好在看了一直很想看的雪，心情还没那么糟，可之后我要怎么办呢？ https://t.co/bLpDHK5Zyl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02年老屁股/mtf 我只想要很多很多的爱 hrt 2025.11🍥",
+        "id": "1992038421318205440",
+        "name": "听羽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992039552731725825/3Uy_y4UJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 71,
+          "like_count": 295,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 152
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      }
+    ]
+  }
+}

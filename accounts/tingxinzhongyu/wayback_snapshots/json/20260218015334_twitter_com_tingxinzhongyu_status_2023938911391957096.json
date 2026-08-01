@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2023701328040693904",
+    "created_at": "2026-02-18T01:53:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T02:53:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023938911391957096"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "18190842",
+          "start": 0,
+          "username": "yukiexe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023938911391957096",
+    "in_reply_to_user_id": "18190842",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023925189193744731",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yukiexe 那很可爱了诶🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2023701328040693904",
+        "created_at": "2026-02-18T01:53:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T02:53:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023938911391957096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "18190842",
+              "start": 0,
+              "username": "yukiexe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023938911391957096",
+        "in_reply_to_user_id": "18190842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023925189193744731",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yukiexe 那很可爱了诶🤤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "18190842",
+        "conversation_id": "2023701328040693904",
+        "created_at": "2026-02-18T00:59:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T01:59:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023925189193744731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992038421318205440",
+              "start": 0,
+              "username": "tingxinzhongyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023925189193744731",
+        "in_reply_to_user_id": "1992038421318205440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023701328040693904",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tingxinzhongyu 我媽用永雛塔菲表情包"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02 176 65kg//mtf hrt 2025.11.21-2026.2.13🍥//我想要很多很多的爱 欢迎聊天互fo 永远的可爱姐姐@jikeOjk7623",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 69,
+                "username": "jikeOjk7623"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023721600491925504/NLPFudYi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 382,
+          "like_count": 2791,
+          "listed_count": 1,
+          "media_count": 69,
+          "tweet_count": 1437
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2008-12-17T15:21:48.000Z",
+        "description": "Steam | 雏草姬 | mmo 萬小時玩家 | 🏳️‍⚧️",
+        "id": "18190842",
+        "name": "咚醬🍥",
+        "pinned_tweet_id": "899001601410572288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1704081554040111104/X3rAQdLB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3812,
+          "following_count": 2129,
+          "like_count": 63889,
+          "listed_count": 69,
+          "media_count": 3660,
+          "tweet_count": 155185
+        },
+        "username": "yukiexe",
+        "verified": false
+      }
+    ]
+  }
+}

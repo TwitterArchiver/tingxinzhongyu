@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2059474353298034969",
+    "created_at": "2026-05-27T03:18:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T04:18:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059474362361888861"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2059474362361888861",
+    "in_reply_to_user_id": "1992038421318205440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059474357521711216",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我哭喊着告诉爸妈，可他们说\n“乖，不哭，她就这么脆弱，你可千万别跟她一样”\n我还是哭出来了，一点都不乖，哭得天昏地暗……\n梦又醒了\n我突然意识到 她就是长大后的我\n或许我也有这么一天 \n希望没人因为我的自杀而伤心\n\n可恶喹硫平 噩梦越来越多了\n最后大家笑一笑叭，有人因为梦哭了半小时（不是我🥺）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2059474353298034969",
+        "created_at": "2026-05-27T03:18:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T04:18:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059474362361888861"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059474362361888861",
+        "in_reply_to_user_id": "1992038421318205440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059474357521711216",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我哭喊着告诉爸妈，可他们说\n“乖，不哭，她就这么脆弱，你可千万别跟她一样”\n我还是哭出来了，一点都不乖，哭得天昏地暗……\n梦又醒了\n我突然意识到 她就是长大后的我\n或许我也有这么一天 \n希望没人因为我的自杀而伤心\n\n可恶喹硫平 噩梦越来越多了\n最后大家笑一笑叭，有人因为梦哭了半小时（不是我🥺）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2059474353298034969",
+        "created_at": "2026-05-27T03:18:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T04:18:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059474357521711216"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059474357521711216",
+        "in_reply_to_user_id": "1992038421318205440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059474353298034969",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我满心欢喜，打开她跟我都玩的一款游戏，她很厉害，我们配合得天衣无缝，很快就拿下胜利。我特别开心，以为会和她成为朋友，让她等等我，马上回来。\n我去客厅给她拿了饮料，想送进书房，可当我打开门，看到她蹲在阳台碎了的玻璃窗边上，我不明白她为什么要跳楼，哭喊着冲过去，可她还是跳下去了……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "176 65kg｜mtf ｜Best friend @kanonobambi ｜ ｜hrt 2025.11.21-2026.2.13🍥｜我想要很多很多的爱｜永远的可爱姐姐@jikeOjk7623 ｜@HappyHejsDay的兵！｜超温柔妹妹@sophhhsama @axzamyzed！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "kanonobambi"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "jikeOjk7623"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 132,
+                "start": 121,
+                "username": "sophhhsama"
+              },
+              {
+                "end": 143,
+                "start": 133,
+                "username": "axzamyzed"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028106888488026112/tHHVMk_N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 766,
+          "following_count": 468,
+          "like_count": 4681,
+          "listed_count": 3,
+          "media_count": 122,
+          "tweet_count": 2798
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      }
+    ]
+  }
+}

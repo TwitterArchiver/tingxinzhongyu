@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2070192474094698645",
+    "created_at": "2026-06-25T17:08:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T18:08:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070192474094698645"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lanziilove/sta…",
+          "end": 127,
+          "expanded_url": "https://twitter.com/lanziilove/status/2070170569044365571",
+          "start": 104,
+          "url": "https://t.co/VgwQ9Q0JKs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070192474094698645",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070170569044365571",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "成电现在除了偏了点其他都挺好的\n优点如下就不再列举了🥹\n都是我当时来的时候没有的）\n而且这个地方甚至很多人听到xyn或者xnn会花0秒钟接受然后更兴奋\n欢迎大家来喵！\n\n就是可惜今年毕业了不能看到学弟妹了） https://t.co/VgwQ9Q0JKs"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2070192474094698645",
+        "created_at": "2026-06-25T17:08:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T18:08:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070192474094698645"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lanziilove/sta…",
+              "end": 127,
+              "expanded_url": "https://twitter.com/lanziilove/status/2070170569044365571",
+              "start": 104,
+              "url": "https://t.co/VgwQ9Q0JKs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070192474094698645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070170569044365571",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "成电现在除了偏了点其他都挺好的\n优点如下就不再列举了🥹\n都是我当时来的时候没有的）\n而且这个地方甚至很多人听到xyn或者xnn会花0秒钟接受然后更兴奋\n欢迎大家来喵！\n\n就是可惜今年毕业了不能看到学弟妹了） https://t.co/VgwQ9Q0JKs"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2070170569044365571",
+        "created_at": "2026-06-25T15:41:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T16:40:30.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070170277036826682",
+          "2070170569044365571"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070170569044365571",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2316,
+          "like_count": 46,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哦对哦 又到了一年一度的招生时间（\n欢迎报考电子科技大学谢谢喵\n独立卫浴四人寝24h不断电空调热水应有尽有 学校对面天街吃的多玩的多 还有舞萌（bushi\n校园优美社团多样\n而且跨妹多多🤓说不定还能偶遇主包\n欢迎学妹们报考（学弟就不用了）\n想了解详情可以私聊主包\n下面是电科的rlewiki页面喵⬇️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "176 65kg｜mtf ｜Best friend @kanonobambi ｜ ｜hrt 2025.11.21-2026.2.13🍥｜我想要很多很多的爱｜永远的可爱姐姐@jikeOjk7623 ｜@HappyHejsDay的兵！｜超温柔妹妹@sophhhsama @axzamyzed！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "kanonobambi"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "jikeOjk7623"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 132,
+                "start": 121,
+                "username": "sophhhsama"
+              },
+              {
+                "end": 143,
+                "start": 133,
+                "username": "axzamyzed"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028106888488026112/tHHVMk_N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 931,
+          "following_count": 478,
+          "like_count": 4860,
+          "listed_count": 3,
+          "media_count": 133,
+          "tweet_count": 2958
+        },
+        "url": "",
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～ 可以叫我小雫 本名杜澄溪 💕是女孩子🏳️‍⚧️平时会发各种各样的日常～ 没有任何盈利内容 不要相信骗子哦 目前只营B站和X🏠@dexy0306这是我的男友然桑 我一生的挚爱🥰祝你生活愉快！10r慈善捐款可以加粉丝群～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 66,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨（蓝V互fo）",
+        "pinned_tweet_id": "2070032227883528481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26298,
+          "following_count": 1382,
+          "like_count": 3288,
+          "listed_count": 78,
+          "media_count": 456,
+          "tweet_count": 2844
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2059180371460390959",
+    "created_at": "2026-05-26T09:25:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T10:25:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059204325843607904"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1587051778968723456",
+          "start": 0,
+          "username": "maho_jinzaishou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059204325843607904",
+    "in_reply_to_user_id": "1587051778968723456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059198684584419383",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maho_jinzaishou 竟然这么快就过肺了（）\n我入坑的时候是个细烟，抽起来甜甜的🥺就没太大的烟味 \n不过抽完确实都是烟味一点都不好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2059180371460390959",
+        "created_at": "2026-05-26T09:25:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T10:25:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059204325843607904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1587051778968723456",
+              "start": 0,
+              "username": "maho_jinzaishou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059204325843607904",
+        "in_reply_to_user_id": "1587051778968723456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059198684584419383",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maho_jinzaishou 竟然这么快就过肺了（）\n我入坑的时候是个细烟，抽起来甜甜的🥺就没太大的烟味 \n不过抽完确实都是烟味一点都不好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1587051778968723456",
+        "conversation_id": "2059180371460390959",
+        "created_at": "2026-05-26T09:03:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T10:03:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059198684584419383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992038421318205440",
+              "start": 0,
+              "username": "tingxinzhongyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059198684584419383",
+        "in_reply_to_user_id": "1992038421318205440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059180371460390959",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tingxinzhongyu 抽烟不会很呛吗？我第一次抽烟尝试过了肺，抽了半根就扔掉了，结果之后的五个小时里，感觉嘴里喉咙里都是二手烟的味道，我还特别讨厌二手烟。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "176 65kg｜mtf ｜Best friend @kanonobambi ｜ ｜hrt 2025.11.21-2026.2.13🍥｜我想要很多很多的爱｜永远的可爱姐姐@jikeOjk7623 ｜@HappyHejsDay的兵！｜超温柔妹妹@sophhhsama @axzamyzed！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "kanonobambi"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "jikeOjk7623"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 132,
+                "start": 121,
+                "username": "sophhhsama"
+              },
+              {
+                "end": 143,
+                "start": 133,
+                "username": "axzamyzed"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028106888488026112/tHHVMk_N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 764,
+          "following_count": 469,
+          "like_count": 4661,
+          "listed_count": 3,
+          "media_count": 122,
+          "tweet_count": 2780
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-31T12:00:25.000Z",
+        "description": "希望可以开心每一天~",
+        "id": "1587051778968723456",
+        "name": "魔法少女金仔仔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969604322884534272/JvGeRM9o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 54,
+          "like_count": 45,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 115
+        },
+        "username": "maho_jinzaishou",
+        "verified": false
+      }
+    ]
+  }
+}

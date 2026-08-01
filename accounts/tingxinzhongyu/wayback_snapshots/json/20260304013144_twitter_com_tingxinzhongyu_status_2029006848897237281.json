@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2028890316485607885",
+    "created_at": "2026-03-04T01:31:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T02:31:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029006848897237281"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2005261732751802368",
+          "start": 0,
+          "username": "HappyHejsDay"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029006848897237281",
+    "in_reply_to_user_id": "2005261732751802368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028890316485607885",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HappyHejsDay 贴贴！内圈！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2028890311603437568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCgQ_SdawAAlg4p.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2028890316485607885",
+        "created_at": "2026-03-04T01:31:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T02:31:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029006848897237281"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2005261732751802368",
+              "start": 0,
+              "username": "HappyHejsDay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029006848897237281",
+        "in_reply_to_user_id": "2005261732751802368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028890316485607885",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HappyHejsDay 贴贴！内圈！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028890311603437568"
+          ]
+        },
+        "author_id": "2005261732751802368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2028890316485607885",
+        "created_at": "2026-03-03T17:48:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T18:48:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028890316485607885"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinitetweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2028112396590698496/0n2tOOjC?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2028112396590698496/0n2tOOjC?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/rd6HJlloLE"
+            },
+            {
+              "display_url": "pic.x.com/faVQ4Afq8o",
+              "end": 64,
+              "expanded_url": "https://x.com/HappyHejsDay/status/2028890316485607885/photo/1",
+              "media_key": "3_2028890311603437568",
+              "start": 41,
+              "url": "https://t.co/faVQ4Afq8o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028890316485607885",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 349,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/rd6HJlloLE https://t.co/faVQ4Afq8o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "176 65kg｜mtf ｜Angel lover @kanonobambi ｜ ｜hrt 2025.11.21-2026.2.13🍥｜我想要很多很多的爱｜永远的可爱姐姐@jikeOjk7623 ｜@HappyHejsDay的兵！｜超温柔妹妹@sophhhsama @axzamyzed！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "kanonobambi"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "jikeOjk7623"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 132,
+                "start": 121,
+                "username": "sophhhsama"
+              },
+              {
+                "end": 143,
+                "start": 133,
+                "username": "axzamyzed"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028106888488026112/tHHVMk_N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 592,
+          "following_count": 454,
+          "like_count": 4214,
+          "listed_count": 2,
+          "media_count": 101,
+          "tweet_count": 2386
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-28T12:57:17.000Z",
+        "description": "低脂國奻｜混沌阿姨｜enby｜失敗交易員｜amab｜🇹🇼🇭🇰🇨🇳｜同类互fo｜前世@franciswwwww｜寵物@Fe_ions｜寶寶窩@MoriSaSaaa @SuzukiHnnn @PaulDrizzyvlni @Suimikax @YuningTepes03 @Jskyeye @zwh20081",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 41,
+                "username": "franciswwwww"
+              },
+              {
+                "end": 65,
+                "start": 57,
+                "username": "Fe_ions"
+              },
+              {
+                "end": 80,
+                "start": 69,
+                "username": "MoriSaSaaa"
+              },
+              {
+                "end": 92,
+                "start": 81,
+                "username": "SuzukiHnnn"
+              },
+              {
+                "end": 108,
+                "start": 93,
+                "username": "PaulDrizzyvlni"
+              },
+              {
+                "end": 118,
+                "start": 109,
+                "username": "Suimikax"
+              },
+              {
+                "end": 133,
+                "start": 119,
+                "username": "YuningTepes03"
+              },
+              {
+                "end": 142,
+                "start": 134,
+                "username": "Jskyeye"
+              },
+              {
+                "end": 152,
+                "start": 143,
+                "username": "zwh20081"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/franciswwwww",
+                "end": 23,
+                "expanded_url": "https://ngl.link/franciswwwww",
+                "start": 0,
+                "url": "https://t.co/XuuvUtx6bP"
+              }
+            ]
+          }
+        },
+        "id": "2005261732751802368",
+        "location": "In your heart",
+        "name": "𝕙𝕖𝕛😉",
+        "pinned_tweet_id": "2021900695356813783",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021381883918155776/nRmYht_H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 891,
+          "following_count": 1135,
+          "like_count": 5841,
+          "listed_count": 0,
+          "media_count": 215,
+          "tweet_count": 3507
+        },
+        "url": "https://t.co/XuuvUtx6bP",
+        "username": "HappyHejsDay",
+        "verified": true
+      }
+    ]
+  }
+}

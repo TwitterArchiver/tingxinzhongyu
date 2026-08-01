@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2015473821789368724",
+    "created_at": "2026-01-25T17:16:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T18:16:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015473821789368724"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tingxinzhongyu…",
+          "end": 90,
+          "expanded_url": "https://twitter.com/tingxinzhongyu/status/2015407391341490492",
+          "start": 67,
+          "url": "https://t.co/kxGh55ImyK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015473821789368724",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015407391341490492",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "现在想想我真是笨蛋啊，我现在在床上饿得要死睡不着，凭啥她就要走我19块啊😭我想吃饭😭我为啥要给她钱😭我真是个蠢人来的，想一脚踹飞自己 https://t.co/kxGh55ImyK"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2015473821789368724",
+        "created_at": "2026-01-25T17:16:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T18:16:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015473821789368724"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tingxinzhongyu…",
+              "end": 90,
+              "expanded_url": "https://twitter.com/tingxinzhongyu/status/2015407391341490492",
+              "start": 67,
+              "url": "https://t.co/kxGh55ImyK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015473821789368724",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015407391341490492",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "现在想想我真是笨蛋啊，我现在在床上饿得要死睡不着，凭啥她就要走我19块啊😭我想吃饭😭我为啥要给她钱😭我真是个蠢人来的，想一脚踹飞自己 https://t.co/kxGh55ImyK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2015407391341490492",
+        "created_at": "2026-01-25T12:52:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T13:52:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015407391341490492"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015407391341490492",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "高铁到站准备打车回宿舍碰到一个阿姨说没有钱打车回家，找我借19块钱。因为车上一直在想自己要不要继续活着的事，想着要不临走做点好事吧，就给她转了，转完想起来这些似乎都是我父母的钱，我有点慷他人之慨了，又想到正好胃口不是很好，不如就不吃晚饭，相当于赚了19块钱给她也许是……打车叭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02/mtf 我只想要很多很多的爱 hrt 2025.11🍥/欢迎聊天互fo",
+        "id": "1992038421318205440",
+        "name": "听羽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992039552731725825/3Uy_y4UJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 119,
+          "like_count": 527,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 279
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      }
+    ]
+  }
+}

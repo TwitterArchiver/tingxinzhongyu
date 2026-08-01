@@ -1,0 +1,164 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042976213984321536"
+      ]
+    },
+    "author_id": "1992038421318205440",
+    "conversation_id": "2042976223194943950",
+    "created_at": "2026-04-11T14:41:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T15:41:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042976223194943950"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HKeRNj77oC",
+          "end": 166,
+          "expanded_url": "https://x.com/tingxinzhongyu/status/2042976223194943950/photo/1",
+          "media_key": "3_2042976213984321536",
+          "start": 143,
+          "url": "https://t.co/HKeRNj77oC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042976223194943950",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "所以吃喹硫平会容易做噩梦吗？\n昨天医生让吃了半粒配安眠药\n我晚上一直做噩梦 梦到写一晚上我根本不会的专业的论文\n老师还猛猛压力我 但是我连他说啥了都没听懂\n然后还莫名其妙在word里面画流程图\n感觉真是有一点似了🥺\n\n早上起来一直思考了好久才意识到\n这是什么鬼论文 \n为什么我要写（） https://t.co/HKeRNj77oC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 447,
+        "media_key": "3_2042976213984321536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFocCt8boAA6k1N.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042976213984321536"
+          ]
+        },
+        "author_id": "1992038421318205440",
+        "conversation_id": "2042976223194943950",
+        "created_at": "2026-04-11T14:41:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T15:41:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042976223194943950"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HKeRNj77oC",
+              "end": 166,
+              "expanded_url": "https://x.com/tingxinzhongyu/status/2042976223194943950/photo/1",
+              "media_key": "3_2042976213984321536",
+              "start": 143,
+              "url": "https://t.co/HKeRNj77oC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042976223194943950",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "所以吃喹硫平会容易做噩梦吗？\n昨天医生让吃了半粒配安眠药\n我晚上一直做噩梦 梦到写一晚上我根本不会的专业的论文\n老师还猛猛压力我 但是我连他说啥了都没听懂\n然后还莫名其妙在word里面画流程图\n感觉真是有一点似了🥺\n\n早上起来一直思考了好久才意识到\n这是什么鬼论文 \n为什么我要写（） https://t.co/HKeRNj77oC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "176 65kg｜mtf ｜Angel lover @kanonobambi ｜ ｜hrt 2025.11.21-2026.2.13🍥｜我想要很多很多的爱｜永远的可爱姐姐@jikeOjk7623 ｜@HappyHejsDay的兵！｜超温柔妹妹@sophhhsama @axzamyzed！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "kanonobambi"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "jikeOjk7623"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 132,
+                "start": 121,
+                "username": "sophhhsama"
+              },
+              {
+                "end": 143,
+                "start": 133,
+                "username": "axzamyzed"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028106888488026112/tHHVMk_N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 683,
+          "following_count": 466,
+          "like_count": 4604,
+          "listed_count": 2,
+          "media_count": 115,
+          "tweet_count": 2642
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      }
+    ]
+  }
+}

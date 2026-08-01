@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2021504864854118400"
+      ]
+    },
+    "author_id": "1992038421318205440",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2021504886249341136",
+    "created_at": "2026-02-11T08:41:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T09:41:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2021504886249341136"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/NLPkK7cYPC",
+          "end": 51,
+          "expanded_url": "https://x.com/tingxinzhongyu/status/2021504886249341136/photo/1",
+          "media_key": "3_2021504864854118400",
+          "start": 28,
+          "url": "https://t.co/NLPkK7cYPC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021504886249341136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "想出去散散心但是又不知道去哪\n算了还是练练枪折磨自己吧 https://t.co/NLPkK7cYPC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2021504864854118400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA3T9tVakAA4GFH.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021504864854118400"
+          ]
+        },
+        "author_id": "1992038421318205440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2021504886249341136",
+        "created_at": "2026-02-11T08:41:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T09:41:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021504886249341136"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NLPkK7cYPC",
+              "end": 51,
+              "expanded_url": "https://x.com/tingxinzhongyu/status/2021504886249341136/photo/1",
+              "media_key": "3_2021504864854118400",
+              "start": 28,
+              "url": "https://t.co/NLPkK7cYPC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021504886249341136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想出去散散心但是又不知道去哪\n算了还是练练枪折磨自己吧 https://t.co/NLPkK7cYPC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02 176 65kg//mtf hrt 2025.11.21🍥//我想要很多很多的爱 欢迎聊天互fo 永远的可爱姐姐@jikeOjk7623",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 59,
+                "username": "jikeOjk7623"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992039552731725825/3Uy_y4UJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 306,
+          "like_count": 1873,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 966
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      }
+    ]
+  }
+}

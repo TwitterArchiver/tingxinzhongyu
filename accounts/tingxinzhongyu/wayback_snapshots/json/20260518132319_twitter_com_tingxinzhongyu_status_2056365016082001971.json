@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056365007068381184"
+      ]
+    },
+    "author_id": "1992038421318205440",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2056365016082001971",
+    "created_at": "2026-05-18T13:23:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T14:23:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056365016082001971"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/sFbwQMS7A8",
+          "end": 144,
+          "expanded_url": "https://x.com/tingxinzhongyu/status/2056365016082001971/photo/1",
+          "media_key": "3_2056365007068381184",
+          "start": 121,
+          "url": "https://t.co/sFbwQMS7A8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056365016082001971",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "断糖已经过去了很久 \n身体各处似乎都完全恢复\n又会长痘 皮肤也没那么白了\n不过似乎抖音没有忘记我以前的爱好🥺 \n这些小玩意真的好漂亮\n要不是要毕业了感觉会购入一大堆了\n哎 \n突然想到毕业以后可能会再也没有带这些小东西的机会了 \n下辈子吧…… https://t.co/sFbwQMS7A8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2331,
+        "media_key": "3_2056365007068381184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HImtFC7awAAYvFI.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056365007068381184"
+          ]
+        },
+        "author_id": "1992038421318205440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2056365016082001971",
+        "created_at": "2026-05-18T13:23:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T14:23:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056365016082001971"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sFbwQMS7A8",
+              "end": 144,
+              "expanded_url": "https://x.com/tingxinzhongyu/status/2056365016082001971/photo/1",
+              "media_key": "3_2056365007068381184",
+              "start": 121,
+              "url": "https://t.co/sFbwQMS7A8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056365016082001971",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "断糖已经过去了很久 \n身体各处似乎都完全恢复\n又会长痘 皮肤也没那么白了\n不过似乎抖音没有忘记我以前的爱好🥺 \n这些小玩意真的好漂亮\n要不是要毕业了感觉会购入一大堆了\n哎 \n突然想到毕业以后可能会再也没有带这些小东西的机会了 \n下辈子吧…… https://t.co/sFbwQMS7A8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "176 65kg｜mtf ｜Best friend @kanonobambi ｜ ｜hrt 2025.11.21-2026.2.13🍥｜我想要很多很多的爱｜永远的可爱姐姐@jikeOjk7623 ｜@HappyHejsDay的兵！｜超温柔妹妹@sophhhsama @axzamyzed！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "kanonobambi"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "jikeOjk7623"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 132,
+                "start": 121,
+                "username": "sophhhsama"
+              },
+              {
+                "end": 143,
+                "start": 133,
+                "username": "axzamyzed"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028106888488026112/tHHVMk_N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 743,
+          "following_count": 469,
+          "like_count": 4618,
+          "listed_count": 3,
+          "media_count": 121,
+          "tweet_count": 2748
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      }
+    ]
+  }
+}

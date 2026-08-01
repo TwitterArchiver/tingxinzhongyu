@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2015360840929792048",
+    "created_at": "2026-01-25T17:21:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T18:21:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015475223798362535"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1604260027677581312",
+          "start": 0,
+          "username": "huasheng1225"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015475223798362535",
+    "in_reply_to_user_id": "1604260027677581312",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015474773883867516",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huasheng1225 抱抱~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2015360840929792048",
+        "created_at": "2026-01-25T17:21:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T18:21:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015475223798362535"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1604260027677581312",
+              "start": 0,
+              "username": "huasheng1225"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015475223798362535",
+        "in_reply_to_user_id": "1604260027677581312",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015474773883867516",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huasheng1225 抱抱~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1604260027677581312",
+        "conversation_id": "2015360840929792048",
+        "created_at": "2026-01-25T17:20:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T18:20:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015474773883867516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992038421318205440",
+              "start": 0,
+              "username": "tingxinzhongyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015474773883867516",
+        "in_reply_to_user_id": "1992038421318205440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015473979759431908",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tingxinzhongyu 抱抱～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02/mtf 我只想要很多很多的爱 hrt 2025.11🍥/欢迎聊天互fo",
+        "id": "1992038421318205440",
+        "name": "听羽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992039552731725825/3Uy_y4UJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 119,
+          "like_count": 531,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 281
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-17T23:39:38.000Z",
+        "description": "| MTF |  169 50kg | 小证，家长不爆金币党｜🍥2024 11.6 | 同类会互fo其他看成分fo | 想要结交更多朋友 | 在郑州随机刷新",
+        "id": "1604260027677581312",
+        "location": "距离521m",
+        "name": "花生🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885144708714029057/nHoL0voq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1254,
+          "following_count": 1439,
+          "like_count": 1259,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 341
+        },
+        "username": "huasheng1225",
+        "verified": false
+      }
+    ]
+  }
+}

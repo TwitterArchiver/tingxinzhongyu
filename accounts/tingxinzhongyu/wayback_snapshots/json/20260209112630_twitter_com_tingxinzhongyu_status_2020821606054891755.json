@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2020373158776435046",
+    "created_at": "2026-02-09T11:26:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T12:26:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020821606054891755"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1431905550678167553",
+          "start": 0,
+          "username": "lLhPUVCO4RuaNKd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020821606054891755",
+    "in_reply_to_user_id": "1431905550678167553",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020572796645187643",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lLhPUVCO4RuaNKd 我还乐意嘬一口头，还挺爽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2020373158776435046",
+        "created_at": "2026-02-09T11:26:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T12:26:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020821606054891755"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1431905550678167553",
+              "start": 0,
+              "username": "lLhPUVCO4RuaNKd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020821606054891755",
+        "in_reply_to_user_id": "1431905550678167553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020572796645187643",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lLhPUVCO4RuaNKd 我还乐意嘬一口头，还挺爽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1431905550678167553",
+        "conversation_id": "2020373158776435046",
+        "created_at": "2026-02-08T18:57:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T19:57:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020572796645187643"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992038421318205440",
+              "start": 0,
+              "username": "tingxinzhongyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020572796645187643",
+        "in_reply_to_user_id": "1992038421318205440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020572384483533133",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tingxinzhongyu 我平时吃虾都是去掉头连着壳和尾巴一起吃的，感觉剥虾比较麻烦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02 176 65kg//mtf hrt 2025.11.21🍥//我想要很多很多的爱 欢迎聊天互fo 永远的可爱姐姐@jikeOjk7623",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 59,
+                "username": "jikeOjk7623"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992039552731725825/3Uy_y4UJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 277,
+          "like_count": 1604,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 825
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-29T09:04:46.000Z",
+        "description": "千疮百孔，支离破碎",
+        "id": "1431905550678167553",
+        "name": "了却云归",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1431907747822379011/SoAmlY1T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 45,
+          "like_count": 3131,
+          "listed_count": 1,
+          "media_count": 64,
+          "tweet_count": 2733
+        },
+        "username": "lLhPUVCO4RuaNKd",
+        "verified": false
+      }
+    ]
+  }
+}

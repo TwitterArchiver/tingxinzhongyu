@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2018271574353379631",
+    "created_at": "2026-02-02T10:47:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T11:47:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018275067478868325"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1822200301345980416",
+          "start": 0,
+          "username": "shiyaoshiwo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018275067478868325",
+    "in_reply_to_user_id": "1822200301345980416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018271574353379631",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shiyaoshiwo 又是个派友，捉"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1151,
+        "media_key": "3_2018271570402344960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAJXTM4aAAA9PhK.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2018271574353379631",
+        "created_at": "2026-02-02T10:47:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T11:47:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018275067478868325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1822200301345980416",
+              "start": 0,
+              "username": "shiyaoshiwo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018275067478868325",
+        "in_reply_to_user_id": "1822200301345980416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018271574353379631",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiyaoshiwo 又是个派友，捉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018271570402344960"
+          ]
+        },
+        "author_id": "1822200301345980416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2018271574353379631",
+        "created_at": "2026-02-02T10:33:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T11:33:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018271574353379631"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7Zg7i2Y2Me",
+              "end": 49,
+              "expanded_url": "https://x.com/shiyaoshiwo/status/2018271574353379631/photo/1",
+              "media_key": "3_2018271570402344960",
+              "start": 26,
+              "url": "https://t.co/7Zg7i2Y2Me"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018271574353379631",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "玩了一下午……我讨厌这个游戏没有给我任何快乐的游戏 https://t.co/7Zg7i2Y2Me"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02 176 65kg/mtf hrt 2025.11🍥/我想要很多很多的爱 欢迎聊天互fo 永远的可爱姐姐@jikeOjk7623",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 54,
+                "username": "jikeOjk7623"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992039552731725825/3Uy_y4UJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 198,
+          "like_count": 890,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 510
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-10T09:16:52.000Z",
+        "description": "emmm，只会宅家打游戏的傻小孩吗，等等好像是我……可以随便被拿捏的屑……等等我是xyn了…信息:180/130 /已出柜/爱哭鬼/生日是五月五号！/我爱吃甜品/好想吃汉堡呜呜/不喜欢播音的播音生/我想吃蛋挞呜呜X﹏X为什么不放假（持续堆积中的简介）",
+        "id": "1822200301345980416",
+        "location": "桥洞下",
+        "name": "詩瑤🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004450408807485440/Ev5UOKh8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 151,
+          "like_count": 54,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 702
+        },
+        "username": "shiyaoshiwo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "1984937377824157779",
+    "created_at": "2026-02-02T18:28:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T19:28:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018391193072365851"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1768935696646238208",
+          "start": 0,
+          "username": "PsycheRabbiiOwO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018391193072365851",
+    "in_reply_to_user_id": "1768935696646238208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984937377824157779",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PsycheRabbiiOwO 又有派友和老乡，捉"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 575,
+        "media_key": "3_1984937371469852672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4vqBc_bsAAq98b.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "1984937377824157779",
+        "created_at": "2026-02-02T18:28:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T19:28:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018391193072365851"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1768935696646238208",
+              "start": 0,
+              "username": "PsycheRabbiiOwO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018391193072365851",
+        "in_reply_to_user_id": "1768935696646238208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984937377824157779",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PsycheRabbiiOwO 又有派友和老乡，捉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984937371469852672"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "conversation_id": "1984937377824157779",
+        "created_at": "2025-11-02T10:55:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T11:55:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984937377824157779"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/X2LTBrVtFZ",
+              "end": 23,
+              "expanded_url": "https://x.com/PsycheRabbiiOwO/status/1984937377824157779/photo/1",
+              "media_key": "3_1984937371469852672",
+              "start": 0,
+              "url": "https://t.co/X2LTBrVtFZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984937377824157779",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5787,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/X2LTBrVtFZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02 176 65kg/mtf hrt 2025.11🍥/我想要很多很多的爱 欢迎聊天互fo 永远的可爱姐姐@jikeOjk7623",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 54,
+                "username": "jikeOjk7623"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992039552731725825/3Uy_y4UJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 208,
+          "like_count": 934,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 534
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "长相普通别骂我/准备换备用机@rabbii_third了，暂时还不知道发些什么。。。。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "rabbii_third"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "床上",
+        "name": "凌月月⁰⃚⃙̴༝ ⁰⃚⃙̴ 🍥🫤🤯🥲(shadowbanned版)",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984161803564457984/c5tzvxUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 576,
+          "following_count": 889,
+          "like_count": 3423,
+          "listed_count": 1,
+          "media_count": 168,
+          "tweet_count": 1220
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026281451847880704",
+        "3_2026281451856232448",
+        "3_2026281451873042433",
+        "3_2026281451873009664"
+      ]
+    },
+    "author_id": "1992038421318205440",
+    "conversation_id": "2026281622694396380",
+    "created_at": "2026-02-24T13:02:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T14:02:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026281622694396380"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0vasy8vclS",
+          "end": 169,
+          "expanded_url": "https://x.com/tingxinzhongyu/status/2026281622694396380/photo/1",
+          "media_key": "3_2026281451847880704",
+          "start": 146,
+          "url": "https://t.co/0vasy8vclS"
+        },
+        {
+          "display_url": "pic.x.com/0vasy8vclS",
+          "end": 169,
+          "expanded_url": "https://x.com/tingxinzhongyu/status/2026281622694396380/photo/1",
+          "media_key": "3_2026281451856232448",
+          "start": 146,
+          "url": "https://t.co/0vasy8vclS"
+        },
+        {
+          "display_url": "pic.x.com/0vasy8vclS",
+          "end": 169,
+          "expanded_url": "https://x.com/tingxinzhongyu/status/2026281622694396380/photo/1",
+          "media_key": "3_2026281451873042433",
+          "start": 146,
+          "url": "https://t.co/0vasy8vclS"
+        },
+        {
+          "display_url": "pic.x.com/0vasy8vclS",
+          "end": 169,
+          "expanded_url": "https://x.com/tingxinzhongyu/status/2026281622694396380/photo/1",
+          "media_key": "3_2026281451873009664",
+          "start": 146,
+          "url": "https://t.co/0vasy8vclS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026281622694396380",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "两年后 我没战胜抑郁症\n这个假期彻底无法再表演一个正常人\n顶着我到底有没有病的焦虑选择再去认真看一次\n中度转了重度抑郁\n原来不是自己太脆弱，是我早就不行了\n出来跟朋友聊到我的诊断，她说\n“情绪合法化的那一刻，是开心的”\n她是对的，我这个假期都没有像今天这么开心\n只是家人心情好像……不太好了 https://t.co/0vasy8vclS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 564,
+        "media_key": "3_2026281451847880704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB7MPqhbEAAFfTz.jpg",
+        "width": 1024
+      },
+      {
+        "height": 4032,
+        "media_key": "3_2026281451856232448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB7MPqjagAAkLtE.jpg",
+        "width": 3024
+      },
+      {
+        "height": 808,
+        "media_key": "3_2026281451873042433",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB7MPqnbAAE3F3k.jpg",
+        "width": 3015
+      },
+      {
+        "height": 548,
+        "media_key": "3_2026281451873009664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB7MPqnagAAyF8G.jpg",
+        "width": 1975
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026281451847880704",
+            "3_2026281451856232448",
+            "3_2026281451873042433",
+            "3_2026281451873009664"
+          ]
+        },
+        "author_id": "1992038421318205440",
+        "conversation_id": "2026281622694396380",
+        "created_at": "2026-02-24T13:02:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T14:02:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026281622694396380"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0vasy8vclS",
+              "end": 169,
+              "expanded_url": "https://x.com/tingxinzhongyu/status/2026281622694396380/photo/1",
+              "media_key": "3_2026281451847880704",
+              "start": 146,
+              "url": "https://t.co/0vasy8vclS"
+            },
+            {
+              "display_url": "pic.x.com/0vasy8vclS",
+              "end": 169,
+              "expanded_url": "https://x.com/tingxinzhongyu/status/2026281622694396380/photo/1",
+              "media_key": "3_2026281451856232448",
+              "start": 146,
+              "url": "https://t.co/0vasy8vclS"
+            },
+            {
+              "display_url": "pic.x.com/0vasy8vclS",
+              "end": 169,
+              "expanded_url": "https://x.com/tingxinzhongyu/status/2026281622694396380/photo/1",
+              "media_key": "3_2026281451873042433",
+              "start": 146,
+              "url": "https://t.co/0vasy8vclS"
+            },
+            {
+              "display_url": "pic.x.com/0vasy8vclS",
+              "end": 169,
+              "expanded_url": "https://x.com/tingxinzhongyu/status/2026281622694396380/photo/1",
+              "media_key": "3_2026281451873009664",
+              "start": 146,
+              "url": "https://t.co/0vasy8vclS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026281622694396380",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "两年后 我没战胜抑郁症\n这个假期彻底无法再表演一个正常人\n顶着我到底有没有病的焦虑选择再去认真看一次\n中度转了重度抑郁\n原来不是自己太脆弱，是我早就不行了\n出来跟朋友聊到我的诊断，她说\n“情绪合法化的那一刻，是开心的”\n她是对的，我这个假期都没有像今天这么开心\n只是家人心情好像……不太好了 https://t.co/0vasy8vclS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02 176 65kg//mtf hrt 2025.11.21-2026.2.13🍥//我想要很多很多的爱 欢迎聊天互fo 永远的可爱姐姐@jikeOjk7623 // @HappyHejsDay的兵！//超温柔妹妹@sophhhsama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 69,
+                "username": "jikeOjk7623"
+              },
+              {
+                "end": 98,
+                "start": 85,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 119,
+                "start": 108,
+                "username": "sophhhsama"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023721600491925504/NLPFudYi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 530,
+          "following_count": 435,
+          "like_count": 3560,
+          "listed_count": 2,
+          "media_count": 87,
+          "tweet_count": 1977
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      }
+    ]
+  }
+}

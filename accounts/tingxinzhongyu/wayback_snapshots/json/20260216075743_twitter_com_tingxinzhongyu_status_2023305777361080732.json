@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2023305777361080732",
+    "created_at": "2026-02-16T07:57:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T08:57:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023305777361080732"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tingxinzhongyu…",
+          "end": 91,
+          "expanded_url": "https://twitter.com/tingxinzhongyu/status/2022913753789141499",
+          "start": 68,
+          "url": "https://t.co/nY3lGg7GHe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023305777361080732",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022913753789141499",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "山东的导游纠结了好久还是说出了那句话\n“其实..小x同学本身长得就很像女孩子”\n我估计是他不确定我喜不喜欢被这样说叭\n\n我可太喜欢了😭 https://t.co/nY3lGg7GHe"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2023305777361080732",
+        "created_at": "2026-02-16T07:57:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T08:57:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023305777361080732"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tingxinzhongyu…",
+              "end": 91,
+              "expanded_url": "https://twitter.com/tingxinzhongyu/status/2022913753789141499",
+              "start": 68,
+              "url": "https://t.co/nY3lGg7GHe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023305777361080732",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022913753789141499",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "山东的导游纠结了好久还是说出了那句话\n“其实..小x同学本身长得就很像女孩子”\n我估计是他不确定我喜不喜欢被这样说叭\n\n我可太喜欢了😭 https://t.co/nY3lGg7GHe"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2022913753789141499",
+        "created_at": "2026-02-15T05:59:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T06:59:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022913753789141499"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tingxinzhongyu…",
+              "end": 90,
+              "expanded_url": "https://twitter.com/tingxinzhongyu/status/2022331204914303371",
+              "start": 67,
+              "url": "https://t.co/Xu12jajA3o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022913753789141499",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 2716,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022331204914303371",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "后续\n小姨：“我发现你长得越来越像你妈了，你弟跟你比还是太粗糙了”\n像是好的🥹像是对的🤤\n怎么能不像呢 怎么能不像呢 怎么能不像呢😭 https://t.co/Xu12jajA3o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02 176 65kg//mtf hrt 2025.11.21🍥//我想要很多很多的爱 欢迎聊天互fo 永远的可爱姐姐@jikeOjk7623",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 59,
+                "username": "jikeOjk7623"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992039552731725825/3Uy_y4UJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 370,
+          "like_count": 2586,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 1321
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      }
+    ]
+  }
+}

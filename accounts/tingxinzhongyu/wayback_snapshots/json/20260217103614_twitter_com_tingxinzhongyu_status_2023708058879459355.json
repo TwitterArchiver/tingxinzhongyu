@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2023699232792998326",
+    "created_at": "2026-02-17T10:36:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T11:36:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023708058879459355"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1981693695578791936",
+          "start": 0,
+          "username": "Jskyeye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023708058879459355",
+    "in_reply_to_user_id": "1981693695578791936",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023699232792998326",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jskyeye 想念煲珠公🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2023699222613377024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBWfuJAawAAXqDZ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2023699232792998326",
+        "created_at": "2026-02-17T10:36:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T11:36:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023708058879459355"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1981693695578791936",
+              "start": 0,
+              "username": "Jskyeye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023708058879459355",
+        "in_reply_to_user_id": "1981693695578791936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023699232792998326",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jskyeye 想念煲珠公🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023699222613377024"
+          ]
+        },
+        "author_id": "1981693695578791936",
+        "conversation_id": "2023699232792998326",
+        "created_at": "2026-02-17T10:01:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T11:01:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023699232792998326"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GpefCHF10z",
+              "end": 67,
+              "expanded_url": "https://x.com/Jskyeye/status/2023699232792998326/photo/1",
+              "media_key": "3_2023699222613377024",
+              "start": 44,
+              "url": "https://t.co/GpefCHF10z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023699232792998326",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "就这么在奈雪里喝煲珠公😜\n\n其实是朋友想喝奈雪，我想喝煲珠公\n(暖暖的水牛奶多香呀😋) https://t.co/GpefCHF10z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02 176 65kg//mtf hrt 2025.11.21🍥//我想要很多很多的爱 欢迎聊天互fo 永远的可爱姐姐@jikeOjk7623",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 59,
+                "username": "jikeOjk7623"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992039552731725825/3Uy_y4UJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 342,
+          "following_count": 376,
+          "like_count": 2722,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 1397
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-24T12:06:41.000Z",
+        "description": "原来是@JuiceskyYeye｜MtF｜美食区博主?😜｜努力保持阳光☀️健康",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "JuiceskyYeye"
+              }
+            ]
+          }
+        },
+        "id": "1981693695578791936",
+        "name": "𝐒𝐤𝐲𝐞𝐲𝐞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986750507059384320/QFwa72W5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 657,
+          "like_count": 7968,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 664
+        },
+        "username": "Jskyeye",
+        "verified": true
+      }
+    ]
+  }
+}

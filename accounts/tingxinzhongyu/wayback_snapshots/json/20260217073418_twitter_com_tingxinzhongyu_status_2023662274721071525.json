@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2023658433107345653",
+    "created_at": "2026-02-17T07:34:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T08:34:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023662274721071525"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1223415775278428160",
+          "start": 0,
+          "username": "sophhhsama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023662274721071525",
+    "in_reply_to_user_id": "1223415775278428160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023658433107345653",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sophhhsama 好鲨鲨，还懂充实自己"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 978,
+        "media_key": "3_2023658427135000576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBV6niAbgAAJqqK.jpg",
+        "width": 1164
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2023658433107345653",
+        "created_at": "2026-02-17T07:34:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T08:34:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023662274721071525"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1223415775278428160",
+              "start": 0,
+              "username": "sophhhsama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023662274721071525",
+        "in_reply_to_user_id": "1223415775278428160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023658433107345653",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sophhhsama 好鲨鲨，还懂充实自己"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023658427135000576"
+          ]
+        },
+        "author_id": "1223415775278428160",
+        "conversation_id": "2023658433107345653",
+        "created_at": "2026-02-17T07:19:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T08:19:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023658433107345653"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TW7lF21ACN",
+              "end": 51,
+              "expanded_url": "https://x.com/sophhhsama/status/2023658433107345653/photo/1",
+              "media_key": "3_2023658427135000576",
+              "start": 28,
+              "url": "https://t.co/TW7lF21ACN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023658433107345653",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "鲨鲨也这么努力了\n为了奖励鲨鲨。。。。\n今晚你侍寝吧😌 https://t.co/TW7lF21ACN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02 176 65kg//mtf hrt 2025.11.21🍥//我想要很多很多的爱 欢迎聊天互fo 永远的可爱姐姐@jikeOjk7623",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 59,
+                "username": "jikeOjk7623"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992039552731725825/3Uy_y4UJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 376,
+          "like_count": 2711,
+          "listed_count": 1,
+          "media_count": 64,
+          "tweet_count": 1387
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "Aspiring med student. I also enjoy programming, macroeconomics, tokenomics, and asking questions. 18, ZHH, ZHO, ENG 英區 ✩₊˚.⋆☾⋆⁺₊✧",
+        "id": "1223415775278428160",
+        "name": "sophhhie🍥",
+        "pinned_tweet_id": "2021351099244957901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016882765195567104/rWf4JxcT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 63,
+          "like_count": 977,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 232
+        },
+        "username": "sophhhsama",
+        "verified": true
+      }
+    ]
+  }
+}

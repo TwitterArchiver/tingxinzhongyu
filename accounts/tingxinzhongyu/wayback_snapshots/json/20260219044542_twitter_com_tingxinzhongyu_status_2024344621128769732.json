@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2024312562519875598",
+    "created_at": "2026-02-19T04:45:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T05:45:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024344621128769732"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1770798751524720640",
+          "start": 0,
+          "username": "ri_fumo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024344621128769732",
+    "in_reply_to_user_id": "1770798751524720640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024335451839242247",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ri_fumo 哈哈哈哈哈哈抗议有效吗🫠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2024312562519875598",
+        "created_at": "2026-02-19T04:45:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T05:45:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024344621128769732"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1770798751524720640",
+              "start": 0,
+              "username": "ri_fumo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024344621128769732",
+        "in_reply_to_user_id": "1770798751524720640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024335451839242247",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ri_fumo 哈哈哈哈哈哈抗议有效吗🫠"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1770798751524720640",
+        "conversation_id": "2024312562519875598",
+        "created_at": "2026-02-19T04:09:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T05:09:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024335451839242247"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992038421318205440",
+              "start": 0,
+              "username": "tingxinzhongyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024335451839242247",
+        "in_reply_to_user_id": "1992038421318205440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 127,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024312562519875598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tingxinzhongyu 我媽也這麼說, 我的回答只有「ㄋㄡ!」"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02 176 65kg//mtf hrt 2025.11.21-2026.2.13🍥//我想要很多很多的爱 欢迎聊天互fo 永远的可爱姐姐@jikeOjk7623",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 69,
+                "username": "jikeOjk7623"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023721600491925504/NLPFudYi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 374,
+          "following_count": 394,
+          "like_count": 2909,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 1510
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-21T13:05:04.000Z",
+        "description": "ᗜ_ᗜ ᗜˬᗜ ᗜ‸ᗜ ᗜˬᗜ ᗜωᗜ ᗜˬᗜ ᗜ‸ᗜ ᗜᴗᗜ ᗜˬᗜ\n废物\nふも 🥵🤤 ふも 🥵🤤\nふも好吃 🤤 可食用ふも好 🤤",
+        "id": "1770798751524720640",
+        "location": "幻想ふも鄉，魔法森林，霧雨魔法ふも店，D9221A6B",
+        "name": "ri☆fumo ᗜˬᗜ? 🌠",
+        "pinned_tweet_id": "1838279324618887376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830094266841899008/egZFquzR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 166,
+          "like_count": 12913,
+          "listed_count": 1,
+          "media_count": 484,
+          "tweet_count": 5173
+        },
+        "username": "ri_fumo",
+        "verified": false
+      }
+    ]
+  }
+}

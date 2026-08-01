@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2027983773309276512",
+    "created_at": "2026-03-01T11:43:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T12:43:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028073643667054748"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1869457042567528448",
+          "start": 0,
+          "username": "PsycheJasmin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028073643667054748",
+    "in_reply_to_user_id": "1869457042567528448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028066131660140555",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PsycheJasmin 是这样的🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2027983773309276512",
+        "created_at": "2026-03-01T11:43:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T12:43:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028073643667054748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1869457042567528448",
+              "start": 0,
+              "username": "PsycheJasmin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028073643667054748",
+        "in_reply_to_user_id": "1869457042567528448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028066131660140555",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PsycheJasmin 是这样的🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1869457042567528448",
+        "conversation_id": "2027983773309276512",
+        "created_at": "2026-03-01T11:13:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T12:13:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028066131660140555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992038421318205440",
+              "start": 0,
+              "username": "tingxinzhongyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028066131660140555",
+        "in_reply_to_user_id": "1992038421318205440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027983773309276512",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tingxinzhongyu 太魔幻了，找女朋友扮演男朋友🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02 176 65kg//mtf hrt 2025.11.21-2026.2.13🍥//我想要很多很多的爱 欢迎聊天互fo 永远的可爱姐姐@jikeOjk7623 // @HappyHejsDay的兵！//超温柔妹妹@sophhhsama @axzamyzed！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 69,
+                "username": "jikeOjk7623"
+              },
+              {
+                "end": 98,
+                "start": 85,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 119,
+                "start": 108,
+                "username": "sophhhsama"
+              },
+              {
+                "end": 130,
+                "start": 120,
+                "username": "axzamyzed"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023721600491925504/NLPFudYi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 561,
+          "following_count": 450,
+          "like_count": 4073,
+          "listed_count": 2,
+          "media_count": 97,
+          "tweet_count": 2303
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-18T18:58:19.000Z",
+        "description": "trans femme · writes to remember what love and sorrow feels like · tea’s warm. window’s open. English channel: @jasmin_psyche\n冒险不是为了飞， \n而是为了在摔落之后， \n我依旧敢用羽毛碰触爱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 111,
+                "username": "jasmin_psyche"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "matters.town/@jasmin",
+                "end": 23,
+                "expanded_url": "https://matters.town/@jasmin",
+                "start": 0,
+                "url": "https://t.co/qiE4t2nXtx"
+              }
+            ]
+          }
+        },
+        "id": "1869457042567528448",
+        "location": "EU",
+        "name": "Jasmin Yo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927772806969786369/BZI5hOTq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 882,
+          "following_count": 126,
+          "like_count": 13836,
+          "listed_count": 4,
+          "media_count": 1000,
+          "tweet_count": 7679
+        },
+        "url": "https://t.co/qiE4t2nXtx",
+        "username": "PsycheJasmin",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2029925815258157113",
+    "created_at": "2026-03-06T16:07:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T17:07:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029952067633308100"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1990384119726129152",
+          "start": 0,
+          "username": "SuzukiHnnn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029952067633308100",
+    "in_reply_to_user_id": "1990384119726129152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029925815258157113",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SuzukiHnnn 喵喵喵喵喵内圈！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2029925810208133127",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCu-xPXaUAcU2TZ.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2029925815258157113",
+        "created_at": "2026-03-06T16:07:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T17:07:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029952067633308100"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1990384119726129152",
+              "start": 0,
+              "username": "SuzukiHnnn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029952067633308100",
+        "in_reply_to_user_id": "1990384119726129152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029925815258157113",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SuzukiHnnn 喵喵喵喵喵内圈！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029925810208133127"
+          ]
+        },
+        "author_id": "1990384119726129152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2029925815258157113",
+        "created_at": "2026-03-06T14:23:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T15:23:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029925815258157113"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinitetweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2028112396590698496/0n2tOOjC?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2028112396590698496/0n2tOOjC?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/iZ6g7h07Cg"
+            },
+            {
+              "display_url": "pic.x.com/OXUnbawMrP",
+              "end": 64,
+              "expanded_url": "https://x.com/SuzukiHnnn/status/2029925815258157113/photo/1",
+              "media_key": "3_2029925810208133127",
+              "start": 41,
+              "url": "https://t.co/OXUnbawMrP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029925815258157113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 98,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/iZ6g7h07Cg https://t.co/OXUnbawMrP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "176 65kg｜mtf ｜Angel lover @kanonobambi ｜ ｜hrt 2025.11.21-2026.2.13🍥｜我想要很多很多的爱｜永远的可爱姐姐@jikeOjk7623 ｜@HappyHejsDay的兵！｜超温柔妹妹@sophhhsama @axzamyzed！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "kanonobambi"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "jikeOjk7623"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 132,
+                "start": 121,
+                "username": "sophhhsama"
+              },
+              {
+                "end": 143,
+                "start": 133,
+                "username": "axzamyzed"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028106888488026112/tHHVMk_N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 611,
+          "following_count": 453,
+          "like_count": 4322,
+          "listed_count": 2,
+          "media_count": 105,
+          "tweet_count": 2442
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-17T11:38:59.000Z",
+        "description": "🇭🇺🇩🇪🇨🇳🇭🇰｜161/63.3｜粵內陰暗病嬌｜07產品E9在讀｜重度容貌焦慮及gd｜已斷糖已炸櫃家暴黨 ｜Möchtest du mit mir Maimai spielen｜家姐@HappyHejsDay｜妹妹@Liunian_a",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 92,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 118,
+                "start": 108,
+                "username": "Liunian_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nanakostrawber…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nanakostrawberry",
+                "start": 0,
+                "url": "https://t.co/iCnU7MKOvz"
+              }
+            ]
+          }
+        },
+        "id": "1990384119726129152",
+        "location": "Budapest，Hungary",
+        "name": "𝓝·𝓪·𝓷·𝓪·𝓴·𝓸·𝓢·𝓽·𝓻·𝓪·𝔀·𝓫·𝓮·𝓻·𝓻·𝔂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010333345733914625/8nj2jbd-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 467,
+          "following_count": 146,
+          "like_count": 3414,
+          "listed_count": 0,
+          "media_count": 163,
+          "tweet_count": 1499
+        },
+        "url": "https://t.co/iCnU7MKOvz",
+        "username": "SuzukiHnnn",
+        "verified": false
+      }
+    ]
+  }
+}

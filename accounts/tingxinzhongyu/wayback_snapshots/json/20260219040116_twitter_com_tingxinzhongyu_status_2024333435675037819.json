@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2024313758169125161",
+    "created_at": "2026-02-19T04:01:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T05:01:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024333435675037819"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "744504930333949953",
+          "start": 0,
+          "username": "rinqianxin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024333435675037819",
+    "in_reply_to_user_id": "744504930333949953",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024332844483694988",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rinqianxin 没那么温柔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2024313758169125161",
+        "created_at": "2026-02-19T04:01:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T05:01:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024333435675037819"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "744504930333949953",
+              "start": 0,
+              "username": "rinqianxin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024333435675037819",
+        "in_reply_to_user_id": "744504930333949953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024332844483694988",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rinqianxin 没那么温柔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "744504930333949953",
+        "conversation_id": "2024313758169125161",
+        "created_at": "2026-02-19T03:58:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T04:58:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024332844483694988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992038421318205440",
+              "start": 0,
+              "username": "tingxinzhongyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024332844483694988",
+        "in_reply_to_user_id": "1992038421318205440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024313758169125161",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tingxinzhongyu 恐怖故事"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02 176 65kg//mtf hrt 2025.11.21-2026.2.13🍥//我想要很多很多的爱 欢迎聊天互fo 永远的可爱姐姐@jikeOjk7623",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 69,
+                "username": "jikeOjk7623"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023721600491925504/NLPFudYi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 369,
+          "following_count": 392,
+          "like_count": 2905,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 1507
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2016-06-19T12:19:42.000Z",
+        "description": "She/Her/什么都不会/mtf/汉语/Chinese/English/RLE积极实施中/打心怪/关注会被审核",
+        "id": "744504930333949953",
+        "name": "凛浅心",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1585946659300642816/JsBoXCGh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 374,
+          "following_count": 465,
+          "like_count": 7272,
+          "listed_count": 2,
+          "media_count": 89,
+          "tweet_count": 4794
+        },
+        "username": "rinqianxin",
+        "verified": false
+      }
+    ]
+  }
+}

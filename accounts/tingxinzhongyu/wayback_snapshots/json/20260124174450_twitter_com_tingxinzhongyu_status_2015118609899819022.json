@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2015062362257240290",
+    "created_at": "2026-01-24T17:44:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T18:44:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015118609899819022"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1701484460250890240",
+          "start": 0,
+          "username": "RinneMTF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015118609899819022",
+    "in_reply_to_user_id": "1701484460250890240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015062362257240290",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RinneMTF 抱抱，好像我也是这样的😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2015062362257240290",
+        "created_at": "2026-01-24T17:44:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T18:44:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015118609899819022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1701484460250890240",
+              "start": 0,
+              "username": "RinneMTF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015118609899819022",
+        "in_reply_to_user_id": "1701484460250890240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015062362257240290",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RinneMTF 抱抱，好像我也是这样的😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1701484460250890240",
+        "conversation_id": "2015062362257240290",
+        "created_at": "2026-01-24T14:01:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T15:01:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015062362257240290"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015062362257240290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "跨性别回忆录（二）：两次性别认同自我觉察\n\n和很多同类不一样的是，咱一共有两次性别认同自我觉察的经历\n\n记得自己连续性的性别焦虑开始于11岁那年的五月份，一开始是因为看课本上写青春期后男女性格变化，就有一种感觉自己非常想变成女孩那样而不是男性那样。同年九月，当时班上有个男生捉弄我，逼我在全班面前大声喊“我不是男的”“我没有几吧”，记得当时自己喊的时候完全没有觉得丢人和尴尬之类的，感觉自己只是在陈述一个事实。也就是那一刻，我突然觉得自己似乎确实不是男的，也不想要跨下那坨肉。回家跟家里人说，结果父母啥表态都没有，简单的敷衍两句就过去了，他们只觉得是小孩子说着玩根本没当回事。同年11月开始，逐渐产生对未来生长发育的强烈抗拒，不断求着父母帮我去买阻止身体生长发育的药，结果一直到了成年，他们也鸟都不鸟我。\n\n上了高中之后，想要一切重新开始。于是开始强迫自己表现的像其他男生一样，强行把自己想当女生的念头压抑下去。这一压就是九年，以至于自己上大学第一年就接触了跨性别的概念，但已经没法迅速意识到自己就是其中一员\n\n转机发生在24岁，一天偶然看到英国禁止青少年用青春期阻断剂的新闻，当时第一反应是，要是早知道有这种药就好了，肯定就一直用着，自己就不会长这么丑了。然后好奇跨性别群体用这玩意干嘛，于是去搜了一下，意外发现描述的和自己一模一样。前后有犹豫了大约半年，就开始吃🍥了"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2125,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "跨性别回忆录（二）：两次性别认同自我觉察\n\n和很多同类不一样的是，咱一共有两次性别认同自我觉察的经历"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02/mtf 我只想要很多很多的爱 hrt 2025.11🍥/欢迎聊天互fo",
+        "id": "1992038421318205440",
+        "name": "听羽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992039552731725825/3Uy_y4UJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 113,
+          "like_count": 479,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 254
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-12T06:34:58.000Z",
+        "description": "药娘mtf/无证含糖/中文，English /hrt: 2025.1.15/rle: 2025.2.10/ADHD，ASD，BPD/究极天残党/同类互关/王者，崩铁，碧蓝航线",
+        "id": "1701484460250890240",
+        "name": "是Rinne酱呀",
+        "pinned_tweet_id": "1889100356099203268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888922914763988992/-ixcDogC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3403,
+          "following_count": 2587,
+          "like_count": 1001,
+          "listed_count": 11,
+          "media_count": 187,
+          "tweet_count": 1267
+        },
+        "username": "RinneMTF",
+        "verified": true
+      }
+    ]
+  }
+}

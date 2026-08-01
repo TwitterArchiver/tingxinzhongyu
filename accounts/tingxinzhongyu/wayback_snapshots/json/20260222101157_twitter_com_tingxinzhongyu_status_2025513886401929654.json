@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2025444982535201239",
+    "created_at": "2026-02-22T10:11:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T11:11:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025513886401929654"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1570319690869899266",
+          "start": 0,
+          "username": "Yuko0Ruuu"
+        },
+        {
+          "end": 23,
+          "id": "1926745526164197376",
+          "start": 11,
+          "username": "kanonobambi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025513886401929654",
+    "in_reply_to_user_id": "1570319690869899266",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025506920556036406",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuko0Ruuu @kanonobambi 🤭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2025444982535201239",
+        "created_at": "2026-02-22T10:11:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T11:11:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025513886401929654"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1570319690869899266",
+              "start": 0,
+              "username": "Yuko0Ruuu"
+            },
+            {
+              "end": 23,
+              "id": "1926745526164197376",
+              "start": 11,
+              "username": "kanonobambi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025513886401929654",
+        "in_reply_to_user_id": "1570319690869899266",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025506920556036406",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuko0Ruuu @kanonobambi 🤭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1570319690869899266",
+        "conversation_id": "2025444982535201239",
+        "created_at": "2026-02-22T09:44:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T10:44:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025506920556036406"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992038421318205440",
+              "start": 0,
+              "username": "tingxinzhongyu"
+            },
+            {
+              "end": 28,
+              "id": "1926745526164197376",
+              "start": 16,
+              "username": "kanonobambi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025506920556036406",
+        "in_reply_to_user_id": "1992038421318205440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025446344689943000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tingxinzhongyu @kanonobambi 啊啊啊啊啊我要狠狠的收藏了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02 176 65kg//mtf hrt 2025.11.21-2026.2.13🍥//我想要很多很多的爱 欢迎聊天互fo 永远的可爱姐姐@jikeOjk7623 // @HappyHejsDay的兵！//超温柔妹妹@sophhhsama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 69,
+                "username": "jikeOjk7623"
+              },
+              {
+                "end": 98,
+                "start": 85,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 119,
+                "start": 108,
+                "username": "sophhhsama"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023721600491925504/NLPFudYi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 470,
+          "following_count": 425,
+          "like_count": 3315,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 1802
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-15T07:52:55.000Z",
+        "description": "搞！搞起来",
+        "id": "1570319690869899266",
+        "location": "40.000, -105.000",
+        "name": "🍉✰Yuko✰🍉",
+        "pinned_tweet_id": "2013808448425586859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1622708737495687169/fa99ZwzE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 124,
+          "like_count": 8215,
+          "listed_count": 1,
+          "media_count": 399,
+          "tweet_count": 5251
+        },
+        "username": "Yuko0Ruuu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-25T21:01:54.000Z",
+        "description": "神様、私だけの幸せは本当に訪れるのでしょうか？",
+        "id": "1926745526164197376",
+        "location": "Singapore",
+        "name": "Kano R",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968439006062059520/MuGKehjL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 73,
+          "like_count": 207,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 129
+        },
+        "username": "kanonobambi",
+        "verified": false
+      }
+    ]
+  }
+}

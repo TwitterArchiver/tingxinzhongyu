@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2022251392782717431",
+    "created_at": "2026-02-13T12:56:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T13:56:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022293788446884322"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1877318007359418369",
+          "start": 0,
+          "username": "mngz657877"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022293788446884322",
+    "in_reply_to_user_id": "1877318007359418369",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022251392782717431",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mngz657877 你好可爱🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2022251387728613376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBB67Dwa0AAoKqH.jpg",
+        "width": 956
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2022251392782717431",
+        "created_at": "2026-02-13T12:56:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T13:56:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022293788446884322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1877318007359418369",
+              "start": 0,
+              "username": "mngz657877"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022293788446884322",
+        "in_reply_to_user_id": "1877318007359418369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022251392782717431",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mngz657877 你好可爱🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022251387728613376"
+          ]
+        },
+        "author_id": "1877318007359418369",
+        "conversation_id": "2022251392782717431",
+        "created_at": "2026-02-13T10:07:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T11:07:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022251392782717431"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uv36VxKOu0",
+              "end": 64,
+              "expanded_url": "https://x.com/mngz657877/status/2022251392782717431/photo/1",
+              "media_key": "3_2022251387728613376",
+              "start": 41,
+              "url": "https://t.co/uv36VxKOu0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022251392782717431",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 161,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是我🥲🥵😈👿😵‍💫😵‍💫🥵🥵🥵🥵🥳🥳我是小药娘🥵🥵😨😨🍥🍥🍥🍥🍥🍥😜😋😋😋😋😋 https://t.co/uv36VxKOu0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02 176 65kg//mtf hrt 2025.11.21🍥//我想要很多很多的爱 欢迎聊天互fo 永远的可爱姐姐@jikeOjk7623",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 59,
+                "username": "jikeOjk7623"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992039552731725825/3Uy_y4UJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 330,
+          "like_count": 2164,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 1098
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-09T11:34:32.000Z",
+        "description": "生于10年|2024.6.13 HRT🍥|主包身高高达165cm😏|雌贴太好用了，治好了我老忘记吃糖/小朋友，你们好啊，我是贝利亚👿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mngz657877",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mngz657877",
+                "start": 0,
+                "url": "https://t.co/pmqemo56sE"
+              }
+            ]
+          }
+        },
+        "id": "1877318007359418369",
+        "name": "北矞🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021951799285215232/DcVgYgiX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 220,
+          "like_count": 1330,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 291
+        },
+        "url": "https://t.co/pmqemo56sE",
+        "username": "mngz657877",
+        "verified": false
+      }
+    ]
+  }
+}

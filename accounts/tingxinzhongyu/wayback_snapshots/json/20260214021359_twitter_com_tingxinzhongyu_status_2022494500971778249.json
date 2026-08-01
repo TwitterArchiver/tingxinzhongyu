@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2022339412835938733",
+    "created_at": "2026-02-14T02:13:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T03:13:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022494500971778249"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1844926832967286785",
+          "start": 0,
+          "username": "orisam123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022494500971778249",
+    "in_reply_to_user_id": "1844926832967286785",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022339412835938733",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@orisam123 真好😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7680,
+        "height": 1278,
+        "media_key": "7_2022339381248589825",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2022339381248589825/pu/img/GFz8HiMr0_q3jQ_C.jpg",
+        "public_metrics": {
+          "view_count": 1117
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2022339381248589825/pu/vid/avc1/320x688/rNdQxtZ72rdGH4Pc.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2022339381248589825/pu/vid/avc1/480x1032/aGGa3ODE937wz3FK.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2022339381248589825/pu/vid/avc1/594x1278/rPXp3DYsN3l3m560.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2022339381248589825/pu/pl/txA6NlPhCD07ij6m.m3u8?tag=12"
+          }
+        ],
+        "width": 594
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2022339386072035328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBDK9PIa8AAlN1v.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2022339412835938733",
+        "created_at": "2026-02-14T02:13:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T03:13:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022494500971778249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1844926832967286785",
+              "start": 0,
+              "username": "orisam123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022494500971778249",
+        "in_reply_to_user_id": "1844926832967286785",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022339412835938733",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orisam123 真好😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2022339381248589825",
+            "3_2022339386072035328"
+          ]
+        },
+        "author_id": "1844926832967286785",
+        "conversation_id": "2022339412835938733",
+        "created_at": "2026-02-13T15:57:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T16:57:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022339412835938733"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Je3bL3aWIM",
+              "end": 104,
+              "expanded_url": "https://x.com/orisam123/status/2022339412835938733/video/1",
+              "media_key": "7_2022339381248589825",
+              "start": 81,
+              "url": "https://t.co/Je3bL3aWIM"
+            },
+            {
+              "display_url": "pic.x.com/Je3bL3aWIM",
+              "end": 104,
+              "expanded_url": "https://x.com/orisam123/status/2022339412835938733/video/1",
+              "media_key": "3_2022339386072035328",
+              "start": 81,
+              "url": "https://t.co/Je3bL3aWIM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022339412835938733",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2582,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "时隔八年多\n筱又一次在游泳池里扑棱\n不过妈咪盯着很不方便拍照片呜呜\n而且第一次穿这么低领的衣服，见到人一直下意识的用手机遮挡胸前，大概过了一个多小时才不那么害羞 https://t.co/Je3bL3aWIM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02 176 65kg//mtf hrt 2025.11.21🍥//我想要很多很多的爱 欢迎聊天互fo 永远的可爱姐姐@jikeOjk7623",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 59,
+                "username": "jikeOjk7623"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992039552731725825/3Uy_y4UJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 342,
+          "like_count": 2255,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 1157
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-12T02:23:45.000Z",
+        "description": "疯婆 取向异性微双 有点怕疼的sub |  \n从2024年七月初开始的饭桶（减肥中)\n   |     \n闺蜜&姐姐&引路人:  \n@zihou1968025650\n\ntg群组:\nhttps://t.co/ZsnfeGPdkA\n频道:\nhttps://t.co/S9Nk0R1gFs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 66,
+                "username": "zihou1968025650"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/orisam123group",
+                "end": 113,
+                "expanded_url": "https://t.me/orisam123group",
+                "start": 90,
+                "url": "https://t.co/ZsnfeGPdkA"
+              },
+              {
+                "display_url": "t.me/orisam123catsl…",
+                "end": 141,
+                "expanded_url": "http://t.me/orisam123catsleeping",
+                "start": 118,
+                "url": "https://t.co/S9Nk0R1gFs"
+              }
+            ]
+          }
+        },
+        "id": "1844926832967286785",
+        "location": "-0.15m",
+        "name": "折筱orisam🏳️‍⚧️（少女秃头中）",
+        "pinned_tweet_id": "1889966215923466584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972221628097708032/LU2zOJtP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3546,
+          "following_count": 1374,
+          "like_count": 66318,
+          "listed_count": 3,
+          "media_count": 917,
+          "tweet_count": 18391
+        },
+        "username": "orisam123",
+        "verified": false
+      }
+    ]
+  }
+}

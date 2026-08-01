@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2020373138853462018",
+        "3_2020373138849296386"
+      ]
+    },
+    "author_id": "1992038421318205440",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2020373158776435046",
+    "created_at": "2026-02-08T05:44:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T06:44:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2020373158776435046"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0hi6EnyuX6",
+          "end": 103,
+          "expanded_url": "https://x.com/tingxinzhongyu/status/2020373158776435046/photo/1",
+          "media_key": "3_2020373138853462018",
+          "start": 80,
+          "url": "https://t.co/0hi6EnyuX6"
+        },
+        {
+          "display_url": "pic.x.com/0hi6EnyuX6",
+          "end": 103,
+          "expanded_url": "https://x.com/tingxinzhongyu/status/2020373158776435046/photo/1",
+          "media_key": "3_2020373138849296386",
+          "start": 80,
+          "url": "https://t.co/0hi6EnyuX6"
+        },
+        {
+          "display_url": "x.com/tingxinzhongyu…",
+          "end": 127,
+          "expanded_url": "https://twitter.com/tingxinzhongyu/status/2020341443701936197",
+          "start": 104,
+          "url": "https://t.co/Qy4lKhXpBT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020373158776435046",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020341443701936197",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "挑战失败\n被妈妈从被窝里拎起来带出去吃饭\n这个炸的生蚝和奶油味的大虾真的太好吃了呜呜🥺\n失去鲨鲨之后眼泪不争气的从嘴角流出来\n回去我要再睡个午觉，鲨鲨等等我😭 https://t.co/0hi6EnyuX6 https://t.co/Qy4lKhXpBT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3024,
+        "media_key": "3_2020373138853462018",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAnOqlcaAAIsxv4.jpg",
+        "width": 4032
+      },
+      {
+        "height": 4032,
+        "media_key": "3_2020373138849296386",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAnOqlbacAIFgfv.jpg",
+        "width": 3024
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2020341421950349312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAmx0axbsAA0oRl.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020373138853462018",
+            "3_2020373138849296386"
+          ]
+        },
+        "author_id": "1992038421318205440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2020373158776435046",
+        "created_at": "2026-02-08T05:44:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T06:44:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020373158776435046"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0hi6EnyuX6",
+              "end": 103,
+              "expanded_url": "https://x.com/tingxinzhongyu/status/2020373158776435046/photo/1",
+              "media_key": "3_2020373138853462018",
+              "start": 80,
+              "url": "https://t.co/0hi6EnyuX6"
+            },
+            {
+              "display_url": "pic.x.com/0hi6EnyuX6",
+              "end": 103,
+              "expanded_url": "https://x.com/tingxinzhongyu/status/2020373158776435046/photo/1",
+              "media_key": "3_2020373138849296386",
+              "start": 80,
+              "url": "https://t.co/0hi6EnyuX6"
+            },
+            {
+              "display_url": "x.com/tingxinzhongyu…",
+              "end": 127,
+              "expanded_url": "https://twitter.com/tingxinzhongyu/status/2020341443701936197",
+              "start": 104,
+              "url": "https://t.co/Qy4lKhXpBT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020373158776435046",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020341443701936197",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "挑战失败\n被妈妈从被窝里拎起来带出去吃饭\n这个炸的生蚝和奶油味的大虾真的太好吃了呜呜🥺\n失去鲨鲨之后眼泪不争气的从嘴角流出来\n回去我要再睡个午觉，鲨鲨等等我😭 https://t.co/0hi6EnyuX6 https://t.co/Qy4lKhXpBT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020341421950349312"
+          ]
+        },
+        "author_id": "1992038421318205440",
+        "conversation_id": "2020341443701936197",
+        "created_at": "2026-02-08T03:38:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T04:38:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020341443701936197"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MRTGtVgbZg",
+              "end": 115,
+              "expanded_url": "https://x.com/tingxinzhongyu/status/2020341443701936197/photo/1",
+              "media_key": "3_2020341421950349312",
+              "start": 92,
+              "url": "https://t.co/MRTGtVgbZg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020341443701936197",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 129,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "赖床到一半被鲨鲨的快递叫起床了诶\n\n呜呜它一定是知道我昨晚太难过了早早把自己送来安慰我了叭。\n宜家虐待鲨鲨是真的，你根本没有心！\n\n从此我也是拥有鲨鲨之人了😭\n挑战抱着鲨鲨过一整天😭 https://t.co/MRTGtVgbZg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02 176 65kg//mtf hrt 2025.11.21🍥//我想要很多很多的爱 欢迎聊天互fo 永远的可爱姐姐@jikeOjk7623",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 59,
+                "username": "jikeOjk7623"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992039552731725825/3Uy_y4UJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 266,
+          "like_count": 1460,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 757
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2015699539458674817",
+    "created_at": "2026-01-26T17:39:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T18:39:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015841998926918012"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1633251597714354176",
+          "start": 0,
+          "username": "momokaminazuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015841998926918012",
+    "in_reply_to_user_id": "1633251597714354176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015840968608727549",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@momokaminazuki 那我得有办法刷新一下妈妈的记忆喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2015699539458674817",
+        "created_at": "2026-01-26T17:39:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T18:39:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015841998926918012"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1633251597714354176",
+              "start": 0,
+              "username": "momokaminazuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015841998926918012",
+        "in_reply_to_user_id": "1633251597714354176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015840968608727549",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@momokaminazuki 那我得有办法刷新一下妈妈的记忆喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1633251597714354176",
+        "conversation_id": "2015699539458674817",
+        "created_at": "2026-01-26T17:35:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T18:35:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015840968608727549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992038421318205440",
+              "start": 0,
+              "username": "tingxinzhongyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015840968608727549",
+        "in_reply_to_user_id": "1992038421318205440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015699539458674817",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tingxinzhongyu 换一个商品信息上没写送女生的（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02/mtf 我只想要很多很多的爱 hrt 2025.11🍥/欢迎聊天互fo",
+        "id": "1992038421318205440",
+        "name": "听羽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992039552731725825/3Uy_y4UJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 140,
+          "like_count": 594,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 342
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-07T23:41:51.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/momokaminazuki",
+                "end": 23,
+                "expanded_url": "https://t.me/momokaminazuki",
+                "start": 0,
+                "url": "https://t.co/xsYt2hfV0a"
+              }
+            ]
+          }
+        },
+        "id": "1633251597714354176",
+        "location": "Kawasaki City Kawasaki Ward",
+        "name": "🍑☕",
+        "pinned_tweet_id": "1766463107940106532",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869735024775581696/92I2oWqy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 1033,
+          "like_count": 65955,
+          "listed_count": 5,
+          "media_count": 1396,
+          "tweet_count": 16123
+        },
+        "url": "https://t.co/xsYt2hfV0a",
+        "username": "momokaminazuki",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025769173658615808"
+      ]
+    },
+    "author_id": "1992038421318205440",
+    "conversation_id": "2025769178599501872",
+    "created_at": "2026-02-23T03:06:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T04:06:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025769178599501872"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lMqhwPEsK4",
+          "end": 158,
+          "expanded_url": "https://x.com/tingxinzhongyu/status/2025769178599501872/photo/1",
+          "media_key": "3_2025769173658615808",
+          "start": 135,
+          "url": "https://t.co/lMqhwPEsK4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025769178599501872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "起因是抖音号把之前的朋友都清理取关了 忘记他们应该还没取消关注我 所以直接是大改造 主页改成了女\n于是被我朋友一语撞破\n虽然糊弄过去了 感觉还是很不对劲\n难道翻之前我就这么明显了吗？\n\n😱之前学校里只有一个人知道这件事来着\n现在不知道他还会不会再问我 瑟瑟发抖.jpg https://t.co/lMqhwPEsK4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 196,
+        "media_key": "3_2025769173658615808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBz6VJjbwAAH4iE.jpg",
+        "width": 624
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025769173658615808"
+          ]
+        },
+        "author_id": "1992038421318205440",
+        "conversation_id": "2025769178599501872",
+        "created_at": "2026-02-23T03:06:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T04:06:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025769178599501872"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lMqhwPEsK4",
+              "end": 158,
+              "expanded_url": "https://x.com/tingxinzhongyu/status/2025769178599501872/photo/1",
+              "media_key": "3_2025769173658615808",
+              "start": 135,
+              "url": "https://t.co/lMqhwPEsK4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025769178599501872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "起因是抖音号把之前的朋友都清理取关了 忘记他们应该还没取消关注我 所以直接是大改造 主页改成了女\n于是被我朋友一语撞破\n虽然糊弄过去了 感觉还是很不对劲\n难道翻之前我就这么明显了吗？\n\n😱之前学校里只有一个人知道这件事来着\n现在不知道他还会不会再问我 瑟瑟发抖.jpg https://t.co/lMqhwPEsK4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02 176 65kg//mtf hrt 2025.11.21-2026.2.13🍥//我想要很多很多的爱 欢迎聊天互fo 永远的可爱姐姐@jikeOjk7623 // @HappyHejsDay的兵！//超温柔妹妹@sophhhsama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 69,
+                "username": "jikeOjk7623"
+              },
+              {
+                "end": 98,
+                "start": 85,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 119,
+                "start": 108,
+                "username": "sophhhsama"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023721600491925504/NLPFudYi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 484,
+          "following_count": 426,
+          "like_count": 3361,
+          "listed_count": 1,
+          "media_count": 82,
+          "tweet_count": 1828
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      }
+    ]
+  }
+}

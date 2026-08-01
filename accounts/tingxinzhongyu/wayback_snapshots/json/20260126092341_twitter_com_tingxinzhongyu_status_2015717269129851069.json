@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2015699539458674817",
+    "created_at": "2026-01-26T09:23:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T10:23:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015717269129851069"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1302984963805999104",
+          "start": 0,
+          "username": "littlelambqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015717269129851069",
+    "in_reply_to_user_id": "1302984963805999104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015716617855143999",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@littlelambqwq 我其实就想意思一下问问，结果她真不让我买😭只能听她的嘞"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2015699539458674817",
+        "created_at": "2026-01-26T09:23:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T10:23:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015717269129851069"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1302984963805999104",
+              "start": 0,
+              "username": "littlelambqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015717269129851069",
+        "in_reply_to_user_id": "1302984963805999104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015716617855143999",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@littlelambqwq 我其实就想意思一下问问，结果她真不让我买😭只能听她的嘞"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1302984963805999104",
+        "conversation_id": "2015699539458674817",
+        "created_at": "2026-01-26T09:21:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T10:21:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015716617855143999"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992038421318205440",
+              "start": 0,
+              "username": "tingxinzhongyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015716617855143999",
+        "in_reply_to_user_id": "1992038421318205440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015716296428765511",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tingxinzhongyu 没事的，既然都给你了，你心安理得花就行了，如果不想让你花，干脆就不给你了都"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02/mtf 我只想要很多很多的爱 hrt 2025.11🍥/欢迎聊天互fo",
+        "id": "1992038421318205440",
+        "name": "听羽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992039552731725825/3Uy_y4UJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 122,
+          "like_count": 551,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 299
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-07T15:00:08.000Z",
+        "description": "最憨的小女孩(mtx🏳️‍⚧️)/咩咩教教主/大龄跨女/控制欲强的变态/幼稚小鬼/性格暴躁/暴力dom/bluesky的id和Twitter一样/欢迎找我私信咩/简介和置顶有个人tg频道链接/",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+2dG0HZQuXcA2N…",
+                "end": 23,
+                "expanded_url": "https://t.me/+2dG0HZQuXcA2NjQ1",
+                "start": 0,
+                "url": "https://t.co/si7tu8rD2I"
+              }
+            ]
+          }
+        },
+        "id": "1302984963805999104",
+        "location": "咩咩星-山羊州-傻子社区-250号（已搬进这个家）",
+        "name": "小咩咩🐑🍥8964",
+        "pinned_tweet_id": "2012363069645582583",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008560122407383046/maSzC5df_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2250,
+          "following_count": 1069,
+          "like_count": 71097,
+          "listed_count": 16,
+          "media_count": 1392,
+          "tweet_count": 13693
+        },
+        "url": "https://t.co/si7tu8rD2I",
+        "username": "littlelambqwq",
+        "verified": true
+      }
+    ]
+  }
+}

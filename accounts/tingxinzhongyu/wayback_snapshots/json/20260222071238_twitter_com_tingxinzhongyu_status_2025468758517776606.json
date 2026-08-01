@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2025468758517776606",
+    "created_at": "2026-02-22T07:12:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T08:12:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025468758517776606"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jskyeye/status…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/jskyeye/status/2025390857671901201",
+          "start": 11,
+          "url": "https://t.co/jpYR1bFeST"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025468758517776606",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025390857671901201",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "应该是最重要的三条了 https://t.co/jpYR1bFeST"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1358,
+        "media_key": "3_2025390850629607424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBuiP2caoAAf4Mg.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2025468758517776606",
+        "created_at": "2026-02-22T07:12:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T08:12:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025468758517776606"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jskyeye/status…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/jskyeye/status/2025390857671901201",
+              "start": 11,
+              "url": "https://t.co/jpYR1bFeST"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025468758517776606",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025390857671901201",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "应该是最重要的三条了 https://t.co/jpYR1bFeST"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025390850629607424"
+          ]
+        },
+        "author_id": "1981693695578791936",
+        "conversation_id": "2025390857671901201",
+        "created_at": "2026-02-22T02:03:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T03:03:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025390857671901201"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nJL5wwvfhh",
+              "end": 32,
+              "expanded_url": "https://x.com/Jskyeye/status/2025390857671901201/photo/1",
+              "media_key": "3_2025390850629607424",
+              "start": 9,
+              "url": "https://t.co/nJL5wwvfhh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025390857671901201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 80,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "感觉他说的好对🥹 https://t.co/nJL5wwvfhh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02 176 65kg//mtf hrt 2025.11.21-2026.2.13🍥//我想要很多很多的爱 欢迎聊天互fo 永远的可爱姐姐@jikeOjk7623 // @HappyHejsDay的兵！//超温柔妹妹@sophhhsama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 69,
+                "username": "jikeOjk7623"
+              },
+              {
+                "end": 98,
+                "start": 85,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 119,
+                "start": 108,
+                "username": "sophhhsama"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023721600491925504/NLPFudYi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 464,
+          "following_count": 424,
+          "like_count": 3293,
+          "listed_count": 1,
+          "media_count": 80,
+          "tweet_count": 1782
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-24T12:06:41.000Z",
+        "description": "原来是@JuiceskyYeye｜MtF｜美食区博主?😜｜努力保持阳光☀️健康",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "JuiceskyYeye"
+              }
+            ]
+          }
+        },
+        "id": "1981693695578791936",
+        "name": "𝐒𝐤𝐲𝐞𝐲𝐞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986750507059384320/QFwa72W5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 666,
+          "like_count": 8563,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 707
+        },
+        "username": "Jskyeye",
+        "verified": true
+      }
+    ]
+  }
+}

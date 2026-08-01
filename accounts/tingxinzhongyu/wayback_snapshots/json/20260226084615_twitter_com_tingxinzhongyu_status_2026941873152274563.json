@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2026935635744010535",
+    "created_at": "2026-02-26T08:46:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T09:46:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026941873152274563"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2005261732751802368",
+          "start": 0,
+          "username": "HappyHejsDay"
+        },
+        {
+          "end": 25,
+          "id": "1856073016691847168",
+          "start": 14,
+          "username": "wayback112"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026941873152274563",
+    "in_reply_to_user_id": "2005261732751802368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026938890591047865",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HappyHejsDay @wayback112 🥹太有实力了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2026935635744010535",
+        "created_at": "2026-02-26T08:46:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T09:46:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026941873152274563"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2005261732751802368",
+              "start": 0,
+              "username": "HappyHejsDay"
+            },
+            {
+              "end": 25,
+              "id": "1856073016691847168",
+              "start": 14,
+              "username": "wayback112"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026941873152274563",
+        "in_reply_to_user_id": "2005261732751802368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026938890591047865",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HappyHejsDay @wayback112 🥹太有实力了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2005261732751802368",
+        "conversation_id": "2026935635744010535",
+        "created_at": "2026-02-26T08:34:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T09:34:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026938890591047865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992038421318205440",
+              "start": 0,
+              "username": "tingxinzhongyu"
+            },
+            {
+              "end": 27,
+              "id": "1856073016691847168",
+              "start": 16,
+              "username": "wayback112"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026938890591047865",
+        "in_reply_to_user_id": "1992038421318205440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026938697434935337",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tingxinzhongyu @wayback112 超级超级多"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02 176 65kg//mtf hrt 2025.11.21-2026.2.13🍥//我想要很多很多的爱 欢迎聊天互fo 永远的可爱姐姐@jikeOjk7623 // @HappyHejsDay的兵！//超温柔妹妹@sophhhsama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 69,
+                "username": "jikeOjk7623"
+              },
+              {
+                "end": 98,
+                "start": 85,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 119,
+                "start": 108,
+                "username": "sophhhsama"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023721600491925504/NLPFudYi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 554,
+          "following_count": 444,
+          "like_count": 3801,
+          "listed_count": 2,
+          "media_count": 91,
+          "tweet_count": 2144
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-28T12:57:17.000Z",
+        "description": "低脂國奻｜混沌阿姨｜enby｜失敗交易員｜amab｜🇹🇼🇭🇰🇨🇳｜同类互fo｜前世@franciswwwww｜寵物@Fe_ions｜寶寶窩@MoriSaSaaa @SuzukiHnnn @PaulDrizzyvlni @Suimikax @YuningTepes03 @Jskyeye @zwh20081",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 41,
+                "username": "franciswwwww"
+              },
+              {
+                "end": 65,
+                "start": 57,
+                "username": "Fe_ions"
+              },
+              {
+                "end": 80,
+                "start": 69,
+                "username": "MoriSaSaaa"
+              },
+              {
+                "end": 92,
+                "start": 81,
+                "username": "SuzukiHnnn"
+              },
+              {
+                "end": 108,
+                "start": 93,
+                "username": "PaulDrizzyvlni"
+              },
+              {
+                "end": 118,
+                "start": 109,
+                "username": "Suimikax"
+              },
+              {
+                "end": 133,
+                "start": 119,
+                "username": "YuningTepes03"
+              },
+              {
+                "end": 142,
+                "start": 134,
+                "username": "Jskyeye"
+              },
+              {
+                "end": 152,
+                "start": 143,
+                "username": "zwh20081"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/franciswwwww",
+                "end": 23,
+                "expanded_url": "https://ngl.link/franciswwwww",
+                "start": 0,
+                "url": "https://t.co/XuuvUtx6bP"
+              }
+            ]
+          }
+        },
+        "id": "2005261732751802368",
+        "location": "In your heart",
+        "name": "𝕙𝕖𝕛😉二號機（開心版",
+        "pinned_tweet_id": "2021900695356813783",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021381883918155776/nRmYht_H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 821,
+          "following_count": 1106,
+          "like_count": 5514,
+          "listed_count": 0,
+          "media_count": 208,
+          "tweet_count": 3342
+        },
+        "url": "https://t.co/XuuvUtx6bP",
+        "username": "HappyHejsDay",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-11T20:34:39.000Z",
+        "description": "05/珠海上学/喜欢打游戏/泛性恋/intp",
+        "id": "1856073016691847168",
+        "location": "临终关怀医院",
+        "name": "wayback112",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980054535272792064/5964VhT5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 21,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 54
+        },
+        "username": "wayback112",
+        "verified": false
+      }
+    ]
+  }
+}

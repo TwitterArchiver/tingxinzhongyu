@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2056365016082001971",
+    "created_at": "2026-05-19T21:19:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T22:19:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056847123333910797"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1353598607950311424",
+          "start": 0,
+          "username": "choletyan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056847123333910797",
+    "in_reply_to_user_id": "1353598607950311424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056728102685028371",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@choletyan 可是我还赚不到钱🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2056365016082001971",
+        "created_at": "2026-05-19T21:19:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T22:19:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056847123333910797"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1353598607950311424",
+              "start": 0,
+              "username": "choletyan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056847123333910797",
+        "in_reply_to_user_id": "1353598607950311424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056728102685028371",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@choletyan 可是我还赚不到钱🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353598607950311424",
+        "conversation_id": "2056365016082001971",
+        "created_at": "2026-05-19T13:26:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T14:26:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056728102685028371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992038421318205440",
+              "start": 0,
+              "username": "tingxinzhongyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056728102685028371",
+        "in_reply_to_user_id": "1992038421318205440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056365016082001971",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tingxinzhongyu 虽然不知道为什么放弃了，但是如果吃药是为了接近女生形态，不如现在开始努力挣钱去做手术，人生还很长，依然有大半时光享受"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "176 65kg｜mtf ｜Best friend @kanonobambi ｜ ｜hrt 2025.11.21-2026.2.13🍥｜我想要很多很多的爱｜永远的可爱姐姐@jikeOjk7623 ｜@HappyHejsDay的兵！｜超温柔妹妹@sophhhsama @axzamyzed！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "kanonobambi"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "jikeOjk7623"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 132,
+                "start": 121,
+                "username": "sophhhsama"
+              },
+              {
+                "end": 143,
+                "start": 133,
+                "username": "axzamyzed"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028106888488026112/tHHVMk_N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 761,
+          "following_count": 470,
+          "like_count": 4626,
+          "listed_count": 3,
+          "media_count": 121,
+          "tweet_count": 2755
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-25T07:00:40.000Z",
+        "description": "河南小男娘，想找一个可以依靠余生的伴侣，也想要被调教雌堕，但是性格有点内敛，没怎么主动出击过。私信好像被马斯克ban了，想要联系我直接加我q吧3315958478# 河南男娘# 男娘# 药娘",
+        "id": "1353598607950311424",
+        "name": "克罗埃酱🏳️‍⚧️",
+        "pinned_tweet_id": "1403486592342257664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1567896127563005953/UhyxD3Rt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 61,
+          "like_count": 206,
+          "listed_count": 2,
+          "media_count": 47,
+          "tweet_count": 315
+        },
+        "username": "choletyan",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2008689308421574787",
+    "created_at": "2026-01-07T01:41:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T02:41:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008715604816253035"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1912573016380436483",
+          "start": 0,
+          "username": "ymeatuna"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008715604816253035",
+    "in_reply_to_user_id": "1912573016380436483",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008715346027688423",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ymeatuna 哈哈哈哈哈那一定是你朋友段位可能太高啦，让他找个新号跟你一起开始呗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2008689308421574787",
+        "created_at": "2026-01-07T01:41:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T02:41:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008715604816253035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1912573016380436483",
+              "start": 0,
+              "username": "ymeatuna"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008715604816253035",
+        "in_reply_to_user_id": "1912573016380436483",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008715346027688423",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ymeatuna 哈哈哈哈哈那一定是你朋友段位可能太高啦，让他找个新号跟你一起开始呗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912573016380436483",
+        "conversation_id": "2008689308421574787",
+        "created_at": "2026-01-07T01:40:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T02:40:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008715346027688423"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992038421318205440",
+              "start": 0,
+              "username": "tingxinzhongyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008715346027688423",
+        "in_reply_to_user_id": "1992038421318205440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008714479866179873",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tingxinzhongyu 对我这种小糖人来说还是太难了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02年老屁股/mtf 我只想要很多很多的爱 hrt 2025.11🍥",
+        "id": "1992038421318205440",
+        "name": "听羽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992039552731725825/3Uy_y4UJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 40,
+          "like_count": 149,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 59
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-16T18:25:25.000Z",
+        "description": "这里是sxw的剪贴板",
+        "id": "1912573016380436483",
+        "location": "6.8km",
+        "name": "水腥味",
+        "pinned_tweet_id": "1988450581145395353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005721234378477569/qISFnkQ-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 83,
+          "like_count": 658,
+          "listed_count": 1,
+          "media_count": 243,
+          "tweet_count": 1788
+        },
+        "username": "ymeatuna",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2024104572558704770",
+    "created_at": "2026-02-18T13:07:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T14:07:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024108425949683861"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1155275638304997378",
+          "start": 0,
+          "username": "jiuyi20021115"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024108425949683861",
+    "in_reply_to_user_id": "1155275638304997378",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024106806226948113",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiuyi20021115 那…好像安全了？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2024104572558704770",
+        "created_at": "2026-02-18T13:07:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T14:07:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024108425949683861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1155275638304997378",
+              "start": 0,
+              "username": "jiuyi20021115"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024108425949683861",
+        "in_reply_to_user_id": "1155275638304997378",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024106806226948113",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiuyi20021115 那…好像安全了？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1155275638304997378",
+        "conversation_id": "2024104572558704770",
+        "created_at": "2026-02-18T13:00:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T14:00:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024106806226948113"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992038421318205440",
+              "start": 0,
+              "username": "tingxinzhongyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024106806226948113",
+        "in_reply_to_user_id": "1992038421318205440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024104572558704770",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tingxinzhongyu 成都很多0哦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02 176 65kg//mtf hrt 2025.11.21-2026.2.13🍥//我想要很多很多的爱 欢迎聊天互fo 永远的可爱姐姐@jikeOjk7623",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 69,
+                "username": "jikeOjk7623"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023721600491925504/NLPFudYi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 361,
+          "following_count": 389,
+          "like_count": 2862,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 1480
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-28T00:35:50.000Z",
+        "description": "努力泌乳中",
+        "id": "1155275638304997378",
+        "name": "㌍㌫㌶㍊㍍㍑㌫㌶㍍㌫🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949412151489372160/pDUKuYoY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 1112,
+          "like_count": 125,
+          "listed_count": 2,
+          "media_count": 16,
+          "tweet_count": 192
+        },
+        "username": "jiuyi20021115",
+        "verified": false
+      }
+    ]
+  }
+}

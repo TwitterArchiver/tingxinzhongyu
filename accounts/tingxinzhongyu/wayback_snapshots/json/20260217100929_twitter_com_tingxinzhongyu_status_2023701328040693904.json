@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2023701315520753664",
+        "3_2023701315524947968"
+      ]
+    },
+    "author_id": "1992038421318205440",
+    "conversation_id": "2023701328040693904",
+    "created_at": "2026-02-17T10:09:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T11:09:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023701328040693904"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nXnqGJ0cG5",
+          "end": 130,
+          "expanded_url": "https://x.com/tingxinzhongyu/status/2023701328040693904/photo/1",
+          "media_key": "3_2023701315520753664",
+          "start": 107,
+          "url": "https://t.co/nXnqGJ0cG5"
+        },
+        {
+          "display_url": "pic.x.com/nXnqGJ0cG5",
+          "end": 130,
+          "expanded_url": "https://x.com/tingxinzhongyu/status/2023701328040693904/photo/1",
+          "media_key": "3_2023701315524947968",
+          "start": 107,
+          "url": "https://t.co/nXnqGJ0cG5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023701328040693904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在车上不知道脑袋哪没搭对给我妈看我珍藏的绿猫表情包\n于是她直接暴风吸入并大呼可爱 🥰\n\n然后她问我这抱着的是不是就是家里的鲨鲨\n我顿时就p2这表情 她要是一块搜…\n\n虽然觉得她没那么聪明 但总有一种要炸柜的感觉🫠 https://t.co/nXnqGJ0cG5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2266,
+        "media_key": "3_2023701315520753664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBWhn9sa8AA3sAj.jpg",
+        "width": 487
+      },
+      {
+        "height": 1010,
+        "media_key": "3_2023701315524947968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBWhn9ta8AAQqaO.jpg",
+        "width": 937
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023701315520753664",
+            "3_2023701315524947968"
+          ]
+        },
+        "author_id": "1992038421318205440",
+        "conversation_id": "2023701328040693904",
+        "created_at": "2026-02-17T10:09:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T11:09:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023701328040693904"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nXnqGJ0cG5",
+              "end": 130,
+              "expanded_url": "https://x.com/tingxinzhongyu/status/2023701328040693904/photo/1",
+              "media_key": "3_2023701315520753664",
+              "start": 107,
+              "url": "https://t.co/nXnqGJ0cG5"
+            },
+            {
+              "display_url": "pic.x.com/nXnqGJ0cG5",
+              "end": 130,
+              "expanded_url": "https://x.com/tingxinzhongyu/status/2023701328040693904/photo/1",
+              "media_key": "3_2023701315524947968",
+              "start": 107,
+              "url": "https://t.co/nXnqGJ0cG5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023701328040693904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在车上不知道脑袋哪没搭对给我妈看我珍藏的绿猫表情包\n于是她直接暴风吸入并大呼可爱 🥰\n\n然后她问我这抱着的是不是就是家里的鲨鲨\n我顿时就p2这表情 她要是一块搜…\n\n虽然觉得她没那么聪明 但总有一种要炸柜的感觉🫠 https://t.co/nXnqGJ0cG5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02 176 65kg//mtf hrt 2025.11.21🍥//我想要很多很多的爱 欢迎聊天互fo 永远的可爱姐姐@jikeOjk7623",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 59,
+                "username": "jikeOjk7623"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992039552731725825/3Uy_y4UJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 376,
+          "like_count": 2716,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 1390
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      }
+    ]
+  }
+}

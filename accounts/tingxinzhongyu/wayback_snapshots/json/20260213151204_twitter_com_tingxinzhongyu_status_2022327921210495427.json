@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2020345513393213773",
+    "created_at": "2026-02-13T15:12:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T16:12:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022327921210495427"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1625835397908680704",
+          "start": 0,
+          "username": "Timothy38524294"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022327921210495427",
+    "in_reply_to_user_id": "1625835397908680704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022326337537798258",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Timothy38524294 诶！\n好棒诶！！！\n🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2020345513393213773",
+        "created_at": "2026-02-13T15:12:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T16:12:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022327921210495427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1625835397908680704",
+              "start": 0,
+              "username": "Timothy38524294"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022327921210495427",
+        "in_reply_to_user_id": "1625835397908680704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022326337537798258",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Timothy38524294 诶！\n好棒诶！！！\n🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1625835397908680704",
+        "conversation_id": "2020345513393213773",
+        "created_at": "2026-02-13T15:05:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T16:05:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022326337537798258"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992038421318205440",
+              "start": 0,
+              "username": "tingxinzhongyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022326337537798258",
+        "in_reply_to_user_id": "1992038421318205440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020345513393213773",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tingxinzhongyu 哇居然有同一件衣服！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02 176 65kg//mtf hrt 2025.11.21🍥//我想要很多很多的爱 欢迎聊天互fo 永远的可爱姐姐@jikeOjk7623",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 59,
+                "username": "jikeOjk7623"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992039552731725825/3Uy_y4UJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 338,
+          "like_count": 2205,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 1122
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-15T12:32:47.000Z",
+        "description": "Narcissus et Sisyphus\n男女装混穿/友顺跨直弯/长发男/4i/直男微跨微拉\n美妆/芭蕾/摄影学习中\n#latex #leotard #zentai #jk #kig #bdsm\n碎碎念小号/欢迎私戳/no politics\n希望大家都幸福www",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 66,
+                "start": 60,
+                "tag": "latex"
+              },
+              {
+                "end": 75,
+                "start": 67,
+                "tag": "leotard"
+              },
+              {
+                "end": 83,
+                "start": 76,
+                "tag": "zentai"
+              },
+              {
+                "end": 87,
+                "start": 84,
+                "tag": "jk"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "kig"
+              },
+              {
+                "end": 98,
+                "start": 93,
+                "tag": "bdsm"
+              }
+            ]
+          }
+        },
+        "id": "1625835397908680704",
+        "location": "PEK，at times CTU SHA",
+        "name": "Timothy Brown",
+        "pinned_tweet_id": "1978673459178664237",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955688271289495552/xmsCBL0R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 1074,
+          "like_count": 609,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 162
+        },
+        "username": "Timothy38524294",
+        "verified": false
+      }
+    ]
+  }
+}

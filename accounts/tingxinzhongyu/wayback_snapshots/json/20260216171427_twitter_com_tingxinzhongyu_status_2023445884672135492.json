@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2023445884672135492",
+    "created_at": "2026-02-16T17:14:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T18:14:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023445884672135492"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nl8526/status/…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/nl8526/status/2023252097781915999",
+          "start": 17,
+          "url": "https://t.co/3iwS4dS93q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023445884672135492",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023252097781915999",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "相信奇迹的力量\n大家都会越来越好 https://t.co/3iwS4dS93q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2023252095890239488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBQJD8KaMAA6fr5.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2023445884672135492",
+        "created_at": "2026-02-16T17:14:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T18:14:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023445884672135492"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nl8526/status/…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/nl8526/status/2023252097781915999",
+              "start": 17,
+              "url": "https://t.co/3iwS4dS93q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023445884672135492",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023252097781915999",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "相信奇迹的力量\n大家都会越来越好 https://t.co/3iwS4dS93q"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023252095890239488"
+          ]
+        },
+        "author_id": "1546431985086009344",
+        "conversation_id": "2023252097781915999",
+        "created_at": "2026-02-16T04:24:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T05:24:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023252097781915999"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Gh0VnMFIe2",
+              "end": 35,
+              "expanded_url": "https://x.com/NL8526/status/2023252097781915999/photo/1",
+              "media_key": "3_2023252095890239488",
+              "start": 12,
+              "url": "https://t.co/Gh0VnMFIe2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023252097781915999",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 172,
+          "impression_count": 28334,
+          "like_count": 2749,
+          "quote_count": 10,
+          "reply_count": 6,
+          "retweet_count": 301
+        },
+        "reply_settings": "everyone",
+        "text": "🏳️‍⚧️跨🏳️‍⚧️ https://t.co/Gh0VnMFIe2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02 176 65kg//mtf hrt 2025.11.21🍥//我想要很多很多的爱 欢迎聊天互fo 永远的可爱姐姐@jikeOjk7623",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 59,
+                "username": "jikeOjk7623"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992039552731725825/3Uy_y4UJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 374,
+          "like_count": 2663,
+          "listed_count": 1,
+          "media_count": 63,
+          "tweet_count": 1369
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF已成年 🍥无证含糖 🎹音游 💥炸柜/家长不管党 🍀ISFP-T📍坐标江西 📚本科在读 💰贷款上学 🌹积极回fo",
+        "id": "1546431985086009344",
+        "location": "参宿四",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2019644892058939609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982315591961616384/XOHEeGGT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 805,
+          "following_count": 319,
+          "like_count": 4249,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 175
+        },
+        "username": "NL8526",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2026834703198593301",
+    "created_at": "2026-02-26T01:40:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T02:40:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026834703198593301"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tingxinzhongyu…",
+          "end": 60,
+          "expanded_url": "https://twitter.com/tingxinzhongyu/status/2026834196904423759",
+          "start": 37,
+          "url": "https://t.co/Arz6QqDc4d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026834703198593301",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026834196904423759",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这已经是我憋了五分钟才发出来的推了🥹\n绝望..\n说不定会写不出长推文了… https://t.co/Arz6QqDc4d"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2026834703198593301",
+        "created_at": "2026-02-26T01:40:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T02:40:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026834703198593301"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tingxinzhongyu…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/tingxinzhongyu/status/2026834196904423759",
+              "start": 37,
+              "url": "https://t.co/Arz6QqDc4d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026834703198593301",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026834196904423759",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这已经是我憋了五分钟才发出来的推了🥹\n绝望..\n说不定会写不出长推文了… https://t.co/Arz6QqDc4d"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2026834196904423759",
+        "created_at": "2026-02-26T01:38:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T02:38:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026834196904423759"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026834196904423759",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的分享欲呢？\n停糖之后最担心的事情还是发生了\n还给我！\n还给我！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02 176 65kg//mtf hrt 2025.11.21-2026.2.13🍥//我想要很多很多的爱 欢迎聊天互fo 永远的可爱姐姐@jikeOjk7623 // @HappyHejsDay的兵！//超温柔妹妹@sophhhsama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 69,
+                "username": "jikeOjk7623"
+              },
+              {
+                "end": 98,
+                "start": 85,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 119,
+                "start": 108,
+                "username": "sophhhsama"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023721600491925504/NLPFudYi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 555,
+          "following_count": 443,
+          "like_count": 3762,
+          "listed_count": 2,
+          "media_count": 90,
+          "tweet_count": 2114
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      }
+    ]
+  }
+}

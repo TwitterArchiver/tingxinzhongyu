@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2024105455245824001",
+    "created_at": "2026-02-18T13:05:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T14:05:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024108018560852474"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1990384119726129152",
+          "start": 0,
+          "username": "SuzukiHnnn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024108018560852474",
+    "in_reply_to_user_id": "1990384119726129152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024105455245824001",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SuzukiHnnn 来吃喵 可好吃了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2024105455245824001",
+        "created_at": "2026-02-18T13:05:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T14:05:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024108018560852474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1990384119726129152",
+              "start": 0,
+              "username": "SuzukiHnnn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024108018560852474",
+        "in_reply_to_user_id": "1990384119726129152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024105455245824001",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SuzukiHnnn 来吃喵 可好吃了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990384119726129152",
+        "conversation_id": "2024105455245824001",
+        "created_at": "2026-02-18T12:55:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T13:55:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024105455245824001"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tingxinzhongyu…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/tingxinzhongyu/status/2024104572558704770",
+              "start": 6,
+              "url": "https://t.co/8EoWMhfSTw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024105455245824001",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024104572558704770",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也要吃🤤 https://t.co/8EoWMhfSTw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02 176 65kg//mtf hrt 2025.11.21-2026.2.13🍥//我想要很多很多的爱 欢迎聊天互fo 永远的可爱姐姐@jikeOjk7623",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 69,
+                "username": "jikeOjk7623"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023721600491925504/NLPFudYi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 361,
+          "following_count": 389,
+          "like_count": 2860,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 1478
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-17T11:38:59.000Z",
+        "description": "🇭🇺🇩🇪🇨🇳🇭🇰｜ENTJ｜163/58.1 ｜07產品E9在讀｜Möchtest du mit mir Maimai spielen｜家姐@HappyHejsDay｜Rettungskapsel @NanakoLumkung",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 70,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 113,
+                "start": 99,
+                "username": "NanakoLumkung"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nanakostrawber…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nanakostrawberry",
+                "start": 0,
+                "url": "https://t.co/iCnU7MKOvz"
+              }
+            ]
+          }
+        },
+        "id": "1990384119726129152",
+        "location": "Budapest，Hungary",
+        "name": "𝓝·𝓪·𝓷·𝓪·𝓴·𝓸·𝓢·𝓽·𝓻·𝓪·𝔀·𝓫·𝓮·𝓻·𝓻·𝔂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010333345733914625/8nj2jbd-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 126,
+          "like_count": 2790,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 1068
+        },
+        "url": "https://t.co/iCnU7MKOvz",
+        "username": "SuzukiHnnn",
+        "verified": false
+      }
+    ]
+  }
+}

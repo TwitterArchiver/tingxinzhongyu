@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2025035519982535003",
+    "created_at": "2026-02-21T06:20:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T07:20:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025093248600211724"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1764513634867404800",
+          "start": 0,
+          "username": "Yui336713354044"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025093248600211724",
+    "in_reply_to_user_id": "1764513634867404800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025076901740728493",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yui336713354044 是有一点自然卷，然后去年烫过还没剪，所以边上更卷🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2025035519982535003",
+        "created_at": "2026-02-21T06:20:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T07:20:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025093248600211724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1764513634867404800",
+              "start": 0,
+              "username": "Yui336713354044"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025093248600211724",
+        "in_reply_to_user_id": "1764513634867404800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025076901740728493",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yui336713354044 是有一点自然卷，然后去年烫过还没剪，所以边上更卷🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1764513634867404800",
+        "conversation_id": "2025035519982535003",
+        "created_at": "2026-02-21T05:15:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T06:15:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025076901740728493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992038421318205440",
+              "start": 0,
+              "username": "tingxinzhongyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025076901740728493",
+        "in_reply_to_user_id": "1992038421318205440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025035519982535003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tingxinzhongyu 是自然卷嘛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02 176 65kg//mtf hrt 2025.11.21-2026.2.13🍥//我想要很多很多的爱 欢迎聊天互fo 永远的可爱姐姐@jikeOjk7623 // @HappyHejsDay的兵！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 69,
+                "username": "jikeOjk7623"
+              },
+              {
+                "end": 98,
+                "start": 85,
+                "username": "HappyHejsDay"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023721600491925504/NLPFudYi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 437,
+          "following_count": 418,
+          "like_count": 3166,
+          "listed_count": 1,
+          "media_count": 77,
+          "tweet_count": 1689
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-04T04:50:43.000Z",
+        "description": "04/一年半/本科/infp/情绪稳定/互fo",
+        "id": "1764513634867404800",
+        "name": "酥宝",
+        "pinned_tweet_id": "2010366784134914102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891767236873834496/-hQ9eXPQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 717,
+          "like_count": 301,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 268
+        },
+        "username": "Yui336713354044",
+        "verified": false
+      }
+    ]
+  }
+}

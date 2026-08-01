@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2062094033879773294",
+    "created_at": "2026-06-04T05:17:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T06:17:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062403254429069607"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "891159653341478912",
+          "start": 0,
+          "username": "Yuvvannn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062403254429069607",
+    "in_reply_to_user_id": "891159653341478912",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062353881418617299",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuvvannn 就是！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2062094033879773294",
+        "created_at": "2026-06-04T05:17:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T06:17:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062403254429069607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "891159653341478912",
+              "start": 0,
+              "username": "Yuvvannn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062403254429069607",
+        "in_reply_to_user_id": "891159653341478912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062353881418617299",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuvvannn 就是！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "891159653341478912",
+        "conversation_id": "2062094033879773294",
+        "created_at": "2026-06-04T02:00:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T03:00:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062353881418617299"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992038421318205440",
+              "start": 0,
+              "username": "tingxinzhongyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062353881418617299",
+        "in_reply_to_user_id": "1992038421318205440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062094033879773294",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tingxinzhongyu 最近苏州确实太闷了…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "176 65kg｜mtf ｜Best friend @kanonobambi ｜ ｜hrt 2025.11.21-2026.2.13🍥｜我想要很多很多的爱｜永远的可爱姐姐@jikeOjk7623 ｜@HappyHejsDay的兵！｜超温柔妹妹@sophhhsama @axzamyzed！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "kanonobambi"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "jikeOjk7623"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 132,
+                "start": 121,
+                "username": "sophhhsama"
+              },
+              {
+                "end": 143,
+                "start": 133,
+                "username": "axzamyzed"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028106888488026112/tHHVMk_N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 789,
+          "following_count": 470,
+          "like_count": 4759,
+          "listed_count": 3,
+          "media_count": 127,
+          "tweet_count": 2846
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-29T04:53:13.000Z",
+        "description": "🏳️‍⚧️Mtx | Gerontology Researcher | UNC 26 | Incoming PhD at UofLiverpool",
+        "id": "891159653341478912",
+        "location": "Chapel Hill, NC",
+        "name": "Yuviannnn",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935651616817881088/zQo-ufnS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 700,
+          "like_count": 8411,
+          "listed_count": 3,
+          "media_count": 86,
+          "tweet_count": 331
+        },
+        "username": "Yuvvannn",
+        "verified": false
+      }
+    ]
+  }
+}

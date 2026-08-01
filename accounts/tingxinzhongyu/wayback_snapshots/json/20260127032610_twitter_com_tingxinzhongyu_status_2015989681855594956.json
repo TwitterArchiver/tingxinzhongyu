@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2015699539458674817",
+    "created_at": "2026-01-27T03:26:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T04:26:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015989681855594956"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1902175697835323395",
+          "start": 0,
+          "username": "fufumiaoQxQ_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015989681855594956",
+    "in_reply_to_user_id": "1902175697835323395",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015952372464549992",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fufumiaoQxQ_ 谢谢你喵！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 282,
+        "media_key": "16_2015952355951611904",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/G_oZ_JybkAADRyJ.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/G_oZ_JybkAADRyJ.mp4"
+          }
+        ],
+        "width": 498
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2015699539458674817",
+        "created_at": "2026-01-27T03:26:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T04:26:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015989681855594956"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1902175697835323395",
+              "start": 0,
+              "username": "fufumiaoQxQ_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015989681855594956",
+        "in_reply_to_user_id": "1902175697835323395",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015952372464549992",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fufumiaoQxQ_ 谢谢你喵！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2015952355951611904"
+          ]
+        },
+        "author_id": "1902175697835323395",
+        "conversation_id": "2015699539458674817",
+        "created_at": "2026-01-27T00:57:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T01:57:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015952372464549992"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992038421318205440",
+              "start": 0,
+              "username": "tingxinzhongyu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/o8haEwxdU5",
+              "end": 45,
+              "expanded_url": "https://x.com/fufumiaoQxQ_/status/2015952372464549992/photo/1",
+              "media_key": "16_2015952355951611904",
+              "start": 22,
+              "url": "https://t.co/o8haEwxdU5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015952372464549992",
+        "in_reply_to_user_id": "1992038421318205440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015699539458674817",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tingxinzhongyu 抱抱你！！ https://t.co/o8haEwxdU5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02/mtf 我只想要很多很多的爱 hrt 2025.11🍥/欢迎聊天互fo",
+        "id": "1992038421318205440",
+        "name": "听羽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992039552731725825/3Uy_y4UJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 150,
+          "like_count": 606,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 358
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-19T01:50:20.000Z",
+        "description": "这里是甜甜的fufu喵！最神奇的喵喵！\n目前是未成年的喵…身体小小只又大大只的qvq\n已经有爱我和我爱的人啦 在这里哦@miao_cha_QvQ 想要聊天或者问问题可以直接私信我喵！喵喵喵！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 59,
+                "username": "miao_cha_QvQ"
+              }
+            ]
+          }
+        },
+        "id": "1902175697835323395",
+        "name": "fuefuemiao🍯",
+        "pinned_tweet_id": "1992608366364131772",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925731477334941696/qx6f6wA0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 91,
+          "like_count": 2495,
+          "listed_count": 0,
+          "media_count": 258,
+          "tweet_count": 1403
+        },
+        "username": "fufumiaoQxQ_",
+        "verified": false
+      }
+    ]
+  }
+}

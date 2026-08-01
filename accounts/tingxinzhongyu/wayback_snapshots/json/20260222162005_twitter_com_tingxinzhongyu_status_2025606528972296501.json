@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2025604652461588819",
+    "created_at": "2026-02-22T16:20:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T17:20:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025606528972296501"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2012914101987762177",
+          "start": 0,
+          "username": "TeamTransmtf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025606528972296501",
+    "in_reply_to_user_id": "2012914101987762177",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025604652461588819",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TeamTransmtf woc竟然看到了学过的东西🥹\n大佬就是这样会运用吗😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 415,
+        "media_key": "3_2025604644244996096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBxksRuawAAvP1E.jpg",
+        "width": 750
+      },
+      {
+        "height": 924,
+        "media_key": "3_2025604644173729792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBxksRdbUAAT5Hz.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2025604652461588819",
+        "created_at": "2026-02-22T16:20:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T17:20:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025606528972296501"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2012914101987762177",
+              "start": 0,
+              "username": "TeamTransmtf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025606528972296501",
+        "in_reply_to_user_id": "2012914101987762177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025604652461588819",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TeamTransmtf woc竟然看到了学过的东西🥹\n大佬就是这样会运用吗😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025604644244996096",
+            "3_2025604644173729792"
+          ]
+        },
+        "author_id": "2012914101987762177",
+        "conversation_id": "2025604652461588819",
+        "created_at": "2026-02-22T16:12:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T17:12:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025604652461588819"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JpaiIX82BO",
+              "end": 160,
+              "expanded_url": "https://x.com/TeamTransmtf/status/2025604652461588819/photo/1",
+              "media_key": "3_2025604644244996096",
+              "start": 137,
+              "url": "https://t.co/JpaiIX82BO"
+            },
+            {
+              "display_url": "pic.x.com/JpaiIX82BO",
+              "end": 160,
+              "expanded_url": "https://x.com/TeamTransmtf/status/2025604652461588819/photo/1",
+              "media_key": "3_2025604644173729792",
+              "start": 137,
+              "url": "https://t.co/JpaiIX82BO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025604652461588819",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我们给HRT-Trackrt配备了个体化学习模型，让它更精准预测\n根据你每次的使用动态调整，借用“知识追踪”和“贝叶斯更新”，进行越多的校准，估测越准确\n我们建议至少在给药前及峰谷值浓度区各去医院检测一次获得更准确的测算\n功能仍在测试中（我没真实数据🥹），有问题随时反馈哦 https://t.co/JpaiIX82BO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02 176 65kg//mtf hrt 2025.11.21-2026.2.13🍥//我想要很多很多的爱 欢迎聊天互fo 永远的可爱姐姐@jikeOjk7623 // @HappyHejsDay的兵！//超温柔妹妹@sophhhsama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 69,
+                "username": "jikeOjk7623"
+              },
+              {
+                "end": 98,
+                "start": 85,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 119,
+                "start": 108,
+                "username": "sophhhsama"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023721600491925504/NLPFudYi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 478,
+          "following_count": 426,
+          "like_count": 3338,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 1815
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-18T15:45:10.000Z",
+        "description": "transmtf官方团队账号",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "transmtf.com",
+                "end": 23,
+                "expanded_url": "https://www.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/MDakkR20rn"
+              }
+            ]
+          }
+        },
+        "id": "2012914101987762177",
+        "name": "Team Transmtf",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025586370111287296/QzZE8mTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 9,
+          "like_count": 36,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 6
+        },
+        "url": "https://t.co/MDakkR20rn",
+        "username": "TeamTransmtf",
+        "verified": false
+      }
+    ]
+  }
+}

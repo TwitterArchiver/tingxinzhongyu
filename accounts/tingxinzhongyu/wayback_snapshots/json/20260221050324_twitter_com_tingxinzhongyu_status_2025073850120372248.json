@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2025073850120372248",
+    "created_at": "2026-02-21T05:03:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T06:03:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025073850120372248"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lovelyshuimao/…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/lovelyshuimao/status/2024831879359434983",
+          "start": 9,
+          "url": "https://t.co/gC4yc1gFz6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025073850120372248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024831879359434983",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "妈妈我要学这个！ https://t.co/gC4yc1gFz6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2024831872208080896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBml3BjaEAAUeAv.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2025073850120372248",
+        "created_at": "2026-02-21T05:03:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T06:03:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025073850120372248"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lovelyshuimao/…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/lovelyshuimao/status/2024831879359434983",
+              "start": 9,
+              "url": "https://t.co/gC4yc1gFz6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025073850120372248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024831879359434983",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "妈妈我要学这个！ https://t.co/gC4yc1gFz6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024831872208080896"
+          ]
+        },
+        "author_id": "1748763011140169729",
+        "conversation_id": "2024831879359434983",
+        "created_at": "2026-02-20T13:01:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T14:01:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024831879359434983"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/00NvK6WAVs",
+              "end": 31,
+              "expanded_url": "https://x.com/lovelyshuimao/status/2024831879359434983/photo/1",
+              "media_key": "3_2024831872208080896",
+              "start": 8,
+              "url": "https://t.co/00NvK6WAVs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024831879359434983",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 52,
+          "impression_count": 44586,
+          "like_count": 716,
+          "quote_count": 2,
+          "reply_count": 13,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "多读书\n读好书 https://t.co/00NvK6WAVs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02 176 65kg//mtf hrt 2025.11.21-2026.2.13🍥//我想要很多很多的爱 欢迎聊天互fo 永远的可爱姐姐@jikeOjk7623 // @HappyHejsDay的兵！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 69,
+                "username": "jikeOjk7623"
+              },
+              {
+                "end": 98,
+                "start": 85,
+                "username": "HappyHejsDay"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023721600491925504/NLPFudYi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 435,
+          "following_count": 417,
+          "like_count": 3159,
+          "listed_count": 1,
+          "media_count": 77,
+          "tweet_count": 1687
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "INTJ-t ｜永遠14歲｜提問↓｜❤️@saonanaa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 20,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2024429136534786207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023831074921738240/frpPaTVT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4349,
+          "following_count": 1042,
+          "like_count": 263,
+          "listed_count": 13,
+          "media_count": 2930,
+          "tweet_count": 13114
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true
+      }
+    ]
+  }
+}

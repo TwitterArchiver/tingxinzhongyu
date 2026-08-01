@@ -1,0 +1,371 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2024716025879740873",
+    "created_at": "2026-02-20T10:13:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T11:13:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024789452443537790"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1980236829455511552",
+          "start": 0,
+          "username": "PaulDrizzyvlni"
+        },
+        {
+          "end": 29,
+          "id": "2005261732751802368",
+          "start": 16,
+          "username": "HappyHejsDay"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024789452443537790",
+    "in_reply_to_user_id": "1980236829455511552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024716025879740873",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PaulDrizzyvlni @HappyHejsDay 现已加入梦中素材"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12068,
+        "height": 1278,
+        "media_key": "7_2024715994237923328",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2024715994237923328/pu/img/wf79Gzm7R-HXPh47.jpg",
+        "public_metrics": {
+          "view_count": 247
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2024715994237923328/pu/vid/avc1/320x702/ddcGmQNbqjiA1b1M.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2024715994237923328/pu/vid/avc1/480x1054/IqPNvMI5Gi8ldYG1.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2024715994237923328/pu/vid/avc1/582x1278/m9i992bB0pnVOe07.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2024715994237923328/pu/pl/JT4DX5-_zkxGVheW.m3u8?tag=12"
+          }
+        ],
+        "width": 582
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2024716025879740873",
+        "created_at": "2026-02-20T10:13:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T11:13:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024789452443537790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1980236829455511552",
+              "start": 0,
+              "username": "PaulDrizzyvlni"
+            },
+            {
+              "end": 29,
+              "id": "2005261732751802368",
+              "start": 16,
+              "username": "HappyHejsDay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024789452443537790",
+        "in_reply_to_user_id": "1980236829455511552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024716025879740873",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PaulDrizzyvlni @HappyHejsDay 现已加入梦中素材"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2024715994237923328"
+          ]
+        },
+        "author_id": "1980236829455511552",
+        "conversation_id": "2024716025879740873",
+        "created_at": "2026-02-20T05:21:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T06:21:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024716025879740873"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rT8dl18wEd",
+              "end": 36,
+              "expanded_url": "https://x.com/PaulDrizzyvlni/status/2024716025879740873/video/1",
+              "media_key": "7_2024715994237923328",
+              "start": 13,
+              "url": "https://t.co/rT8dl18wEd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024716025879740873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1186,
+          "like_count": 25,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "已学会hej同款叫声（） https://t.co/rT8dl18wEd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02 176 65kg//mtf hrt 2025.11.21-2026.2.13🍥//我想要很多很多的爱 欢迎聊天互fo 永远的可爱姐姐@jikeOjk7623",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 69,
+                "username": "jikeOjk7623"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023721600491925504/NLPFudYi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 415,
+          "following_count": 406,
+          "like_count": 3049,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 1609
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-20T11:37:56.000Z",
+        "description": "重生日 25.11.18｜天空树｜爱发高p照仔细甄别😵‍💫|发日常|成分复杂|同类互fo|等等我是家长党了吧|好姐姐 @HappyHejsDay | 对象@shixveriya 🥰 |好可爱的妹妹@shiyaoshiwo |安卓小号 @PG13LD77",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 59,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 88,
+                "start": 77,
+                "username": "shixveriya"
+              },
+              {
+                "end": 110,
+                "start": 98,
+                "username": "shiyaoshiwo"
+              },
+              {
+                "end": 126,
+                "start": 117,
+                "username": "PG13LD77"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pauldrizzyvlni",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pauldrizzyvlni",
+                "start": 0,
+                "url": "https://t.co/MqRT8JnI3l"
+              }
+            ]
+          }
+        },
+        "id": "1980236829455511552",
+        "location": "Palmdale, California, USA",
+        "name": "happiness😣",
+        "pinned_tweet_id": "2017161495646490860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997894762838556672/_NU9ap_W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1567,
+          "following_count": 918,
+          "like_count": 4244,
+          "listed_count": 3,
+          "media_count": 231,
+          "tweet_count": 3446
+        },
+        "url": "https://t.co/MqRT8JnI3l",
+        "username": "PaulDrizzyvlni",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-28T12:57:17.000Z",
+        "description": "低脂國奻｜衰老阿姨｜滿天星｜失敗交易員｜amab｜🇹🇼🇭🇰🇨🇳｜同类互fo｜前世@franciswwwww｜寵物@Fe_ions｜寶寶窩@MoriSaSaaa @SuzukiHnnn @PaulDrizzyvlni @Suimikax @YuningTepes03 @Jskyeye @zwh20081",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 40,
+                "username": "franciswwwww"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "username": "Fe_ions"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "MoriSaSaaa"
+              },
+              {
+                "end": 91,
+                "start": 80,
+                "username": "SuzukiHnnn"
+              },
+              {
+                "end": 107,
+                "start": 92,
+                "username": "PaulDrizzyvlni"
+              },
+              {
+                "end": 117,
+                "start": 108,
+                "username": "Suimikax"
+              },
+              {
+                "end": 132,
+                "start": 118,
+                "username": "YuningTepes03"
+              },
+              {
+                "end": 141,
+                "start": 133,
+                "username": "Jskyeye"
+              },
+              {
+                "end": 151,
+                "start": 142,
+                "username": "zwh20081"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/franciswwwww",
+                "end": 23,
+                "expanded_url": "https://ngl.link/franciswwwww",
+                "start": 0,
+                "url": "https://t.co/XuuvUtx6bP"
+              }
+            ]
+          }
+        },
+        "id": "2005261732751802368",
+        "location": "In your heart",
+        "name": "𝕙𝕖𝕛😉二號機（悲傷版",
+        "pinned_tweet_id": "2021900695356813783",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021381883918155776/nRmYht_H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 645,
+          "following_count": 988,
+          "like_count": 4949,
+          "listed_count": 0,
+          "media_count": 190,
+          "tweet_count": 3002
+        },
+        "url": "https://t.co/XuuvUtx6bP",
+        "username": "HappyHejsDay",
+        "verified": true
+      }
+    ]
+  }
+}

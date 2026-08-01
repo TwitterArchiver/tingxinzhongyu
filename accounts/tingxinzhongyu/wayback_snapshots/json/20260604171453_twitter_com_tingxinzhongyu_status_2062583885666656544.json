@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062583875289915392"
+      ]
+    },
+    "author_id": "1992038421318205440",
+    "conversation_id": "2062583885666656544",
+    "created_at": "2026-06-04T17:14:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T18:14:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062583885666656544"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8wFzOcX0cE",
+          "end": 58,
+          "expanded_url": "https://x.com/tingxinzhongyu/status/2062583885666656544/photo/1",
+          "media_key": "3_2062583875289915392",
+          "start": 35,
+          "url": "https://t.co/8wFzOcX0cE"
+        },
+        {
+          "display_url": "x.com/tingxinzhongyu…",
+          "end": 82,
+          "expanded_url": "https://twitter.com/tingxinzhongyu/status/2062452148215140805",
+          "start": 59,
+          "url": "https://t.co/m4ZsRVlJVg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062583885666656544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062452148215140805",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好难过好难过 买口吃的哄哄自己 \n顺道赶紧补一下）\n希望今晚别再遗了 https://t.co/8wFzOcX0cE https://t.co/m4ZsRVlJVg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 520,
+        "media_key": "3_2062583875289915392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ_FG0YaoAAgBy3.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062583875289915392"
+          ]
+        },
+        "author_id": "1992038421318205440",
+        "conversation_id": "2062583885666656544",
+        "created_at": "2026-06-04T17:14:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T18:14:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062583885666656544"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8wFzOcX0cE",
+              "end": 58,
+              "expanded_url": "https://x.com/tingxinzhongyu/status/2062583885666656544/photo/1",
+              "media_key": "3_2062583875289915392",
+              "start": 35,
+              "url": "https://t.co/8wFzOcX0cE"
+            },
+            {
+              "display_url": "x.com/tingxinzhongyu…",
+              "end": 82,
+              "expanded_url": "https://twitter.com/tingxinzhongyu/status/2062452148215140805",
+              "start": 59,
+              "url": "https://t.co/m4ZsRVlJVg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062583885666656544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062452148215140805",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好难过好难过 买口吃的哄哄自己 \n顺道赶紧补一下）\n希望今晚别再遗了 https://t.co/8wFzOcX0cE https://t.co/m4ZsRVlJVg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2062452148215140805",
+        "created_at": "2026-06-04T08:31:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T09:31:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062452148215140805"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062452148215140805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3574,
+          "like_count": 33,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "超 为了冻精一周没奖励\n结果今早直接清空弹夹了\n要是到时候质量检测不过我可真来不及了🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "176 65kg｜mtf ｜Best friend @kanonobambi ｜ ｜hrt 2025.11.21-2026.2.13🍥｜我想要很多很多的爱｜永远的可爱姐姐@jikeOjk7623 ｜@HappyHejsDay的兵！｜超温柔妹妹@sophhhsama @axzamyzed！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "kanonobambi"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "jikeOjk7623"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 132,
+                "start": 121,
+                "username": "sophhhsama"
+              },
+              {
+                "end": 143,
+                "start": 133,
+                "username": "axzamyzed"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028106888488026112/tHHVMk_N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 799,
+          "following_count": 477,
+          "like_count": 4768,
+          "listed_count": 3,
+          "media_count": 128,
+          "tweet_count": 2855
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      }
+    ]
+  }
+}

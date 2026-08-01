@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2015699539458674817",
+    "created_at": "2026-01-26T14:21:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T15:21:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015792283300536663"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1955831159507836930",
+          "start": 0,
+          "username": "Raster_DNA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015792283300536663",
+    "in_reply_to_user_id": "1955831159507836930",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015787656807063780",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Raster_DNA 我就想赌赌老辈子不冲浪🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2015699539458674817",
+        "created_at": "2026-01-26T14:21:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T15:21:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015792283300536663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1955831159507836930",
+              "start": 0,
+              "username": "Raster_DNA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015792283300536663",
+        "in_reply_to_user_id": "1955831159507836930",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015787656807063780",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Raster_DNA 我就想赌赌老辈子不冲浪🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955831159507836930",
+        "conversation_id": "2015699539458674817",
+        "created_at": "2026-01-26T14:03:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T15:03:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015787656807063780"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992038421318205440",
+              "start": 0,
+              "username": "tingxinzhongyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015787656807063780",
+        "in_reply_to_user_id": "1992038421318205440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015786249475481925",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tingxinzhongyu mtf三件套 鲨鱼 舞萌 计算机 太明显了。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02/mtf 我只想要很多很多的爱 hrt 2025.11🍥/欢迎聊天互fo",
+        "id": "1992038421318205440",
+        "name": "听羽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992039552731725825/3Uy_y4UJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 129,
+          "like_count": 573,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 319
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-14T03:18:22.000Z",
+        "description": "她不叫小安宝，她叫阿蒂利奥！",
+        "id": "1955831159507836930",
+        "location": "撒丁帝国",
+        "name": "Attilio Regolo",
+        "pinned_tweet_id": "2013547680291790868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997110317843976192/7b7vqEYq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 125,
+          "like_count": 9774,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 1217
+        },
+        "username": "Raster_DNA",
+        "verified": false
+      }
+    ]
+  }
+}

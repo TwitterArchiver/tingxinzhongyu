@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2023251329934934523",
+    "created_at": "2026-02-16T04:23:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T05:23:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023251910694953297"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1926745526164197376",
+          "start": 0,
+          "username": "kanonobambi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023251910694953297",
+    "in_reply_to_user_id": "1926745526164197376",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023251736941773179",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kanonobambi 诶嘿嘿嘿😈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2023251329934934523",
+        "created_at": "2026-02-16T04:23:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T05:23:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023251910694953297"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1926745526164197376",
+              "start": 0,
+              "username": "kanonobambi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023251910694953297",
+        "in_reply_to_user_id": "1926745526164197376",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023251736941773179",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kanonobambi 诶嘿嘿嘿😈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926745526164197376",
+        "conversation_id": "2023251329934934523",
+        "created_at": "2026-02-16T04:22:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T05:22:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023251736941773179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992038421318205440",
+              "start": 0,
+              "username": "tingxinzhongyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023251736941773179",
+        "in_reply_to_user_id": "1992038421318205440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023251329934934523",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tingxinzhongyu 我接接接"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02 176 65kg//mtf hrt 2025.11.21🍥//我想要很多很多的爱 欢迎聊天互fo 永远的可爱姐姐@jikeOjk7623",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 59,
+                "username": "jikeOjk7623"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992039552731725825/3Uy_y4UJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 367,
+          "like_count": 2560,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 1314
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-25T21:01:54.000Z",
+        "description": "神様、私だけの幸せは本当に訪れるのでしょうか？",
+        "id": "1926745526164197376",
+        "location": "Singapore",
+        "name": "Kano R",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968439006062059520/MuGKehjL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 71,
+          "like_count": 108,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 82
+        },
+        "username": "kanonobambi",
+        "verified": false
+      }
+    ]
+  }
+}

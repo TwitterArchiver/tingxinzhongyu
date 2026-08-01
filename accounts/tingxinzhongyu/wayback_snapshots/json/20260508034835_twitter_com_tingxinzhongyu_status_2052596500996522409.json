@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2052059125413220707",
+    "created_at": "2026-05-08T03:48:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T04:48:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052596500996522409"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1740708998524141568",
+          "start": 0,
+          "username": "gaga860166912"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052596500996522409",
+    "in_reply_to_user_id": "1740708998524141568",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052274633181970908",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gaga860166912 😧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2052059125413220707",
+        "created_at": "2026-05-08T03:48:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T04:48:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052596500996522409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1740708998524141568",
+              "start": 0,
+              "username": "gaga860166912"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052596500996522409",
+        "in_reply_to_user_id": "1740708998524141568",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052274633181970908",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gaga860166912 😧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1740708998524141568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Exercise and fitness",
+              "id": "847872878041219072",
+              "name": "Fitness"
+            }
+          },
+          {
+            "domain": {
+              "description": "for types of exercises& fitness and moves, e.g., yoga, crunches, squats ",
+              "id": "162",
+              "name": "Exercise & fitness"
+            },
+            "entity": {
+              "description": "Exercises",
+              "id": "872554146750017536",
+              "name": "Exercises"
+            }
+          }
+        ],
+        "conversation_id": "2052059125413220707",
+        "created_at": "2026-05-07T06:29:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T07:29:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052274633181970908"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992038421318205440",
+              "start": 0,
+              "username": "tingxinzhongyu"
+            }
+          ],
+          "urls": [
+            {
+              "description": "#discipline, #hardwork, #struggle, #紀律, #勤力, #自由, #目標,#运动与大脑, #提升记忆力, #心理健康, #科学健身, #大脑健康, #抗焦虑, #神经科学, #运动改变大脑, #情绪管理, #健脑运动",
+              "display_url": "youtube.com/shorts/bFyuHIA…",
+              "end": 71,
+              "expanded_url": "https://youtube.com/shorts/bFyuHIAzNxM?si=cLscFocCPVVCWFTn",
+              "start": 48,
+              "status": 200,
+              "title": "运动如何让大脑变强？提升记忆力、改善情绪的科學真相！",
+              "unwound_url": "https://www.youtube.com/shorts/bFyuHIAzNxM?si=cLscFocCPVVCWFTn",
+              "url": "https://t.co/ybq0H0mkf2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052274633181970908",
+        "in_reply_to_user_id": "1992038421318205440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052059125413220707",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tingxinzhongyu 1.放棄跨性別愚蠢敘事\n2.運動~\n\n不運動一定好不了~\n謝謝\nhttps://t.co/ybq0H0mkf2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "176 65kg｜mtf ｜Best friend @kanonobambi ｜ ｜hrt 2025.11.21-2026.2.13🍥｜我想要很多很多的爱｜永远的可爱姐姐@jikeOjk7623 ｜@HappyHejsDay的兵！｜超温柔妹妹@sophhhsama @axzamyzed！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "kanonobambi"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "jikeOjk7623"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 132,
+                "start": 121,
+                "username": "sophhhsama"
+              },
+              {
+                "end": 143,
+                "start": 133,
+                "username": "axzamyzed"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028106888488026112/tHHVMk_N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 718,
+          "following_count": 466,
+          "like_count": 4623,
+          "listed_count": 3,
+          "media_count": 120,
+          "tweet_count": 2715
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-29T12:19:14.000Z",
+        "description": "",
+        "id": "1740708998524141568",
+        "name": "gaga",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1740709058074779648/ROSy_bLV_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 13,
+          "like_count": 20,
+          "listed_count": 1,
+          "media_count": 453,
+          "tweet_count": 5466
+        },
+        "username": "gaga860166912",
+        "verified": false
+      }
+    ]
+  }
+}

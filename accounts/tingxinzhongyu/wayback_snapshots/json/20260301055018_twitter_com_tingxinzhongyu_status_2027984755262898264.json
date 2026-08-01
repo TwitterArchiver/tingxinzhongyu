@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2027853717417169048",
+    "created_at": "2026-03-01T05:50:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T06:50:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027984755262898264"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1597105235516076033",
+          "start": 0,
+          "username": "TamikoTomorika"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027984755262898264",
+    "in_reply_to_user_id": "1597105235516076033",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027853717417169048",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TamikoTomorika 抱抱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2027853706931421184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCRiM9IbQAAPpze.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2027853706935603200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCRiM9JbEAAxKUL.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2027853717417169048",
+        "created_at": "2026-03-01T05:50:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T06:50:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027984755262898264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1597105235516076033",
+              "start": 0,
+              "username": "TamikoTomorika"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027984755262898264",
+        "in_reply_to_user_id": "1597105235516076033",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027853717417169048",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TamikoTomorika 抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027853706931421184",
+            "3_2027853706935603200"
+          ]
+        },
+        "author_id": "1597105235516076033",
+        "conversation_id": "2027853717417169048",
+        "created_at": "2026-02-28T21:09:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T22:09:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027853717417169048"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/thCiMVMmMF",
+              "end": 84,
+              "expanded_url": "https://x.com/TamikoTomorika/status/2027853717417169048/photo/1",
+              "media_key": "3_2027853706931421184",
+              "start": 61,
+              "url": "https://t.co/thCiMVMmMF"
+            },
+            {
+              "display_url": "pic.x.com/thCiMVMmMF",
+              "end": 84,
+              "expanded_url": "https://x.com/TamikoTomorika/status/2027853717417169048/photo/1",
+              "media_key": "3_2027853706935603200",
+              "start": 61,
+              "url": "https://t.co/thCiMVMmMF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027853717417169048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 280,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "妈的 抑郁躯体化疯狂干呕呕到室速。。（不是室上速啊！！是VT...这是真的没供血啊！）两秒钟昏厥差点死了（真的差点死了） https://t.co/thCiMVMmMF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02 176 65kg//mtf hrt 2025.11.21-2026.2.13🍥//我想要很多很多的爱 欢迎聊天互fo 永远的可爱姐姐@jikeOjk7623 // @HappyHejsDay的兵！//超温柔妹妹@sophhhsama @axzamyzed！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 69,
+                "username": "jikeOjk7623"
+              },
+              {
+                "end": 98,
+                "start": 85,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 119,
+                "start": 108,
+                "username": "sophhhsama"
+              },
+              {
+                "end": 130,
+                "start": 120,
+                "username": "axzamyzed"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023721600491925504/NLPFudYi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 558,
+          "following_count": 450,
+          "like_count": 4040,
+          "listed_count": 2,
+          "media_count": 97,
+          "tweet_count": 2280
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T05:49:01.000Z",
+        "description": "紗名章魚。死に暇もなく。@KazetaniCreature @ura_samuko 16齡 最愛 ♡ 🍊@toukorina 🍄 ✈️@Aokigawa8964 最愛的親妹妹小糯雲🐙☁️@glutinouscloud 🐙🍨@YekaseSuiso2022 . AutisticDHD. 幼兒退行。吃野生菌🍄！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 12,
+                "username": "KazetaniCreature"
+              },
+              {
+                "end": 41,
+                "start": 30,
+                "username": "ura_samuko"
+              },
+              {
+                "end": 62,
+                "start": 52,
+                "username": "toukorina"
+              },
+              {
+                "end": 80,
+                "start": 67,
+                "username": "Aokigawa8964"
+              },
+              {
+                "end": 108,
+                "start": 93,
+                "username": "glutinouscloud"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "YekaseSuiso2022"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tako.sanae.homes",
+                "end": 23,
+                "expanded_url": "http://tako.sanae.homes",
+                "start": 0,
+                "url": "https://t.co/uZF1kL9uXQ"
+              }
+            ]
+          }
+        },
+        "id": "1597105235516076033",
+        "location": "静岡県浜松市立広沢小学校",
+        "name": "たみこ",
+        "pinned_tweet_id": "1883250378118205743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993035110124601347/ioDH4y1T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 605,
+          "following_count": 3210,
+          "like_count": 23773,
+          "listed_count": 0,
+          "media_count": 1317,
+          "tweet_count": 8898
+        },
+        "url": "https://t.co/uZF1kL9uXQ",
+        "username": "TamikoTomorika",
+        "verified": false
+      }
+    ]
+  }
+}

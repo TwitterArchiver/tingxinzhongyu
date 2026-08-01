@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2008261174887150063",
+    "created_at": "2026-01-05T19:35:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-05T20:35:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2008261174887150063"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2008261174887150063",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这下作息彻底乱了，昨天好兄弟有事忙去了，我9点就困得不太有人形，在舍友打游戏的声音下硬是开睡了，以为至少能睡到5，6点（甚至想借此去医院测六项），结果现在醒来啥事干不了，我看是又该摄入奇妙小药片调作息了，好期待一个人住啊……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2008261174887150063",
+        "created_at": "2026-01-05T19:35:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T20:35:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008261174887150063"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008261174887150063",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这下作息彻底乱了，昨天好兄弟有事忙去了，我9点就困得不太有人形，在舍友打游戏的声音下硬是开睡了，以为至少能睡到5，6点（甚至想借此去医院测六项），结果现在醒来啥事干不了，我看是又该摄入奇妙小药片调作息了，好期待一个人住啊……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02年老屁股/mtf 我只想要很多很多的爱 hrt 2025.11🍥",
+        "id": "1992038421318205440",
+        "name": "听羽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992039552731725825/3Uy_y4UJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 33,
+          "like_count": 125,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 43
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2025171205985370433",
+    "created_at": "2026-02-21T17:22:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T18:22:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025259863753044313"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1952426062811365376",
+          "start": 0,
+          "username": "SZTU_Yan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025259863753044313",
+    "in_reply_to_user_id": "1952426062811365376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025171205985370433",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SZTU_Yan 里面啥样呀？过得还好吗…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2025171197286346752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBraeV-a8AA6_Yo.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2025171205985370433",
+        "created_at": "2026-02-21T17:22:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T18:22:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025259863753044313"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1952426062811365376",
+              "start": 0,
+              "username": "SZTU_Yan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025259863753044313",
+        "in_reply_to_user_id": "1952426062811365376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025171205985370433",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SZTU_Yan 里面啥样呀？过得还好吗…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025171197286346752"
+          ]
+        },
+        "author_id": "1952426062811365376",
+        "conversation_id": "2025171205985370433",
+        "created_at": "2026-02-21T11:30:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T12:30:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025171205985370433"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IxuaF3iTwv",
+              "end": 72,
+              "expanded_url": "https://x.com/SZTU_Yan/status/2025171205985370433/photo/1",
+              "media_key": "3_2025171197286346752",
+              "start": 49,
+              "url": "https://t.co/IxuaF3iTwv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025171205985370433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "重启HRT）  去年11月被我爸以检查为理由，把我骗到精卫办理了住院，住了三个月才接我回来过年。 https://t.co/IxuaF3iTwv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02 176 65kg//mtf hrt 2025.11.21-2026.2.13🍥//我想要很多很多的爱 欢迎聊天互fo 永远的可爱姐姐@jikeOjk7623 // @HappyHejsDay的兵！//超温柔妹妹@sophhhsama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 69,
+                "username": "jikeOjk7623"
+              },
+              {
+                "end": 98,
+                "start": 85,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 119,
+                "start": 108,
+                "username": "sophhhsama"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023721600491925504/NLPFudYi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 455,
+          "following_count": 421,
+          "like_count": 3226,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 1735
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-04T17:47:14.000Z",
+        "description": "无证含糖",
+        "id": "1952426062811365376",
+        "location": "廣東",
+        "name": "枫与叶🍥 🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024160219547484160/1WiFpvv3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 164,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 14
+        },
+        "username": "SZTU_Yan",
+        "verified": false
+      }
+    ]
+  }
+}

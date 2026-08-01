@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2081380918078722289",
+    "created_at": "2026-07-26T14:07:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T15:07:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081380918078722289"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cyberkanjousen…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/cyberkanjousen/status/2080916054751257084",
+          "start": 20,
+          "url": "https://t.co/Ao0SImSqcd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081380918078722289",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080916054751257084",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我笑死了\n即使不是纯正二次元也秒懂（） https://t.co/Ao0SImSqcd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1480,
+        "media_key": "3_2080916046639460352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HODmHoda8AAZVne.jpg",
+        "width": 1032
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2081380918078722289",
+        "created_at": "2026-07-26T14:07:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T15:07:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081380918078722289"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cyberkanjousen…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/cyberkanjousen/status/2080916054751257084",
+              "start": 20,
+              "url": "https://t.co/Ao0SImSqcd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081380918078722289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080916054751257084",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我笑死了\n即使不是纯正二次元也秒懂（） https://t.co/Ao0SImSqcd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080916046639460352"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2080916054751257084",
+        "created_at": "2026-07-25T07:20:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T08:20:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080916054751257084"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/epX2vbYa3Q",
+              "end": 49,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2080916054751257084/photo/1",
+              "media_key": "3_2080916046639460352",
+              "start": 26,
+              "url": "https://t.co/epX2vbYa3Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080916054751257084",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 112,
+          "impression_count": 566503,
+          "like_count": 1290,
+          "quote_count": 10,
+          "reply_count": 299,
+          "retweet_count": 45
+        },
+        "reply_settings": "everyone",
+        "text": "邓博士，你介意把你真正的鼠标垫掏出来给我们看看嘛😈 https://t.co/epX2vbYa3Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "176 65kg｜mtf ｜Best friend @kanonobambi ｜ ｜hrt 2025.11.21-2026.2.13🍥｜我想要很多很多的爱｜永远的可爱姐姐@jikeOjk7623 ｜@HappyHejsDay的兵！｜超温柔妹妹@sophhhsama @axzamyzed！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "kanonobambi"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "jikeOjk7623"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 132,
+                "start": 121,
+                "username": "sophhhsama"
+              },
+              {
+                "end": 143,
+                "start": 133,
+                "username": "axzamyzed"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028106888488026112/tHHVMk_N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 992,
+          "following_count": 490,
+          "like_count": 4948,
+          "listed_count": 3,
+          "media_count": 139,
+          "tweet_count": 3019
+        },
+        "url": "",
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 部分推文发自 @yameta_www\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "yameta_www"
+              },
+              {
+                "end": 91,
+                "start": 76,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 119,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 96,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12101,
+          "following_count": 881,
+          "like_count": 31734,
+          "listed_count": 20,
+          "media_count": 2259,
+          "tweet_count": 11070
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

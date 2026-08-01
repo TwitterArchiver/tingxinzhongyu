@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2067112392606241074",
+    "created_at": "2026-06-17T16:55:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T17:55:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067290093220778265"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1554696046021730305",
+          "start": 0,
+          "username": "Pyuyi233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067290093220778265",
+    "in_reply_to_user_id": "1554696046021730305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067112392606241074",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Pyuyi233 哇去 也太强"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 847,
+        "media_key": "3_2067112137399676929",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK_biXSbMAEjBEP.png",
+        "width": 614
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2067112392606241074",
+        "created_at": "2026-06-17T16:55:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T17:55:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067290093220778265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1554696046021730305",
+              "start": 0,
+              "username": "Pyuyi233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067290093220778265",
+        "in_reply_to_user_id": "1554696046021730305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067112392606241074",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pyuyi233 哇去 也太强"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067112137399676929"
+          ]
+        },
+        "author_id": "1554696046021730305",
+        "conversation_id": "2067112392606241074",
+        "created_at": "2026-06-17T05:09:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T06:08:35.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067112145800888430",
+          "2067112342475980950",
+          "2067112392606241074"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "We study horizon-uniform local branches of finite-horizon discrete-time Pontryagin boundary value systems after smooth control elimination. The central input is a two-point endpoint inverse for...",
+              "display_url": "arxiv.org/abs/2606.17762",
+              "end": 94,
+              "expanded_url": "https://arxiv.org/abs/2606.17762",
+              "images": [
+                {
+                  "height": 1000,
+                  "url": "https://pbs.twimg.com/news_img/2067112344434757633/VNZALEr-?format=jpg&name=orig",
+                  "width": 1000
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2067112344434757633/VNZALEr-?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 71,
+              "status": 200,
+              "title": "Symplectic Transversality and Endpoint Green Estimates for...",
+              "unwound_url": "https://arxiv.org/abs/2606.17762",
+              "url": "https://t.co/TlFxoPOiOu"
+            },
+            {
+              "display_url": "pic.x.com/sQ2fe7BaCr",
+              "end": 294,
+              "expanded_url": "https://x.com/Pyuyi233/status/2067112392606241074/photo/1",
+              "media_key": "3_2067112137399676929",
+              "start": 271,
+              "url": "https://t.co/sQ2fe7BaCr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067112392606241074",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "arxiv.org/abs/2606.17762",
+                "end": 94,
+                "expanded_url": "https://arxiv.org/abs/2606.17762",
+                "start": 71,
+                "url": "https://t.co/QOYdAdTLFg"
+              }
+            ]
+          },
+          "text": "Hi everyone! Excited to share some work from the past half year (≧∇≦)/\nhttps://t.co/QOYdAdTLFg\n\nThis is my first time splitting one idea into two papers. The companion paper, limited by re(G)sour(P)ce(U) constraints  — will come out a little later ╥﹏╥\n\nIn this paper, we study finite-horizon discrete-time Pontryagin boundary value systems and ask a simple but delicate question: can we obtain estimates that remain stable as the horizon grows?\n\nMore precisely, we prove horizon-uniform control of the linearized inverse, nonlinear local branches, and endpoint sensitivities. The key mechanism is scaled stable–unstable transversality, which leads to endpoint-corrected Green estimates. Together with weighted contraction arguments, this gives existence, uniqueness, Lipschitz dependence, and first-order expansions with constants independent of the horizon. We also give checkable symplectic, Riccati, and LQ criteria, including for genuinely coupled linear-quadratic systems.\n\nConceptually, this paper is the mathematical companion to our frozen-language-model prompting / NMI work. The NMI paper uses smooth-control identities as a fail-closed diagnostic framework for frozen LMs; this paper develops the finite-horizon Pontryagin theory that explains when such control structures have rigorous, horizon-uniform support.\n\nOur hope is that this helps turn “trajectory structure” in dynamic prompting from a useful heuristic into something more computable, verifiable, and mathematically auditable."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2688,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Hi everyone! Excited to share some work from the past half year (≧∇≦)/\nhttps://t.co/TlFxoPOiOu\n\nThis is my first time splitting one idea into two papers. The companion paper, limited by re(G)sour(P)ce(U) constraints  — will come out a little later ╥﹏╥\n\nIn this paper, we https://t.co/sQ2fe7BaCr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "176 65kg｜mtf ｜Best friend @kanonobambi ｜ ｜hrt 2025.11.21-2026.2.13🍥｜我想要很多很多的爱｜永远的可爱姐姐@jikeOjk7623 ｜@HappyHejsDay的兵！｜超温柔妹妹@sophhhsama @axzamyzed！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "kanonobambi"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "jikeOjk7623"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 132,
+                "start": 121,
+                "username": "sophhhsama"
+              },
+              {
+                "end": 143,
+                "start": 133,
+                "username": "axzamyzed"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028106888488026112/tHHVMk_N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 920,
+          "following_count": 485,
+          "like_count": 4892,
+          "listed_count": 3,
+          "media_count": 133,
+          "tweet_count": 2943
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-03T05:10:13.000Z",
+        "description": "可以叫我mmm(Pyuyi)，INFJ\n\nmath\nAI Interpretability\nCybersecurity\n\n红薯：https://t.co/y6JigVtyfe",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "xhslink.com/m/4magpdT",
+                "end": 87,
+                "expanded_url": "https://xhslink.com/m/4magpdT",
+                "start": 64,
+                "url": "https://t.co/y6JigVtyfe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/VeraPyuyi",
+                "end": 23,
+                "expanded_url": "https://github.com/VeraPyuyi",
+                "start": 0,
+                "url": "https://t.co/vZgYQSg5hB"
+              }
+            ]
+          }
+        },
+        "id": "1554696046021730305",
+        "location": "卡冈图雅",
+        "name": "Pyuyi",
+        "pinned_tweet_id": "2065675267646108047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060548602880221185/XP4emOUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 531,
+          "following_count": 63,
+          "like_count": 211,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 191
+        },
+        "url": "https://t.co/vZgYQSg5hB",
+        "username": "Pyuyi233",
+        "verified": true
+      }
+    ]
+  }
+}

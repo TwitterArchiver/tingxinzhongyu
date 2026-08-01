@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2020789680061763584"
+      ]
+    },
+    "author_id": "1992038421318205440",
+    "conversation_id": "2020788139908841735",
+    "created_at": "2026-02-09T09:19:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T10:19:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020789688814985380"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wgOMDm4fq3",
+          "end": 58,
+          "expanded_url": "https://x.com/tingxinzhongyu/status/2020789688814985380/photo/1",
+          "media_key": "3_2020789680061763584",
+          "start": 35,
+          "url": "https://t.co/wgOMDm4fq3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020789688814985380",
+    "in_reply_to_user_id": "1992038421318205440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020788139908841735",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "悲😭下意识已经点到female了还是改回来了（忽略我选的other） https://t.co/wgOMDm4fq3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 87,
+        "media_key": "3_2020789680061763584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAtJgeXbUAAVsvA.jpg",
+        "width": 104
+      },
+      {
+        "height": 282,
+        "media_key": "3_2020788126126616576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAtIGBgasAAm0i0.jpg",
+        "width": 100
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020789680061763584"
+          ]
+        },
+        "author_id": "1992038421318205440",
+        "conversation_id": "2020788139908841735",
+        "created_at": "2026-02-09T09:19:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T10:19:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020789688814985380"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wgOMDm4fq3",
+              "end": 58,
+              "expanded_url": "https://x.com/tingxinzhongyu/status/2020789688814985380/photo/1",
+              "media_key": "3_2020789680061763584",
+              "start": 35,
+              "url": "https://t.co/wgOMDm4fq3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020789688814985380",
+        "in_reply_to_user_id": "1992038421318205440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020788139908841735",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "悲😭下意识已经点到female了还是改回来了（忽略我选的other） https://t.co/wgOMDm4fq3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020788126126616576"
+          ]
+        },
+        "author_id": "1992038421318205440",
+        "conversation_id": "2020788139908841735",
+        "created_at": "2026-02-09T09:13:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T10:13:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020788139908841735"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WJFLKlZhsP",
+              "end": 51,
+              "expanded_url": "https://x.com/tingxinzhongyu/status/2020788139908841735/photo/1",
+              "media_key": "3_2020788126126616576",
+              "start": 28,
+              "url": "https://t.co/WJFLKlZhsP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020788139908841735",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁又能懂第一时间挪到Miss，然后无奈选到Mr的遗憾呢 https://t.co/WJFLKlZhsP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02 176 65kg//mtf hrt 2025.11.21🍥//我想要很多很多的爱 欢迎聊天互fo 永远的可爱姐姐@jikeOjk7623",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 59,
+                "username": "jikeOjk7623"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992039552731725825/3Uy_y4UJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 277,
+          "like_count": 1592,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 821
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      }
+    ]
+  }
+}

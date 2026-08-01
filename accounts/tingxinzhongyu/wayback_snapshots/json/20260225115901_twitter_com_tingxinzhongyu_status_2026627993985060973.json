@@ -1,0 +1,114 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2026627993985060973",
+    "created_at": "2026-02-25T11:59:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T12:59:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026627993985060973"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2026627993985060973",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "听羽以为姨丈是好姨丈\n因为他跟我喝酒 教我看世界\n没想到这次坦白了抽过烟的事情\n他跟我抽了两支烟\n今晚表弟跟我说他就给我卖了\n外婆估计要跟我妈八百里加急了\n我妈估计会想杀了我\n\n傻呗听羽准备逃跑了 \n没想到不是因为补佳乐而是因为宽窄吗？\n可是，我又能去哪呢？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2026627993985060973",
+        "created_at": "2026-02-25T11:59:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T12:59:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026627993985060973"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026627993985060973",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "听羽以为姨丈是好姨丈\n因为他跟我喝酒 教我看世界\n没想到这次坦白了抽过烟的事情\n他跟我抽了两支烟\n今晚表弟跟我说他就给我卖了\n外婆估计要跟我妈八百里加急了\n我妈估计会想杀了我\n\n傻呗听羽准备逃跑了 \n没想到不是因为补佳乐而是因为宽窄吗？\n可是，我又能去哪呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02 176 65kg//mtf hrt 2025.11.21-2026.2.13🍥//我想要很多很多的爱 欢迎聊天互fo 永远的可爱姐姐@jikeOjk7623 // @HappyHejsDay的兵！//超温柔妹妹@sophhhsama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 69,
+                "username": "jikeOjk7623"
+              },
+              {
+                "end": 98,
+                "start": 85,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 119,
+                "start": 108,
+                "username": "sophhhsama"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023721600491925504/NLPFudYi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 442,
+          "like_count": 3732,
+          "listed_count": 2,
+          "media_count": 90,
+          "tweet_count": 2083
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      }
+    ]
+  }
+}

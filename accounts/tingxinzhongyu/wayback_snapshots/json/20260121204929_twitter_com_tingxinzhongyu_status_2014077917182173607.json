@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2013914240935997885",
+    "created_at": "2026-01-21T20:49:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T21:49:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014077917182173607"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1517863073289498625",
+          "start": 0,
+          "username": "ZPsT71C"
+        },
+        {
+          "end": 19,
+          "id": "1378376814389694468",
+          "start": 9,
+          "username": "PieP_2000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014077917182173607",
+    "in_reply_to_user_id": "1517863073289498625",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014075799662375126",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZPsT71C @PieP_2000 还真是，我其实想说的是哪怕是含服都容易伤害很大hhh，没表达清楚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2013914240935997885",
+        "created_at": "2026-01-21T20:49:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T21:49:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014077917182173607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1517863073289498625",
+              "start": 0,
+              "username": "ZPsT71C"
+            },
+            {
+              "end": 19,
+              "id": "1378376814389694468",
+              "start": 9,
+              "username": "PieP_2000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014077917182173607",
+        "in_reply_to_user_id": "1517863073289498625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014075799662375126",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZPsT71C @PieP_2000 还真是，我其实想说的是哪怕是含服都容易伤害很大hhh，没表达清楚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1517863073289498625",
+        "conversation_id": "2013914240935997885",
+        "created_at": "2026-01-21T20:41:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T21:41:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014075799662375126"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992038421318205440",
+              "start": 0,
+              "username": "tingxinzhongyu"
+            },
+            {
+              "end": 26,
+              "id": "1378376814389694468",
+              "start": 16,
+              "username": "PieP_2000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014075799662375126",
+        "in_reply_to_user_id": "1992038421318205440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014005741636751494",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tingxinzhongyu @PieP_2000 不是口服伤害大写吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02年老屁股/mtf 我只想要很多很多的爱 hrt 2025.11🍥",
+        "id": "1992038421318205440",
+        "name": "听羽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992039552731725825/3Uy_y4UJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 81,
+          "like_count": 350,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 174
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-23T13:49:11.000Z",
+        "description": "",
+        "id": "1517863073289498625",
+        "location": "重庆",
+        "name": "18cm",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013967284591886336/kMr3iwDo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 314,
+          "like_count": 566,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 25
+        },
+        "username": "ZPsT71C",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-03T16:00:47.000Z",
+        "description": "She/They",
+        "id": "1378376814389694468",
+        "name": "β Cygni🍉",
+        "pinned_tweet_id": "2013631550798340553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005032666614337536/u3XdbCBk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 661,
+          "following_count": 7427,
+          "like_count": 137731,
+          "listed_count": 3,
+          "media_count": 689,
+          "tweet_count": 22382
+        },
+        "username": "PieP_2000",
+        "verified": false
+      }
+    ]
+  }
+}

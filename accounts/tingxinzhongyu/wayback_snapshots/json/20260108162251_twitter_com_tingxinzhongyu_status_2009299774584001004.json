@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2009022306509820334",
+    "created_at": "2026-01-08T16:22:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T17:22:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009299774584001004"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1565591413282476033",
+          "start": 0,
+          "username": "sakanadesu0449"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009299774584001004",
+    "in_reply_to_user_id": "1565591413282476033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009022306509820334",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sakanadesu0449 好像对我不太会，我只会变得有点容易生气，最泼妇的一集"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2009022306509820334",
+        "created_at": "2026-01-08T16:22:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T17:22:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009299774584001004"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1565591413282476033",
+              "start": 0,
+              "username": "sakanadesu0449"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009299774584001004",
+        "in_reply_to_user_id": "1565591413282476033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009022306509820334",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakanadesu0449 好像对我不太会，我只会变得有点容易生气，最泼妇的一集"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565591413282476033",
+        "conversation_id": "2009022306509820334",
+        "created_at": "2026-01-07T22:00:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T23:00:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009022306509820334"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2009022306509820334",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 977,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "HRT真能变得容易哭出来吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02年老屁股/mtf 我只想要很多很多的爱 hrt 2025.11🍥",
+        "id": "1992038421318205440",
+        "name": "听羽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992039552731725825/3Uy_y4UJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 45,
+          "like_count": 167,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 73
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-02T06:44:26.000Z",
+        "description": "誰より太陽を嫌うあたしはシーラカンス      \n比任何人都讨厌太阳的我是空棘鱼",
+        "id": "1565591413282476033",
+        "name": "魚",
+        "pinned_tweet_id": "1859245305360982293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779263333759385600/G6OBkG5X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 946,
+          "following_count": 1811,
+          "like_count": 12319,
+          "listed_count": 5,
+          "media_count": 2883,
+          "tweet_count": 21341
+        },
+        "username": "sakanadesu0449",
+        "verified": false
+      }
+    ]
+  }
+}

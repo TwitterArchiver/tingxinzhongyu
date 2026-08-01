@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2015779812913344795",
+    "created_at": "2026-01-26T13:36:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T14:36:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015780892816678984"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1862933126466666496",
+          "start": 0,
+          "username": "moremoreagain"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015780892816678984",
+    "in_reply_to_user_id": "1862933126466666496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015779812913344795",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@moremoreagain emmmm我家长也一直会批判我买这买那，我现在除了很必要的东西我都不往家里买😭没辙了，跟他们争我已经没有精力了，还是赶紧自己想办法努力赚钱好了。而且我家里都是等我缺了才给我转，所以每次要钱都会有点难……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2015779812913344795",
+        "created_at": "2026-01-26T13:36:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T14:36:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015780892816678984"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1862933126466666496",
+              "start": 0,
+              "username": "moremoreagain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015780892816678984",
+        "in_reply_to_user_id": "1862933126466666496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015779812913344795",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moremoreagain emmmm我家长也一直会批判我买这买那，我现在除了很必要的东西我都不往家里买😭没辙了，跟他们争我已经没有精力了，还是赶紧自己想办法努力赚钱好了。而且我家里都是等我缺了才给我转，所以每次要钱都会有点难……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1862933126466666496",
+        "conversation_id": "2015779812913344795",
+        "created_at": "2026-01-26T13:32:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T14:32:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015779812913344795"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tingxinzhongyu…",
+              "end": 170,
+              "expanded_url": "https://twitter.com/tingxinzhongyu/status/2015667640891756789",
+              "start": 147,
+              "url": "https://t.co/geVMtpiSJL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015779812913344795",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015667640891756789",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我家长愿意给我多少钱，我就花多少，花完了也不找他们要，而是等他们再次给我\n\n所以\n我爸妈在把钱给我的一瞬间钱就不属于他们了\n我乐意拿钱买什么我就买什么\n我不主动要钱，所以不管我买什么都不影响他们\n\n但是他们总是会批判我买的每样东西\n觉得“不值”“没用”\n\n以至于我每次买东西都会觉得自己好恶心 https://t.co/geVMtpiSJL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02/mtf 我只想要很多很多的爱 hrt 2025.11🍥/欢迎聊天互fo",
+        "id": "1992038421318205440",
+        "name": "听羽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992039552731725825/3Uy_y4UJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 128,
+          "like_count": 563,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 313
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-30T18:54:15.000Z",
+        "description": "恣狂情 薄戏谑 谁与砭",
+        "id": "1862933126466666496",
+        "name": "窥梦",
+        "pinned_tweet_id": "1968254775562321927",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936741037256404992/tkBYioIr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 847,
+          "following_count": 912,
+          "like_count": 62419,
+          "listed_count": 5,
+          "media_count": 1214,
+          "tweet_count": 28243
+        },
+        "username": "moremoreagain",
+        "verified": false
+      }
+    ]
+  }
+}

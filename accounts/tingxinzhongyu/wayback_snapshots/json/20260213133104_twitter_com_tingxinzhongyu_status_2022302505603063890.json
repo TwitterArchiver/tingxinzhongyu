@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022302494668517376"
+      ]
+    },
+    "author_id": "1992038421318205440",
+    "conversation_id": "2022302505603063890",
+    "created_at": "2026-02-13T13:31:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T14:31:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022302505603063890"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/KPdG3go9Rs",
+          "end": 165,
+          "expanded_url": "https://x.com/tingxinzhongyu/status/2022302505603063890/photo/1",
+          "media_key": "3_2022302494668517376",
+          "start": 142,
+          "url": "https://t.co/KPdG3go9Rs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022302505603063890",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在飞机上下了决心\n与其追求父母理解我是跨的奇迹\n不如就一直瞒到瞒不下去吧\n冻精说不定是目前最好的选择了\n预计三四天后就要进入反雄期咯(丢失记录欲倒计时🥹）\n\n听羽这种人最精了 到时候借着反雄的借口猛猛起飞😈\n希望那时候还能这么乐观自嘲叭\n而且\n在77天停止何尝不是一种致敬阿伟罗呢？ https://t.co/KPdG3go9Rs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1728,
+        "media_key": "3_2022302494668517376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBCpZ38acAAHsJ4.jpg",
+        "width": 1368
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022302494668517376"
+          ]
+        },
+        "author_id": "1992038421318205440",
+        "conversation_id": "2022302505603063890",
+        "created_at": "2026-02-13T13:31:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T14:31:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022302505603063890"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KPdG3go9Rs",
+              "end": 165,
+              "expanded_url": "https://x.com/tingxinzhongyu/status/2022302505603063890/photo/1",
+              "media_key": "3_2022302494668517376",
+              "start": 142,
+              "url": "https://t.co/KPdG3go9Rs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022302505603063890",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在飞机上下了决心\n与其追求父母理解我是跨的奇迹\n不如就一直瞒到瞒不下去吧\n冻精说不定是目前最好的选择了\n预计三四天后就要进入反雄期咯(丢失记录欲倒计时🥹）\n\n听羽这种人最精了 到时候借着反雄的借口猛猛起飞😈\n希望那时候还能这么乐观自嘲叭\n而且\n在77天停止何尝不是一种致敬阿伟罗呢？ https://t.co/KPdG3go9Rs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02 176 65kg//mtf hrt 2025.11.21🍥//我想要很多很多的爱 欢迎聊天互fo 永远的可爱姐姐@jikeOjk7623",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 59,
+                "username": "jikeOjk7623"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992039552731725825/3Uy_y4UJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 331,
+          "like_count": 2169,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 1101
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      }
+    ]
+  }
+}

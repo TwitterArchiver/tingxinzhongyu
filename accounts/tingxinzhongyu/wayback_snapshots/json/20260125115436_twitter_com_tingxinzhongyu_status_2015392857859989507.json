@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2014920596858274136",
+    "created_at": "2026-01-25T11:54:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T12:54:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015392857859989507"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1002930388770025472",
+          "start": 0,
+          "username": "KirishimaYuning"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015392857859989507",
+    "in_reply_to_user_id": "1002930388770025472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015390005175443883",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KirishimaYuning 就是不吃色了吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2014920596858274136",
+        "created_at": "2026-01-25T11:54:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T12:54:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015392857859989507"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1002930388770025472",
+              "start": 0,
+              "username": "KirishimaYuning"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015392857859989507",
+        "in_reply_to_user_id": "1002930388770025472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015390005175443883",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KirishimaYuning 就是不吃色了吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1002930388770025472",
+        "conversation_id": "2014920596858274136",
+        "created_at": "2026-01-25T11:43:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T12:43:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015390005175443883"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992038421318205440",
+              "start": 0,
+              "username": "tingxinzhongyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015390005175443883",
+        "in_reply_to_user_id": "1992038421318205440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015273938927161470",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tingxinzhongyu 我在继续摸凝胶吃糖中，这样心理有个安慰吧，皮肤也会好很多，改变皮下脂肪分布……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02/mtf 我只想要很多很多的爱 hrt 2025.11🍥/欢迎聊天互fo",
+        "id": "1992038421318205440",
+        "name": "听羽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992039552731725825/3Uy_y4UJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 118,
+          "like_count": 511,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 269
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2018-06-02T15:10:13.000Z",
+        "description": "",
+        "id": "1002930388770025472",
+        "name": "江宁",
+        "pinned_tweet_id": "2006508093090517447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014665507652435969/r6D0C8Xu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 430,
+          "like_count": 3763,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 713
+        },
+        "username": "KirishimaYuning",
+        "verified": false
+      }
+    ]
+  }
+}

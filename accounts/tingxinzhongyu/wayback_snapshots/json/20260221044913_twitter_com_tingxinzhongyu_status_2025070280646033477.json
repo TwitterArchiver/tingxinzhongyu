@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2025070280646033477",
+    "created_at": "2026-02-21T04:49:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T05:49:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025070280646033477"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 69,
+          "start": 53,
+          "tag": "16Personalities"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 90,
+          "id": "612476419",
+          "start": 74,
+          "username": "16Personalities"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "16personalities.com/ch/intj-",
+          "end": 50,
+          "expanded_url": "https://www.16personalities.com/ch/intj-",
+          "start": 27,
+          "status": 404,
+          "unwound_url": "https://www.16personalities.com/ch/intj-",
+          "url": "https://t.co/2bAK5oZTTe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025070280646033477",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的人格类型是架构师 (INTJ-T)。你的是什么？ https://t.co/2bAK5oZTTe人格 #16Personalities via @16Personalities\n\n是我没醒酒还是就这样\n竟然还是一样的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2025070280646033477",
+        "created_at": "2026-02-21T04:49:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T05:49:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025070280646033477"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 69,
+              "start": 53,
+              "tag": "16Personalities"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 90,
+              "id": "612476419",
+              "start": 74,
+              "username": "16Personalities"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "16personalities.com/ch/intj-",
+              "end": 50,
+              "expanded_url": "https://www.16personalities.com/ch/intj-",
+              "start": 27,
+              "status": 404,
+              "unwound_url": "https://www.16personalities.com/ch/intj-",
+              "url": "https://t.co/2bAK5oZTTe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025070280646033477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的人格类型是架构师 (INTJ-T)。你的是什么？ https://t.co/2bAK5oZTTe人格 #16Personalities via @16Personalities\n\n是我没醒酒还是就这样\n竟然还是一样的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02 176 65kg//mtf hrt 2025.11.21-2026.2.13🍥//我想要很多很多的爱 欢迎聊天互fo 永远的可爱姐姐@jikeOjk7623 // @HappyHejsDay的兵！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 69,
+                "username": "jikeOjk7623"
+              },
+              {
+                "end": 98,
+                "start": 85,
+                "username": "HappyHejsDay"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023721600491925504/NLPFudYi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 433,
+          "following_count": 415,
+          "like_count": 3153,
+          "listed_count": 1,
+          "media_count": 77,
+          "tweet_count": 1686
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2012-06-19T11:11:51.000Z",
+        "description": "https://t.co/AMS5x0ddZ3 - free personality test, type descriptions, relationship and career advice.",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "16personalities.com",
+                "end": 23,
+                "expanded_url": "http://16personalities.com",
+                "start": 0,
+                "url": "https://t.co/AMS5x0ddZ3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "16personalities.com",
+                "end": 23,
+                "expanded_url": "https://www.16personalities.com",
+                "start": 0,
+                "url": "https://t.co/FlTE6wJvTp"
+              }
+            ]
+          }
+        },
+        "id": "612476419",
+        "name": "16Personalities",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1702248698963488768/m1Pspaw0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29308,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 128,
+          "media_count": 277,
+          "tweet_count": 303
+        },
+        "url": "https://t.co/FlTE6wJvTp",
+        "username": "16Personalities",
+        "verified": true
+      }
+    ]
+  }
+}

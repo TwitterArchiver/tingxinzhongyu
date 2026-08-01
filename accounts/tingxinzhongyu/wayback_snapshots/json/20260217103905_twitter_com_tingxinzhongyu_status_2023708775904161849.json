@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2023555657782489434",
+    "created_at": "2026-02-17T10:39:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T11:39:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023708775904161849"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1101189825976303616",
+          "start": 0,
+          "username": "Ym4Fourth"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023708775904161849",
+    "in_reply_to_user_id": "1101189825976303616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023555657782489434",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ym4Fourth 又又保管上了\n全世界妈妈共用一个词"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2047,
+        "media_key": "3_2023555651704852480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBUdJNsaEAAt5VK.jpg",
+        "width": 919
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2023555657782489434",
+        "created_at": "2026-02-17T10:39:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T11:39:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023708775904161849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1101189825976303616",
+              "start": 0,
+              "username": "Ym4Fourth"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023708775904161849",
+        "in_reply_to_user_id": "1101189825976303616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023555657782489434",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ym4Fourth 又又保管上了\n全世界妈妈共用一个词"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023555651704852480"
+          ]
+        },
+        "author_id": "1101189825976303616",
+        "conversation_id": "2023555657782489434",
+        "created_at": "2026-02-17T00:30:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T01:30:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023555657782489434"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vfg46HswLv",
+              "end": 70,
+              "expanded_url": "https://x.com/Ym4Fourth/status/2023555657782489434/photo/1",
+              "media_key": "3_2023555651704852480",
+              "start": 47,
+              "url": "https://t.co/vfg46HswLv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023555657782489434",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2525,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "经典话术，我家里人从小到大有什么钱都保管（几十块不算）我在家5年的压岁钱都没有我对像家给的多 https://t.co/vfg46HswLv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02 176 65kg//mtf hrt 2025.11.21🍥//我想要很多很多的爱 欢迎聊天互fo 永远的可爱姐姐@jikeOjk7623",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 59,
+                "username": "jikeOjk7623"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992039552731725825/3Uy_y4UJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 342,
+          "following_count": 376,
+          "like_count": 2726,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 1398
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-28T18:38:08.000Z",
+        "description": "含糖，100斤/165厘米，是小念最可爱的宝宝提问箱👇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tnagxin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tnagxin",
+                "start": 0,
+                "url": "https://t.co/WIxKYpEsud"
+              }
+            ]
+          }
+        },
+        "id": "1101189825976303616",
+        "location": "距离你1000米",
+        "name": "雨梦🍥",
+        "pinned_tweet_id": "1887229891927810247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935308151785394176/7Yjx61XC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7796,
+          "following_count": 147,
+          "like_count": 879,
+          "listed_count": 20,
+          "media_count": 132,
+          "tweet_count": 499
+        },
+        "url": "https://t.co/WIxKYpEsud",
+        "username": "Ym4Fourth",
+        "verified": false
+      }
+    ]
+  }
+}

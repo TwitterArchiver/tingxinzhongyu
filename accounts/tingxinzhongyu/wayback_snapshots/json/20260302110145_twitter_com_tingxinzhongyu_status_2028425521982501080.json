@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2028320041679401334",
+    "created_at": "2026-03-02T11:01:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T12:01:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028425521982501080"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1993821037860147200",
+          "start": 0,
+          "username": "JikeOjk7623"
+        },
+        {
+          "end": 25,
+          "id": "1926745526164197376",
+          "start": 13,
+          "username": "kanonobambi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028425521982501080",
+    "in_reply_to_user_id": "1993821037860147200",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028420850488328464",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JikeOjk7623 @kanonobambi 好耶\n爱你姐姐🥰"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2028420850488328464].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2028420850488328464",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2028420850488328464"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2028320041679401334",
+        "created_at": "2026-03-02T11:01:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T12:01:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028425521982501080"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1993821037860147200",
+              "start": 0,
+              "username": "JikeOjk7623"
+            },
+            {
+              "end": 25,
+              "id": "1926745526164197376",
+              "start": 13,
+              "username": "kanonobambi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028425521982501080",
+        "in_reply_to_user_id": "1993821037860147200",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028420850488328464",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JikeOjk7623 @kanonobambi 好耶\n爱你姐姐🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "176 65kg｜mtf ｜Angel lover @kanonobambi ｜ ｜hrt 2025.11.21-2026.2.13🍥｜我想要很多很多的爱｜永远的可爱姐姐@jikeOjk7623 ｜@HappyHejsDay的兵！｜超温柔妹妹@sophhhsama @axzamyzed！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "kanonobambi"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "jikeOjk7623"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 132,
+                "start": 121,
+                "username": "sophhhsama"
+              },
+              {
+                "end": 143,
+                "start": 133,
+                "username": "axzamyzed"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028106888488026112/tHHVMk_N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 574,
+          "following_count": 451,
+          "like_count": 4148,
+          "listed_count": 2,
+          "media_count": 99,
+          "tweet_count": 2349
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-26T23:16:04.000Z",
+        "description": "身高184的大只药娘🏳️‍⚧️| HRT25.12.4| 不键政不od不割手 丨情绪稳定但是社恐 |同类欢迎来互fo| 爱打和平精英 ｜又男朋友了喵嘿嘿嘿｜永远的可爱妹妹 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 86,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "1993821037860147200",
+        "name": "冉冉 🍥（求互fo，",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007220756481224704/of9viFdE_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 534,
+          "like_count": 475,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 227
+        },
+        "username": "JikeOjk7623",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-25T21:01:54.000Z",
+        "description": "🏳️‍⚧️ | 幸せを追い求めるかの | 小鹿包 | the coupling @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 40,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "1926745526164197376",
+        "location": "Singapore",
+        "name": "Kano R",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028108935107137536/iZcbefeR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 78,
+          "like_count": 327,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 160
+        },
+        "username": "kanonobambi",
+        "verified": false
+      }
+    ]
+  }
+}

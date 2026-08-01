@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2073305069819503058",
+    "created_at": "2026-07-04T23:24:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T00:24:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073548573103518063"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1751883526675591168",
+          "start": 0,
+          "username": "yufeng551289"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073548573103518063",
+    "in_reply_to_user_id": "1751883526675591168",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073305069819503058",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yufeng551289 恭喜🎉"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1334,
+        "media_key": "3_2073305056460640256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMXb9slbkAArdg0.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2073305069819503058",
+        "created_at": "2026-07-04T23:24:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T00:24:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073548573103518063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1751883526675591168",
+              "start": 0,
+              "username": "yufeng551289"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073548573103518063",
+        "in_reply_to_user_id": "1751883526675591168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073305069819503058",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yufeng551289 恭喜🎉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073305056460640256"
+          ]
+        },
+        "author_id": "1751883526675591168",
+        "conversation_id": "2073305069819503058",
+        "created_at": "2026-07-04T07:17:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T08:17:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073305069819503058"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gSBKdtX1DZ",
+              "end": 29,
+              "expanded_url": "https://x.com/yufeng551289/status/2073305069819503058/photo/1",
+              "media_key": "3_2073305056460640256",
+              "start": 6,
+              "url": "https://t.co/gSBKdtX1DZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073305069819503058",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 19171,
+          "like_count": 83,
+          "quote_count": 0,
+          "reply_count": 26,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "录取通知书 https://t.co/gSBKdtX1DZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "176 65kg｜mtf ｜Best friend @kanonobambi ｜ ｜hrt 2025.11.21-2026.2.13🍥｜我想要很多很多的爱｜永远的可爱姐姐@jikeOjk7623 ｜@HappyHejsDay的兵！｜超温柔妹妹@sophhhsama @axzamyzed！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "kanonobambi"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "jikeOjk7623"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 132,
+                "start": 121,
+                "username": "sophhhsama"
+              },
+              {
+                "end": 143,
+                "start": 133,
+                "username": "axzamyzed"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028106888488026112/tHHVMk_N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 992,
+          "following_count": 492,
+          "like_count": 4946,
+          "listed_count": 3,
+          "media_count": 135,
+          "tweet_count": 3005
+        },
+        "url": "",
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-29T08:22:50.000Z",
+        "description": "中文昵称枫寻/non-binary/mtx/日常发疯/发点乱七八糟的",
+        "id": "1751883526675591168",
+        "name": "Rowan Vale",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042634227704041476/xEf5A8vC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 411,
+          "following_count": 250,
+          "like_count": 68,
+          "listed_count": 4,
+          "media_count": 18,
+          "tweet_count": 91
+        },
+        "url": "",
+        "username": "yufeng551289",
+        "verified": false
+      }
+    ]
+  }
+}

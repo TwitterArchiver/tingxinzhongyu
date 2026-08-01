@@ -1,0 +1,356 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2024452373318656078",
+    "created_at": "2026-02-22T16:07:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T17:07:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025603317238554769"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1758324617838788608",
+          "start": 0,
+          "username": "axzamyzed"
+        },
+        {
+          "end": 24,
+          "id": "2012914101987762177",
+          "start": 11,
+          "username": "TeamTransmtf"
+        },
+        {
+          "end": 39,
+          "id": "1661260055914876928",
+          "start": 25,
+          "username": "Kiss_light233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025603317238554769",
+    "in_reply_to_user_id": "1758324617838788608",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024452373318656078",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@axzamyzed @TeamTransmtf @Kiss_light233 阳崽姐姐可爱捏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2024452373318656078",
+        "created_at": "2026-02-22T16:07:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T17:07:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025603317238554769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            },
+            {
+              "end": 24,
+              "id": "2012914101987762177",
+              "start": 11,
+              "username": "TeamTransmtf"
+            },
+            {
+              "end": 39,
+              "id": "1661260055914876928",
+              "start": 25,
+              "username": "Kiss_light233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025603317238554769",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024452373318656078",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed @TeamTransmtf @Kiss_light233 阳崽姐姐可爱捏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2024452373318656078",
+        "created_at": "2026-02-19T11:53:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T12:53:27.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024452266246492628",
+          "2024452373318656078"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 21,
+              "id": "1661260055914876928",
+              "start": 7,
+              "username": "Kiss_light233"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/kiss_light233/…",
+              "end": 90,
+              "expanded_url": "https://x.com/kiss_light233/status/2024362392138981720?s=46",
+              "start": 67,
+              "url": "https://t.co/0sPUSV56if"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024452373318656078",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 21,
+                "id": "1661260055914876928",
+                "start": 7,
+                "username": "Kiss_light233"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.com/kiss_light233/…",
+                "end": 90,
+                "expanded_url": "https://x.com/kiss_light233/status/2024362392138981720?s=46",
+                "start": 67,
+                "url": "https://t.co/dfoR0kTO1u"
+              }
+            ]
+          },
+          "text": "我们的阳崽姐姐@Kiss_light233 超级温柔、超级可爱的哦！\n大家如果有什么不开心或者不高兴的事情，都可以随时找她倾诉呢～\n\nhttps://t.co/dfoR0kTO1u\n\n生活中的事情…往往不是非黑即白，总会有转机的，毕竟天灾降临都仍有一线生机，更何况人祸呢？不要因为一时的冲动做出可能无法挽回的决定嘛\n常说啊，相由心生，保持一个良好的心态还是很重要很重要呢，一定，一定要试着改变自己的心态，相信事情会向好的方向发展，或许…就能如愿以偿呢\n当然喽～如果需要交更多朋友或聊天或倾诉，也可以来找我哦～应该会…一直都在吧\n要记住哦～无论什么时候都不是孤单一人，我们一直在你身边支持你～\n为最棒的你加油！！！\n～w～"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1365,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024362392138981720",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我们的阳崽姐姐@Kiss_light233 超级温柔、超级可爱的哦！\n大家如果有什么不开心或者不高兴的事情，都可以随时找她倾诉呢～\n\nhttps://t.co/0sPUSV56if\n\n生活中的事情…往往不是非黑即白，总会有转机的，毕竟天灾降临都仍有一线生机，更何况人祸呢？不要因为一时的冲动做出可能无法挽回的决定嘛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02 176 65kg//mtf hrt 2025.11.21-2026.2.13🍥//我想要很多很多的爱 欢迎聊天互fo 永远的可爱姐姐@jikeOjk7623 // @HappyHejsDay的兵！//超温柔妹妹@sophhhsama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 69,
+                "username": "jikeOjk7623"
+              },
+              {
+                "end": 98,
+                "start": 85,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 119,
+                "start": 108,
+                "username": "sophhhsama"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023721600491925504/NLPFudYi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 477,
+          "following_count": 426,
+          "like_count": 3330,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 1811
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信竞退役｜mtf?mtx?｜温柔友好(=･ω･=)♡ 可能有时候有一点粘人｜若将与我靠近，我愿真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜最好的阳阳姐姐 @Kiss_light233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 104,
+                "username": "Kiss_light233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2025588649887510571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 879,
+          "following_count": 791,
+          "like_count": 4689,
+          "listed_count": 0,
+          "media_count": 190,
+          "tweet_count": 2575
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-18T15:45:10.000Z",
+        "description": "transmtf官方团队账号",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "transmtf.com",
+                "end": 23,
+                "expanded_url": "https://www.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/MDakkR20rn"
+              }
+            ]
+          }
+        },
+        "id": "2012914101987762177",
+        "name": "Team Transmtf",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025586370111287296/QzZE8mTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 7,
+          "like_count": 33,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 4
+        },
+        "url": "https://t.co/MDakkR20rn",
+        "username": "TeamTransmtf",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-24T06:37:30.000Z",
+        "description": "人间路过的阳阳,喜欢世界上可可爱爱的东西 \n-\n会对所有人都保持善意つ♡⊂\n-\n虽然..咱不太擅长聊天...但是想和大家做朋友wq \n-\n拜托了！！请和我聊天！！≥﹏≤\n—树洞投稿私信咱哦~≡ω≡—",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lightcafe.top",
+                "end": 23,
+                "expanded_url": "http://www.lightcafe.top/",
+                "start": 0,
+                "url": "https://t.co/YKVh6Wxhfh"
+              }
+            ]
+          }
+        },
+        "id": "1661260055914876928",
+        "location": "阳阳的猫窝~",
+        "name": "𝑳𝒊𝒈𝒉𝒕☀️",
+        "pinned_tweet_id": "1967172985229635691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967171273513123841/s6mAU-JD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4160,
+          "following_count": 353,
+          "like_count": 5783,
+          "listed_count": 5,
+          "media_count": 569,
+          "tweet_count": 6160
+        },
+        "url": "https://t.co/YKVh6Wxhfh",
+        "username": "Kiss_light233",
+        "verified": false
+      }
+    ]
+  }
+}

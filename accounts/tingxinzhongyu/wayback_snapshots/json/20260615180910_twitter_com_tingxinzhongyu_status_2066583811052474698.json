@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2066453105009742083",
+    "created_at": "2026-06-15T18:09:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T19:09:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066583811052474698"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1510601261019631618",
+          "start": 0,
+          "username": "kujirarara_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066583811052474698",
+    "in_reply_to_user_id": "1510601261019631618",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066453105009742083",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kujirarara_ 明天我也要试试（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066453097434828800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK2EJMGb0AACa24.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2066453105009742083",
+        "created_at": "2026-06-15T18:09:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T19:09:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066583811052474698"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1510601261019631618",
+              "start": 0,
+              "username": "kujirarara_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066583811052474698",
+        "in_reply_to_user_id": "1510601261019631618",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066453105009742083",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kujirarara_ 明天我也要试试（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066453097434828800"
+          ]
+        },
+        "author_id": "1510601261019631618",
+        "conversation_id": "2066453105009742083",
+        "created_at": "2026-06-15T09:29:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T10:29:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066453105009742083"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iarak3NF3l",
+              "end": 42,
+              "expanded_url": "https://x.com/kujirarara_/status/2066453105009742083/photo/1",
+              "media_key": "3_2066453097434828800",
+              "start": 19,
+              "url": "https://t.co/iarak3NF3l"
+            },
+            {
+              "display_url": "x.com/kujirarara_/st…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/kujirarara_/status/2066438645285048368",
+              "start": 43,
+              "url": "https://t.co/uiRdwp6BtI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066453105009742083",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2299,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066438645285048368",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "调整了一下弄了这么一个神人散热方案🤔 https://t.co/iarak3NF3l https://t.co/uiRdwp6BtI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "176 65kg｜mtf ｜Best friend @kanonobambi ｜ ｜hrt 2025.11.21-2026.2.13🍥｜我想要很多很多的爱｜永远的可爱姐姐@jikeOjk7623 ｜@HappyHejsDay的兵！｜超温柔妹妹@sophhhsama @axzamyzed！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "kanonobambi"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "jikeOjk7623"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 132,
+                "start": 121,
+                "username": "sophhhsama"
+              },
+              {
+                "end": 143,
+                "start": 133,
+                "username": "axzamyzed"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028106888488026112/tHHVMk_N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 915,
+          "following_count": 483,
+          "like_count": 4870,
+          "listed_count": 3,
+          "media_count": 133,
+          "tweet_count": 2930
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-03T12:53:09.000Z",
+        "description": "可以叫我蓝鲸喵🐳 | Social Democracy | She/Her | MtF | Trans-les | CN/EN/JP | 轨道交通/城市规划/历史研究/日常 | 🩵🩷🤍🩷🩵",
+        "id": "1510601261019631618",
+        "location": "すみだ水族館",
+        "name": "くじら",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053860270225895424/t-qcmhuB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2768,
+          "following_count": 584,
+          "like_count": 110482,
+          "listed_count": 20,
+          "media_count": 1428,
+          "tweet_count": 7180
+        },
+        "username": "kujirarara_",
+        "verified": false
+      }
+    ]
+  }
+}

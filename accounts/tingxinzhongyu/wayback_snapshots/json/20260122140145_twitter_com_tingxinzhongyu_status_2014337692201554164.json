@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2014337682059726848"
+      ]
+    },
+    "author_id": "1992038421318205440",
+    "conversation_id": "2014337692201554164",
+    "created_at": "2026-01-22T14:01:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T15:01:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2014337692201554164"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dgovLSBh6v",
+          "end": 149,
+          "expanded_url": "https://x.com/tingxinzhongyu/status/2014337692201554164/photo/1",
+          "media_key": "3_2014337682059726848",
+          "start": 126,
+          "url": "https://t.co/dgovLSBh6v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014337692201554164",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "跟好兄弟又跑到了青岛，好兄弟这几天给我照顾成宝宝了，带我玩得好爽，好像这还是我第一次跟家人以外的人出去旅游，好难得这么开心。不过不知道还能玩几天，已经提前开始有点伤心喵。\n按你胃，有没有在青岛玩过的推荐一下有啥好玩的地方嘞？目前就想到吨吨吨喝啤酒了😊 https://t.co/dgovLSBh6v"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2014337682059726848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_RdcwzakAAccAa.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014337682059726848"
+          ]
+        },
+        "author_id": "1992038421318205440",
+        "conversation_id": "2014337692201554164",
+        "created_at": "2026-01-22T14:01:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T15:01:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014337692201554164"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dgovLSBh6v",
+              "end": 149,
+              "expanded_url": "https://x.com/tingxinzhongyu/status/2014337692201554164/photo/1",
+              "media_key": "3_2014337682059726848",
+              "start": 126,
+              "url": "https://t.co/dgovLSBh6v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014337692201554164",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跟好兄弟又跑到了青岛，好兄弟这几天给我照顾成宝宝了，带我玩得好爽，好像这还是我第一次跟家人以外的人出去旅游，好难得这么开心。不过不知道还能玩几天，已经提前开始有点伤心喵。\n按你胃，有没有在青岛玩过的推荐一下有啥好玩的地方嘞？目前就想到吨吨吨喝啤酒了😊 https://t.co/dgovLSBh6v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02年老屁股/mtf 我只想要很多很多的爱 hrt 2025.11🍥",
+        "id": "1992038421318205440",
+        "name": "听羽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992039552731725825/3Uy_y4UJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 93,
+          "like_count": 402,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 211
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      }
+    ]
+  }
+}

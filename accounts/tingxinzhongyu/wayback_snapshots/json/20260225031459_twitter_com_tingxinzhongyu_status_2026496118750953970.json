@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2026222008049213635",
+    "created_at": "2026-02-25T03:14:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T04:14:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026496118750953970"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1964042844198621187",
+          "start": 0,
+          "username": "bungeihaku8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026496118750953970",
+    "in_reply_to_user_id": "1964042844198621187",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026222008049213635",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bungeihaku8964 我能说我看到老子天下第一的时候联想到你的正太建模有点想笑吗🤭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1750,
+        "media_key": "3_2026221995902533632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB6WK33agAACMY-.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2026221995676110848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB6WK3BbkAAe1xV.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2026222008049213635",
+        "created_at": "2026-02-25T03:14:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T04:14:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026496118750953970"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1964042844198621187",
+              "start": 0,
+              "username": "bungeihaku8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026496118750953970",
+        "in_reply_to_user_id": "1964042844198621187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026222008049213635",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bungeihaku8964 我能说我看到老子天下第一的时候联想到你的正太建模有点想笑吗🤭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026221995902533632",
+            "3_2026221995676110848"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "conversation_id": "2026222008049213635",
+        "created_at": "2026-02-24T09:05:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T10:05:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026222008049213635"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/08sLVdobKT",
+              "end": 51,
+              "expanded_url": "https://x.com/bungeihaku8964/status/2026222008049213635/photo/1",
+              "media_key": "3_2026221995902533632",
+              "start": 28,
+              "url": "https://t.co/08sLVdobKT"
+            },
+            {
+              "display_url": "pic.x.com/08sLVdobKT",
+              "end": 51,
+              "expanded_url": "https://x.com/bungeihaku8964/status/2026222008049213635/photo/1",
+              "media_key": "3_2026221995676110848",
+              "start": 28,
+              "url": "https://t.co/08sLVdobKT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026222008049213635",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2479,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我將嘗試不吃藥挺雙相🥹\n為甚麼 因為我感覺沒必要吃藥🤓 https://t.co/08sLVdobKT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02 176 65kg//mtf hrt 2025.11.21-2026.2.13🍥//我想要很多很多的爱 欢迎聊天互fo 永远的可爱姐姐@jikeOjk7623 // @HappyHejsDay的兵！//超温柔妹妹@sophhhsama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 69,
+                "username": "jikeOjk7623"
+              },
+              {
+                "end": 98,
+                "start": 85,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 119,
+                "start": 108,
+                "username": "sophhhsama"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023721600491925504/NLPFudYi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 543,
+          "following_count": 438,
+          "like_count": 3653,
+          "listed_count": 2,
+          "media_count": 90,
+          "tweet_count": 2033
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜民國97年男高 絕對不翻車｜梗圖➕日常發瘋號｜粵港澳愛跨大手子｜雙相｜哲學社會學研究ing｜日語生｜日麻癡｜粵拼使用者｜🚪64HK$\n｜小貓咪:@suimikax\n｜16ちゃん:@x16_46280721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 73,
+                "username": "suimikax"
+              },
+              {
+                "end": 103,
+                "start": 90,
+                "username": "x16_46280721"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/KunHaku0",
+                "end": 23,
+                "expanded_url": "http://t.me/KunHaku0",
+                "start": 0,
+                "url": "https://t.co/ntbzBOLbQQ"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "+852 インターネット",
+        "name": "葉々🍁空白子💤",
+        "pinned_tweet_id": "2021493784887038082",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021474583161995271/frgiGN1D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1218,
+          "following_count": 500,
+          "like_count": 8710,
+          "listed_count": 6,
+          "media_count": 436,
+          "tweet_count": 2133
+        },
+        "url": "https://t.co/ntbzBOLbQQ",
+        "username": "bungeihaku8964",
+        "verified": false
+      }
+    ]
+  }
+}

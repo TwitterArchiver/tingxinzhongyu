@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2012024025858654687",
+    "created_at": "2026-01-16T05:12:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-16T06:12:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012030060556099930"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1980236829455511552",
+          "start": 0,
+          "username": "PaulDrizzyvlni"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012030060556099930",
+    "in_reply_to_user_id": "1980236829455511552",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012024025858654687",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PaulDrizzyvlni 恐怖电磁学"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2012024004148936705",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-wlK-7bQAE5duU.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2012024004140539904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-wlK-5bIAAZp1Y.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2012024004404736000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-wlK_4acAAaht4.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2012024004148936708",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-wlK-7bQAQo9Lh.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2012024025858654687",
+        "created_at": "2026-01-16T05:12:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T06:12:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012030060556099930"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1980236829455511552",
+              "start": 0,
+              "username": "PaulDrizzyvlni"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012030060556099930",
+        "in_reply_to_user_id": "1980236829455511552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012024025858654687",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PaulDrizzyvlni 恐怖电磁学"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012024004148936705",
+            "3_2012024004140539904",
+            "3_2012024004404736000",
+            "3_2012024004148936708"
+          ]
+        },
+        "author_id": "1980236829455511552",
+        "conversation_id": "2012024025858654687",
+        "created_at": "2026-01-16T04:48:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T05:48:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012024025858654687"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZJ1DcZz8f4",
+              "end": 35,
+              "expanded_url": "https://x.com/PaulDrizzyvlni/status/2012024025858654687/photo/1",
+              "media_key": "3_2012024004148936705",
+              "start": 12,
+              "url": "https://t.co/ZJ1DcZz8f4"
+            },
+            {
+              "display_url": "pic.x.com/ZJ1DcZz8f4",
+              "end": 35,
+              "expanded_url": "https://x.com/PaulDrizzyvlni/status/2012024025858654687/photo/1",
+              "media_key": "3_2012024004140539904",
+              "start": 12,
+              "url": "https://t.co/ZJ1DcZz8f4"
+            },
+            {
+              "display_url": "pic.x.com/ZJ1DcZz8f4",
+              "end": 35,
+              "expanded_url": "https://x.com/PaulDrizzyvlni/status/2012024025858654687/photo/1",
+              "media_key": "3_2012024004404736000",
+              "start": 12,
+              "url": "https://t.co/ZJ1DcZz8f4"
+            },
+            {
+              "display_url": "pic.x.com/ZJ1DcZz8f4",
+              "end": 35,
+              "expanded_url": "https://x.com/PaulDrizzyvlni/status/2012024025858654687/photo/1",
+              "media_key": "3_2012024004148936708",
+              "start": 12,
+              "url": "https://t.co/ZJ1DcZz8f4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012024025858654687",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "lonely days https://t.co/ZJ1DcZz8f4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02年老屁股/mtf 我只想要很多很多的爱 hrt 2025.11🍥",
+        "id": "1992038421318205440",
+        "name": "听羽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992039552731725825/3Uy_y4UJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 71,
+          "like_count": 268,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 133
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-20T11:37:56.000Z",
+        "description": "重生日 25.11.18/天空树/爱发高p照仔细甄别😵‍💫/成分复杂/篮球世家🌚运动跨😹best athlete must be @Yg_Trece @TheTraeYoung !/特别的人 @HappyHejsDay @cosmorisa @LumidexNZ 以及最特别的 @shixveriya 🥰",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 65,
+                "username": "Yg_Trece"
+              },
+              {
+                "end": 88,
+                "start": 75,
+                "username": "TheTraeYoung"
+              },
+              {
+                "end": 109,
+                "start": 96,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 120,
+                "start": 110,
+                "username": "cosmorisa"
+              },
+              {
+                "end": 131,
+                "start": 121,
+                "username": "LumidexNZ"
+              },
+              {
+                "end": 150,
+                "start": 139,
+                "username": "shixveriya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pauldrizzyvlni",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pauldrizzyvlni",
+                "start": 0,
+                "url": "https://t.co/MqRT8JnadN"
+              }
+            ]
+          }
+        },
+        "id": "1980236829455511552",
+        "location": "Palmdale, California, USA",
+        "name": "wish happiness 😵‍💫🍥😵‍💫",
+        "pinned_tweet_id": "2002025908065149029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997894762838556672/_NU9ap_W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 637,
+          "following_count": 565,
+          "like_count": 1673,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 1579
+        },
+        "url": "https://t.co/MqRT8JnadN",
+        "username": "PaulDrizzyvlni",
+        "verified": false
+      }
+    ]
+  }
+}

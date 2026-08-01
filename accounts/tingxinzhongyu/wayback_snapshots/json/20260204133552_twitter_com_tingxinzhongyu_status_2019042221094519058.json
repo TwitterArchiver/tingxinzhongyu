@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2018829350758744107",
+    "created_at": "2026-02-04T13:35:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T14:35:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019042221094519058"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1992489789669638144",
+          "start": 0,
+          "username": "xynMatcha"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019042221094519058",
+    "in_reply_to_user_id": "1992489789669638144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018829350758744107",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xynMatcha 抱抱，家长党还是太难了😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2018829350758744107",
+        "created_at": "2026-02-04T13:35:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T14:35:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019042221094519058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1992489789669638144",
+              "start": 0,
+              "username": "xynMatcha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019042221094519058",
+        "in_reply_to_user_id": "1992489789669638144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018829350758744107",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xynMatcha 抱抱，家长党还是太难了😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992489789669638144",
+        "conversation_id": "2018829350758744107",
+        "created_at": "2026-02-03T23:29:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T00:29:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018829350758744107"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2018829350758744107",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 516,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果竞赛没出成绩 没上好大学 没变家长党 那我还是在成年前注销帐号好了..\n为什么父母那么反跨呀 喵🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02 176 65kg//mtf hrt 2025.11.21🍥//我想要很多很多的爱 欢迎聊天互fo 永远的可爱姐姐@jikeOjk7623",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 59,
+                "username": "jikeOjk7623"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992039552731725825/3Uy_y4UJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 237,
+          "like_count": 1078,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 592
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-23T07:06:06.000Z",
+        "description": "高二牲｜08/12/29｜信息学竞赛｜无证 🍥 ｜即使整型的数据会有溢出的那一天，我们仍在流浪的路上且行且歌。（某信竞大佬名言）｜\ntg: https://t.co/0M7XFwtbeA\ndiscord: matcha_1229",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/matcha0841",
+                "end": 93,
+                "expanded_url": "http://t.me/matcha0841",
+                "start": 70,
+                "url": "https://t.co/0M7XFwtbeA"
+              }
+            ]
+          }
+        },
+        "id": "1992489789669638144",
+        "location": "台灣",
+        "name": "抹茶🍥",
+        "pinned_tweet_id": "2006735484555505693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992565880790929409/oAlW6dKf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 171,
+          "like_count": 1903,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 521
+        },
+        "username": "xynMatcha",
+        "verified": false
+      }
+    ]
+  }
+}

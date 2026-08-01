@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2018582990809714753",
+    "created_at": "2026-02-03T08:43:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T09:43:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018606257595392106"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1002930388770025472",
+          "start": 0,
+          "username": "KirishimaYuning"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018606257595392106",
+    "in_reply_to_user_id": "1002930388770025472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018603593025421443",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KirishimaYuning 虽然很想好好休息但是不想失约了呜呜🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2018582990809714753",
+        "created_at": "2026-02-03T08:43:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T09:43:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018606257595392106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1002930388770025472",
+              "start": 0,
+              "username": "KirishimaYuning"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018606257595392106",
+        "in_reply_to_user_id": "1002930388770025472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018603593025421443",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KirishimaYuning 虽然很想好好休息但是不想失约了呜呜🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1002930388770025472",
+        "conversation_id": "2018582990809714753",
+        "created_at": "2026-02-03T08:32:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T09:32:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018603593025421443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992038421318205440",
+              "start": 0,
+              "username": "tingxinzhongyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018603593025421443",
+        "in_reply_to_user_id": "1992038421318205440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018582990809714753",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tingxinzhongyu 笨蛋宝宝，好好休息呀！！！别在这么做了好嘛🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02 176 65kg/mtf hrt 2025.11🍥/我想要很多很多的爱 欢迎聊天互fo 永远的可爱姐姐@jikeOjk7623",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 54,
+                "username": "jikeOjk7623"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992039552731725825/3Uy_y4UJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 225,
+          "like_count": 955,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 542
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2018-06-02T15:10:13.000Z",
+        "description": "",
+        "id": "1002930388770025472",
+        "name": "雾岛羽宁",
+        "pinned_tweet_id": "2006508093090517447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014665507652435969/r6D0C8Xu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 472,
+          "like_count": 4497,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 778
+        },
+        "username": "KirishimaYuning",
+        "verified": false
+      }
+    ]
+  }
+}

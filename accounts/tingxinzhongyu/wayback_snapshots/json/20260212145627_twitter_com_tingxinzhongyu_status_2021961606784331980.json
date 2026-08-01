@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2021949197826896009",
+    "created_at": "2026-02-12T14:56:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T15:56:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021961606784331980"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2003874583343210496",
+          "start": 0,
+          "username": "changdaobi85143"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021961606784331980",
+    "in_reply_to_user_id": "2003874583343210496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021949197826896009",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@changdaobi85143 哈哈哈哈好奇什么仪式"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2021949181536124928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA9oEV9aQAA6sk-.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2021949181519441920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA9oEV5bsAAniP2.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2021949197826896009",
+        "created_at": "2026-02-12T14:56:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T15:56:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021961606784331980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2003874583343210496",
+              "start": 0,
+              "username": "changdaobi85143"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021961606784331980",
+        "in_reply_to_user_id": "2003874583343210496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021949197826896009",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@changdaobi85143 哈哈哈哈好奇什么仪式"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021949181536124928",
+            "3_2021949181519441920"
+          ]
+        },
+        "author_id": "2003874583343210496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2021949197826896009",
+        "created_at": "2026-02-12T14:07:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T15:07:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021949197826896009"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PHgIBirpC1",
+              "end": 34,
+              "expanded_url": "https://x.com/changdaobi85143/status/2021949197826896009/photo/1",
+              "media_key": "3_2021949181536124928",
+              "start": 11,
+              "url": "https://t.co/PHgIBirpC1"
+            },
+            {
+              "display_url": "pic.x.com/PHgIBirpC1",
+              "end": 34,
+              "expanded_url": "https://x.com/changdaobi85143/status/2021949197826896009/photo/1",
+              "media_key": "3_2021949181519441920",
+              "start": 11,
+              "url": "https://t.co/PHgIBirpC1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021949197826896009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "关于我被带去上香驱邪 https://t.co/PHgIBirpC1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02 176 65kg//mtf hrt 2025.11.21🍥//我想要很多很多的爱 欢迎聊天互fo 永远的可爱姐姐@jikeOjk7623",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 59,
+                "username": "jikeOjk7623"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992039552731725825/3Uy_y4UJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 323,
+          "like_count": 2058,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 1052
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-24T17:05:15.000Z",
+        "description": "可爱 ftm小男娘 （请文明私信 不要搞黄色血腥暴力）Please send a private message politely不发黄色内容，推止于推 谢谢各位理解包容",
+        "id": "2003874583343210496",
+        "location": "Hong Kong",
+        "name": "来一杯长岛冰茶🏳️‍⚧️",
+        "pinned_tweet_id": "2020837803492548879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003875241773465600/4aLJ-_j1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 44,
+          "like_count": 629,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 52
+        },
+        "username": "changdaobi85143",
+        "verified": false
+      }
+    ]
+  }
+}

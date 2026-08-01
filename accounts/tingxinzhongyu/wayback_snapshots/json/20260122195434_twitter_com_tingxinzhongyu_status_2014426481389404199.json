@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2014315810471501958",
+    "created_at": "2026-01-22T19:54:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T20:54:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014426481389404199"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "899470193776140289",
+          "start": 0,
+          "username": "hzqsns"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014426481389404199",
+    "in_reply_to_user_id": "899470193776140289",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014315810471501958",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hzqsns 生日快乐！今天你值得大家祝福哦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2014315799142612992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_RJjAlaQAAe4Kr.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2014315799130050560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_RJjAiakAAzKC6.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2014315799134212096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_RJjAjaEAAjFTv.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2014315810471501958",
+        "created_at": "2026-01-22T19:54:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T20:54:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014426481389404199"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "899470193776140289",
+              "start": 0,
+              "username": "hzqsns"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014426481389404199",
+        "in_reply_to_user_id": "899470193776140289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014315810471501958",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hzqsns 生日快乐！今天你值得大家祝福哦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014315799142612992",
+            "3_2014315799130050560",
+            "3_2014315799134212096"
+          ]
+        },
+        "author_id": "899470193776140289",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2014315810471501958",
+        "created_at": "2026-01-22T12:34:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T13:34:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014315810471501958"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XiB1FPeTGd",
+              "end": 55,
+              "expanded_url": "https://x.com/hzqsns/status/2014315810471501958/photo/1",
+              "media_key": "3_2014315799142612992",
+              "start": 32,
+              "url": "https://t.co/XiB1FPeTGd"
+            },
+            {
+              "display_url": "pic.x.com/XiB1FPeTGd",
+              "end": 55,
+              "expanded_url": "https://x.com/hzqsns/status/2014315810471501958/photo/1",
+              "media_key": "3_2014315799130050560",
+              "start": 32,
+              "url": "https://t.co/XiB1FPeTGd"
+            },
+            {
+              "display_url": "pic.x.com/XiB1FPeTGd",
+              "end": 55,
+              "expanded_url": "https://x.com/hzqsns/status/2014315810471501958/photo/1",
+              "media_key": "3_2014315799134212096",
+              "start": 32,
+              "url": "https://t.co/XiB1FPeTGd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014315810471501958",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1301,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "恭喜你达成了生日无人在意的成就，问题是我也不需要祝福啊（哭腔） https://t.co/XiB1FPeTGd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02年老屁股/mtf 我只想要很多很多的爱 hrt 2025.11🍥",
+        "id": "1992038421318205440",
+        "name": "听羽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992039552731725825/3Uy_y4UJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 97,
+          "like_count": 405,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 214
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-21T03:16:20.000Z",
+        "description": "奇迹和魔法并不是免费的。 一个满天星(maybe)",
+        "id": "899470193776140289",
+        "location": "M87",
+        "name": "Sakura🜃",
+        "pinned_tweet_id": "1535813809428115456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998071844646322178/8zpuRiGv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 684,
+          "like_count": 2190,
+          "listed_count": 2,
+          "media_count": 338,
+          "tweet_count": 1232
+        },
+        "username": "hzqsns",
+        "verified": false
+      }
+    ]
+  }
+}

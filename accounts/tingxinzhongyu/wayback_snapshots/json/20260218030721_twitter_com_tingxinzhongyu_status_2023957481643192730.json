@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2023957481643192730",
+    "created_at": "2026-02-18T03:07:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T04:07:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023957481643192730"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/shiyaoshiwo/st…",
+          "end": 74,
+          "expanded_url": "https://twitter.com/shiyaoshiwo/status/2023954794122277010",
+          "start": 51,
+          "url": "https://t.co/6m1zIxKeiD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023957481643192730",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023954794122277010",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "感谢各位亲戚的大力支持！你们的压岁钱都会变成孩子手里的人妖药……你们的投资会投资出一个漂亮的小女孩。 https://t.co/6m1zIxKeiD"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2023957481643192730",
+        "created_at": "2026-02-18T03:07:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T04:07:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023957481643192730"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shiyaoshiwo/st…",
+              "end": 74,
+              "expanded_url": "https://twitter.com/shiyaoshiwo/status/2023954794122277010",
+              "start": 51,
+              "url": "https://t.co/6m1zIxKeiD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023957481643192730",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023954794122277010",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感谢各位亲戚的大力支持！你们的压岁钱都会变成孩子手里的人妖药……你们的投资会投资出一个漂亮的小女孩。 https://t.co/6m1zIxKeiD"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1822200301345980416",
+        "conversation_id": "2023954794122277010",
+        "created_at": "2026-02-18T02:56:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T03:56:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023954794122277010"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023954794122277010",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感谢各位亲戚的大力支持！你们的压岁钱都会变成孩子手里的人妖药……你们的投资会投资出一个漂亮的小女孩。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02 176 65kg//mtf hrt 2025.11.21-2026.2.13🍥//我想要很多很多的爱 欢迎聊天互fo 永远的可爱姐姐@jikeOjk7623",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 69,
+                "username": "jikeOjk7623"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023721600491925504/NLPFudYi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 384,
+          "like_count": 2802,
+          "listed_count": 1,
+          "media_count": 69,
+          "tweet_count": 1446
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-10T09:16:52.000Z",
+        "description": "emmm，只会宅家打游戏的傻小孩吗，等等好像是我……可以随便被拿捏的屑……大大一只小女孩但是很无力…信息:180/130 /已出柜/爱哭鬼/生日是五月五号！/我爱吃甜品/好想吃汉堡呜呜/不喜欢播音的播音生/我想吃蛋挞X﹏X为什么不放假/我想要安安全全的（持续堆积中的简介）",
+        "id": "1822200301345980416",
+        "location": "桥洞下",
+        "name": "詩瑤🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004450408807485440/Ev5UOKh8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 177,
+          "like_count": 76,
+          "listed_count": 0,
+          "media_count": 125,
+          "tweet_count": 1049
+        },
+        "username": "shiyaoshiwo",
+        "verified": false
+      }
+    ]
+  }
+}

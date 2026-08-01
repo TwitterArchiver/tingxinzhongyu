@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2015231923963224110",
+    "created_at": "2026-01-25T04:50:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T05:50:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015286026600886643"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1002930388770025472",
+          "start": 0,
+          "username": "KirishimaYuning"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015286026600886643",
+    "in_reply_to_user_id": "1002930388770025472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015231923963224110",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KirishimaYuning 抱抱，周日了好好休息一下哇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2015231923963224110",
+        "created_at": "2026-01-25T04:50:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T05:50:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015286026600886643"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1002930388770025472",
+              "start": 0,
+              "username": "KirishimaYuning"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015286026600886643",
+        "in_reply_to_user_id": "1002930388770025472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015231923963224110",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KirishimaYuning 抱抱，周日了好好休息一下哇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1002930388770025472",
+        "conversation_id": "2015231923963224110",
+        "created_at": "2026-01-25T01:15:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T02:15:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015231923963224110"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015231923963224110",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么那么难，活着好累，死却很麻烦🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02/mtf 我只想要很多很多的爱 hrt 2025.11🍥/欢迎聊天互fo",
+        "id": "1992038421318205440",
+        "name": "听羽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992039552731725825/3Uy_y4UJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 114,
+          "like_count": 490,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 256
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2018-06-02T15:10:13.000Z",
+        "description": "",
+        "id": "1002930388770025472",
+        "name": "江宁",
+        "pinned_tweet_id": "2006508093090517447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014665507652435969/r6D0C8Xu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 429,
+          "like_count": 3753,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 710
+        },
+        "username": "KirishimaYuning",
+        "verified": false
+      }
+    ]
+  }
+}

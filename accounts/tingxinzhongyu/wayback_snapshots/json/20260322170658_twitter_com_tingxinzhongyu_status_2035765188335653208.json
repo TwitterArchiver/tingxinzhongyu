@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2035658045364256910",
+    "created_at": "2026-03-22T17:06:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T18:06:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035765188335653208"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1738921100002967553",
+          "start": 0,
+          "username": "peel_sc59927"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035765188335653208",
+    "in_reply_to_user_id": "1738921100002967553",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035764695710445681",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@peel_sc59927 好哦 我就是成箱抱回来的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1760,
+        "media_key": "3_2035764693256810496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEB9M9vasAAYT8z.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2035658045364256910",
+        "created_at": "2026-03-22T17:06:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T18:06:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035765188335653208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1738921100002967553",
+              "start": 0,
+              "username": "peel_sc59927"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035765188335653208",
+        "in_reply_to_user_id": "1738921100002967553",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035764695710445681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@peel_sc59927 好哦 我就是成箱抱回来的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035764693256810496"
+          ]
+        },
+        "author_id": "1738921100002967553",
+        "conversation_id": "2035658045364256910",
+        "created_at": "2026-03-22T17:05:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T18:05:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035764695710445681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992038421318205440",
+              "start": 0,
+              "username": "tingxinzhongyu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PZHxMjmZ6d",
+              "end": 72,
+              "expanded_url": "https://x.com/peel_sc59927/status/2035764695710445681/photo/1",
+              "media_key": "3_2035764693256810496",
+              "start": 49,
+              "url": "https://t.co/PZHxMjmZ6d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035764695710445681",
+        "in_reply_to_user_id": "1992038421318205440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035658045364256910",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tingxinzhongyu 就喝就喝\n（不过学校寝室楼下售货机还是太贵了。。等成箱的到了的叭 https://t.co/PZHxMjmZ6d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "176 65kg｜mtf ｜Angel lover @kanonobambi ｜ ｜hrt 2025.11.21-2026.2.13🍥｜我想要很多很多的爱｜永远的可爱姐姐@jikeOjk7623 ｜@HappyHejsDay的兵！｜超温柔妹妹@sophhhsama @axzamyzed！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "kanonobambi"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "jikeOjk7623"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 132,
+                "start": 121,
+                "username": "sophhhsama"
+              },
+              {
+                "end": 143,
+                "start": 133,
+                "username": "axzamyzed"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028106888488026112/tHHVMk_N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 672,
+          "following_count": 465,
+          "like_count": 4512,
+          "listed_count": 2,
+          "media_count": 111,
+          "tweet_count": 2578
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-24T13:54:41.000Z",
+        "description": "计算机or网络安全系04年破壳|INFJ|深柜|长期碎碎念|⭕|brat|LG(Bmtx含糖ing)🏳️‍🌈🏳️‍⚧️|欢迎扩列|勿传墙内|咱家狐宝：@ling00677756",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 75,
+                "username": "ling00677756"
+              }
+            ]
+          }
+        },
+        "id": "1738921100002967553",
+        "name": "SC_Orange_Peel🍥",
+        "pinned_tweet_id": "2030900192434954680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020847094182055936/WTAcNygt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 241,
+          "like_count": 510,
+          "listed_count": 0,
+          "media_count": 173,
+          "tweet_count": 521
+        },
+        "username": "peel_sc59927",
+        "verified": false
+      }
+    ]
+  }
+}

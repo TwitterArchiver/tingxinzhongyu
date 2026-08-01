@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2026270329052770318",
+    "created_at": "2026-02-24T12:20:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T13:20:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026271034211795226"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1617523246144053251",
+          "start": 0,
+          "username": "s1nyvu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026271034211795226",
+    "in_reply_to_user_id": "1617523246144053251",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026270329052770318",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@s1nyvu 诶，是什么特质，我想瞧瞧我的🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2026270329052770318",
+        "created_at": "2026-02-24T12:20:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T13:20:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026271034211795226"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1617523246144053251",
+              "start": 0,
+              "username": "s1nyvu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026271034211795226",
+        "in_reply_to_user_id": "1617523246144053251",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026270329052770318",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@s1nyvu 诶，是什么特质，我想瞧瞧我的🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1617523246144053251",
+        "conversation_id": "2026270329052770318",
+        "created_at": "2026-02-24T12:17:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T13:17:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026270329052770318"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026270329052770318",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我似乎发现大多数yn的八字命盘都有些共同特质（）\n抛开科学不谈，玄学角度上也已经说明了ts这种东西可能就是命中注定与生俱来的（\n那么这时候就有杠精问了：哎呀哎呀主播，就甲乙丙丁排列组合全国十多亿人，平均每六千人都是一模一样的命盘，为什么他们没都成为男娘呢（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02 176 65kg//mtf hrt 2025.11.21-2026.2.13🍥//我想要很多很多的爱 欢迎聊天互fo 永远的可爱姐姐@jikeOjk7623 // @HappyHejsDay的兵！//超温柔妹妹@sophhhsama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 69,
+                "username": "jikeOjk7623"
+              },
+              {
+                "end": 98,
+                "start": 85,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 119,
+                "start": 108,
+                "username": "sophhhsama"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023721600491925504/NLPFudYi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 530,
+          "following_count": 435,
+          "like_count": 3557,
+          "listed_count": 2,
+          "media_count": 86,
+          "tweet_count": 1975
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-23T14:02:59.000Z",
+        "description": "傻子🏳️‍⚧️一枚|07|高三辍学被家庭「抛弃」无业穷困一年余😥|enfj|文艺氰年，爱好越多越没用🙁|饥寒交迫恳请投喂喵🥺|具体简介请看置顶☺️|🚪门槛费+好友看着给就可以啦😇|同类欢迎扩列或者来咱的小破🐧群玩喵|od怪健全b🈷炮乐子人勿扰😡",
+        "id": "1617523246144053251",
+        "location": "卷毛是大坏蛋😈",
+        "name": "❄️雪梦歆屿",
+        "pinned_tweet_id": "2022209449369493962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975919625616678912/JQfFoYMN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 888,
+          "following_count": 55,
+          "like_count": 155,
+          "listed_count": 0,
+          "media_count": 275,
+          "tweet_count": 1733
+        },
+        "username": "s1nyvu",
+        "verified": false
+      }
+    ]
+  }
+}

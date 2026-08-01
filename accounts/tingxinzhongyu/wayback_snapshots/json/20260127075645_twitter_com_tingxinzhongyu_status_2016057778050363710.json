@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2015667640891756789",
+    "created_at": "2026-01-27T07:56:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T08:56:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016057778050363710"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1394825116614369280",
+          "start": 0,
+          "username": "cjq15499091"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016057778050363710",
+    "in_reply_to_user_id": "1394825116614369280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016056098676183433",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cjq15499091 补药啊😦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2015667640891756789",
+        "created_at": "2026-01-27T07:56:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T08:56:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016057778050363710"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1394825116614369280",
+              "start": 0,
+              "username": "cjq15499091"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016057778050363710",
+        "in_reply_to_user_id": "1394825116614369280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016056098676183433",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cjq15499091 补药啊😦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1394825116614369280",
+        "conversation_id": "2015667640891756789",
+        "created_at": "2026-01-27T07:50:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T08:50:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016056098676183433"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992038421318205440",
+              "start": 0,
+              "username": "tingxinzhongyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016056098676183433",
+        "in_reply_to_user_id": "1992038421318205440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015837072184246437",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tingxinzhongyu 早出早享受"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02/mtf 我只想要很多很多的爱 hrt 2025.11🍥/欢迎聊天互fo",
+        "id": "1992038421318205440",
+        "name": "听羽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992039552731725825/3Uy_y4UJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 155,
+          "like_count": 625,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 371
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-19T01:20:18.000Z",
+        "description": "毁灭人类",
+        "id": "1394825116614369280",
+        "location": "汕尾",
+        "name": "cjq",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1709012506256031744/aMQJ7WGP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 225,
+          "like_count": 106,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 1289
+        },
+        "username": "cjq15499091",
+        "verified": false
+      }
+    ]
+  }
+}

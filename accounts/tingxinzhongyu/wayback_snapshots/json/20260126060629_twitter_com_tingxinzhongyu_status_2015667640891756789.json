@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2015667563871588352"
+      ]
+    },
+    "author_id": "1992038421318205440",
+    "conversation_id": "2015667640891756789",
+    "created_at": "2026-01-26T06:06:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T07:06:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015667640891756789"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cxoxUCqAt3",
+          "end": 97,
+          "expanded_url": "https://x.com/tingxinzhongyu/status/2015667640891756789/photo/1",
+          "media_key": "3_2015667563871588352",
+          "start": 74,
+          "url": "https://t.co/cxoxUCqAt3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015667640891756789",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "终于鼓起勇气问妈妈能不能买鲨鲨了，之前一直好怕她嫌我买东买西家里放不下。但是她已经40分钟没回我了，是不是已经发现了什么啊😭\n\n补药炸柜啊补药啊😭 https://t.co/cxoxUCqAt3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1211,
+        "media_key": "3_2015667563871588352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_kW-EnX0AAmH_p.jpg",
+        "width": 1154
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015667563871588352"
+          ]
+        },
+        "author_id": "1992038421318205440",
+        "conversation_id": "2015667640891756789",
+        "created_at": "2026-01-26T06:06:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T07:06:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015667640891756789"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cxoxUCqAt3",
+              "end": 97,
+              "expanded_url": "https://x.com/tingxinzhongyu/status/2015667640891756789/photo/1",
+              "media_key": "3_2015667563871588352",
+              "start": 74,
+              "url": "https://t.co/cxoxUCqAt3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015667640891756789",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "终于鼓起勇气问妈妈能不能买鲨鲨了，之前一直好怕她嫌我买东买西家里放不下。但是她已经40分钟没回我了，是不是已经发现了什么啊😭\n\n补药炸柜啊补药啊😭 https://t.co/cxoxUCqAt3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02/mtf 我只想要很多很多的爱 hrt 2025.11🍥/欢迎聊天互fo",
+        "id": "1992038421318205440",
+        "name": "听羽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992039552731725825/3Uy_y4UJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 121,
+          "like_count": 541,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 288
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      }
+    ]
+  }
+}

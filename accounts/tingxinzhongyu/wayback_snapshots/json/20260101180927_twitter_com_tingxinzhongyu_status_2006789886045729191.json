@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2006789886045729191",
+    "created_at": "2026-01-01T18:09:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T19:09:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2006789886045729191"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2006789886045729191",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "失眠碎碎念：\n今晚跟父母视频，努力藏了好久烫的头发终究还是没瞒住被妈妈看出来了，与想象的质问相反，她却只问我为什么之前不肯告诉她，好像只是一片落叶飘飘洒洒落在我的肩头，恍惚间意识到自己的年纪，不是那个担惊受怕要被家里教训的年纪了。她终于理解要包容孩子的尝试，可我已经不再是孩子了…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2006789886045729191",
+        "created_at": "2026-01-01T18:09:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T19:09:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006789886045729191"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2006789886045729191",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "失眠碎碎念：\n今晚跟父母视频，努力藏了好久烫的头发终究还是没瞒住被妈妈看出来了，与想象的质问相反，她却只问我为什么之前不肯告诉她，好像只是一片落叶飘飘洒洒落在我的肩头，恍惚间意识到自己的年纪，不是那个担惊受怕要被家里教训的年纪了。她终于理解要包容孩子的尝试，可我已经不再是孩子了…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "我需要很多很多的爱 2025.11🍬🍥",
+        "id": "1992038421318205440",
+        "name": "听羽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992039552731725825/3Uy_y4UJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 24,
+          "like_count": 49,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 18
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      }
+    ]
+  }
+}

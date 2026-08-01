@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2007842463411761513",
+    "created_at": "2026-01-04T15:52:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T16:52:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2007842463411761513"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2007842463411761513",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "完了这太奇怪了，跟好兄弟玩了一天游戏，结束了我跟他说我要睡了，然后他直接回了个晚安？疑似是我恋爱脑犯了，总感觉九分有十分不对劲啊，这对吗这对吗这对吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2007842463411761513",
+        "created_at": "2026-01-04T15:52:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T16:52:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007842463411761513"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2007842463411761513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "完了这太奇怪了，跟好兄弟玩了一天游戏，结束了我跟他说我要睡了，然后他直接回了个晚安？疑似是我恋爱脑犯了，总感觉九分有十分不对劲啊，这对吗这对吗这对吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02年老屁股/hrt 我只想要很多很多的爱 2025.11🍥",
+        "id": "1992038421318205440",
+        "name": "听羽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992039552731725825/3Uy_y4UJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 31,
+          "like_count": 93,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 37
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      }
+    ]
+  }
+}

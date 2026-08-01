@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2020173067151163778",
+    "created_at": "2026-02-08T03:07:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T04:07:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020333652648059163"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1813188041793761280",
+          "start": 0,
+          "username": "lightboat111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020333652648059163",
+    "in_reply_to_user_id": "1813188041793761280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020331812388581707",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lightboat111 好像也是了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2020173067151163778",
+        "created_at": "2026-02-08T03:07:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T04:07:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020333652648059163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1813188041793761280",
+              "start": 0,
+              "username": "lightboat111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020333652648059163",
+        "in_reply_to_user_id": "1813188041793761280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020331812388581707",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lightboat111 好像也是了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813188041793761280",
+        "conversation_id": "2020173067151163778",
+        "created_at": "2026-02-08T03:00:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T04:00:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020331812388581707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992038421318205440",
+              "start": 0,
+              "username": "tingxinzhongyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020331812388581707",
+        "in_reply_to_user_id": "1992038421318205440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020173181684969634",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tingxinzhongyu 其实没有让他们满意的义务😶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02 176 65kg//mtf hrt 2025.11.21🍥//我想要很多很多的爱 欢迎聊天互fo 永远的可爱姐姐@jikeOjk7623",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 59,
+                "username": "jikeOjk7623"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992039552731725825/3Uy_y4UJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 266,
+          "like_count": 1437,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 735
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-16T12:25:01.000Z",
+        "description": "05/180/60，infp/天秤/🍥2025.10.5/喜欢涩涩、文学、音乐/王者、鸣潮、音游/割手od达咩/厦门读书ing",
+        "id": "1813188041793761280",
+        "location": "china",
+        "name": "轻舟🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931226453334712320/c0pIs-rI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 1078,
+          "like_count": 607,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 139
+        },
+        "username": "lightboat111",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2018953126716568034",
+    "created_at": "2026-02-04T07:52:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T08:52:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018955737184223538"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1459356998097850370",
+          "start": 0,
+          "username": "Aequoia1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018955737184223538",
+    "in_reply_to_user_id": "1459356998097850370",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018953126716568034",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aequoia1 我终…终于出现了吗😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2018953122652340224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HATDKw3bwAAb0Yc.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2018953126716568034",
+        "created_at": "2026-02-04T07:52:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T08:52:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018955737184223538"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1459356998097850370",
+              "start": 0,
+              "username": "Aequoia1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018955737184223538",
+        "in_reply_to_user_id": "1459356998097850370",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018953126716568034",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aequoia1 我终…终于出现了吗😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018953122652340224"
+          ]
+        },
+        "author_id": "1459356998097850370",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2018953126716568034",
+        "created_at": "2026-02-04T07:41:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T08:41:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018953126716568034"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinitetweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/mqPqDLUoR6"
+            },
+            {
+              "display_url": "pic.x.com/3ierzhkw69",
+              "end": 64,
+              "expanded_url": "https://x.com/Aequoia1/status/2018953126716568034/photo/1",
+              "media_key": "3_2018953122652340224",
+              "start": 41,
+              "url": "https://t.co/3ierzhkw69"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018953126716568034",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/mqPqDLUoR6 https://t.co/3ierzhkw69"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02 176 65kg//mtf hrt 2025.11.21🍥//我想要很多很多的爱 欢迎聊天互fo 永远的可爱姐姐@jikeOjk7623",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 59,
+                "username": "jikeOjk7623"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992039552731725825/3Uy_y4UJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 234,
+          "like_count": 1058,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 584
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-13T03:06:53.000Z",
+        "description": "If you’ve chosen life, then choose to live.",
+        "id": "1459356998097850370",
+        "name": "Ich1noseyukI🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1637329154960916480/-ulZkX_O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 288,
+          "like_count": 3449,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 609
+        },
+        "username": "Aequoia1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026892903965192192"
+      ]
+    },
+    "author_id": "1992038421318205440",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2026892922956951668",
+    "created_at": "2026-02-26T05:31:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T06:31:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026892922956951668"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1atA6AwMta",
+          "end": 46,
+          "expanded_url": "https://x.com/tingxinzhongyu/status/2026892922956951668/photo/1",
+          "media_key": "3_2026892903965192192",
+          "start": 23,
+          "url": "https://t.co/1atA6AwMta"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026892922956951668",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "似乎是很棒的七分！\n可是吃了舍曲林好没胃口🥹 https://t.co/1atA6AwMta"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3490,
+        "media_key": "3_2026892903965192192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCD4W3Ka8AAa0D7.jpg",
+        "width": 3021
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026892903965192192"
+          ]
+        },
+        "author_id": "1992038421318205440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2026892922956951668",
+        "created_at": "2026-02-26T05:31:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T06:31:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026892922956951668"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1atA6AwMta",
+              "end": 46,
+              "expanded_url": "https://x.com/tingxinzhongyu/status/2026892922956951668/photo/1",
+              "media_key": "3_2026892903965192192",
+              "start": 23,
+              "url": "https://t.co/1atA6AwMta"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026892922956951668",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "似乎是很棒的七分！\n可是吃了舍曲林好没胃口🥹 https://t.co/1atA6AwMta"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02 176 65kg//mtf hrt 2025.11.21-2026.2.13🍥//我想要很多很多的爱 欢迎聊天互fo 永远的可爱姐姐@jikeOjk7623 // @HappyHejsDay的兵！//超温柔妹妹@sophhhsama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 69,
+                "username": "jikeOjk7623"
+              },
+              {
+                "end": 98,
+                "start": 85,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 119,
+                "start": 108,
+                "username": "sophhhsama"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023721600491925504/NLPFudYi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 554,
+          "following_count": 443,
+          "like_count": 3786,
+          "listed_count": 2,
+          "media_count": 91,
+          "tweet_count": 2134
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      }
+    ]
+  }
+}
