@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2018898357348155536",
+    "created_at": "2026-08-20T13:55:43.000Z",
+    "display_text_range": [
+      16,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T14:55:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090437629108265452"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "915583310704889858",
+          "start": 0,
+          "username": "carzyCatWakeUp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090437629108265452",
+    "in_reply_to_user_id": "915583310704889858",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090421454911459630",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@carzyCatWakeUp 谢谢！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2018898357348155536",
+        "created_at": "2026-08-20T13:55:43.000Z",
+        "display_text_range": [
+          16,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T14:55:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090437629108265452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "915583310704889858",
+              "start": 0,
+              "username": "carzyCatWakeUp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090437629108265452",
+        "in_reply_to_user_id": "915583310704889858",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090421454911459630",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@carzyCatWakeUp 谢谢！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "915583310704889858",
+        "conversation_id": "2018898357348155536",
+        "created_at": "2026-08-20T12:51:27.000Z",
+        "display_text_range": [
+          16,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T13:51:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090421454911459630"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992038421318205440",
+              "start": 0,
+              "username": "tingxinzhongyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090421454911459630",
+        "in_reply_to_user_id": "1992038421318205440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018898357348155536",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tingxinzhongyu 985！厉害"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "176 65kg｜mtf ｜Best friend @kanonobambi ｜ ｜hrt 2025.11.21-2026.2.13🍥｜我想要很多很多的爱｜永远的可爱姐姐@jikeOjk7623 ｜@HappyHejsDay的兵！｜超温柔妹妹@sophhhsama @axzamyzed！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "kanonobambi"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "jikeOjk7623"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 132,
+                "start": 121,
+                "username": "sophhhsama"
+              },
+              {
+                "end": 143,
+                "start": 133,
+                "username": "axzamyzed"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090437629108265452",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1992038421318205440/1772384050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028106888488026112/tHHVMk_N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1017,
+          "following_count": 492,
+          "like_count": 5012,
+          "listed_count": 3,
+          "media_count": 147,
+          "tweet_count": 3090
+        },
+        "url": "",
+        "username": "tingxinzhongyu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-10-04T14:24:06.000Z",
+        "description": "不含糖 #CD#雌堕",
+        "id": "915583310704889858",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090421454911459630",
+        "name": "Crazy",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/915583310704889858/1718404240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801744043250225153/f3hw6KjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 418,
+          "like_count": 783,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 126
+        },
+        "url": "",
+        "username": "carzyCatWakeUp",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

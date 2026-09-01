@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2085650539170439419",
+    "created_at": "2026-08-07T11:42:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T12:42:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085692997786853541"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1633696677759684608",
+          "start": 0,
+          "username": "aKIPPUz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085692997786853541",
+    "in_reply_to_user_id": "1633696677759684608",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085650539170439419",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aKIPPUz 太好啦！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2085650539170439419",
+        "created_at": "2026-08-07T11:42:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T12:42:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085692997786853541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1633696677759684608",
+              "start": 0,
+              "username": "aKIPPUz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085692997786853541",
+        "in_reply_to_user_id": "1633696677759684608",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085650539170439419",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aKIPPUz 太好啦！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1633696677759684608",
+        "conversation_id": "2085650539170439419",
+        "created_at": "2026-08-07T08:53:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T09:53:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085650539170439419"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tingxinzhongyu…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/tingxinzhongyu/status/2059454514928005610",
+              "start": 21,
+              "url": "https://t.co/sSANlP7IFo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085650539170439419",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 116,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059454514928005610",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "借用一下这里的引用\n应该不会等太久了呢w https://t.co/sSANlP7IFo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "176 65kg｜mtf ｜Best friend @kanonobambi ｜ ｜hrt 2025.11.21-2026.2.13🍥｜我想要很多很多的爱｜永远的可爱姐姐@jikeOjk7623 ｜@HappyHejsDay的兵！｜超温柔妹妹@sophhhsama @axzamyzed！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "kanonobambi"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "jikeOjk7623"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 132,
+                "start": 121,
+                "username": "sophhhsama"
+              },
+              {
+                "end": 143,
+                "start": 133,
+                "username": "axzamyzed"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028106888488026112/tHHVMk_N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1015,
+          "following_count": 491,
+          "like_count": 4985,
+          "listed_count": 3,
+          "media_count": 145,
+          "tweet_count": 3055
+        },
+        "url": "",
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-09T05:10:23.000Z",
+        "description": "Full-Stack｜Just hug me in the paradise.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/aKIPPUz",
+                "end": 23,
+                "expanded_url": "https://lit.link/aKIPPUz",
+                "start": 0,
+                "url": "https://t.co/3EiK0sdqxN"
+              }
+            ]
+          }
+        },
+        "id": "1633696677759684608",
+        "name": "切符",
+        "pinned_tweet_id": "2059279700779004348",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024540141927399424/QDoZIYCA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 386,
+          "following_count": 90,
+          "like_count": 64582,
+          "listed_count": 4,
+          "media_count": 84,
+          "tweet_count": 4102
+        },
+        "url": "https://t.co/3EiK0sdqxN",
+        "username": "aKIPPUz",
+        "verified": false
+      }
+    ]
+  }
+}

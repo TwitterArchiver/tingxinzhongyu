@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2085591721463964041",
+    "created_at": "2026-08-07T07:27:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T08:27:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085628820217008147"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1445400963632750596",
+          "start": 0,
+          "username": "Im_Just__Girl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085628820217008147",
+    "in_reply_to_user_id": "1445400963632750596",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085628353055490055",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Im_Just__Girl 这..这么好吗 我试试"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2085591721463964041",
+        "created_at": "2026-08-07T07:27:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T08:27:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085628820217008147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1445400963632750596",
+              "start": 0,
+              "username": "Im_Just__Girl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085628820217008147",
+        "in_reply_to_user_id": "1445400963632750596",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085628353055490055",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Im_Just__Girl 这..这么好吗 我试试"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1445400963632750596",
+        "conversation_id": "2085591721463964041",
+        "created_at": "2026-08-07T07:25:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T08:25:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085628353055490055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992038421318205440",
+              "start": 0,
+              "username": "tingxinzhongyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085628353055490055",
+        "in_reply_to_user_id": "1992038421318205440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085591721463964041",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tingxinzhongyu SG可以在DoctorOnCall购物网站直接买到艾斯妥雌二醇凝胶和补佳乐，还有其它雌激素并且无需处方。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "176 65kg｜mtf ｜Best friend @kanonobambi ｜ ｜hrt 2025.11.21-2026.2.13🍥｜我想要很多很多的爱｜永远的可爱姐姐@jikeOjk7623 ｜@HappyHejsDay的兵！｜超温柔妹妹@sophhhsama @axzamyzed！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "kanonobambi"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "jikeOjk7623"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 132,
+                "start": 121,
+                "username": "sophhhsama"
+              },
+              {
+                "end": 143,
+                "start": 133,
+                "username": "axzamyzed"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028106888488026112/tHHVMk_N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1011,
+          "following_count": 491,
+          "like_count": 4984,
+          "listed_count": 3,
+          "media_count": 145,
+          "tweet_count": 3054
+        },
+        "url": "",
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-05T14:51:49.000Z",
+        "description": "可怜的有机小女孩，脾气也很坏，说不定哪天就死了|I'm a Good girl. Please don't hurt me.👧04|🌈|OD雌二醇|反生育主义，繁殖狂拉黑|terf暴毙",
+        "id": "1445400963632750596",
+        "location": "Girls Home",
+        "name": "Danielle",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024462232961372162/WYgmAow1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1053,
+          "following_count": 934,
+          "like_count": 14023,
+          "listed_count": 5,
+          "media_count": 158,
+          "tweet_count": 7515
+        },
+        "url": "",
+        "username": "Im_Just__Girl",
+        "verified": true
+      }
+    ]
+  }
+}

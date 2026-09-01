@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2090103147222147237",
+    "created_at": "2026-08-19T15:46:37.000Z",
+    "display_text_range": [
+      0,
+      76
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T16:46:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090103147222147237"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2090103147222147237",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "色谱龙还是太权威了\n吃了十五天25mg成功给我玉玉症又干出来了\n看来睾酮是压制住了\n接下来应该是两天12.5mg吧\n玉玉症你给我滚啊😭\n我还有好多活要干"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2090103147222147237",
+        "created_at": "2026-08-19T15:46:37.000Z",
+        "display_text_range": [
+          0,
+          76
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T16:46:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090103147222147237"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090103147222147237",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "色谱龙还是太权威了\n吃了十五天25mg成功给我玉玉症又干出来了\n看来睾酮是压制住了\n接下来应该是两天12.5mg吧\n玉玉症你给我滚啊😭\n我还有好多活要干"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "176 65kg｜mtf ｜Best friend @kanonobambi ｜ ｜hrt 2025.11.21-2026.2.13🍥｜我想要很多很多的爱｜永远的可爱姐姐@jikeOjk7623 ｜@HappyHejsDay的兵！｜超温柔妹妹@sophhhsama @axzamyzed！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "kanonobambi"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "jikeOjk7623"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 132,
+                "start": 121,
+                "username": "sophhhsama"
+              },
+              {
+                "end": 143,
+                "start": 133,
+                "username": "axzamyzed"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090103147222147237",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1992038421318205440/1772384050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028106888488026112/tHHVMk_N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1006,
+          "following_count": 492,
+          "like_count": 4999,
+          "listed_count": 3,
+          "media_count": 146,
+          "tweet_count": 3077
+        },
+        "url": "",
+        "username": "tingxinzhongyu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

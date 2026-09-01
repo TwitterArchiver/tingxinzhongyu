@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2083143858029027764",
+    "created_at": "2026-08-01T05:46:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T06:46:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083429253845336088"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1243201577038512129",
+          "start": 0,
+          "username": "fangyuannya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083429253845336088",
+    "in_reply_to_user_id": "1243201577038512129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083416500925562983",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fangyuannya 我这几天下来感觉自己的汉语都不太对味了\n口音也太有传染性了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2083143858029027764",
+        "created_at": "2026-08-01T05:46:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T06:46:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083429253845336088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1243201577038512129",
+              "start": 0,
+              "username": "fangyuannya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083429253845336088",
+        "in_reply_to_user_id": "1243201577038512129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083416500925562983",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fangyuannya 我这几天下来感觉自己的汉语都不太对味了\n口音也太有传染性了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243201577038512129",
+        "conversation_id": "2083143858029027764",
+        "created_at": "2026-08-01T04:56:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T05:56:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083416500925562983"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992038421318205440",
+              "start": 0,
+              "username": "tingxinzhongyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083416500925562983",
+        "in_reply_to_user_id": "1992038421318205440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083143858029027764",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tingxinzhongyu sg汉语还是很通用的叭\n英语的话，我也被印度咖喱风味和法国奶酪风味折磨得痛不欲生😂没逝，有这么一位有风味口音朋友多交流几周就好啦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "176 65kg｜mtf ｜Best friend @kanonobambi ｜ ｜hrt 2025.11.21-2026.2.13🍥｜我想要很多很多的爱｜永远的可爱姐姐@jikeOjk7623 ｜@HappyHejsDay的兵！｜超温柔妹妹@sophhhsama @axzamyzed！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "kanonobambi"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "jikeOjk7623"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 132,
+                "start": 121,
+                "username": "sophhhsama"
+              },
+              {
+                "end": 143,
+                "start": 133,
+                "username": "axzamyzed"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028106888488026112/tHHVMk_N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1000,
+          "following_count": 489,
+          "like_count": 4962,
+          "listed_count": 3,
+          "media_count": 140,
+          "tweet_count": 3032
+        },
+        "url": "",
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-26T15:42:27.000Z",
+        "description": "MtF, coder, Marxist, Trotskyist, Maoist, frontend coder, political economy & historical society researcher",
+        "id": "1243201577038512129",
+        "location": "America",
+        "name": "Extra",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040314010789425152/b4rnFhdw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 181,
+          "like_count": 3804,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 770
+        },
+        "url": "",
+        "username": "fangyuannya",
+        "verified": false
+      }
+    ]
+  }
+}

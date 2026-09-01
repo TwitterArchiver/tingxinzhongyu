@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2090312173272605137",
+    "created_at": "2026-08-20T13:56:25.000Z",
+    "display_text_range": [
+      10,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T14:56:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090437804203671934"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1554696046021730305",
+          "start": 0,
+          "username": "Pyuyi233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090437804203671934",
+    "in_reply_to_user_id": "1554696046021730305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090312173272605137",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Pyuyi233 带……带我一个"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2090312173272605137",
+        "created_at": "2026-08-20T13:56:25.000Z",
+        "display_text_range": [
+          10,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T14:56:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090437804203671934"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1554696046021730305",
+              "start": 0,
+              "username": "Pyuyi233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090437804203671934",
+        "in_reply_to_user_id": "1554696046021730305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090312173272605137",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pyuyi233 带……带我一个"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554696046021730305",
+        "conversation_id": "2090312173272605137",
+        "created_at": "2026-08-20T05:37:12.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T06:37:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090312173272605137"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Pyuyi233/statu…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/Pyuyi233/status/2090267537644671324",
+              "start": 23,
+              "url": "https://t.co/pe6YOKxi1y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090312173272605137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 446,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090267537644671324",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "以后如果去当个奶茶小妹，欢迎大家多多光临小店 https://t.co/pe6YOKxi1y"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "176 65kg｜mtf ｜Best friend @kanonobambi ｜ ｜hrt 2025.11.21-2026.2.13🍥｜我想要很多很多的爱｜永远的可爱姐姐@jikeOjk7623 ｜@HappyHejsDay的兵！｜超温柔妹妹@sophhhsama @axzamyzed！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "kanonobambi"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "jikeOjk7623"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 132,
+                "start": 121,
+                "username": "sophhhsama"
+              },
+              {
+                "end": 143,
+                "start": 133,
+                "username": "axzamyzed"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090437804203671934",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1992038421318205440/1772384050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028106888488026112/tHHVMk_N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1017,
+          "following_count": 492,
+          "like_count": 5013,
+          "listed_count": 3,
+          "media_count": 147,
+          "tweet_count": 3091
+        },
+        "url": "",
+        "username": "tingxinzhongyu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T05:10:13.000Z",
+        "description": "可以叫我mmm(Pyuyi) | INFJ | 希望被大家喜欢😜 | 艰难找对象ing(ㄒoㄒ) | ｜(She/her)｜\n\nAcademic: @Pyuyi2333\n\n|高P，线下查无此人😭",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 74,
+                "username": "Pyuyi2333"
+              }
+            ]
+          }
+        },
+        "id": "1554696046021730305",
+        "is_identity_verified": false,
+        "location": "卡冈图雅",
+        "most_recent_tweet_id": "2090429980580925922",
+        "name": "Pyuyi",
+        "pinned_tweet_id": "2065675267646108047",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554696046021730305/1729165693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060548602880221185/XP4emOUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1461,
+          "following_count": 105,
+          "like_count": 1237,
+          "listed_count": 2,
+          "media_count": 167,
+          "tweet_count": 871
+        },
+        "url": "",
+        "username": "Pyuyi233",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

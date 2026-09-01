@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2084918082322252160",
+    "created_at": "2026-08-05T16:20:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T17:20:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085038362457739656"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "2035668415231492096",
+          "start": 0,
+          "username": "4rulq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085038362457739656",
+    "in_reply_to_user_id": "2035668415231492096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084918082322252160",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@4rulq 😭我其实不确定我能不能带过海关😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2084918082322252160",
+        "created_at": "2026-08-05T16:20:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T17:20:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085038362457739656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "2035668415231492096",
+              "start": 0,
+              "username": "4rulq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085038362457739656",
+        "in_reply_to_user_id": "2035668415231492096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084918082322252160",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4rulq 😭我其实不确定我能不能带过海关😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035668415231492096",
+        "conversation_id": "2084918082322252160",
+        "created_at": "2026-08-05T08:23:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T09:23:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084918082322252160"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tingxinzhongyu…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/tingxinzhongyu/status/2084671904116564047",
+              "start": 12,
+              "url": "https://t.co/7YTzNMa5K7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084918082322252160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084671904116564047",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "xm可以吃泰補的跨友喵 https://t.co/7YTzNMa5K7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "176 65kg｜mtf ｜Best friend @kanonobambi ｜ ｜hrt 2025.11.21-2026.2.13🍥｜我想要很多很多的爱｜永远的可爱姐姐@jikeOjk7623 ｜@HappyHejsDay的兵！｜超温柔妹妹@sophhhsama @axzamyzed！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "kanonobambi"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "jikeOjk7623"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 132,
+                "start": 121,
+                "username": "sophhhsama"
+              },
+              {
+                "end": 143,
+                "start": 133,
+                "username": "axzamyzed"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028106888488026112/tHHVMk_N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1013,
+          "following_count": 489,
+          "like_count": 4981,
+          "listed_count": 3,
+          "media_count": 144,
+          "tweet_count": 3051
+        },
+        "url": "",
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-22T10:42:53.000Z",
+        "description": "一隻路過且無人愛的一醬喵😭🥹\n情感碎碎念\n無助\n需要被愛\n黃推一醬（？）\n接圓角喵\n負面情緒注意⚠️\n中焦重抑\n隨時亖亡（？）\n雌二醇重度依賴\n最愛的姐姐@mapo_q\n最好的閨蜜：@sukimiku0831",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 77,
+                "username": "mapo_q"
+              },
+              {
+                "end": 104,
+                "start": 91,
+                "username": "sukimiku0831"
+              }
+            ]
+          }
+        },
+        "id": "2035668415231492096",
+        "location": "精神衛生中心的封閉病房/醫院ICU/太平間（？）",
+        "name": "不會打Maimai DX每天哭的いいちゃん（小葉重度依賴）😾😿",
+        "pinned_tweet_id": "2080030592926892493",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055329903961366529/9MXwtaFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 718,
+          "following_count": 1005,
+          "like_count": 4552,
+          "listed_count": 5,
+          "media_count": 199,
+          "tweet_count": 4368
+        },
+        "url": "",
+        "username": "4rulq",
+        "verified": false
+      }
+    ]
+  }
+}

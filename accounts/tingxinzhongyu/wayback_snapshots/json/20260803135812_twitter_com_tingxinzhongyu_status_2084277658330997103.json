@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2084277658330997103",
+    "created_at": "2026-08-03T13:58:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T14:58:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084277658330997103"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mario_2333/sta…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/mario_2333/status/2084014541982011786",
+          "start": 22,
+          "url": "https://t.co/IBItmfFbWJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084277658330997103",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084014541982011786",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "点了 国内高校的心理咨询好像都比较透明…… https://t.co/IBItmfFbWJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 169714,
+        "height": 720,
+        "media_key": "7_2084014011444523008",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2084014011444523008/pu/img/gAPVE7HIiI1lottL.jpg",
+        "public_metrics": {
+          "view_count": 5120
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2084014011444523008/pu/vid/avc1/480x270/cWYtA9PHbLcmxoQC.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2084014011444523008/pu/vid/avc1/640x360/cufE1lxH28aiRy5_.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2084014011444523008/pu/vid/avc1/1280x720/rGuDogZ0FNsDNe4B.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2084014011444523008/pu/pl/ECfISqp4sl76zqft.m3u8?v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2084277658330997103",
+        "created_at": "2026-08-03T13:58:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T14:58:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084277658330997103"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mario_2333/sta…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/mario_2333/status/2084014541982011786",
+              "start": 22,
+              "url": "https://t.co/IBItmfFbWJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084277658330997103",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084014541982011786",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "点了 国内高校的心理咨询好像都比较透明…… https://t.co/IBItmfFbWJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2084014011444523008"
+          ]
+        },
+        "author_id": "965583779380129792",
+        "conversation_id": "2084014541982011786",
+        "created_at": "2026-08-02T20:32:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T21:32:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084014541982011786"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LPnlegH0CJ",
+              "end": 137,
+              "expanded_url": "https://x.com/mario_2333/status/2084014541982011786/video/1",
+              "media_key": "7_2084014011444523008",
+              "start": 114,
+              "url": "https://t.co/LPnlegH0CJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084014541982011786",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "唔…提醒一下大一新生，辅导员一定会说学校有心理咨询，但很多只是监控目的，只能安全咨询生活学习小问题\n\n如果透露危险倾向，就算本人有能力和意愿完成学业，也可能被要求出示开不出来的医院证明、强制休学、要求家长陪读等，92到专科都有\n\n性少数一样是学校的不稳定因素，心理委员几乎也都会监控空间朋友圈的负面言论并上报\n\n如果有条件可以寻求其他专业帮助，不要用自己的前途去赌学校是否善良"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 9431,
+          "like_count": 189,
+          "quote_count": 6,
+          "reply_count": 30,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "唔…提醒一下大一新生，辅导员一定会说学校有心理咨询，但很多只是监控目的，只能安全咨询生活学习小问题\n\n如果透露危险倾向，就算本人有能力和意愿完成学业，也可能被要求出示开不出来的医院证明、强制休学、要求家长陪读等，92到专科都有 https://t.co/LPnlegH0CJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "176 65kg｜mtf ｜Best friend @kanonobambi ｜ ｜hrt 2025.11.21-2026.2.13🍥｜我想要很多很多的爱｜永远的可爱姐姐@jikeOjk7623 ｜@HappyHejsDay的兵！｜超温柔妹妹@sophhhsama @axzamyzed！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "kanonobambi"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "jikeOjk7623"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 132,
+                "start": 121,
+                "username": "sophhhsama"
+              },
+              {
+                "end": 143,
+                "start": 133,
+                "username": "axzamyzed"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028106888488026112/tHHVMk_N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1013,
+          "following_count": 489,
+          "like_count": 4976,
+          "listed_count": 3,
+          "media_count": 142,
+          "tweet_count": 3044
+        },
+        "url": "",
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-19T13:48:07.000Z",
+        "description": "你好呀～谢谢你来看我(⁠｡⁠•̀⁠ᴗ⁠-⁠)⁠✧ | 想和大家成为好朋友，会温暖对待每个友善的人🥳 | 愿我们能从彼此的话语中获得力量(。•ω•。)ノ♡ | 蓝标陌生人送的我是真人没收益😘 | 可爱猫猫💕：@Ayanami_rin0 & @A1oneSKy & @Fishy_Fox_Can",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 103,
+                "username": "Ayanami_rin0"
+              },
+              {
+                "end": 128,
+                "start": 119,
+                "username": "A1oneSKy"
+              },
+              {
+                "end": 145,
+                "start": 131,
+                "username": "Fishy_Fox_Can"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Mario_2333",
+                "end": 23,
+                "expanded_url": "http://t.me/Mario_2333",
+                "start": 0,
+                "url": "https://t.co/pjgtS8ArcV"
+              }
+            ]
+          }
+        },
+        "id": "965583779380129792",
+        "location": "UTC+2",
+        "name": "🍭Mario🐈",
+        "pinned_tweet_id": "1904681321374376434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004698600551395328/qRqzCin3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4138,
+          "following_count": 284,
+          "like_count": 58792,
+          "listed_count": 19,
+          "media_count": 1214,
+          "tweet_count": 19424
+        },
+        "url": "https://t.co/pjgtS8ArcV",
+        "username": "mario_2333",
+        "verified": true
+      }
+    ]
+  }
+}

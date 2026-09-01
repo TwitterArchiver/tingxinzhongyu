@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2086760014262444247",
+    "created_at": "2026-08-11T08:32:26.000Z",
+    "display_text_range": [
+      10,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T09:32:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087094778081202182"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1552918719440924672",
+          "start": 0,
+          "username": "lumigj02"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087094778081202182",
+    "in_reply_to_user_id": "1552918719440924672",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086760014262444247",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@lumigj02 nb！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2086760002170355712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPWpKnTbgAAe72c.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2086760014262444247",
+        "created_at": "2026-08-11T08:32:26.000Z",
+        "display_text_range": [
+          10,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T09:32:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087094778081202182"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1552918719440924672",
+              "start": 0,
+              "username": "lumigj02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087094778081202182",
+        "in_reply_to_user_id": "1552918719440924672",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086760014262444247",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@lumigj02 nb！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086760002170355712"
+          ]
+        },
+        "author_id": "1552918719440924672",
+        "conversation_id": "2086760014262444247",
+        "created_at": "2026-08-10T10:22:12.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T11:22:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086760014262444247"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yq7fhO9zQa",
+              "end": 42,
+              "expanded_url": "https://x.com/lumigj02/status/2086760014262444247/photo/1",
+              "media_key": "3_2086760002170355712",
+              "start": 19,
+              "url": "https://t.co/yq7fhO9zQa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086760014262444247",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086760002170355712"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1181,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "拿到了马来西亚UM的offer我来了 https://t.co/yq7fhO9zQa"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "176 65kg｜mtf ｜Best friend @kanonobambi ｜ ｜hrt 2025.11.21-2026.2.13🍥｜我想要很多很多的爱｜永远的可爱姐姐@jikeOjk7623 ｜@HappyHejsDay的兵！｜超温柔妹妹@sophhhsama @axzamyzed！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "kanonobambi"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "jikeOjk7623"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 132,
+                "start": 121,
+                "username": "sophhhsama"
+              },
+              {
+                "end": 143,
+                "start": 133,
+                "username": "axzamyzed"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087094778081202182",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1992038421318205440/1772384050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028106888488026112/tHHVMk_N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1016,
+          "following_count": 494,
+          "like_count": 4992,
+          "listed_count": 3,
+          "media_count": 145,
+          "tweet_count": 3063
+        },
+        "url": "",
+        "username": "tingxinzhongyu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "@hobartr6/犯罪嫌疑猫@leetfs1/笨蛋肥鸟姐姐@hoshi_asuka0089/坏恒@xiaoheng22\n\n难道你是那种一看到人就乱叫的笨狗吗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "hobartr6"
+              },
+              {
+                "end": 23,
+                "start": 15,
+                "username": "leetfs1"
+              },
+              {
+                "end": 46,
+                "start": 30,
+                "username": "hoshi_asuka0089"
+              },
+              {
+                "end": 60,
+                "start": 49,
+                "username": "xiaoheng22"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/z_ugc",
+                "end": 23,
+                "expanded_url": "http://t.me/z_ugc",
+                "start": 0,
+                "url": "https://t.co/uFyDvaROgC"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "is_identity_verified": false,
+        "location": "糖商(尽量tg,私信有时不推送)➡️",
+        "most_recent_tweet_id": "2086972580800647189",
+        "name": "猫卷🔜🇲🇾",
+        "pinned_tweet_id": "2078640631422042388",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1552918719440924672/1786165879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085956793637933056/Uyn57PWC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4282,
+          "following_count": 844,
+          "like_count": 4424,
+          "listed_count": 9,
+          "media_count": 156,
+          "tweet_count": 1208
+        },
+        "url": "https://t.co/uFyDvaROgC",
+        "username": "lumigj02",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

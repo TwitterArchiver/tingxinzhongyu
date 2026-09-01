@@ -1,0 +1,629 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "1563297756898136065",
+          "name": "Cyberpunk: Edgerunners"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+          "id": "1005928152298737664",
+          "name": "Cyberpunk 2077"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+          "id": "1005928152298737664",
+          "name": "Cyberpunk 2077"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+          "id": "1005928152298737664",
+          "name": "Cyberpunk 2077"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      }
+    ],
+    "conversation_id": "2090994745552351433",
+    "created_at": "2026-08-22T02:49:30.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T03:49:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090994745552351433"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1447821080077512707",
+          "start": 3,
+          "username": "edgerunners"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090994745552351433",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12184
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090579272041894302",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @edgerunners: Night City will burn again.\n\nCyberpunk: Edgerunners 2, coming October 20.\n\nTrailer Music:\nA Rusty Dream, Artist: DOUDOU, P…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 76910,
+        "height": 720,
+        "media_key": "13_2090574215661727744",
+        "preview_image_url": "https://pbs.twimg.com/media/HQM2dwQboAEqqAH.jpg",
+        "public_metrics": {
+          "view_count": 816240
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090574215661727744/vid/avc1/1920x1080/9z1dtY8XLgtWOQ-T.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090574215661727744/vid/avc1/480x270/ONLo1tnPGwm3408P.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2090574215661727744/pl/c1fpdETFjDpOwu41.m3u8?v=aeb"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090574215661727744/vid/avc1/1280x720/rmnyx_RjAUReyR9y.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090574215661727744/vid/avc1/640x360/HkYzjoPMrCN-u-ZZ.mp4"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1563297756898136065",
+              "name": "Cyberpunk: Edgerunners"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1005928152298737664",
+              "name": "Cyberpunk 2077"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1005928152298737664",
+              "name": "Cyberpunk 2077"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1005928152298737664",
+              "name": "Cyberpunk 2077"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2090994745552351433",
+        "created_at": "2026-08-22T02:49:30.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T03:49:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090994745552351433"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1447821080077512707",
+              "start": 3,
+              "username": "edgerunners"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090994745552351433",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12184
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090579272041894302",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @edgerunners: Night City will burn again.\n\nCyberpunk: Edgerunners 2, coming October 20.\n\nTrailer Music:\nA Rusty Dream, Artist: DOUDOU, P…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2090574215661727744"
+          ]
+        },
+        "author_id": "1447821080077512707",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1563297756898136065",
+              "name": "Cyberpunk: Edgerunners"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1005928152298737664",
+              "name": "Cyberpunk 2077"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1005928152298737664",
+              "name": "Cyberpunk 2077"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1005928152298737664",
+              "name": "Cyberpunk 2077"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491568352442998784",
+              "name": "Game companies"
+            }
+          }
+        ],
+        "conversation_id": "2090579272041894302",
+        "created_at": "2026-08-20T23:18:34.000Z",
+        "display_text_range": [
+          0,
+          211
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T00:18:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090579272041894302"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/55CLNRNe8P",
+              "end": 235,
+              "expanded_url": "https://x.com/edgerunners/status/2090579272041894302/video/1",
+              "media_key": "13_2090574215661727744",
+              "start": 212,
+              "url": "https://t.co/55CLNRNe8P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090579272041894302",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "description": "",
+            "media_key": "13_2090574215661727744",
+            "title": ""
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10173,
+          "impression_count": 4285246,
+          "like_count": 61577,
+          "quote_count": 1644,
+          "reply_count": 385,
+          "retweet_count": 12184
+        },
+        "reply_settings": "everyone",
+        "text": "Night City will burn again.\n\nCyberpunk: Edgerunners 2, coming October 20.\n\nTrailer Music:\nA Rusty Dream, Artist: DOUDOU, Production Company: Pollux Music, Overall Coordinator: Modern Sky / Modern Sky Game House. https://t.co/55CLNRNe8P"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "176 65kg｜mtf ｜Best friend @kanonobambi ｜ ｜hrt 2025.11.21-2026.2.13🍥｜我想要很多很多的爱｜永远的可爱姐姐@jikeOjk7623 ｜@HappyHejsDay的兵！｜超温柔妹妹@sophhhsama @axzamyzed！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "kanonobambi"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "jikeOjk7623"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 132,
+                "start": 121,
+                "username": "sophhhsama"
+              },
+              {
+                "end": 143,
+                "start": 133,
+                "username": "axzamyzed"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090994745552351433",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1992038421318205440/1772384050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028106888488026112/tHHVMk_N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1023,
+          "following_count": 492,
+          "like_count": 5014,
+          "listed_count": 3,
+          "media_count": 147,
+          "tweet_count": 3093
+        },
+        "url": "",
+        "username": "tingxinzhongyu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/1971698502691323904/gZWirne9_bigger.png",
+          "description": "Cyberpunk 2077",
+          "url": "https://twitter.com/CyberpunkGame",
+          "user_id": [
+            "821102114"
+          ]
+        },
+        "created_at": "2021-10-12T07:07:27.000Z",
+        "description": "Cyberpunk: Edgerunners 2 anime is in production by @CDPROJEKTRED and @trigger_inc, with a planned release on @Netflix in the future 🔥",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 51,
+                "username": "CDPROJEKTRED"
+              },
+              {
+                "end": 81,
+                "start": 69,
+                "username": "trigger_inc"
+              },
+              {
+                "end": 117,
+                "start": 109,
+                "username": "Netflix"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cyberpunk.net/edgerunners",
+                "end": 23,
+                "expanded_url": "https://www.cyberpunk.net/edgerunners",
+                "start": 0,
+                "url": "https://t.co/xd2QbQHrI9"
+              }
+            ]
+          }
+        },
+        "id": "1447821080077512707",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090746996399206566",
+        "name": "Cyberpunk: Edgerunners",
+        "pinned_tweet_id": "2071617185089204598",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1447821080077512707/1751666671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941256832363753472/S_8h8psW_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315557,
+          "following_count": 23,
+          "like_count": 642,
+          "listed_count": 403,
+          "media_count": 534,
+          "tweet_count": 823
+        },
+        "url": "https://t.co/xd2QbQHrI9",
+        "username": "edgerunners",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

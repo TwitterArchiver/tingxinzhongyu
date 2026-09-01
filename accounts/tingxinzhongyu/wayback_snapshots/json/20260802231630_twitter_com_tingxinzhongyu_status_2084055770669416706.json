@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2083918439182447066",
+    "created_at": "2026-08-02T23:16:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T00:16:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084055770669416706"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1730312864534085632",
+          "start": 0,
+          "username": "Joseph_OPT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084055770669416706",
+    "in_reply_to_user_id": "1730312864534085632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084002384888414368",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Joseph_OPT 好！感谢😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2083918439182447066",
+        "created_at": "2026-08-02T23:16:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T00:16:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084055770669416706"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730312864534085632",
+              "start": 0,
+              "username": "Joseph_OPT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084055770669416706",
+        "in_reply_to_user_id": "1730312864534085632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084002384888414368",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Joseph_OPT 好！感谢😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730312864534085632",
+        "conversation_id": "2083918439182447066",
+        "created_at": "2026-08-02T19:44:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T20:44:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084002384888414368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992038421318205440",
+              "start": 0,
+              "username": "tingxinzhongyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084002384888414368",
+        "in_reply_to_user_id": "1992038421318205440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083918439182447066",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tingxinzhongyu 至于焦虑本身。我还记得我在大概你这个情况的时候也很焦虑，每天都睡不好，plz take it easy。我的方法是“告诉自己，我见多了，我就是这么磕磕绊绊过来的，起起落落都有过，造就了今天的自己，但是今天的日子看起来也没啥大不了的，还算不错”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "176 65kg｜mtf ｜Best friend @kanonobambi ｜ ｜hrt 2025.11.21-2026.2.13🍥｜我想要很多很多的爱｜永远的可爱姐姐@jikeOjk7623 ｜@HappyHejsDay的兵！｜超温柔妹妹@sophhhsama @axzamyzed！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "kanonobambi"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "jikeOjk7623"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 132,
+                "start": 121,
+                "username": "sophhhsama"
+              },
+              {
+                "end": 143,
+                "start": 133,
+                "username": "axzamyzed"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028106888488026112/tHHVMk_N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1012,
+          "following_count": 489,
+          "like_count": 4971,
+          "listed_count": 3,
+          "media_count": 142,
+          "tweet_count": 3040
+        },
+        "url": "",
+        "username": "tingxinzhongyu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-30T19:48:50.000Z",
+        "description": "",
+        "id": "1730312864534085632",
+        "name": "Joseph Z.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042955504519962625/kln1upaB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 123,
+          "like_count": 247,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 127
+        },
+        "url": "",
+        "username": "Joseph_OPT",
+        "verified": false
+      }
+    ]
+  }
+}

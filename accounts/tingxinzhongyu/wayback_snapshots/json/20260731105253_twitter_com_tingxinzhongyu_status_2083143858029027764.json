@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083143842879168512",
+        "3_2083143842908495872"
+      ]
+    },
+    "author_id": "1992038421318205440",
+    "conversation_id": "2083143858029027764",
+    "created_at": "2026-07-31T10:52:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T11:52:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083143858029027764"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/X4T8blzAK6",
+          "end": 140,
+          "expanded_url": "https://x.com/tingxinzhongyu/status/2083143858029027764/photo/1",
+          "media_key": "3_2083143842879168512",
+          "start": 117,
+          "url": "https://t.co/X4T8blzAK6"
+        },
+        {
+          "display_url": "pic.x.com/X4T8blzAK6",
+          "end": 140,
+          "expanded_url": "https://x.com/tingxinzhongyu/status/2083143858029027764/photo/1",
+          "media_key": "3_2083143842908495872",
+          "start": 117,
+          "url": "https://t.co/X4T8blzAK6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083143858029027764",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我更加觉得我是fw了\n每天都像在考好鬼难的雅思听力\n以前觉得有口音的普通话已经很难懂了\n现在天天听各种口音的英语 而且在未来一年可能都要听这样……\n我来这到底要干嘛……\n\n感觉culture shock好严重😫\n有什么缓解的办法吗🥺 https://t.co/X4T8blzAK6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2083143842879168512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOjQScLa4AA713H.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2083143842908495872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOjQScSaYAAW_g9.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083143842879168512",
+            "3_2083143842908495872"
+          ]
+        },
+        "author_id": "1992038421318205440",
+        "conversation_id": "2083143858029027764",
+        "created_at": "2026-07-31T10:52:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T11:52:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083143858029027764"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/X4T8blzAK6",
+              "end": 140,
+              "expanded_url": "https://x.com/tingxinzhongyu/status/2083143858029027764/photo/1",
+              "media_key": "3_2083143842879168512",
+              "start": 117,
+              "url": "https://t.co/X4T8blzAK6"
+            },
+            {
+              "display_url": "pic.x.com/X4T8blzAK6",
+              "end": 140,
+              "expanded_url": "https://x.com/tingxinzhongyu/status/2083143858029027764/photo/1",
+              "media_key": "3_2083143842908495872",
+              "start": 117,
+              "url": "https://t.co/X4T8blzAK6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083143858029027764",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我更加觉得我是fw了\n每天都像在考好鬼难的雅思听力\n以前觉得有口音的普通话已经很难懂了\n现在天天听各种口音的英语 而且在未来一年可能都要听这样……\n我来这到底要干嘛……\n\n感觉culture shock好严重😫\n有什么缓解的办法吗🥺 https://t.co/X4T8blzAK6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "176 65kg｜mtf ｜Best friend @kanonobambi ｜ ｜hrt 2025.11.21-2026.2.13🍥｜我想要很多很多的爱｜永远的可爱姐姐@jikeOjk7623 ｜@HappyHejsDay的兵！｜超温柔妹妹@sophhhsama @axzamyzed！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "kanonobambi"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "jikeOjk7623"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 132,
+                "start": 121,
+                "username": "sophhhsama"
+              },
+              {
+                "end": 143,
+                "start": 133,
+                "username": "axzamyzed"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028106888488026112/tHHVMk_N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 999,
+          "following_count": 489,
+          "like_count": 4958,
+          "listed_count": 3,
+          "media_count": 140,
+          "tweet_count": 3025
+        },
+        "url": "",
+        "username": "tingxinzhongyu",
+        "verified": false
+      }
+    ]
+  }
+}
