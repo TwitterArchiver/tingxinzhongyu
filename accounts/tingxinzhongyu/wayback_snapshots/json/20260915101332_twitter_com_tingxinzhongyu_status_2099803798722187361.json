@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2099697759297384843",
+    "created_at": "2026-09-15T10:13:32.000Z",
+    "display_text_range": [
+      14,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T11:13:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099803798722187361"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1954601674083053569",
+          "start": 0,
+          "username": "JuSakuyuLime"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099803798722187361",
+    "in_reply_to_user_id": "1954601674083053569",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099799538177601675",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JuSakuyuLime 好就好在 他好（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2099697759297384843",
+        "created_at": "2026-09-15T10:13:32.000Z",
+        "display_text_range": [
+          14,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T11:13:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099803798722187361"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1954601674083053569",
+              "start": 0,
+              "username": "JuSakuyuLime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099803798722187361",
+        "in_reply_to_user_id": "1954601674083053569",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099799538177601675",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JuSakuyuLime 好就好在 他好（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954601674083053569",
+        "conversation_id": "2099697759297384843",
+        "created_at": "2026-09-15T09:56:36.000Z",
+        "display_text_range": [
+          16,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T10:56:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099799538177601675"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992038421318205440",
+              "start": 0,
+              "username": "tingxinzhongyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099799538177601675",
+        "in_reply_to_user_id": "1992038421318205440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099759107863617603",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tingxinzhongyu 摄影好在哪😭"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "176 65kg｜mtf ｜Best friend @kanonobambi ｜ ｜hrt 2025.11.21-2026.2.13🍥｜我想要很多很多的爱｜永远的可爱姐姐@jikeOjk7623 ｜@HappyHejsDay的兵！｜超温柔妹妹@sophhhsama @axzamyzed！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "kanonobambi"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "jikeOjk7623"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 132,
+                "start": 121,
+                "username": "sophhhsama"
+              },
+              {
+                "end": 143,
+                "start": 133,
+                "username": "axzamyzed"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099803798722187361",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1992038421318205440/1772384050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028106888488026112/tHHVMk_N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1126,
+          "following_count": 486,
+          "like_count": 5034,
+          "listed_count": 5,
+          "media_count": 153,
+          "tweet_count": 3128
+        },
+        "url": "",
+        "username": "tingxinzhongyu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-10T17:52:21.000Z",
+        "description": "Antipathy World🌏\n光影‖生活‖趣聞‖新思\n攝影專業在讀/琦鏡光影綜合體現主理人\n同位体@SakiYuringOL（互fo only）\n琦鏡官推@SakiPrismOnline\n家🐷@zimu_yyd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 51,
+                "username": "SakiYuringOL"
+              },
+              {
+                "end": 95,
+                "start": 79,
+                "username": "SakiPrismOnline"
+              },
+              {
+                "end": 107,
+                "start": 98,
+                "username": "zimu_yyd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 23,
+                "expanded_url": "https://x.com/i/chat/group_join/g2078453471729303811/0GDHO7B6kp",
+                "start": 0,
+                "url": "https://t.co/1QxVED8BHb"
+              }
+            ]
+          }
+        },
+        "id": "1954601674083053569",
+        "is_identity_verified": false,
+        "location": "偽物實驗室",
+        "most_recent_tweet_id": "2099799538177601675",
+        "name": "雎咲柚檸Sakiyuring",
+        "pinned_tweet_id": "2095404291125362787",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1954601674083053569/1785065577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004824422449061888/mOUlFOHp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 604,
+          "following_count": 2182,
+          "like_count": 4779,
+          "listed_count": 0,
+          "media_count": 384,
+          "tweet_count": 2389
+        },
+        "url": "https://t.co/1QxVED8BHb",
+        "username": "JuSakuyuLime",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

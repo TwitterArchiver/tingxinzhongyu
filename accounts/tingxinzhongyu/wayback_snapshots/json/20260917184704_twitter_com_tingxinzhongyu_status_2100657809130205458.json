@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2100586725085233435",
+    "created_at": "2026-09-17T18:47:04.000Z",
+    "display_text_range": [
+      8,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T19:47:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100657809130205458"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2097690181973528576",
+          "start": 0,
+          "username": "cjuqnj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100657809130205458",
+    "in_reply_to_user_id": "2097690181973528576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100630131878556079",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cjuqnj 谢谢！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2100586725085233435",
+        "created_at": "2026-09-17T18:47:04.000Z",
+        "display_text_range": [
+          8,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T19:47:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100657809130205458"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2097690181973528576",
+              "start": 0,
+              "username": "cjuqnj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100657809130205458",
+        "in_reply_to_user_id": "2097690181973528576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100630131878556079",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cjuqnj 谢谢！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2097690181973528576",
+        "conversation_id": "2100586725085233435",
+        "created_at": "2026-09-17T16:57:05.000Z",
+        "display_text_range": [
+          16,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T17:57:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100630131878556079"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992038421318205440",
+              "start": 0,
+              "username": "tingxinzhongyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100630131878556079",
+        "in_reply_to_user_id": "1992038421318205440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100586725085233435",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tingxinzhongyu 生日快乐"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "176 65kg｜mtf ｜Best friend @kanonobambi ｜ ｜hrt 2025.11.21-2026.2.13🍥｜我想要很多很多的爱｜@HappyHejsDay的兵！｜超温柔妹妹@sophhhsama @axzamyzed！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "kanonobambi"
+              },
+              {
+                "end": 91,
+                "start": 78,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 111,
+                "start": 100,
+                "username": "sophhhsama"
+              },
+              {
+                "end": 122,
+                "start": 112,
+                "username": "axzamyzed"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100657809130205458",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1992038421318205440/1772384050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028106888488026112/tHHVMk_N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1133,
+          "following_count": 487,
+          "like_count": 5074,
+          "listed_count": 5,
+          "media_count": 154,
+          "tweet_count": 3162
+        },
+        "url": "",
+        "username": "tingxinzhongyu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-09T14:15:12.000Z",
+        "description": "欢迎来找我聊天哦",
+        "id": "2097690181973528576",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100632039439618426",
+        "name": "本杰明",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2097690181973528576/1789315522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097919541154291712/rs4EYqld_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 118,
+          "like_count": 1323,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 109
+        },
+        "url": "",
+        "username": "cjuqnj",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

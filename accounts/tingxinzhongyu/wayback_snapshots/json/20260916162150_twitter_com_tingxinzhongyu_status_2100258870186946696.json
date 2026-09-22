@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2100258870186946696",
+    "created_at": "2026-09-16T16:21:50.000Z",
+    "display_text_range": [
+      0,
+      63
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T17:21:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100258870186946696"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xiaoshu_yy33/s…",
+          "end": 87,
+          "expanded_url": "https://twitter.com/xiaoshu_yy33/status/2099891608036716931",
+          "start": 64,
+          "url": "https://t.co/CCESjmQq7I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100258870186946696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099891608036716931",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我当时可喜欢这个设定了\n甚至那个时候还没翻车开始吃糖\n\n还一直不敢跟队友说喜欢这个角色\n只能假装在玩梗玩了整整一个17赛季（） https://t.co/CCESjmQq7I"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1867,
+        "media_key": "3_2099891592006127616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSRQRvha0AAYPuC.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2100258870186946696",
+        "created_at": "2026-09-16T16:21:50.000Z",
+        "display_text_range": [
+          0,
+          63
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T17:21:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100258870186946696"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiaoshu_yy33/s…",
+              "end": 87,
+              "expanded_url": "https://twitter.com/xiaoshu_yy33/status/2099891608036716931",
+              "start": 64,
+              "url": "https://t.co/CCESjmQq7I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100258870186946696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099891608036716931",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我当时可喜欢这个设定了\n甚至那个时候还没翻车开始吃糖\n\n还一直不敢跟队友说喜欢这个角色\n只能假装在玩梗玩了整整一个17赛季（） https://t.co/CCESjmQq7I"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099891592006127616"
+          ]
+        },
+        "author_id": "1922650331454058496",
+        "conversation_id": "2099891608036716931",
+        "created_at": "2026-09-15T16:02:28.000Z",
+        "display_text_range": [
+          0,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T17:02:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099891608036716931"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8mMEHsyZ6D",
+              "end": 84,
+              "expanded_url": "https://x.com/xiaoshu_yy33/status/2099891608036716931/photo/1",
+              "media_key": "3_2099891592006127616",
+              "start": 61,
+              "url": "https://t.co/8mMEHsyZ6D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099891608036716931",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099891592006127616"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 25857,
+          "like_count": 461,
+          "quote_count": 2,
+          "reply_count": 26,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "当年apex宣布这个角色是跨女且是男声的时候你们知道我有多开心吗 结果被一群傻屌喷没了！！！！还我跨女姐姐 还我卡特莉斯 https://t.co/8mMEHsyZ6D"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "176 65kg｜mtf ｜Best friend @kanonobambi ｜ ｜hrt 2025.11.21-2026.2.13🍥｜我想要很多很多的爱｜永远的可爱姐姐@jikeOjk7623 ｜@HappyHejsDay的兵！｜超温柔妹妹@sophhhsama @axzamyzed！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "kanonobambi"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "jikeOjk7623"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 132,
+                "start": 121,
+                "username": "sophhhsama"
+              },
+              {
+                "end": 143,
+                "start": 133,
+                "username": "axzamyzed"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100258870186946696",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1992038421318205440/1772384050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028106888488026112/tHHVMk_N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1126,
+          "following_count": 487,
+          "like_count": 5047,
+          "listed_count": 5,
+          "media_count": 154,
+          "tweet_count": 3135
+        },
+        "url": "",
+        "username": "tingxinzhongyu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-14T13:49:05.000Z",
+        "description": "🏳️‍⚧️｜喜欢我就打钱",
+        "id": "1922650331454058496",
+        "is_identity_verified": false,
+        "location": "纯绿🚪288/520 私信打钱以外不回",
+        "most_recent_tweet_id": "2100230641862533467",
+        "name": "解树",
+        "pinned_tweet_id": "2053207601136156981",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1922650331454058496/1784066572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095504320938799104/QaWZQ3Pn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5206,
+          "following_count": 49,
+          "like_count": 1746,
+          "listed_count": 19,
+          "media_count": 366,
+          "tweet_count": 3537
+        },
+        "url": "",
+        "username": "xiaoshu_yy33",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

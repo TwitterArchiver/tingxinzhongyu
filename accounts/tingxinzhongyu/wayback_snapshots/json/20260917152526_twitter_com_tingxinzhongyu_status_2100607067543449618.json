@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2100586725085233435",
+    "created_at": "2026-09-17T15:25:26.000Z",
+    "display_text_range": [
+      9,
+      10
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T16:25:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100607067543449618"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1318819823758069760",
+          "start": 0,
+          "username": "Enorez2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100607067543449618",
+    "in_reply_to_user_id": "1318819823758069760",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100605581669040463",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Enorez2 🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2100586725085233435",
+        "created_at": "2026-09-17T15:25:26.000Z",
+        "display_text_range": [
+          9,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T16:25:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100607067543449618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1318819823758069760",
+              "start": 0,
+              "username": "Enorez2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100607067543449618",
+        "in_reply_to_user_id": "1318819823758069760",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100605581669040463",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Enorez2 🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1318819823758069760",
+        "conversation_id": "2100586725085233435",
+        "created_at": "2026-09-17T15:19:32.000Z",
+        "display_text_range": [
+          16,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T16:19:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100605581669040463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992038421318205440",
+              "start": 0,
+              "username": "tingxinzhongyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100605581669040463",
+        "in_reply_to_user_id": "1992038421318205440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100586725085233435",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tingxinzhongyu 生日快乐"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "176 65kg｜mtf ｜Best friend @kanonobambi ｜ ｜hrt 2025.11.21-2026.2.13🍥｜我想要很多很多的爱｜@HappyHejsDay的兵！｜超温柔妹妹@sophhhsama @axzamyzed！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "kanonobambi"
+              },
+              {
+                "end": 91,
+                "start": 78,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 111,
+                "start": 100,
+                "username": "sophhhsama"
+              },
+              {
+                "end": 122,
+                "start": 112,
+                "username": "axzamyzed"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100607067543449618",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1992038421318205440/1772384050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028106888488026112/tHHVMk_N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1127,
+          "following_count": 487,
+          "like_count": 5053,
+          "listed_count": 5,
+          "media_count": 154,
+          "tweet_count": 3143
+        },
+        "url": "",
+        "username": "tingxinzhongyu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-10-21T07:42:14.000Z",
+        "description": "I play Arknights/Endfiled/Limbus Company. I love Hatsune Miku very much. I love Sui siblings, and I love Shu best. I like ACGN culture.",
+        "id": "1318819823758069760",
+        "is_identity_verified": false,
+        "location": "Three Thousand Great Worlds",
+        "most_recent_tweet_id": "2100606871199482252",
+        "name": "Rei_LingYi",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1318819823758069760/1775236096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094230147499020288/fXGhV1bQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 486,
+          "following_count": 887,
+          "like_count": 64173,
+          "listed_count": 0,
+          "media_count": 1454,
+          "tweet_count": 9927
+        },
+        "url": "",
+        "username": "Enorez2",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

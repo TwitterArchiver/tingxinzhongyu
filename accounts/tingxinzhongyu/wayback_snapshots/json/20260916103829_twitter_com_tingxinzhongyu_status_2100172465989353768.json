@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2100162786651431406",
+    "created_at": "2026-09-16T10:38:29.000Z",
+    "display_text_range": [
+      10,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T11:38:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100172465989353768"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1552918719440924672",
+          "start": 0,
+          "username": "lumigj02"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100172465989353768",
+    "in_reply_to_user_id": "1552918719440924672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100162786651431406",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@lumigj02 ai：难得有这么好的老板"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 918,
+        "media_key": "3_2100162461991383040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSVGoc2bMAAMgTN.jpg",
+        "width": 1053
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2100162786651431406",
+        "created_at": "2026-09-16T10:38:29.000Z",
+        "display_text_range": [
+          10,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T11:38:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100172465989353768"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1552918719440924672",
+              "start": 0,
+              "username": "lumigj02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100172465989353768",
+        "in_reply_to_user_id": "1552918719440924672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100162786651431406",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@lumigj02 ai：难得有这么好的老板"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100162461991383040"
+          ]
+        },
+        "author_id": "1552918719440924672",
+        "conversation_id": "2100162786651431406",
+        "created_at": "2026-09-16T10:00:02.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T11:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100162786651431406"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F34tF2OSfT",
+              "end": 40,
+              "expanded_url": "https://x.com/lumigj02/status/2100162786651431406/photo/1",
+              "media_key": "3_2100162461991383040",
+              "start": 17,
+              "url": "https://t.co/F34tF2OSfT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100162786651431406",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100162461991383040"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 117,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "所有员工听令321六点到立刻耍起 https://t.co/F34tF2OSfT"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "176 65kg｜mtf ｜Best friend @kanonobambi ｜ ｜hrt 2025.11.21-2026.2.13🍥｜我想要很多很多的爱｜永远的可爱姐姐@jikeOjk7623 ｜@HappyHejsDay的兵！｜超温柔妹妹@sophhhsama @axzamyzed！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "kanonobambi"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "jikeOjk7623"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 132,
+                "start": 121,
+                "username": "sophhhsama"
+              },
+              {
+                "end": 143,
+                "start": 133,
+                "username": "axzamyzed"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100172465989353768",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1992038421318205440/1772384050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028106888488026112/tHHVMk_N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1126,
+          "following_count": 487,
+          "like_count": 5038,
+          "listed_count": 5,
+          "media_count": 153,
+          "tweet_count": 3132
+        },
+        "url": "",
+        "username": "tingxinzhongyu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "14 | 老婆 @leetfs1\n\n笨蛋姐姐 @hoshi_asuka0089 | 坏恒 @xiaoheng22",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 8,
+                "username": "leetfs1"
+              },
+              {
+                "end": 39,
+                "start": 23,
+                "username": "hoshi_asuka0089"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "xiaoheng22"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100162786651431406",
+        "name": "猫卷",
+        "pinned_tweet_id": "2095803686199152870",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1552918719440924672/1787269850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090435933623746560/oiHv3ACB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4444,
+          "following_count": 844,
+          "like_count": 4515,
+          "listed_count": 9,
+          "media_count": 204,
+          "tweet_count": 1583
+        },
+        "url": "",
+        "username": "lumigj02",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
