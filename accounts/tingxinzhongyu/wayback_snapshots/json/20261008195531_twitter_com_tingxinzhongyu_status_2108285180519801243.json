@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2108285170210267136"
+      ]
+    },
+    "author_id": "1992038421318205440",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2108285180519801243",
+    "created_at": "2026-10-08T19:55:31.000Z",
+    "display_text_range": [
+      0,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-08T20:55:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2108285180519801243"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8NszgjQ8Ng",
+          "end": 76,
+          "expanded_url": "https://x.com/tingxinzhongyu/status/2108285180519801243/photo/1",
+          "media_key": "3_2108285170210267136",
+          "start": 53,
+          "url": "https://t.co/8NszgjQ8Ng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108285180519801243",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2108285170210267136"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "心中圆圆圈圈 有一天终于被听见\n\n宝石成为赝品 你的眼眸才是真迹\n\n回家路上自己哭晕了半小时 不愧是你😭 https://t.co/8NszgjQ8Ng"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2108285170210267136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUIiMS-bYAA6E9o.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2108285170210267136"
+          ]
+        },
+        "author_id": "1992038421318205440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2108285180519801243",
+        "created_at": "2026-10-08T19:55:31.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T20:55:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108285180519801243"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8NszgjQ8Ng",
+              "end": 76,
+              "expanded_url": "https://x.com/tingxinzhongyu/status/2108285180519801243/photo/1",
+              "media_key": "3_2108285170210267136",
+              "start": 53,
+              "url": "https://t.co/8NszgjQ8Ng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108285180519801243",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2108285170210267136"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "心中圆圆圈圈 有一天终于被听见\n\n宝石成为赝品 你的眼眸才是真迹\n\n回家路上自己哭晕了半小时 不愧是你😭 https://t.co/8NszgjQ8Ng"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "176 65kg｜mtf ｜Best friend @kanonobambi ｜ ｜hrt 2025.11.21-2026.2.13🍥｜我想要很多很多的爱｜@HappyHejsDay的兵！｜超温柔妹妹@sophhhsama @axzamyzed！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "kanonobambi"
+              },
+              {
+                "end": 91,
+                "start": 78,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 111,
+                "start": 100,
+                "username": "sophhhsama"
+              },
+              {
+                "end": 122,
+                "start": 112,
+                "username": "axzamyzed"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2108285180519801243",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1992038421318205440/1772384050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028106888488026112/tHHVMk_N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1181,
+          "following_count": 486,
+          "like_count": 5101,
+          "listed_count": 4,
+          "media_count": 170,
+          "tweet_count": 3214
+        },
+        "url": "",
+        "username": "tingxinzhongyu",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

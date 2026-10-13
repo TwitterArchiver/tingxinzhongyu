@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2106386124117864698",
+    "created_at": "2026-10-04T02:10:25.000Z",
+    "display_text_range": [
+      15,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T03:10:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106567587547197552"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2104374000998547456",
+          "start": 0,
+          "username": "HabaraRei2333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106567587547197552",
+    "in_reply_to_user_id": "2104374000998547456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106412032106905717",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HabaraRei2333 也太幸福了吧\n从未体验过😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2106386124117864698",
+        "created_at": "2026-10-04T02:10:25.000Z",
+        "display_text_range": [
+          15,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T03:10:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106567587547197552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2104374000998547456",
+              "start": 0,
+              "username": "HabaraRei2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106567587547197552",
+        "in_reply_to_user_id": "2104374000998547456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106412032106905717",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HabaraRei2333 也太幸福了吧\n从未体验过😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2104374000998547456",
+        "conversation_id": "2106386124117864698",
+        "created_at": "2026-10-03T15:52:18.000Z",
+        "display_text_range": [
+          16,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T16:52:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106412032106905717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992038421318205440",
+              "start": 0,
+              "username": "tingxinzhongyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106412032106905717",
+        "in_reply_to_user_id": "1992038421318205440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 307,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106386124117864698",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tingxinzhongyu pass 体验确实很不一样，明显周围的人对待女性有一种很独特的温柔感。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "176 65kg｜mtf ｜Best friend @kanonobambi ｜ ｜hrt 2025.11.21-2026.2.13🍥｜我想要很多很多的爱｜@HappyHejsDay的兵！｜超温柔妹妹@sophhhsama @axzamyzed！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "kanonobambi"
+              },
+              {
+                "end": 91,
+                "start": 78,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 111,
+                "start": 100,
+                "username": "sophhhsama"
+              },
+              {
+                "end": 122,
+                "start": 112,
+                "username": "axzamyzed"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106567587547197552",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1992038421318205440/1772384050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028106888488026112/tHHVMk_N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1167,
+          "following_count": 483,
+          "like_count": 5091,
+          "listed_count": 4,
+          "media_count": 164,
+          "tweet_count": 3195
+        },
+        "url": "",
+        "username": "tingxinzhongyu",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-28T00:55:10.000Z",
+        "description": "账号重生×6 😵 1400fo账号重生\n不纪念过去的账号，而是纪念逝去的人和事\n努力转变正常人ing～🥰\n 163cm  45kg（超可爱小小只小女孩）🤤\n已删除跨籍（即便本质跨）        \n😼猫砂盘：聊天群921102646\n阿零的小信箱↓↓↓📬🥰（有什么都可以说哦）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/2020520rei",
+                "end": 23,
+                "expanded_url": "https://ngl.link/2020520rei",
+                "start": 0,
+                "url": "https://t.co/aJC4YeKDey"
+              }
+            ]
+          }
+        },
+        "id": "2104374000998547456",
+        "is_identity_verified": false,
+        "location": "0km",
+        "most_recent_tweet_id": "2106565661409378671",
+        "name": "ReiOᴗoಣ零酱🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2104374000998547456/1790579661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104375772932706306/wxUjc-3Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 62,
+          "like_count": 521,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 151
+        },
+        "url": "https://t.co/aJC4YeKDey",
+        "username": "HabaraRei2333",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

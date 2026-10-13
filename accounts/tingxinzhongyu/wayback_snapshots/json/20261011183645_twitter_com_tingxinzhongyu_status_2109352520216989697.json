@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992038421318205440",
+    "conversation_id": "2109124476331761908",
+    "created_at": "2026-10-11T18:36:45.000Z",
+    "display_text_range": [
+      10,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-11T19:36:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2109352520216989697"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1554696046021730305",
+          "start": 0,
+          "username": "Pyuyi233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109352520216989697",
+    "in_reply_to_user_id": "1554696046021730305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2109124476331761908",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Pyuyi233 感觉会很好用！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2109124476331761908",
+        "created_at": "2026-10-11T18:36:45.000Z",
+        "display_text_range": [
+          10,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T19:36:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109352520216989697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1554696046021730305",
+              "start": 0,
+              "username": "Pyuyi233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109352520216989697",
+        "in_reply_to_user_id": "1554696046021730305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109124476331761908",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pyuyi233 感觉会很好用！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554696046021730305",
+        "conversation_id": "2109124476331761908",
+        "created_at": "2026-10-11T03:30:35.000Z",
+        "display_text_range": [
+          0,
+          136
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T04:30:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2109124476331761908"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2109124476331761908",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "github.com/VeraPyuyi/code…",
+                "end": 633,
+                "expanded_url": "https://github.com/VeraPyuyi/codex-sidebar-organizer",
+                "start": 610,
+                "url": "https://t.co/6MRRNr62Z7"
+              }
+            ]
+          },
+          "text": "主播因为有几台电脑轮着用，每台电脑都有各种项目，还有云端Web上用来看论文的项目，各种项目和聊天堆叠如山，今早越看越烦，因此搓了下面这个小插件，欢迎大家点一个小⭐：\n\nSidebar Organizer：让越来越长的聊天列表重新有序\n\n当你同时使用多台电脑、Codex 和 ChatGPT，项目与聊天会不断积累。本机任务、云端对话和不同项目挤在侧边栏里，找一段旧聊天越来越依赖滚动和搜索；手动整理一次之后，新增记录又会继续堆积。\n\n为了解决这个问题，我们做了 Sidebar Organizer：一个轻量开源插件。在支持原生侧边栏工具的 Codex 桌面会话中，用一句自然语言指令，就能按已核实的本机、远程主机、ChatGPT 云端和 Codex 云端来源，将项目与聊天收纳到可折叠分组。\n\n它的工作流程是“读取来源、生成方案、执行整理、回读核对”。我们复用客户端原生的分组、移动和排序能力，整理时保留置顶、项目归属、文件路径和已有手工分类。对于临时聊天标识、云端记录与内部保存格式不一致的情况，再通过身份与分组信息交叉核对，而对于暂不能确认的条目保持原样，并明确报告。\n\n这样，侧边栏中的不同来源更容易区分，重复整理的成本也更低。再次调用时，插件会复用已有分组，只处理符合条件的未分类记录，避免每运行一次就多出一套分类。\n\n项目提供插件和独立 skill 两种安装方式，按需运行，无需额外服务器或 API Key。\n\nhttps://t.co/6MRRNr62Z7"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 796,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "主播因为有几台电脑轮着用，每台电脑都有各种项目，还有云端Web上用来看论文的项目，各种项目和聊天堆叠如山，今早越看越烦，因此搓了下面这个小插件，欢迎大家点一个小⭐：\n\nSidebar Organizer：让越来越长的聊天列表重新有序\n\n当你同时使用多台电脑、Codex 和"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "176 65kg｜mtf ｜Best friend @kanonobambi ｜ ｜hrt 2025.11.21-2026.2.13🍥｜我想要很多很多的爱｜@HappyHejsDay的兵！｜超温柔妹妹@sophhhsama @axzamyzed！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "kanonobambi"
+              },
+              {
+                "end": 91,
+                "start": 78,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 111,
+                "start": 100,
+                "username": "sophhhsama"
+              },
+              {
+                "end": 122,
+                "start": 112,
+                "username": "axzamyzed"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2109352520216989697",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1992038421318205440/1772384050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028106888488026112/tHHVMk_N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1210,
+          "following_count": 496,
+          "like_count": 5117,
+          "listed_count": 4,
+          "media_count": 173,
+          "tweet_count": 3226
+        },
+        "url": "",
+        "username": "tingxinzhongyu",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T05:10:13.000Z",
+        "description": "可以叫我mmm| INFJ | 希望被大家喜欢😜 | 艰难找对象ing(ㄒoㄒ) | ｜(She/her)｜ask box: https://t.co/1ZtwempEix\n\nAcademic: @Pyuyi2333\n\n|高P，线下查无此人😭| 帖子留言一般都会回，没回是看不到 | 希望互fo DM me",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 98,
+                "username": "Pyuyi2333"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/yuyi86262",
+                "end": 86,
+                "expanded_url": "https://ngl.link/yuyi86262",
+                "start": 63,
+                "url": "https://t.co/1ZtwempEix"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "verapyuyi.github.io",
+                "end": 23,
+                "expanded_url": "http://verapyuyi.github.io",
+                "start": 0,
+                "url": "https://t.co/Etc0FBQEjV"
+              }
+            ]
+          }
+        },
+        "id": "1554696046021730305",
+        "is_identity_verified": false,
+        "location": "卡冈图雅",
+        "most_recent_tweet_id": "2109330198625955952",
+        "name": "Pyuyi",
+        "pinned_tweet_id": "2108064975139094774",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554696046021730305/1729165693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102448755366838273/S9Z8h8DK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2075,
+          "following_count": 251,
+          "like_count": 2714,
+          "listed_count": 1,
+          "media_count": 297,
+          "tweet_count": 2034
+        },
+        "url": "https://t.co/Etc0FBQEjV",
+        "username": "Pyuyi233",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
